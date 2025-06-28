@@ -8,6 +8,6 @@
 from itemadapter import ItemAdapter
 
 
-class MiraclePipeline:
+class DckinositesPipeline:
     def process_item(self, item, spider):
         return item

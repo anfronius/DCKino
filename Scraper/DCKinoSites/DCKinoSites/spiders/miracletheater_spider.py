@@ -1,16 +1,15 @@
 import scrapy
 
 class MiracleSpider(scrapy.Spider):
-    name = "miracletheater"
+    name = "miracle"
     start_urls = ["http://themiracletheater.com/"]
 
     custom_settings = {
         "FEEDS": {
-            "movies.json": {
+            "data/miraclemovies.json": {
                 "format": "json",
                 "encoding": "utf-8",
-                "indent": 2,
-                "fields": ["title", "date", "time"]
+                "fields": ["title", "date", "time", "location"]
             }
         }
     }
@@ -41,5 +40,6 @@ class MiracleSpider(scrapy.Spider):
                 yield {
                     "title": title.strip(),
                     "date": date,
-                    "time": time.strip() if time else ""
+                    "time": time.strip() if time else "",
+                    "location": "Miracle Theater"
                 }
