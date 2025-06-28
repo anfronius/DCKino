@@ -15,6 +15,7 @@ class AfiShowtimesSpider(scrapy.Spider):
             "data/afimovies.json": {
                 "format": "json",
                 "encoding": "utf-8",
+                "overwrite": True,
                 "fields": ["title", "date", "time", "location"]
             }
         }

@@ -9,6 +9,7 @@ class MiracleSpider(scrapy.Spider):
             "data/miraclemovies.json": {
                 "format": "json",
                 "encoding": "utf-8",
+                "overwrite": True,
                 "fields": ["title", "date", "time", "location"]
             }
         }

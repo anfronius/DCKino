@@ -28,6 +28,7 @@ export default function App() {
                   <div className="text-xl font-semibold mb-2">{movie.title}</div>
                   <div className="text-zinc-400 text-sm">Showing Date: {movie.date}</div>
                   <div className="text-zinc-400 text-sm">Location: {movie.location}</div>
+                  <div className="text-zinc-400 text-sm">Time: {movie.time}</div>
                 </div>
               </div>
             ))}
