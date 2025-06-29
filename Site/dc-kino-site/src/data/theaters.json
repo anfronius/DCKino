@@ -1,0 +1,16 @@
+[
+  {
+    "theaterID": "miracle",
+    "name": "Miracle Theater",
+    "colorClass": "bg-red-900",  
+    "address": "535 8th Street SE, Washington, DC",
+    "screens": 1
+  },
+  {
+    "theaterID": "afisilver",
+    "name": "AFI Silver Theater and Cultural Center",
+    "colorClass": "bg-rose-800",
+    "address": "8633 Colesville Road, Silver Spring, MD",
+    "screens": 3
+  }
+]

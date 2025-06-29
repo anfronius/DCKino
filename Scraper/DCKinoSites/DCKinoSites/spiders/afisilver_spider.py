@@ -4,7 +4,7 @@ import time
 from datetime import datetime
 
 class AfiShowtimesSpider(scrapy.Spider):
-    name = "afi"
+    name = "afisilver"
     allowed_domains = ["silver.afi.com"]
     start_urls = [
         "https://silver.afi.com/Browsing/QuickTickets/Compare"
@@ -16,7 +16,7 @@ class AfiShowtimesSpider(scrapy.Spider):
                 "format": "json",
                 "encoding": "utf-8",
                 "overwrite": True,
-                "fields": ["title", "date", "time", "location"]
+                "fields": ["title", "date", "time", "theaterID"]
             }
         }
     }
@@ -67,7 +67,7 @@ class AfiShowtimesSpider(scrapy.Spider):
                             "title": title.strip() if title else None,
                             "date": current_date,
                             "time": t,
-                            "location": "AFI Silver Theater"
+                            "theaterID": "afisilver"
                         }
 
         next_page = response.css("a.nextPage::attr(href)").get()

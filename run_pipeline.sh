@@ -21,7 +21,7 @@ cd "$SCRAPER_DIR"
 
 # Run spiders
 echo "Running AFI spider..."
-scrapy crawl afi
+scrapy crawl afisilver
 echo "AFI spider ran sucessfully"
 
 echo "Running Miracle spider..."

@@ -1,6 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Limelight&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+SC&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
 
 html,
 body,
@@ -16,7 +23,7 @@ body,
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+  background-color: #18181b; /* Tailwind bg-zinc-900 */
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -37,7 +44,8 @@ body {
   margin: 0;
   min-width: 320px;
   min-height: 100vh;
-  @apply bg-zinc-900 text-white;
+  background-color: #18181b;
+  color: #ffffff;
 }
 
 h1 {
