@@ -1,5 +1,7 @@
 import React, { useEffect, useState } from "react";
-import "./index.css"; // Tailwind CSS
+import DatePicker from "react-datepicker";
+import "react-datepicker/dist/react-datepicker.css";
+import "./index.css";
 import movies from './data/movies.json';
 import theaters from './data/theaters.json';
 import { getPosterUrl } from './utils/tmdb';
@@ -39,6 +41,8 @@ export default function App() {
   const [showTheaterList, setShowTheaterList] = useState(false);
   const [showMovieList, setShowMovieList] = useState(false);
   const [showOfflineList, setShowOfflineList] = useState(false);
+  const [showCalendar, setShowCalendar] = useState(false);
+  const [calendarDate, setCalendarDate] = useState(null);
 
   useEffect(() => {
     const loadPosters = async () => {
@@ -60,16 +64,38 @@ export default function App() {
   const uniqueMovieKeys = new Set(movies.map(m => `${m.title}|${m.theaterID}`));
   const uniqueMovies = Array.from(new Set(movies.map(m => m.title)));
   const offlineTheaters = theaters.filter(theater => theater.online === false);
+  const availableDates = Object.keys(groupedByDate).sort();
+
+  const scrollToTop = () => {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  };
+
+  const scrollToDate = (date) => {
+    const section = document.getElementById(`date-${date}`);
+    if (section) {
+      const yOffset = -85;
+      const y = section.getBoundingClientRect().top + window.pageYOffset + yOffset;
+      window.scrollTo({ top: y, behavior: 'smooth' });
+    }
+  };
+
+  useEffect(() => {
+    if (calendarDate) {
+      const formatted = calendarDate.toISOString().split("T")[0];
+      scrollToDate(formatted);
+      setShowCalendar(false);
+    }
+  }, [calendarDate]);
 
   return (
     <>
       <header className="w-full bg-zinc-800 shadow-md sticky top-0 z-50">
         <div className="w-full px-4 py-4 flex justify-between items-center">
-          <button className="text-white material-icons text-base">menu</button>
+          <button className="text-white material-icons text-base" onClick={scrollToTop}>cottage</button>
           <h1 className="text-4xl font-bold text-center text-white font-bungee">
             🎬 DC Kino Showtimes
           </h1>
-          <button className="text-white material-icons text-base">calendar_month</button>
+          <button className="text-white material-icons text-base" onClick={() => setShowCalendar(true)}>calendar_month</button>
         </div>
       </header>
 
@@ -95,7 +121,7 @@ export default function App() {
             {Object.entries(groupedByDate).map(([date, showingsMap]) => {
               const groupedShowings = Object.values(showingsMap);
               return (
-                <div key={date} className="flex flex-col gap-4">
+                <div key={date} id={`date-${new Date(date).toISOString().split("T")[0]}`} className="flex flex-col gap-4">
                   <h2 className="text-4xl font-bold text-white border-b border-zinc-600 pb-2 font-montserratalts">
                     {date}
                   </h2>
@@ -136,7 +162,6 @@ export default function App() {
           </div>
         </div>
 
-        {/* Movie Modal Overlay */}
         {selectedMovie && (
           <div className="fixed inset-0 z-50 bg-black bg-opacity-80 flex justify-center items-center">
             <div className={`text-white rounded-2xl shadow-xl p-6 max-w-4xl w-full relative flex flex-col sm:flex-row gap-6 ${selectedMovie.bgClass}`}>
@@ -159,7 +184,6 @@ export default function App() {
           </div>
         )}
 
-        {/* Theater List Modal */}
         {showTheaterList && (
           <Modal title="Theaters Listed" onClose={() => setShowTheaterList(false)}>
             <ul className="list-disc pl-6 space-y-2 text-sm font-audiowide">
@@ -170,7 +194,6 @@ export default function App() {
           </Modal>
         )}
 
-        {/* Movie List Modal */}
         {showMovieList && (
           <Modal title="Movies Listed" onClose={() => setShowMovieList(false)}>
             <ul className="list-disc pl-6 space-y-2 text-sm font-audiowide">
@@ -181,7 +204,6 @@ export default function App() {
           </Modal>
         )}
 
-        {/* Offline Theater List Modal */}
         {showOfflineList && (
           <Modal title="Theater Status" onClose={() => setShowOfflineList(false)}>
             {offlineTheaters.length > 0 ? (
@@ -193,6 +215,17 @@ export default function App() {
             ) : (
               <p className="text-center text-sm font-audiowide">All theaters are currently online!</p>
             )}
+          </Modal>
+        )}
+
+        {showCalendar && (
+          <Modal title="Jump to Date" onClose={() => setShowCalendar(false)}>
+            <DatePicker
+              selected={calendarDate}
+              onChange={(date) => setCalendarDate(date)}
+              inline
+              includeDates={availableDates.map(d => new Date(d))}
+            />
           </Modal>
         )}
       </main>

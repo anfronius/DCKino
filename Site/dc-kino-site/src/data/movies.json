@@ -1,47 +1,5 @@
 [
  {
-  "title": "We Are Guardians",
-  "date": "Jun 29",
-  "time": "6:40 pm",
-  "theaterID": "miracle"
- },
- {
-  "title": "PEACHES GOES BANANAS",
-  "date": "Jun 29",
-  "time": "06:45 PM",
-  "theaterID": "afisilver"
- },
- {
-  "title": "TATAMI",
-  "date": "Jun 29",
-  "time": "07:45 PM",
-  "theaterID": "afisilver"
- },
- {
-  "title": "PINK NARCISSUS",
-  "date": "Jun 29",
-  "time": "08:30 PM",
-  "theaterID": "afisilver"
- },
- {
-  "title": "FAMILIAR TOUCH",
-  "date": "Jun 30",
-  "time": "11:50 AM",
-  "theaterID": "afisilver"
- },
- {
-  "title": "OCEAN WITH DAVID ATTENBOROUGH",
-  "date": "Jun 30",
-  "time": "12:00 PM",
-  "theaterID": "afisilver"
- },
- {
-  "title": "THE BURMESE HARP",
-  "date": "Jun 30",
-  "time": "12:15 PM",
-  "theaterID": "afisilver"
- },
- {
   "title": "FAMILIAR TOUCH",
   "date": "Jun 30",
   "time": "02:00 PM",
@@ -1617,6 +1575,36 @@
   "title": "WE'RE NO ANGELS (1955)",
   "date": "Jul 29",
   "time": "04:45 PM",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "SUMMER WARS",
+  "date": "Jul 29",
+  "time": "06:45 PM",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "LA NOTTE",
+  "date": "Jul 29",
+  "time": "07:00 PM",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "THE MYSTERY OF CHESS BOXING",
+  "date": "Jul 29",
+  "time": "09:15 PM",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "NIGHT MOVES (1975)",
+  "date": "Jul 29",
+  "time": "09:30 PM",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "LA NOTTE",
+  "date": "Jul 30",
+  "time": "11:45 AM",
   "theaterID": "afisilver"
  }
 ]
