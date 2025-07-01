@@ -8,44 +8,80 @@ base_dir = Path(__file__).resolve().parent
 # Input files
 afi_path = base_dir / "data/afimovies.json"
 miracle_path = base_dir / "data/miraclemovies.json"
+suns_path = base_dir / "data/sunsmovies.json"
 
-# Output path: ../Site/dc-kino-site/src/data/movies.json
+# Output file (to site's data folder)
 output_dir = base_dir.parent.parent / "Site/dc-kino-site/src/data"
 output_path = output_dir / "movies.json"
 output_dir.mkdir(parents=True, exist_ok=True)
 
-# Load data
-with open(afi_path, "r", encoding="utf-8") as f:
-    afi_data = json.load(f)
+print("🔍 Loading JSON data...")
 
-with open(miracle_path, "r", encoding="utf-8") as f:
-    miracle_data = json.load(f)
+# Load and merge
+def load_json(path, label):
+    if not path.exists():
+        print(f"⚠️  {label} file not found at {path}")
+        return []
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+            print(f"✅ Loaded {len(data)} entries from {label}")
+            return data
+    except Exception as e:
+        print(f"❌ Failed to load {label}: {e}")
+        return []
 
-combined = afi_data + miracle_data
+afi_data = load_json(afi_path, "AFI")
+miracle_data = load_json(miracle_path, "Miracle")
+suns_data = load_json(suns_path, "Suns")
 
-# Define time window
-today = datetime.today()
-one_month_from_now = today + timedelta(days=30)
+combined = afi_data + miracle_data + suns_data
+print(f"🔗 Total combined entries: {len(combined)}")
 
-# Helper to parse date with assumed current year
+# Normalize time format to "HH:MM PM"
+def normalize_time(t):
+    try:
+        return datetime.strptime(t.strip().lower(), "%I:%M %p").strftime("%I:%M %p")
+    except Exception as e:
+        print(f"[TIME ERROR] '{t}' – {e}")
+        return t
+
+for entry in combined:
+    entry["time"] = normalize_time(entry["time"])
+
+# Filter: only keep showings within next 60 days
 def parse_datetime(entry):
     try:
-        dt_str = f"{entry['date']} {entry['time']} {today.year}"
-        return datetime.strptime(dt_str, "%b %d %I:%M %p %Y")
+        now = datetime.today()
+        dt = datetime.strptime(f"{entry['date']} {entry['time']}", "%b %d %I:%M %p")
+        dt = dt.replace(year=now.year)
+
+        # If this parsed date is earlier than today, assume it's for next year
+        if dt < now:
+            dt = dt.replace(year=now.year + 1)
+
+        return dt
     except Exception as e:
-        print(f"Error parsing entry: {entry} — {e}")
+        print(f"[DATETIME ERROR] {entry} – {e}")
         return None
 
-# Filter and sort
+today = datetime.today()
+cutoff = today + timedelta(days=30)
+
 filtered = [
     entry for entry in combined
-    if (dt := parse_datetime(entry)) and today <= dt <= one_month_from_now
+    if (dt := parse_datetime(entry)) and today <= dt <= cutoff
 ]
 
-sorted_filtered = sorted(filtered, key=parse_datetime)
+print(f"🧹 Entries within 30-day window: {len(filtered)}")
 
-# Save output
-with open(output_path, "w", encoding="utf-8") as f:
-    json.dump(sorted_filtered, f, indent=1, ensure_ascii=False)
+# Sort chronologically
+sorted_combined = sorted(filtered, key=parse_datetime)
 
-print(f"{len(sorted_filtered)} showings written to {output_path.resolve()}")
+# Save result
+try:
+    with open(output_path, "w", encoding="utf-8") as f:
+        json.dump(sorted_combined, f, indent=1, ensure_ascii=False)
+    print(f"✅ Saved {len(sorted_combined)} sorted showings to {output_path.resolve()}")
+except Exception as e:
+    print(f"❌ Failed to write output file: {e}")

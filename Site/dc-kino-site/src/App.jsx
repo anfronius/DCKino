@@ -13,10 +13,10 @@ const groupedByDate = movies.reduce((acc, movie) => {
   if (!acc[movie.date][key]) {
     acc[movie.date][key] = {
       ...movie,
-      times: [movie.time]
+      times: [{ time: movie.time, status: movie.status }]
     };
   } else {
-    acc[movie.date][key].times.push(movie.time);
+    acc[movie.date][key].times.push({ time: movie.time, status: movie.status });
   }
   return acc;
 }, {});
@@ -73,7 +73,7 @@ export default function App() {
   const scrollToDate = (date) => {
     const section = document.getElementById(`date-${date}`);
     if (section) {
-      const yOffset = -85;
+      const yOffset = -120;
       const y = section.getBoundingClientRect().top + window.pageYOffset + yOffset;
       window.scrollTo({ top: y, behavior: 'smooth' });
     }
@@ -134,7 +134,7 @@ export default function App() {
                       return (
                         <div
                           key={index}
-                          onClick={() => setSelectedMovie({ ...movie, bgClass })}
+                          onClick={() => setSelectedMovie({ ...movie, bgClass, date })}
                           className="cursor-pointer relative rounded-2xl shadow-lg flex flex-col sm:flex-row overflow-hidden h-60 transition-transform duration-300 transform hover:scale-[1.03] hover:shadow-2xl"
                         >
                           <div className="w-full sm:w-1/2 h-1/2 sm:h-full bg-zinc-700 flex items-center justify-center text-sm text-zinc-300 z-10">
@@ -148,7 +148,13 @@ export default function App() {
                           <div className="relative z-10 p-6 flex flex-col justify-start w-full text-white">
                             <div className="text-2xl font-semibold mt-1 mb-4 font-limelight line-clamp-3">{movie.title}</div>
                             <div className="mt-auto">
-                              <div className="text-zinc-100 text-sm leading-tight mb-3 font-montserratalts">{movie.times.join(" • ")}</div>
+                              <div className="text-zinc-100 text-sm leading-tight mb-3 font-montserratalts">
+                                {movie.times.map(({ time, status }, i) => (
+                                  <span key={i} className={status !== 'available' ? 'line-through' : ''}>
+                                    {i > 0 ? ' • ' : ''}{time}
+                                  </span>
+                                ))}
+                              </div>
                               <div className="text-zinc-100 text-xl font-alumnisc line-clamp-2">{theater?.name || 'Unknown Theater'}</div>
                             </div>
                           </div>
@@ -176,8 +182,15 @@ export default function App() {
                 )}
               </div>
               <div className="sm:w-1/2 flex flex-col justify-center">
-                <h2 className="text-3xl font-bold mb-4 font-limelight">{selectedMovie.title}</h2>
-                <p className="text-zinc-300 mb-2 text-sm font-montserratalts">{selectedMovie.times.join(" • ")}</p>
+                <h2 className="text-3xl font-bold mb-2 font-limelight">{selectedMovie.title}</h2>
+                <p className="text-zinc-400 text-sm mb-2 font-montserratalts">{selectedMovie.date}</p>
+                <p className="text-zinc-300 mb-2 text-sm font-montserratalts">
+                  {selectedMovie.times.map(({ time, status }, i) => (
+                    <span key={i} className={status !== 'available' ? 'line-through' : ''}>
+                      {i > 0 ? ' • ' : ''}{time}
+                    </span>
+                  ))}
+                </p>
                 <p className="text-zinc-100 text-xl font-alumnisc mb-4">{theaterMap[selectedMovie.theaterID]?.name || 'Unknown Theater'}</p>
               </div>
             </div>

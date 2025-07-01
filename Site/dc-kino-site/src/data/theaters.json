@@ -12,5 +12,12 @@
     "colorClass": "bg-rose-800",
     "address": "8633 Colesville Road, Silver Spring, MD",
     "screens": 3
+  },
+  {
+    "theaterID": "suns",
+    "name": "Suns Cinema",
+    "colorClass": "bg-orange-600",
+    "address": "3107 Mount Pleasent Street NW, Washington, DC",
+    "screens": 1
   }
 ]

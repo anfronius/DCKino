@@ -10,7 +10,7 @@ class MiracleSpider(scrapy.Spider):
                 "format": "json",
                 "encoding": "utf-8",
                 "overwrite": True,
-                "fields": ["title", "date", "time", "theaterID"]
+                "fields": ["title", "date", "time","status", "theaterID"]
             }
         }
     }
@@ -42,5 +42,6 @@ class MiracleSpider(scrapy.Spider):
                     "title": title.strip(),
                     "date": date,
                     "time": time.strip() if time else "",
+                    "status": "available",
                     "theaterID": "miracle"
                 }

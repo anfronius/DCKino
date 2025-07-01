@@ -7,6 +7,7 @@ export default {
   safelist: [
     'bg-red-900',
     'bg-rose-800',
+    'bg-orange-600',
   ],
   theme: {
     extend: {

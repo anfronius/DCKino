@@ -16,7 +16,7 @@ class AfiShowtimesSpider(scrapy.Spider):
                 "format": "json",
                 "encoding": "utf-8",
                 "overwrite": True,
-                "fields": ["title", "date", "time", "theaterID"]
+                "fields": ["title", "date", "time", "status", "theaterID"]
             }
         }
     }
@@ -67,6 +67,7 @@ class AfiShowtimesSpider(scrapy.Spider):
                             "title": title.strip() if title else None,
                             "date": current_date,
                             "time": t,
+                            "status": "available",
                             "theaterID": "afisilver"
                         }
 

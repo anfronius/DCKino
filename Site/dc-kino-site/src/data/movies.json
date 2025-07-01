@@ -1,1610 +1,2102 @@
 [
  {
   "title": "FAMILIAR TOUCH",
-  "date": "Jun 30",
-  "time": "02:00 PM",
-  "theaterID": "afisilver"
- },
- {
-  "title": "THE PHOENICIAN SCHEME",
-  "date": "Jun 30",
-  "time": "02:20 PM",
-  "theaterID": "afisilver"
- },
- {
-  "title": "OLIVIA (1951)",
-  "date": "Jun 30",
-  "time": "02:45 PM",
-  "theaterID": "afisilver"
- },
- {
-  "title": "TATAMI",
-  "date": "Jun 30",
-  "time": "04:00 PM",
-  "theaterID": "afisilver"
- },
- {
-  "title": "THE PHOENICIAN SCHEME",
-  "date": "Jun 30",
-  "time": "04:40 PM",
-  "theaterID": "afisilver"
- },
- {
-  "title": "DUTCHMAN (1966)",
-  "date": "Jun 30",
-  "time": "05:00 PM",
-  "theaterID": "afisilver"
- },
- {
-  "title": "TATAMI",
-  "date": "Jun 30",
-  "time": "06:15 PM",
-  "theaterID": "afisilver"
- },
- {
-  "title": "AMOROSA (1986)",
-  "date": "Jun 30",
-  "time": "06:30 PM",
-  "theaterID": "afisilver"
- },
- {
-  "title": "THE PHOENICIAN SCHEME",
-  "date": "Jun 30",
-  "time": "06:50 PM",
-  "theaterID": "afisilver"
- },
- {
-  "title": "FAMILIAR TOUCH",
-  "date": "Jun 30",
-  "time": "08:30 PM",
-  "theaterID": "afisilver"
- },
- {
-  "title": "FUNERAL PARADE OF ROSES",
-  "date": "Jun 30",
-  "time": "09:00 PM",
-  "theaterID": "afisilver"
- },
- {
-  "title": "THE PHOENICIAN SCHEME",
-  "date": "Jun 30",
-  "time": "09:05 PM",
-  "theaterID": "afisilver"
- },
- {
-  "title": "ARMY OF SHADOWS",
-  "date": "Jul 01",
-  "time": "11:45 AM",
-  "theaterID": "afisilver"
- },
- {
-  "title": "OCEAN WITH DAVID ATTENBOROUGH",
-  "date": "Jul 01",
-  "time": "12:00 PM",
-  "theaterID": "afisilver"
- },
- {
-  "title": "FAMILIAR TOUCH",
-  "date": "Jul 01",
-  "time": "12:10 PM",
-  "theaterID": "afisilver"
- },
- {
-  "title": "FAMILIAR TOUCH",
   "date": "Jul 01",
   "time": "02:15 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE PHOENICIAN SCHEME",
   "date": "Jul 01",
   "time": "02:20 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "PEACHES GOES BANANAS",
   "date": "Jul 01",
   "time": "02:45 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "TATAMI",
   "date": "Jul 01",
   "time": "04:20 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE BURMESE HARP",
   "date": "Jul 01",
   "time": "04:30 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE PHOENICIAN SCHEME",
   "date": "Jul 01",
   "time": "04:40 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "FAMILIAR TOUCH",
   "date": "Jul 01",
   "time": "06:40 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE PHOENICIAN SCHEME",
   "date": "Jul 01",
   "time": "06:50 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "SCRUBBERS",
   "date": "Jul 01",
   "time": "07:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "MISSISSIPPI MASALA",
+  "date": "Jul 01",
+  "time": "07:00 PM",
+  "status": "sold out",
+  "theaterID": "suns"
+ },
+ {
+  "title": "BEND IT LIKE BECKHAM",
+  "date": "Jul 01",
+  "time": "07:00 PM",
+  "status": "sold out",
+  "theaterID": "suns"
  },
  {
   "title": "TATAMI",
   "date": "Jul 01",
   "time": "08:40 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "PINK NARCISSUS",
   "date": "Jul 01",
   "time": "09:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE PHOENICIAN SCHEME",
   "date": "Jul 01",
   "time": "09:05 PM",
+  "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "MISSISSIPPI MASALA",
+  "date": "Jul 01",
+  "time": "09:40 PM",
+  "status": "sold out",
+  "theaterID": "suns"
+ },
+ {
+  "title": "BEND IT LIKE BECKHAM",
+  "date": "Jul 01",
+  "time": "09:45 PM",
+  "status": "sold out",
+  "theaterID": "suns"
  },
  {
   "title": "FAMILIAR TOUCH",
   "date": "Jul 02",
   "time": "11:50 AM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "OCEAN WITH DAVID ATTENBOROUGH",
   "date": "Jul 02",
   "time": "12:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE BURMESE HARP",
   "date": "Jul 02",
   "time": "12:30 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "FAMILIAR TOUCH",
   "date": "Jul 02",
   "time": "02:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE PHOENICIAN SCHEME",
   "date": "Jul 02",
   "time": "02:20 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "SCRUBBERS",
   "date": "Jul 02",
   "time": "03:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "TATAMI",
   "date": "Jul 02",
   "time": "04:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE PHOENICIAN SCHEME",
   "date": "Jul 02",
   "time": "04:40 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "DUTCHMAN (1966)",
   "date": "Jul 02",
   "time": "05:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "TATAMI",
   "date": "Jul 02",
   "time": "06:15 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "ARMY OF SHADOWS",
   "date": "Jul 02",
   "time": "06:30 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "PEACHES GOES BANANAS",
   "date": "Jul 02",
   "time": "07:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "The Wizard of Oz",
   "date": "Jul 2",
-  "time": "7:00 pm",
+  "time": "07:00 PM",
+  "status": "available",
   "theaterID": "miracle"
+ },
+ {
+  "title": "MISSISSIPPI MASALA",
+  "date": "Jul 02",
+  "time": "07:00 PM",
+  "status": "sold out",
+  "theaterID": "suns"
+ },
+ {
+  "title": "BEND IT LIKE BECKHAM",
+  "date": "Jul 02",
+  "time": "07:00 PM",
+  "status": "sold out",
+  "theaterID": "suns"
  },
  {
   "title": "FAMILIAR TOUCH",
   "date": "Jul 02",
   "time": "08:30 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE PHOENICIAN SCHEME",
   "date": "Jul 02",
   "time": "08:45 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE PEOPLE'S JOKER",
   "date": "Jul 02",
   "time": "09:30 PM",
+  "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "MISSISSIPPI MASALA",
+  "date": "Jul 02",
+  "time": "09:40 PM",
+  "status": "sold out",
+  "theaterID": "suns"
+ },
+ {
+  "title": "BEND IT LIKE BECKHAM",
+  "date": "Jul 02",
+  "time": "09:45 PM",
+  "status": "sold out",
+  "theaterID": "suns"
  },
  {
   "title": "The Bad Guys",
   "date": "Jul 3",
-  "time": "10:30 am",
+  "time": "10:30 AM",
+  "status": "available",
   "theaterID": "miracle"
  },
  {
   "title": "DUTCHMAN (1966)",
   "date": "Jul 03",
   "time": "11:45 AM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "OCEAN WITH DAVID ATTENBOROUGH",
   "date": "Jul 03",
   "time": "12:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "FAMILIAR TOUCH",
   "date": "Jul 03",
   "time": "12:10 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "AMOROSA (1986)",
   "date": "Jul 03",
   "time": "01:15 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "FAMILIAR TOUCH",
   "date": "Jul 03",
   "time": "02:15 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE PHOENICIAN SCHEME",
   "date": "Jul 03",
   "time": "02:20 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "ARMY OF SHADOWS",
   "date": "Jul 03",
   "time": "03:45 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "TATAMI",
   "date": "Jul 03",
   "time": "04:20 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE PHOENICIAN SCHEME",
   "date": "Jul 03",
   "time": "04:40 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "FAMILIAR TOUCH",
   "date": "Jul 03",
   "time": "06:40 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "FUNERAL PARADE OF ROSES",
   "date": "Jul 03",
   "time": "06:45 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE PHOENICIAN SCHEME",
   "date": "Jul 03",
   "time": "06:50 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "Karate Kid: Legends",
   "date": "Jul 3",
-  "time": "7:00 pm",
+  "time": "07:00 PM",
+  "status": "available",
   "theaterID": "miracle"
  },
  {
   "title": "TATAMI",
   "date": "Jul 03",
   "time": "08:40 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "PINK NARCISSUS",
   "date": "Jul 03",
   "time": "09:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "MARIA CHAVEZ DJ SET w VALENTINA & Kristy la rAt: Part Two",
+  "date": "Jul 03",
+  "time": "09:00 PM",
+  "status": "available",
+  "theaterID": "suns"
  },
  {
   "title": "SCRUBBERS",
   "date": "Jul 03",
   "time": "09:15 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
   "date": "Jul 04",
   "time": "11:40 AM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE GOONIES",
   "date": "Jul 04",
   "time": "11:45 AM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "FAMILIAR TOUCH",
   "date": "Jul 04",
   "time": "12:10 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
   "date": "Jul 04",
   "time": "02:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "INLAND EMPIRE",
   "date": "Jul 04",
   "time": "02:15 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE PHOENICIAN SCHEME",
   "date": "Jul 04",
   "time": "02:20 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
   "date": "Jul 04",
   "time": "04:20 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "FAMILIAR TOUCH",
   "date": "Jul 04",
   "time": "04:40 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE WAGES OF FEAR (1953)",
   "date": "Jul 04",
   "time": "05:45 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "FAMILIAR TOUCH",
   "date": "Jul 04",
   "time": "06:40 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
   "date": "Jul 04",
   "time": "06:45 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "TATAMI",
   "date": "Jul 04",
   "time": "08:40 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "SORCERER",
   "date": "Jul 04",
   "time": "08:45 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
   "date": "Jul 04",
   "time": "09:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE WAGES OF FEAR (1953)",
   "date": "Jul 05",
   "time": "11:30 AM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
   "date": "Jul 05",
   "time": "11:40 AM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE PHOENICIAN SCHEME",
   "date": "Jul 05",
   "time": "12:10 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
   "date": "Jul 05",
   "time": "02:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE PHOENICIAN SCHEME",
   "date": "Jul 05",
   "time": "02:20 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE GOONIES",
   "date": "Jul 05",
   "time": "02:30 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
   "date": "Jul 05",
   "time": "04:20 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "FAMILIAR TOUCH",
   "date": "Jul 05",
   "time": "04:40 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "INLAND EMPIRE",
   "date": "Jul 05",
   "time": "05:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "FAMILIAR TOUCH",
   "date": "Jul 05",
   "time": "06:40 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
   "date": "Jul 05",
   "time": "06:45 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "HEAT (1995)",
   "date": "Jul 05",
   "time": "08:30 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "TATAMI",
   "date": "Jul 05",
   "time": "08:40 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
   "date": "Jul 05",
   "time": "09:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "FAMILIAR TOUCH",
   "date": "Jul 06",
   "time": "11:15 AM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE SACRIFICE",
   "date": "Jul 06",
   "time": "01:15 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
   "date": "Jul 06",
   "time": "01:15 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE PHOENICIAN SCHEME",
   "date": "Jul 06",
   "time": "01:30 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
   "date": "Jul 06",
   "time": "03:30 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE PHOENICIAN SCHEME",
   "date": "Jul 06",
   "time": "03:45 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "HEAT (1995)",
   "date": "Jul 06",
   "time": "04:15 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "PUNK THE CAPITAL: BUILDING A SOUND MOVEMENT",
   "date": "Jul 06",
   "time": "06:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "FAMILIAR TOUCH",
   "date": "Jul 06",
   "time": "06:15 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "INLAND EMPIRE",
   "date": "Jul 06",
   "time": "07:45 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "TATAMI",
   "date": "Jul 06",
   "time": "08:15 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
   "date": "Jul 06",
   "time": "08:45 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
   "date": "Jul 07",
   "time": "11:40 AM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE WAGES OF FEAR (1953)",
   "date": "Jul 07",
   "time": "11:45 AM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE PHOENICIAN SCHEME",
   "date": "Jul 07",
   "time": "11:50 AM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
   "date": "Jul 07",
   "time": "02:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE PHOENICIAN SCHEME",
   "date": "Jul 07",
   "time": "02:05 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "HEAT (1995)",
   "date": "Jul 07",
   "time": "02:45 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
   "date": "Jul 07",
   "time": "04:20 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "FAMILIAR TOUCH",
   "date": "Jul 07",
   "time": "04:25 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE GOONIES",
   "date": "Jul 07",
   "time": "06:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "TATAMI",
   "date": "Jul 07",
   "time": "06:25 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
   "date": "Jul 07",
   "time": "06:45 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "INLAND EMPIRE",
   "date": "Jul 07",
   "time": "08:30 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "FAMILIAR TOUCH",
   "date": "Jul 07",
   "time": "08:40 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
   "date": "Jul 07",
   "time": "09:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
   "date": "Jul 08",
   "time": "11:40 AM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE WAGES OF FEAR (1953)",
   "date": "Jul 08",
   "time": "11:45 AM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE PHOENICIAN SCHEME",
   "date": "Jul 08",
   "time": "12:10 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
   "date": "Jul 08",
   "time": "02:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE PHOENICIAN SCHEME",
   "date": "Jul 08",
   "time": "02:20 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "INLAND EMPIRE",
   "date": "Jul 08",
   "time": "02:45 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
   "date": "Jul 08",
   "time": "04:20 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "FAMILIAR TOUCH",
   "date": "Jul 08",
   "time": "04:40 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE SACRIFICE",
   "date": "Jul 08",
   "time": "06:15 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "FAMILIAR TOUCH",
   "date": "Jul 08",
   "time": "06:40 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
   "date": "Jul 08",
   "time": "06:45 PM",
+  "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "LA HAINE",
+  "date": "Jul 08",
+  "time": "07:00 PM",
+  "status": "sold out",
+  "theaterID": "suns"
  },
  {
   "title": "TATAMI",
   "date": "Jul 08",
   "time": "08:40 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
   "date": "Jul 08",
   "time": "09:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "SORCERER",
   "date": "Jul 08",
   "time": "09:15 PM",
+  "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "DOGTOOTH",
+  "date": "Jul 08",
+  "time": "09:30 PM",
+  "status": "sold out",
+  "theaterID": "suns"
  },
  {
   "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
   "date": "Jul 09",
   "time": "11:40 AM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE SACRIFICE",
   "date": "Jul 09",
   "time": "11:45 AM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE PHOENICIAN SCHEME",
   "date": "Jul 09",
   "time": "11:50 AM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
   "date": "Jul 09",
   "time": "02:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE PHOENICIAN SCHEME",
   "date": "Jul 09",
   "time": "02:05 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "HEAT (1995)",
   "date": "Jul 09",
   "time": "02:45 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
   "date": "Jul 09",
   "time": "04:20 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "FAMILIAR TOUCH",
   "date": "Jul 09",
   "time": "04:25 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE WAGES OF FEAR (1953)",
   "date": "Jul 09",
   "time": "06:10 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "TATAMI",
   "date": "Jul 09",
   "time": "06:25 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
   "date": "Jul 09",
   "time": "06:45 PM",
+  "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "CHOCOLAT",
+  "date": "Jul 09",
+  "time": "07:00 PM",
+  "status": "available",
+  "theaterID": "suns"
  },
  {
   "title": "FAMILIAR TOUCH",
   "date": "Jul 09",
   "time": "08:40 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
   "date": "Jul 09",
   "time": "09:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "SORCERER",
   "date": "Jul 09",
   "time": "09:15 PM",
+  "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "NO FEAR, NO DIE",
+  "date": "Jul 09",
+  "time": "09:30 PM",
+  "status": "available",
+  "theaterID": "suns"
  },
  {
   "title": "Paddington 2",
   "date": "Jul 10",
-  "time": "10:30 am",
+  "time": "10:30 AM",
+  "status": "available",
   "theaterID": "miracle"
  },
  {
   "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
   "date": "Jul 10",
   "time": "11:40 AM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE WAGES OF FEAR (1953)",
   "date": "Jul 10",
   "time": "12:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE PHOENICIAN SCHEME",
   "date": "Jul 10",
   "time": "12:10 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
   "date": "Jul 10",
   "time": "02:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE PHOENICIAN SCHEME",
   "date": "Jul 10",
   "time": "02:20 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE SACRIFICE",
   "date": "Jul 10",
   "time": "03:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
   "date": "Jul 10",
   "time": "04:20 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "FAMILIAR TOUCH",
   "date": "Jul 10",
   "time": "04:40 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE GOONIES",
   "date": "Jul 10",
   "time": "06:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "FAMILIAR TOUCH",
   "date": "Jul 10",
   "time": "06:40 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "POSITIVE FORCE: MORE THAN A WITNESS",
   "date": "Jul 10",
   "time": "07:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "TAKE OUT",
+  "date": "Jul 10",
+  "time": "07:00 PM",
+  "status": "sold out",
+  "theaterID": "suns"
  },
  {
   "title": "HEAT (1995)",
   "date": "Jul 10",
   "time": "08:30 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "TATAMI",
   "date": "Jul 10",
   "time": "08:40 PM",
+  "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "MAN PUSH CART",
+  "date": "Jul 10",
+  "time": "09:15 PM",
+  "status": "available",
+  "theaterID": "suns"
  },
  {
   "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
   "date": "Jul 10",
   "time": "09:30 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "GODZILLA RAIDS AGAIN",
   "date": "Jul 11",
   "time": "12:15 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "Paddington 2",
   "date": "Jul 11",
-  "time": "2:00 pm",
+  "time": "02:00 PM",
+  "status": "available",
   "theaterID": "miracle"
  },
  {
   "title": "THE RAIN PEOPLE",
   "date": "Jul 11",
   "time": "02:15 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE DESPERATE HOURS",
   "date": "Jul 11",
   "time": "04:30 PM",
+  "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "LE HAVRE",
+  "date": "Jul 11",
+  "time": "06:00 PM",
+  "status": "available",
+  "theaterID": "suns"
  },
  {
   "title": "THE FRENCH CONNECTION",
   "date": "Jul 11",
   "time": "07:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "STRANGER THAN PARADISE",
+  "date": "Jul 11",
+  "time": "08:30 PM",
+  "status": "available",
+  "theaterID": "suns"
  },
  {
   "title": "DEMENTIA 13 - Director's Cut",
   "date": "Jul 11",
   "time": "09:15 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "GODZILLA RAIDS AGAIN",
   "date": "Jul 12",
   "time": "11:30 AM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE DESPERATE HOURS",
   "date": "Jul 12",
   "time": "11:45 AM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE RAIN PEOPLE",
   "date": "Jul 12",
   "time": "02:15 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "TOO BAD SHE'S BAD",
   "date": "Jul 12",
   "time": "04:30 PM",
+  "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "BATANG WEST SIDE",
+  "date": "Jul 12",
+  "time": "06:00 PM",
+  "status": "available",
+  "theaterID": "suns"
  },
  {
   "title": "Count Gore presents THE RETURN OF THE LIVING DEAD",
   "date": "Jul 12",
   "time": "07:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "DEMENTIA 13 - Director's Cut",
   "date": "Jul 12",
   "time": "09:45 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "GODZILLA RAIDS AGAIN",
   "date": "Jul 13",
   "time": "11:30 AM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE DESPERATE HOURS",
   "date": "Jul 13",
   "time": "01:15 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "LE NOTTI BIANCHE",
   "date": "Jul 13",
   "time": "03:45 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "WE ARE FUGAZI FROM WASHINGTON, DC",
   "date": "Jul 13",
   "time": "06:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "BONNIE AND CLYDE",
   "date": "Jul 13",
   "time": "06:15 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE FRENCH CONNECTION",
   "date": "Jul 13",
   "time": "08:45 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE RAIN PEOPLE",
   "date": "Jul 14",
   "time": "12:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE DESPERATE HOURS",
   "date": "Jul 14",
   "time": "02:10 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "BONNIE AND CLYDE",
   "date": "Jul 14",
   "time": "04:30 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "DC Moth StorySLAM: DIRT",
   "date": "Jul 14",
-  "time": "6:30 pm",
+  "time": "06:30 PM",
+  "status": "available",
   "theaterID": "miracle"
  },
  {
   "title": "AGAINST THE LAW (1950)",
   "date": "Jul 14",
   "time": "07:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE FRENCH CONNECTION",
   "date": "Jul 14",
   "time": "09:10 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE DESPERATE HOURS",
   "date": "Jul 15",
   "time": "11:45 AM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE RAIN PEOPLE",
   "date": "Jul 15",
   "time": "02:10 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "BONNIE AND CLYDE",
   "date": "Jul 15",
   "time": "04:30 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE FRENCH CONNECTION",
   "date": "Jul 15",
   "time": "07:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "LINGUA FRANCA",
+  "date": "Jul 15",
+  "time": "07:00 PM",
+  "status": "available",
+  "theaterID": "suns"
+ },
+ {
+  "title": "PROBLEMISTA",
+  "date": "Jul 15",
+  "time": "08:35 PM",
+  "status": "available",
+  "theaterID": "suns"
  },
  {
   "title": "DEMENTIA 13 - Director's Cut",
   "date": "Jul 15",
   "time": "09:15 PM",
+  "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "PROBLEMISTA",
+  "date": "Jul 15",
+  "time": "09:30 PM",
+  "status": "available",
+  "theaterID": "suns"
  },
  {
   "title": "GODZILLA RAIDS AGAIN",
   "date": "Jul 16",
   "time": "12:15 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE DESPERATE HOURS",
   "date": "Jul 16",
   "time": "02:15 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE FRENCH CONNECTION",
   "date": "Jul 16",
   "time": "04:45 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE RAIN PEOPLE",
   "date": "Jul 16",
   "time": "07:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "Citizen Kane",
   "date": "Jul 16",
-  "time": "7:00 pm",
+  "time": "07:00 PM",
+  "status": "available",
   "theaterID": "miracle"
+ },
+ {
+  "title": "ALI: FEAR EATS THE SOUL",
+  "date": "Jul 16",
+  "time": "07:00 PM",
+  "status": "available",
+  "theaterID": "suns"
  },
  {
   "title": "BONNIE AND CLYDE",
   "date": "Jul 16",
   "time": "09:15 PM",
+  "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "STROSZEK",
+  "date": "Jul 16",
+  "time": "09:20 PM",
+  "status": "available",
+  "theaterID": "suns"
  },
  {
   "title": "THE DESPERATE HOURS",
   "date": "Jul 17",
   "time": "12:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE FRENCH CONNECTION",
   "date": "Jul 17",
   "time": "02:30 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE RAIN PEOPLE",
   "date": "Jul 17",
   "time": "04:45 PM",
+  "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "TO A LAND UNKNOWN",
+  "date": "Jul 17",
+  "time": "06:00 PM",
+  "status": "available",
+  "theaterID": "suns"
  },
  {
   "title": "SALAD DAYS: A DECADE OF PUNK IN WASHINGTON, DC",
   "date": "Jul 17",
   "time": "06:45 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "AGAINST THE LAW (1950)",
   "date": "Jul 17",
   "time": "07:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "TO A LAND UNKNOWN",
+  "date": "Jul 17",
+  "time": "07:00 PM",
+  "status": "available",
+  "theaterID": "suns"
  },
  {
   "title": "GODZILLA RAIDS AGAIN",
   "date": "Jul 17",
   "time": "09:15 PM",
+  "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "TO A LAND UNKNOWN",
+  "date": "Jul 17",
+  "time": "09:35 PM",
+  "status": "available",
+  "theaterID": "suns"
  },
  {
   "title": "TO CATCH A THIEF",
   "date": "Jul 18",
   "time": "11:45 AM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE DELINQUENTS (1957)",
   "date": "Jul 18",
   "time": "02:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE TROUBLE WITH HARRY",
   "date": "Jul 18",
   "time": "03:45 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE GODFATHER",
   "date": "Jul 18",
   "time": "06:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "TO A LAND UNKNOWN",
+  "date": "Jul 18",
+  "time": "06:00 PM",
+  "status": "available",
+  "theaterID": "suns"
+ },
+ {
+  "title": "TO A LAND UNKNOWN",
+  "date": "Jul 18",
+  "time": "07:00 PM",
+  "status": "available",
+  "theaterID": "suns"
+ },
+ {
+  "title": "PROBLEMISTA",
+  "date": "Jul 18",
+  "time": "08:35 PM",
+  "status": "available",
+  "theaterID": "suns"
  },
  {
   "title": "PRIME CUT",
   "date": "Jul 18",
   "time": "09:30 PM",
+  "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "PROBLEMISTA",
+  "date": "Jul 18",
+  "time": "09:30 PM",
+  "status": "available",
+  "theaterID": "suns"
+ },
+ {
+  "title": "TO A LAND UNKNOWN",
+  "date": "Jul 18",
+  "time": "09:35 PM",
+  "status": "available",
+  "theaterID": "suns"
  },
  {
   "title": "THAT COLD DAY IN THE PARK",
   "date": "Jul 19",
   "time": "11:45 AM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "MOTHRA",
   "date": "Jul 19",
   "time": "12:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "TO CATCH A THIEF",
   "date": "Jul 19",
   "time": "02:15 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "LA DOLCE VITA",
   "date": "Jul 19",
   "time": "04:30 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE GODFATHER",
   "date": "Jul 19",
   "time": "08:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "MOTHRA",
   "date": "Jul 20",
   "time": "11:30 AM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE TROUBLE WITH HARRY",
   "date": "Jul 20",
   "time": "01:15 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "LA DOLCE VITA",
   "date": "Jul 20",
   "time": "03:30 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "SPX Presents: MARRIED TO COMICS",
   "date": "Jul 20",
   "time": "06:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "PRIME CUT",
   "date": "Jul 20",
   "time": "07:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "SAFE (1995)",
   "date": "Jul 20",
   "time": "09:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE TROUBLE WITH HARRY",
   "date": "Jul 21",
   "time": "12:15 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THAT COLD DAY IN THE PARK",
   "date": "Jul 21",
   "time": "02:30 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "PRIME CUT",
   "date": "Jul 21",
   "time": "05:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE DELINQUENTS (1957)",
   "date": "Jul 21",
   "time": "07:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "TO CATCH A THIEF",
   "date": "Jul 21",
   "time": "08:45 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE DELINQUENTS (1957)",
   "date": "Jul 22",
   "time": "11:30 AM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "LA DOLCE VITA",
   "date": "Jul 22",
   "time": "01:15 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "PRIME CUT",
   "date": "Jul 22",
   "time": "04:45 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "SAFE (1995)",
   "date": "Jul 22",
   "time": "06:45 PM",
+  "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "AN EVENING SONG (FOR THREE VOICES)",
+  "date": "Jul 22",
+  "time": "07:00 PM",
+  "status": "available",
+  "theaterID": "suns"
  },
  {
   "title": "THAT COLD DAY IN THE PARK",
   "date": "Jul 22",
   "time": "09:15 PM",
+  "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "COLOSSAL YOUTH",
+  "date": "Jul 22",
+  "time": "09:15 PM",
+  "status": "available",
+  "theaterID": "suns"
  },
  {
   "title": "THE DELINQUENTS (1957)",
   "date": "Jul 23",
   "time": "11:30 AM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "SAFE (1995)",
   "date": "Jul 23",
   "time": "01:15 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "TO CATCH A THIEF",
   "date": "Jul 23",
   "time": "03:45 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "LA DOLCE VITA",
   "date": "Jul 23",
   "time": "06:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "MOTHRA",
   "date": "Jul 23",
   "time": "09:30 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE TROUBLE WITH HARRY",
   "date": "Jul 24",
   "time": "11:30 AM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "TO CATCH A THIEF",
   "date": "Jul 24",
   "time": "01:45 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "PRIME CUT",
   "date": "Jul 24",
   "time": "04:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE GODFATHER",
   "date": "Jul 24",
   "time": "06:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "Art House Theater Day: TANGERINE",
   "date": "Jul 24",
   "time": "07:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "THE BALLAD OF GREGORIO CORTEZ",
+  "date": "Jul 24",
+  "time": "07:00 PM",
+  "status": "available",
+  "theaterID": "suns"
  },
  {
   "title": "THE DELINQUENTS (1957)",
   "date": "Jul 24",
   "time": "09:30 PM",
+  "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "LONE STAR",
+  "date": "Jul 24",
+  "time": "09:30 PM",
+  "status": "available",
+  "theaterID": "suns"
  },
  {
   "title": "WE'RE NO ANGELS (1955)",
   "date": "Jul 25",
   "time": "11:45 AM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "M*A*S*H",
   "date": "Jul 25",
   "time": "02:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "NIGHT MOVES (1975)",
   "date": "Jul 25",
   "time": "04:30 PM",
+  "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "THE EXILES",
+  "date": "Jul 25",
+  "time": "06:00 PM",
+  "status": "available",
+  "theaterID": "suns"
  },
  {
   "title": "I SHOT ANDY WARHOL in 35mm",
   "date": "Jul 25",
   "time": "07:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "CHAN IS MISSING",
+  "date": "Jul 25",
+  "time": "08:00 PM",
+  "status": "available",
+  "theaterID": "suns"
  },
  {
   "title": "THE CONVERSATION (1974)",
   "date": "Jul 25",
   "time": "09:15 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "LA NOTTE",
   "date": "Jul 26",
   "time": "11:45 AM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "INVASION OF ASTRO-MONSTER",
   "date": "Jul 26",
   "time": "12:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "BREWSTER MCCLOUD",
   "date": "Jul 26",
   "time": "02:15 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "WE'RE NO ANGELS (1955)",
   "date": "Jul 26",
   "time": "04:30 PM",
+  "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "PRESSURE",
+  "date": "Jul 26",
+  "time": "06:00 PM",
+  "status": "available",
+  "theaterID": "suns"
  },
  {
   "title": "THE CONVERSATION (1974)",
   "date": "Jul 26",
   "time": "06:45 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE MYSTERY OF CHESS BOXING",
   "date": "Jul 26",
   "time": "09:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "BABYLON",
+  "date": "Jul 26",
+  "time": "09:00 PM",
+  "status": "available",
+  "theaterID": "suns"
  },
  {
   "title": "NIGHT MOVES (1975)",
   "date": "Jul 26",
   "time": "09:15 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "INVASION OF ASTRO-MONSTER",
   "date": "Jul 27",
   "time": "11:15 AM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "RICHARD III (1955)",
   "date": "Jul 27",
   "time": "01:15 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "SUMMER WARS",
   "date": "Jul 27",
   "time": "01:30 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "M*A*S*H",
   "date": "Jul 27",
   "time": "04:20 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "SOMETHING BETTER CHANGE",
   "date": "Jul 27",
   "time": "06:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "LA NOTTE",
   "date": "Jul 27",
   "time": "06:45 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "BREWSTER MCCLOUD",
   "date": "Jul 27",
   "time": "09:15 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "WE'RE NO ANGELS (1955)",
   "date": "Jul 28",
   "time": "12:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "BREWSTER MCCLOUD",
   "date": "Jul 28",
   "time": "02:15 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "LA NOTTE",
   "date": "Jul 28",
   "time": "04:30 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "SUMMER WARS",
   "date": "Jul 28",
   "time": "06:45 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "NIGHT MOVES (1975)",
   "date": "Jul 28",
   "time": "07:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE CONVERSATION (1974)",
   "date": "Jul 28",
   "time": "09:15 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "BREWSTER MCCLOUD",
   "date": "Jul 29",
   "time": "12:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "M*A*S*H",
   "date": "Jul 29",
   "time": "02:15 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "WE'RE NO ANGELS (1955)",
   "date": "Jul 29",
   "time": "04:45 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "SUMMER WARS",
   "date": "Jul 29",
   "time": "06:45 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "LA NOTTE",
   "date": "Jul 29",
   "time": "07:00 PM",
+  "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "YOUNG SOUL REBELS",
+  "date": "Jul 29",
+  "time": "07:00 PM",
+  "status": "available",
+  "theaterID": "suns"
  },
  {
   "title": "THE MYSTERY OF CHESS BOXING",
   "date": "Jul 29",
   "time": "09:15 PM",
+  "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "NIGHT MOVES (1975)",
   "date": "Jul 29",
   "time": "09:30 PM",
+  "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "MY BEAUTIFUL LAUNDRETTE",
+  "date": "Jul 29",
+  "time": "09:30 PM",
+  "status": "available",
+  "theaterID": "suns"
  },
  {
   "title": "LA NOTTE",
   "date": "Jul 30",
   "time": "11:45 AM",
+  "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "THE CONVERSATION (1974)",
+  "date": "Jul 30",
+  "time": "02:15 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "NIGHT MOVES (1975)",
+  "date": "Jul 30",
+  "time": "04:45 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "M*A*S*H",
+  "date": "Jul 30",
+  "time": "07:00 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "KILLER OF SHEEP",
+  "date": "Jul 30",
+  "time": "07:00 PM",
+  "status": "available",
+  "theaterID": "suns"
+ },
+ {
+  "title": "BREWSTER MCCLOUD",
+  "date": "Jul 30",
+  "time": "09:30 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "TO SLEEP WITH ANGER",
+  "date": "Jul 30",
+  "time": "09:30 PM",
+  "status": "available",
+  "theaterID": "suns"
  }
 ]

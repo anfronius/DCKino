@@ -28,6 +28,10 @@ echo "Running Miracle spider..."
 scrapy crawl miracle
 echo "Miracle spider ran sucessfully"
 
+echo "Running Suns spider..."
+scrapy crawl suns
+echo "Suns spider ran sucessfully"
+
 # Run combining script
 echo "Combining and filtering showings..."
 python combine_showings.py
