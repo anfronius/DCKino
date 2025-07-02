@@ -9,6 +9,7 @@ base_dir = Path(__file__).resolve().parent
 afi_path = base_dir / "data/afimovies.json"
 miracle_path = base_dir / "data/miraclemovies.json"
 suns_path = base_dir / "data/sunsmovies.json"
+avalon_path = base_dir / "data/avalonmovies.json"
 
 # Output file (to site's data folder)
 output_dir = base_dir.parent.parent / "Site/dc-kino-site/src/data"
@@ -34,8 +35,9 @@ def load_json(path, label):
 afi_data = load_json(afi_path, "AFI")
 miracle_data = load_json(miracle_path, "Miracle")
 suns_data = load_json(suns_path, "Suns")
+avalon_data = load_json(avalon_path, "Avalon")
 
-combined = afi_data + miracle_data + suns_data
+combined = afi_data + miracle_data + suns_data + avalon_data
 print(f"🔗 Total combined entries: {len(combined)}")
 
 # Normalize time format to "HH:MM PM"

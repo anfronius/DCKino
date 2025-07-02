@@ -1,124 +1,5 @@
 [
  {
-  "title": "FAMILIAR TOUCH",
-  "date": "Jul 01",
-  "time": "02:15 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "THE PHOENICIAN SCHEME",
-  "date": "Jul 01",
-  "time": "02:20 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "PEACHES GOES BANANAS",
-  "date": "Jul 01",
-  "time": "02:45 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "TATAMI",
-  "date": "Jul 01",
-  "time": "04:20 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "THE BURMESE HARP",
-  "date": "Jul 01",
-  "time": "04:30 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "THE PHOENICIAN SCHEME",
-  "date": "Jul 01",
-  "time": "04:40 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "FAMILIAR TOUCH",
-  "date": "Jul 01",
-  "time": "06:40 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "THE PHOENICIAN SCHEME",
-  "date": "Jul 01",
-  "time": "06:50 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "SCRUBBERS",
-  "date": "Jul 01",
-  "time": "07:00 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "MISSISSIPPI MASALA",
-  "date": "Jul 01",
-  "time": "07:00 PM",
-  "status": "sold out",
-  "theaterID": "suns"
- },
- {
-  "title": "BEND IT LIKE BECKHAM",
-  "date": "Jul 01",
-  "time": "07:00 PM",
-  "status": "sold out",
-  "theaterID": "suns"
- },
- {
-  "title": "TATAMI",
-  "date": "Jul 01",
-  "time": "08:40 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "PINK NARCISSUS",
-  "date": "Jul 01",
-  "time": "09:00 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "THE PHOENICIAN SCHEME",
-  "date": "Jul 01",
-  "time": "09:05 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "MISSISSIPPI MASALA",
-  "date": "Jul 01",
-  "time": "09:40 PM",
-  "status": "sold out",
-  "theaterID": "suns"
- },
- {
-  "title": "BEND IT LIKE BECKHAM",
-  "date": "Jul 01",
-  "time": "09:45 PM",
-  "status": "sold out",
-  "theaterID": "suns"
- },
- {
-  "title": "FAMILIAR TOUCH",
-  "date": "Jul 02",
-  "time": "11:50 AM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
   "title": "OCEAN WITH DAVID ATTENBOROUGH",
   "date": "Jul 02",
   "time": "12:00 PM",
@@ -131,6 +12,13 @@
   "time": "12:30 PM",
   "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "F1: The Movie",
+  "date": "Jul 02",
+  "time": "12:30 PM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "FAMILIAR TOUCH",
@@ -147,6 +35,13 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "The Phoenician Scheme",
+  "date": "Jul 02",
+  "time": "02:30 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
   "title": "SCRUBBERS",
   "date": "Jul 02",
   "time": "03:00 PM",
@@ -161,6 +56,13 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "F1: The Movie",
+  "date": "Jul 02",
+  "time": "04:00 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
   "title": "THE PHOENICIAN SCHEME",
   "date": "Jul 02",
   "time": "04:40 PM",
@@ -173,6 +75,13 @@
   "time": "05:00 PM",
   "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "Materialists",
+  "date": "Jul 02",
+  "time": "05:00 PM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "TATAMI",
@@ -215,6 +124,20 @@
   "time": "07:00 PM",
   "status": "sold out",
   "theaterID": "suns"
+ },
+ {
+  "title": "F1: The Movie",
+  "date": "Jul 02",
+  "time": "07:30 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "Shall We Dance",
+  "date": "Jul 02",
+  "time": "08:00 PM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "FAMILIAR TOUCH",
@@ -266,6 +189,13 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "Materialists",
+  "date": "Jul 03",
+  "time": "11:45 AM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
   "title": "OCEAN WITH DAVID ATTENBOROUGH",
   "date": "Jul 03",
   "time": "12:00 PM",
@@ -278,6 +208,13 @@
   "time": "12:10 PM",
   "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "F1: The Movie",
+  "date": "Jul 03",
+  "time": "12:30 PM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "AMOROSA (1986)",
@@ -301,11 +238,25 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "The Phoenician Scheme",
+  "date": "Jul 03",
+  "time": "02:30 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
   "title": "ARMY OF SHADOWS",
   "date": "Jul 03",
   "time": "03:45 PM",
   "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "F1: The Movie",
+  "date": "Jul 03",
+  "time": "04:00 PM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "TATAMI",
@@ -320,6 +271,13 @@
   "time": "04:40 PM",
   "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "Materialists",
+  "date": "Jul 03",
+  "time": "05:00 PM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "FAMILIAR TOUCH",
@@ -348,6 +306,20 @@
   "time": "07:00 PM",
   "status": "available",
   "theaterID": "miracle"
+ },
+ {
+  "title": "F1: The Movie",
+  "date": "Jul 03",
+  "time": "07:30 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "Materialists",
+  "date": "Jul 03",
+  "time": "07:45 PM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "TATAMI",
@@ -392,11 +364,25 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "Materialists",
+  "date": "Jul 04",
+  "time": "11:45 AM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
   "title": "FAMILIAR TOUCH",
   "date": "Jul 04",
   "time": "12:10 PM",
   "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "F1: The Movie",
+  "date": "Jul 04",
+  "time": "12:30 PM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
@@ -420,6 +406,20 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "The Phoenician Scheme",
+  "date": "Jul 04",
+  "time": "02:30 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "F1: The Movie",
+  "date": "Jul 04",
+  "time": "04:00 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
   "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
   "date": "Jul 04",
   "time": "04:20 PM",
@@ -432,6 +432,13 @@
   "time": "04:40 PM",
   "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "Materialists",
+  "date": "Jul 04",
+  "time": "05:00 PM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "THE WAGES OF FEAR (1953)",
@@ -453,6 +460,20 @@
   "time": "06:45 PM",
   "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "F1: The Movie",
+  "date": "Jul 04",
+  "time": "07:30 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "Materialists",
+  "date": "Jul 04",
+  "time": "07:45 PM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "TATAMI",
@@ -490,11 +511,25 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "Materialists",
+  "date": "Jul 05",
+  "time": "11:45 AM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
   "title": "THE PHOENICIAN SCHEME",
   "date": "Jul 05",
   "time": "12:10 PM",
   "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "F1: The Movie",
+  "date": "Jul 05",
+  "time": "12:30 PM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
@@ -518,6 +553,20 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "The Phoenician Scheme",
+  "date": "Jul 05",
+  "time": "02:30 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "F1: The Movie",
+  "date": "Jul 05",
+  "time": "04:00 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
   "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
   "date": "Jul 05",
   "time": "04:20 PM",
@@ -539,6 +588,13 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "Materialists",
+  "date": "Jul 05",
+  "time": "05:00 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
   "title": "FAMILIAR TOUCH",
   "date": "Jul 05",
   "time": "06:40 PM",
@@ -551,6 +607,20 @@
   "time": "06:45 PM",
   "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "F1: The Movie",
+  "date": "Jul 05",
+  "time": "07:30 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "Materialists",
+  "date": "Jul 05",
+  "time": "07:45 PM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "HEAT (1995)",
@@ -581,6 +651,20 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "Materialists",
+  "date": "Jul 06",
+  "time": "11:45 AM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "F1: The Movie",
+  "date": "Jul 06",
+  "time": "12:30 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
   "title": "THE SACRIFICE",
   "date": "Jul 06",
   "time": "01:15 PM",
@@ -602,6 +686,13 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "The Phoenician Scheme",
+  "date": "Jul 06",
+  "time": "02:30 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
   "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
   "date": "Jul 06",
   "time": "03:30 PM",
@@ -616,11 +707,25 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "F1: The Movie",
+  "date": "Jul 06",
+  "time": "04:00 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
   "title": "HEAT (1995)",
   "date": "Jul 06",
   "time": "04:15 PM",
   "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "Materialists",
+  "date": "Jul 06",
+  "time": "05:00 PM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "PUNK THE CAPITAL: BUILDING A SOUND MOVEMENT",
@@ -637,11 +742,25 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "F1: The Movie",
+  "date": "Jul 06",
+  "time": "07:30 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
   "title": "INLAND EMPIRE",
   "date": "Jul 06",
   "time": "07:45 PM",
   "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "Materialists",
+  "date": "Jul 06",
+  "time": "07:45 PM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "TATAMI",
@@ -672,11 +791,25 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "Materialists",
+  "date": "Jul 07",
+  "time": "11:45 AM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
   "title": "THE PHOENICIAN SCHEME",
   "date": "Jul 07",
   "time": "11:50 AM",
   "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "F1: The Movie",
+  "date": "Jul 07",
+  "time": "12:30 PM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
@@ -693,11 +826,25 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "The Phoenician Scheme",
+  "date": "Jul 07",
+  "time": "02:30 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
   "title": "HEAT (1995)",
   "date": "Jul 07",
   "time": "02:45 PM",
   "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "F1: The Movie",
+  "date": "Jul 07",
+  "time": "04:00 PM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
@@ -712,6 +859,13 @@
   "time": "04:25 PM",
   "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "Materialists",
+  "date": "Jul 07",
+  "time": "05:00 PM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "THE GOONIES",
@@ -733,6 +887,20 @@
   "time": "06:45 PM",
   "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "F1: The Movie",
+  "date": "Jul 07",
+  "time": "07:30 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "Materialists",
+  "date": "Jul 07",
+  "time": "07:45 PM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "INLAND EMPIRE",
@@ -770,11 +938,25 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "Materialists",
+  "date": "Jul 08",
+  "time": "11:45 AM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
   "title": "THE PHOENICIAN SCHEME",
   "date": "Jul 08",
   "time": "12:10 PM",
   "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "F1: The Movie",
+  "date": "Jul 08",
+  "time": "12:30 PM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
@@ -791,11 +973,25 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "The Phoenician Scheme",
+  "date": "Jul 08",
+  "time": "02:30 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
   "title": "INLAND EMPIRE",
   "date": "Jul 08",
   "time": "02:45 PM",
   "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "F1: The Movie",
+  "date": "Jul 08",
+  "time": "04:00 PM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
@@ -810,6 +1006,13 @@
   "time": "04:40 PM",
   "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "Materialists",
+  "date": "Jul 08",
+  "time": "05:00 PM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "THE SACRIFICE",
@@ -838,6 +1041,20 @@
   "time": "07:00 PM",
   "status": "sold out",
   "theaterID": "suns"
+ },
+ {
+  "title": "F1: The Movie",
+  "date": "Jul 08",
+  "time": "07:30 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "Materialists",
+  "date": "Jul 08",
+  "time": "07:45 PM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "TATAMI",
@@ -882,11 +1099,25 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "Materialists",
+  "date": "Jul 09",
+  "time": "11:45 AM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
   "title": "THE PHOENICIAN SCHEME",
   "date": "Jul 09",
   "time": "11:50 AM",
   "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "F1: The Movie",
+  "date": "Jul 09",
+  "time": "12:30 PM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
@@ -903,11 +1134,25 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "The Phoenician Scheme",
+  "date": "Jul 09",
+  "time": "02:30 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
   "title": "HEAT (1995)",
   "date": "Jul 09",
   "time": "02:45 PM",
   "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "F1: The Movie",
+  "date": "Jul 09",
+  "time": "04:00 PM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
@@ -922,6 +1167,13 @@
   "time": "04:25 PM",
   "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "Materialists",
+  "date": "Jul 09",
+  "time": "05:00 PM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "THE WAGES OF FEAR (1953)",
@@ -950,6 +1202,20 @@
   "time": "07:00 PM",
   "status": "available",
   "theaterID": "suns"
+ },
+ {
+  "title": "F1: The Movie",
+  "date": "Jul 09",
+  "time": "07:30 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "Dry Season",
+  "date": "Jul 09",
+  "time": "08:00 PM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "FAMILIAR TOUCH",
@@ -994,6 +1260,13 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "Materialists",
+  "date": "Jul 10",
+  "time": "11:45 AM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
   "title": "THE WAGES OF FEAR (1953)",
   "date": "Jul 10",
   "time": "12:00 PM",
@@ -1006,6 +1279,13 @@
   "time": "12:10 PM",
   "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "F1: The Movie",
+  "date": "Jul 10",
+  "time": "12:30 PM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
@@ -1022,11 +1302,25 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "The Phoenician Scheme",
+  "date": "Jul 10",
+  "time": "02:30 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
   "title": "THE SACRIFICE",
   "date": "Jul 10",
   "time": "03:00 PM",
   "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "F1: The Movie",
+  "date": "Jul 10",
+  "time": "04:00 PM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
@@ -1041,6 +1335,13 @@
   "time": "04:40 PM",
   "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "Materialists",
+  "date": "Jul 10",
+  "time": "05:00 PM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "THE GOONIES",
@@ -1069,6 +1370,20 @@
   "time": "07:00 PM",
   "status": "sold out",
   "theaterID": "suns"
+ },
+ {
+  "title": "F1: The Movie",
+  "date": "Jul 10",
+  "time": "07:30 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "Materialists",
+  "date": "Jul 10",
+  "time": "07:45 PM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "HEAT (1995)",
@@ -1384,6 +1699,13 @@
   "time": "07:00 PM",
   "status": "available",
   "theaterID": "suns"
+ },
+ {
+  "title": "The Ties That Bind Us",
+  "date": "Jul 16",
+  "time": "08:00 PM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "BONNIE AND CLYDE",
@@ -2098,5 +2420,54 @@
   "time": "09:30 PM",
   "status": "available",
   "theaterID": "suns"
+ },
+ {
+  "title": "LA NOTTE",
+  "date": "Jul 31",
+  "time": "01:15 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "RICHARD III (1955)",
+  "date": "Jul 31",
+  "time": "03:45 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "THE CONVERSATION (1974)",
+  "date": "Jul 31",
+  "time": "07:00 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "BLACK GIRL",
+  "date": "Jul 31",
+  "time": "07:00 PM",
+  "status": "available",
+  "theaterID": "suns"
+ },
+ {
+  "title": "SOLEIL Ô",
+  "date": "Jul 31",
+  "time": "08:45 PM",
+  "status": "available",
+  "theaterID": "suns"
+ },
+ {
+  "title": "INVASION OF ASTRO-MONSTER",
+  "date": "Jul 31",
+  "time": "09:30 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "DIVORCE ITALIAN STYLE",
+  "date": "Aug 01",
+  "time": "11:30 AM",
+  "status": "available",
+  "theaterID": "afisilver"
  }
 ]

@@ -2,22 +2,29 @@
   {
     "theaterID": "miracle",
     "name": "Miracle Theater",
-    "colorClass": "bg-red-900",  
+    "colorClass": "bg-red-900/75",  
     "address": "535 8th Street SE, Washington, DC",
     "screens": 1
   },
   {
     "theaterID": "afisilver",
     "name": "AFI Silver Theater and Cultural Center",
-    "colorClass": "bg-rose-800",
+    "colorClass": "bg-rose-800/75",
     "address": "8633 Colesville Road, Silver Spring, MD",
     "screens": 3
   },
   {
     "theaterID": "suns",
     "name": "Suns Cinema",
-    "colorClass": "bg-orange-600",
+    "colorClass": "bg-orange-600/75",
     "address": "3107 Mount Pleasent Street NW, Washington, DC",
     "screens": 1
+  },
+  {
+    "theaterID": "avalon",
+    "name": "Avalon Theatre",
+    "colorClass": "bg-yellow-300/75",
+    "address": "5612 Conneticut Avenue NW, Washington, DC",
+    "screens": 2
   }
 ]

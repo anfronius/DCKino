@@ -8,7 +8,7 @@ class AvalonSpider(scrapy.Spider):
 
     custom_settings = {
         "FEEDS": {
-            "data/avalon_showings.json": {
+            "data/avalonmovies.json": {
                 "format": "json",
                 "encoding": "utf-8",
                 "overwrite": True,

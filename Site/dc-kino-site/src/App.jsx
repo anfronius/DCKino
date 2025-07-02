@@ -144,7 +144,7 @@ export default function App() {
                               movie.poster || 'Poster'
                             )}
                           </div>
-                          <div className={`absolute inset-0 ${bgClass} filter brightness-75`} />
+                          <div className={`absolute inset-0 ${bgClass}`} />
                           <div className="relative z-10 p-6 flex flex-col justify-start w-full text-white">
                             <div className="text-2xl font-semibold mt-1 mb-4 font-limelight line-clamp-3">{movie.title}</div>
                             <div className="mt-auto">
@@ -183,7 +183,7 @@ export default function App() {
               </div>
               <div className="sm:w-1/2 flex flex-col justify-center">
                 <h2 className="text-3xl font-bold mb-2 font-limelight">{selectedMovie.title}</h2>
-                <p className="text-zinc-400 text-sm mb-2 font-montserratalts">{selectedMovie.date}</p>
+                <p className="text-zinc-300 text-sm mb-2 font-montserratalts">{selectedMovie.date}</p>
                 <p className="text-zinc-300 mb-2 text-sm font-montserratalts">
                   {selectedMovie.times.map(({ time, status }, i) => (
                     <span key={i} className={status !== 'available' ? 'line-through' : ''}>
