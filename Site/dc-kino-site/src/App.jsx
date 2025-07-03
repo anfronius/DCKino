@@ -6,17 +6,32 @@ import movies from './data/movies.json';
 import theaters from './data/theaters.json';
 import { getPosterUrl } from './utils/tmdb';
 
-// Group and condense movies by date, title, and theaterID
-const groupedByDate = movies.reduce((acc, movie) => {
-  const key = `${movie.title}|${movie.theaterID}`;
-  if (!acc[movie.date]) acc[movie.date] = {};
-  if (!acc[movie.date][key]) {
-    acc[movie.date][key] = {
+// Normalize date to 'Mon D' (e.g., 'Jul 3')
+function normalizeDate(dateStr) {
+  // Match e.g. 'Jul 03' or 'Jul 3' and convert to 'Jul 3'
+  const match = dateStr.match(/^(\w{3})\s0?(\d{1,2})$/);
+  if (match) {
+    return `${match[1]} ${parseInt(match[2], 10)}`;
+  }
+  return dateStr;
+}
+
+// Group and condense movies by normalized date and lowercase title (for stacking by movie, case-insensitive)
+const groupedByDateAndTitle = movies.reduce((acc, movie) => {
+  const lowerTitle = movie.title.toLowerCase();
+  const normDate = normalizeDate(movie.date);
+  if (!acc[normDate]) acc[normDate] = {};
+  if (!acc[normDate][lowerTitle]) acc[normDate][lowerTitle] = [];
+  // Find if this theater already exists for this movie on this date
+  let theaterEntry = acc[normDate][lowerTitle].find(m => m.theaterID === movie.theaterID);
+  if (!theaterEntry) {
+    acc[normDate][lowerTitle].push({
       ...movie,
+      date: normDate, // ensure all movies in group have normalized date
       times: [{ time: movie.time, status: movie.status }]
-    };
+    });
   } else {
-    acc[movie.date][key].times.push({ time: movie.time, status: movie.status });
+    theaterEntry.times.push({ time: movie.time, status: movie.status });
   }
   return acc;
 }, {});
@@ -64,7 +79,18 @@ export default function App() {
   const uniqueMovieKeys = new Set(movies.map(m => `${m.title}|${m.theaterID}`));
   const uniqueMovies = Array.from(new Set(movies.map(m => m.title)));
   const offlineTheaters = theaters.filter(theater => theater.online === false);
-  const availableDates = Object.keys(groupedByDate).sort();
+  const availableDates = Object.keys(groupedByDateAndTitle).sort((a, b) => {
+    // Try to sort by month and day
+    const parse = (s) => {
+      const m = s.match(/^(\w{3})\s(\d{1,2})$/);
+      if (!m) return [0, 0];
+      const months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+      return [months.indexOf(m[1]), parseInt(m[2], 10)];
+    };
+    const [ma, da] = parse(a);
+    const [mb, db] = parse(b);
+    return ma !== mb ? ma - mb : da - db;
+  });
 
   const scrollToTop = () => {
     window.scrollTo({ top: 0, behavior: 'smooth' });
@@ -118,61 +144,85 @@ export default function App() {
       <main className="min-h-screen px-4 py-6 relative">
         <div className="w-full">
           <div className="flex flex-col gap-10">
-            {Object.entries(groupedByDate).map(([date, showingsMap]) => {
-              const groupedShowings = Object.values(showingsMap);
-              return (
-                <div key={date} id={`date-${new Date(date).toISOString().split("T")[0]}`} className="flex flex-col gap-4">
-                  <h2 className="text-4xl font-bold text-white border-b border-zinc-600 pb-2 font-montserratalts">
-                    {date}
-                  </h2>
-                  <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-                    {groupedShowings.map((movie, index) => {
-                      const theater = theaterMap[movie.theaterID];
-                      const bgClass = theater?.colorClass || 'bg-zinc-800';
-                      const posterUrl = posters[movie.title];
-
-                      return (
-                        <div
-                          key={index}
-                          onClick={() => setSelectedMovie({ ...movie, bgClass, date })}
-                          className="cursor-pointer relative rounded-2xl shadow-lg flex flex-col sm:flex-row overflow-hidden h-60 transition-transform duration-300 transform hover:scale-[1.03] hover:shadow-2xl"
-                        >
-                          <div className="w-full sm:w-1/2 h-1/2 sm:h-full bg-zinc-700 flex items-center justify-center text-sm text-zinc-300 z-10">
-                            {posterUrl ? (
-                              <img src={posterUrl} alt={movie.title} className="object-cover w-full h-full" />
-                            ) : (
-                              movie.poster || 'Poster'
-                            )}
-                          </div>
-                          <div className={`absolute inset-0 ${bgClass}`} />
-                          <div className="relative z-10 p-6 flex flex-col justify-start w-full text-white">
-                            <div className="text-2xl font-semibold mt-1 mb-4 font-limelight line-clamp-3">{movie.title}</div>
-                            <div className="mt-auto">
-                              <div className="text-zinc-100 text-sm leading-tight mb-3 font-montserratalts">
-                                {movie.times.map(({ time, status }, i) => (
-                                  <span key={i} className={status !== 'available' ? 'line-through' : ''}>
-                                    {i > 0 ? ' • ' : ''}{time}
-                                  </span>
-                                ))}
+            {Object.entries(groupedByDateAndTitle).map(([date, moviesByTitle]) => (
+              <div key={date} id={`date-${new Date(date).toISOString().split("T")[0]}`} className="flex flex-col gap-4">
+                <h2 className="text-4xl font-bold text-white border-b border-zinc-600 pb-2 font-montserratalts">
+                  {date}
+                </h2>
+                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+                  {Object.entries(moviesByTitle).map(([title, showings], groupIdx) => {
+                    // Overlay cards with vertical offset: top card is last in array
+                    const stackOffset = 32; // px
+                    const stackHeight = 240 + (showings.length - 1) * stackOffset;
+                    return (
+                      <div key={title} className="relative" style={{ height: `${stackHeight}px` }}>
+                        {[...showings]
+                          .slice()
+                          .sort((a, b) => {
+                            // Sort by earliest showing time (first time in times array)
+                            const getFirstTime = (movie) => {
+                              if (!movie.times || movie.times.length === 0) return '23:59';
+                              // Assume time is in HH:MM or H:MM format
+                              return movie.times[0].time;
+                            };
+                            return getFirstTime(a).localeCompare(getFirstTime(b));
+                          })
+                          .map((movie, idx, arr) => {
+                            const theater = theaterMap[movie.theaterID];
+                            const bgClass = theater?.colorClass || 'bg-zinc-800';
+                            const posterUrl = posters[movie.title];
+                            // Overlay: top card is at the top, each card below is lower
+                            // idx=0 is top, idx=arr.length-1 is bottom
+                            return (
+                              <div
+                                key={movie.theaterID}
+                                onClick={() => setSelectedMovie({ ...movie, bgClass, date })}
+                                className="cursor-pointer absolute left-0 right-0 rounded-2xl shadow-lg flex flex-col sm:flex-row overflow-hidden h-60 transition-transform duration-300 transform hover:scale-[1.03] hover:shadow-2xl"
+                                style={{ top: `${idx * stackOffset}px`, zIndex: 10 + (arr.length - idx), opacity: 1 }}
+                              >
+                                {/* Blank card for background, same as site bg */}
+                                <div className="absolute inset-0 bg-zinc-900" style={{ zIndex: 0 }} />
+                                <div className="w-full sm:w-1/2 h-1/2 sm:h-full bg-zinc-700 flex items-center justify-center text-sm text-zinc-300 z-10">
+                                  {posterUrl ? (
+                                    <img src={posterUrl} alt={movie.title} className="object-cover w-full h-full" />
+                                  ) : (
+                                    movie.poster || 'Poster'
+                                  )}
+                                </div>
+                                <div className={`absolute inset-0 ${bgClass}`} style={{ zIndex: 1 }} />
+                                <div className="relative z-10 p-6 flex flex-col justify-start w-full text-white">
+                                  <div className="text-2xl font-semibold mt-1 mb-4 font-limelight line-clamp-3">{movie.title}</div>
+                                  <div className="mt-auto">
+                                    <div className="text-zinc-100 text-sm leading-tight mb-3 font-montserratalts">
+                                      {movie.times.map(({ time, status }, i) => (
+                                        <span key={i} className={status !== 'available' ? 'line-through' : ''}>
+                                          {i > 0 ? ' • ' : ''}{time}
+                                        </span>
+                                      ))}
+                                    </div>
+                                    <div className="text-zinc-100 text-xl font-alumnisc line-clamp-2">{theater?.name || 'Unknown Theater'}</div>
+                                  </div>
+                                </div>
                               </div>
-                              <div className="text-zinc-100 text-xl font-alumnisc line-clamp-2">{theater?.name || 'Unknown Theater'}</div>
-                            </div>
-                          </div>
-                        </div>
-                      );
-                    })}
-                  </div>
+                            );
+                          })}
+                      </div>
+                    );
+                  })}
                 </div>
-              );
-            })}
+              </div>
+            ))}
           </div>
         </div>
 
         {selectedMovie && (
           <div className="fixed inset-0 z-50 bg-black bg-opacity-80 flex justify-center items-center">
-            <div className={`text-white rounded-2xl shadow-xl p-6 max-w-4xl w-full relative flex flex-col sm:flex-row gap-6 ${selectedMovie.bgClass}`}>
-              <button onClick={() => setSelectedMovie(null)} className="absolute top-2 right-2 text-white text-2xl">×</button>
-              <div className="sm:w-1/2 flex justify-center items-center">
+            <div className={`text-white rounded-2xl shadow-xl p-6 max-w-4xl w-full relative flex flex-col sm:flex-row gap-6`}>
+              {/* Blank card for background, same as site bg, behind the colored card */}
+              <div className="absolute inset-0 bg-zinc-900 rounded-2xl" style={{ zIndex: 0 }} />
+              <div className={`absolute inset-0 rounded-2xl ${selectedMovie.bgClass}`} style={{ zIndex: 1 }} />
+              <button onClick={() => setSelectedMovie(null)} className="absolute top-2 right-2 text-white text-2xl z-20">×</button>
+              <div className="sm:w-1/2 flex justify-center items-center z-10">
                 {posters[selectedMovie.title] ? (
                   <img src={posters[selectedMovie.title]} alt={selectedMovie.title} className="object-cover max-h-[500px] w-full rounded" />
                 ) : (
@@ -181,7 +231,7 @@ export default function App() {
                   </div>
                 )}
               </div>
-              <div className="sm:w-1/2 flex flex-col justify-center">
+              <div className="sm:w-1/2 flex flex-col justify-center z-10">
                 <h2 className="text-3xl font-bold mb-2 font-limelight">{selectedMovie.title}</h2>
                 <p className="text-zinc-300 text-sm mb-2 font-montserratalts">{selectedMovie.date}</p>
                 <p className="text-zinc-300 mb-2 text-sm font-montserratalts">

@@ -55,10 +55,6 @@ class AvalonSpider(scrapy.Spider):
             )
 
     def parse_ticketing_page(self, response, title):
-        filename = f"debug-ticketing-{title.replace(' ', '_').lower()}.html"
-        with open(filename, "w", encoding="utf-8") as f:
-            f.write(response.text)
-
         showtimes = response.css("div.ButtonGroup::attr(data-agl_date)").getall()
         for raw in showtimes:
             cleaned = raw.strip().replace(" A", " AM").replace(" P", " PM")
@@ -71,5 +67,5 @@ class AvalonSpider(scrapy.Spider):
                     "status": "available",
                     "theaterID": "avalon"
                 }
-            except Exception as e:
-                self.logger.warning(f"Skipping bad date '{raw}' for {title}: {e}")
+            except Exception:
+                pass

@@ -19,12 +19,6 @@ class SunsCinemaSpider(scrapy.Spider):
     }
 
     def parse(self, response):
-        # Save HTML for debugging
-        debug_path = Path("data/suns_debug.html")
-        debug_path.parent.mkdir(parents=True, exist_ok=True)
-        debug_path.write_text(response.text, encoding="utf-8")
-        self.logger.info(f"Saved HTML response to {debug_path.resolve()}")
-
         # Loop through each movie block
         movie_blocks = response.css("div.showtimes-description")
 
@@ -50,8 +44,7 @@ class SunsCinemaSpider(scrapy.Spider):
                         date = dt.strftime("%b %d")
                     else:
                         date = raw_date.strip()
-                except Exception as e:
-                    self.logger.warning(f"Date parsing issue: {e}")
+                except Exception:
                     date = raw_date.strip()
 
                 # Get all showtime buttons under the current block

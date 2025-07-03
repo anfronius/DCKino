@@ -26,5 +26,19 @@
     "colorClass": "bg-yellow-300/75",
     "address": "5612 Conneticut Avenue NW, Washington, DC",
     "screens": 2
+  },
+  {
+    "theaterID": "Landmark Atlantic Plumbing Cinema",
+    "name": "Landmark Atlantic Plumbing Cinema",
+    "colorClass": "bg-indigo-500/75",
+    "address": "807 V Street NW, Washington, DC",
+    "screens": 6
+  },
+  {
+    "theaterID": "Landmark Bethesda Row Cinema",
+    "name": "Landmark Bethesda Row Cinema",
+    "colorClass": "bg-lime-400/75",
+    "address": "7235 Woodmont Avenue, Bethesda, MD",
+    "screens": 8
   }
 ]
