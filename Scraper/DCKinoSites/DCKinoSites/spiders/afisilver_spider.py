@@ -1,14 +1,10 @@
 import scrapy
-import random
-import time
 from datetime import datetime
 
 class AfiShowtimesSpider(scrapy.Spider):
     name = "afisilver"
     allowed_domains = ["silver.afi.com"]
-    start_urls = [
-        "https://silver.afi.com/Browsing/QuickTickets/Compare"
-    ]
+    start_urls = ["https://silver.afi.com/now-playing/"]
 
     custom_settings = {
         "FEEDS": {
@@ -31,47 +27,63 @@ class AfiShowtimesSpider(scrapy.Spider):
     }
 
     def parse(self, response):
-        self.logger.info("Loaded URL: %s", response.url)
+        # Extract movie detail page links from movie_item divs
+        movie_links = response.css("div.movie_item a::attr(href)").getall()
+        seen = set()
+        for link in movie_links:
+            if "/movies/detail/" in link and link not in seen:
+                seen.add(link)
+                yield scrapy.Request(
+                    url=response.urljoin(link),
+                    headers=self.custom_headers,
+                    callback=self.parse_movie_detail
+                )
 
-        film_list = response.css("div.film-list.multi-date")
+    def parse_movie_detail(self, response):
+        # Extract title from h1 in movie_shows div
+        title = response.css("div.movie_shows h1::text").get()
+        title = title.strip() if title else "Untitled"
 
-        for block in film_list:
-            current_date = None
+        # Extract showtimes from show_wrap divs
+        show_wrappers = response.css("div.movie_shows div.show_wrap")
+        for wrapper in show_wrappers:
+            # Extract date (e.g., "Sunday, August 24, 2025")
+            raw_date = wrapper.css("p::text").get()
+            if not raw_date:
+                continue
 
-            for child in block.xpath("./*"):
-                classes = child.xpath("@class").get(default="")
+            # Parse and format date to "Jul 24"
+            try:
+                # Remove weekday and year (e.g., "Sunday, August 24, 2025" -> "August 24")
+                parts = raw_date.split(", ")
+                if len(parts) >= 2:
+                    date_str = parts[1].split(",")[0]  # Get "August 24"
+                    dt = datetime.strptime(date_str, "%B %d")
+                    formatted_date = dt.strftime("%b %d")
+                else:
+                    # Fallback: attempt to parse raw date directly
+                    dt = datetime.strptime(raw_date.strip(), "%B %d")
+                    formatted_date = dt.strftime("%b %d")
+            except Exception:
+                formatted_date = raw_date.strip()
 
-                if "date-group" in classes:
-                    raw_date = child.xpath("text()").get(default="").strip()
-                    try:
-                        # Remove weekday name
-                        parts = raw_date.split(" ", 1)
-                        if len(parts) == 2:
-                            raw_date = parts[1]
-                        # Format from "27 June" to "Jun 27"
-                        dt = datetime.strptime(raw_date, "%d %B")
-                        current_date = dt.strftime("%b %d")
-                    except Exception as e:
-                        self.logger.warning(f"Date parsing error: {e}")
-                        current_date = raw_date  # Fallback to raw text
+            # Extract time (e.g., "8:15 p.m.")
+            raw_time = wrapper.css("a.select_show span::text").get()
+            if not raw_time:
+                continue
 
-                    continue
+            # Normalize time to "8:15 PM"
+            try:
+                time_clean = raw_time.replace("p.m.", "PM").replace("a.m.", "AM").strip()
+                dt = datetime.strptime(time_clean, "%I:%M %p")
+                formatted_time = dt.strftime("%I:%M %p")
+            except Exception:
+                formatted_time = raw_time.strip()
 
-                if "film-item" in classes and current_date:
-                    title = child.css("h3.film-title::text").get()
-                    times = child.css("time::text").getall()
-                    times = [t.strip() for t in times if t.strip()]
-
-                    for t in times:
-                        yield {
-                            "title": title.strip() if title else None,
-                            "date": current_date,
-                            "time": t,
-                            "status": "available",
-                            "theaterID": "afisilver"
-                        }
-
-        next_page = response.css("a.nextPage::attr(href)").get()
-        if next_page:
-            time.sleep(random.uniform(1, 2))
-            yield response.follow(next_page, callback=self.parse)
+            yield {
+                "title": title,
+                "date": formatted_date,
+                "time": formatted_time,
+                "status": "available",
+                "theaterID": "afisilver"
+            }

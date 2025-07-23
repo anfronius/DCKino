@@ -6,6 +6,7 @@ const BLACKLIST_PHRASES = [
   'SPX Presents: ',
   'Art House Theater Day: ',
   ' in 35mm',
+  '(sensory friendly)',
   // Add any more phrases you want to ignore here
 ];
 

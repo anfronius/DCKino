@@ -1,4161 +1,241 @@
 [
  {
-  "title": "F1 The Movie",
-  "date": "Jul 03",
-  "time": "03:20 PM",
+  "title": "Don’t Let’s Go to the Dogs Tonight",
+  "date": "Jul 23",
+  "time": "12:00 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "avalon"
  },
  {
-  "title": "ARMY OF SHADOWS",
-  "date": "Jul 03",
-  "time": "03:45 PM",
+  "title": "MARLEE MATLIN: NOT ALONE ANYMORE",
+  "date": "Jul 23",
+  "time": "12:15 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "F1: The Movie",
-  "date": "Jul 03",
-  "time": "04:00 PM",
+  "date": "Jul 23",
+  "time": "12:15 PM",
   "status": "available",
   "theaterID": "avalon"
  },
  {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 03",
+  "title": "SAFE (1995)",
+  "date": "Jul 23",
+  "time": "01:15 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "Don’t Let’s Go to the Dogs Tonight",
+  "date": "Jul 23",
+  "time": "02:15 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "TO A LAND UNKNOWN",
+  "date": "Jul 23",
+  "time": "02:20 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 23",
+  "time": "03:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "F1 The Movie",
+  "date": "Jul 23",
+  "time": "03:15 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "F1: The Movie",
+  "date": "Jul 23",
+  "time": "03:30 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "TO CATCH A THIEF",
+  "date": "Jul 23",
+  "time": "03:45 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 23",
   "time": "04:00 PM",
   "status": "available",
   "theaterID": "Landmark Bethesda Row Cinema"
  },
  {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 03",
-  "time": "04:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "28 Years Later",
-  "date": "Jul 03",
-  "time": "04:10 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
   "title": "F1 The Movie",
-  "date": "Jul 03",
+  "date": "Jul 23",
   "time": "04:15 PM",
   "status": "available",
   "theaterID": "Landmark Bethesda Row Cinema"
  },
  {
-  "title": "TATAMI",
-  "date": "Jul 03",
+  "title": "Jurassic World Rebirth",
+  "date": "Jul 23",
   "time": "04:20 PM",
   "status": "available",
-  "theaterID": "afisilver"
+  "theaterID": "Landmark Bethesda Row Cinema"
  },
  {
-  "title": "F1 The Movie",
-  "date": "Jul 03",
-  "time": "04:20 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 03",
+  "title": "Eddington",
+  "date": "Jul 23",
   "time": "04:30 PM",
   "status": "available",
   "theaterID": "Landmark Bethesda Row Cinema"
  },
  {
-  "title": "Materialists",
-  "date": "Jul 03",
-  "time": "04:30 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "THE PHOENICIAN SCHEME",
-  "date": "Jul 03",
-  "time": "04:40 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Elio",
-  "date": "Jul 03",
+  "title": "Don’t Let’s Go to the Dogs Tonight",
+  "date": "Jul 23",
   "time": "04:45 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 03",
-  "time": "05:00 PM",
   "status": "available",
   "theaterID": "avalon"
  },
  {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 03",
+  "title": "Smurfs",
+  "date": "Jul 23",
   "time": "05:00 PM",
   "status": "available",
   "theaterID": "Landmark Bethesda Row Cinema"
  },
  {
   "title": "The Life Of Chuck",
-  "date": "Jul 03",
-  "time": "05:10 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "The Phoenician Scheme",
-  "date": "Jul 03",
+  "date": "Jul 23",
   "time": "05:15 PM",
   "status": "available",
   "theaterID": "Landmark Bethesda Row Cinema"
  },
  {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 03",
+  "title": "LA DOLCE VITA",
+  "date": "Jul 23",
   "time": "06:00 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "afisilver"
  },
  {
-  "title": "F1 The Movie",
-  "date": "Jul 03",
-  "time": "06:30 PM",
+  "title": "Superman",
+  "date": "Jul 23",
+  "time": "06:00 PM",
   "status": "available",
   "theaterID": "Landmark Bethesda Row Cinema"
  },
  {
   "title": "F1 The Movie",
-  "date": "Jul 03",
+  "date": "Jul 23",
   "time": "06:30 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "Landmark Bethesda Row Cinema"
  },
  {
-  "title": "FAMILIAR TOUCH",
-  "date": "Jul 03",
-  "time": "06:40 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "FUNERAL PARADE OF ROSES",
-  "date": "Jul 03",
-  "time": "06:45 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "THE PHOENICIAN SCHEME",
-  "date": "Jul 03",
-  "time": "06:50 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Karate Kid: Legends",
-  "date": "Jul 3",
+  "title": "The Umbrellas of Cherbourg",
+  "date": "Jul 23",
   "time": "07:00 PM",
   "status": "available",
   "theaterID": "miracle"
  },
  {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 03",
+  "title": "TO A LAND UNKNOWN",
+  "date": "Jul 23",
   "time": "07:00 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "suns"
  },
  {
-  "title": "Elio",
-  "date": "Jul 03",
-  "time": "07:10 PM",
+  "title": "F1: The Movie",
+  "date": "Jul 23",
+  "time": "07:00 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 23",
+  "time": "07:00 PM",
   "status": "available",
   "theaterID": "Landmark Bethesda Row Cinema"
  },
  {
-  "title": "28 Years Later",
-  "date": "Jul 03",
-  "time": "07:10 PM",
+  "title": "Don’t Let’s Go to the Dogs Tonight",
+  "date": "Jul 23",
+  "time": "07:15 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "avalon"
  },
  {
   "title": "Jurassic World Rebirth",
-  "date": "Jul 03",
+  "date": "Jul 23",
   "time": "07:15 PM",
   "status": "available",
   "theaterID": "Landmark Bethesda Row Cinema"
  },
  {
-  "title": "Materialists",
-  "date": "Jul 03",
+  "title": "Smurfs",
+  "date": "Jul 23",
   "time": "07:20 PM",
   "status": "available",
   "theaterID": "Landmark Bethesda Row Cinema"
  },
  {
-  "title": "F1: The Movie",
-  "date": "Jul 03",
-  "time": "07:30 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 03",
+  "title": "Eddington",
+  "date": "Jul 23",
   "time": "07:30 PM",
   "status": "available",
   "theaterID": "Landmark Bethesda Row Cinema"
  },
  {
   "title": "F1 The Movie",
-  "date": "Jul 03",
-  "time": "07:30 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "The Life Of Chuck",
-  "date": "Jul 03",
+  "date": "Jul 23",
   "time": "07:40 PM",
   "status": "available",
   "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 03",
-  "time": "07:40 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 03",
-  "time": "07:45 PM",
-  "status": "available",
-  "theaterID": "avalon"
  },
  {
   "title": "The Phoenician Scheme",
-  "date": "Jul 03",
+  "date": "Jul 23",
   "time": "07:45 PM",
   "status": "available",
   "theaterID": "Landmark Bethesda Row Cinema"
  },
  {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 03",
-  "time": "08:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "TATAMI",
-  "date": "Jul 03",
-  "time": "08:40 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 03",
+  "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
+  "date": "Jul 23",
   "time": "08:50 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "PINK NARCISSUS",
-  "date": "Jul 03",
-  "time": "09:00 PM",
-  "status": "available",
   "theaterID": "afisilver"
  },
  {
-  "title": "MARIA CHAVEZ DJ SET w VALENTINA & Kristy la rAt: Part Two",
-  "date": "Jul 03",
-  "time": "09:00 PM",
-  "status": "available",
-  "theaterID": "suns"
- },
- {
-  "title": "SCRUBBERS",
-  "date": "Jul 03",
-  "time": "09:15 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 03",
-  "time": "09:35 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 03",
-  "time": "09:45 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "28 Years Later",
-  "date": "Jul 03",
-  "time": "09:45 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "Elio",
-  "date": "Jul 03",
-  "time": "09:50 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 03",
-  "time": "09:55 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 03",
-  "time": "09:55 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "The Life Of Chuck",
-  "date": "Jul 03",
-  "time": "10:05 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 03",
-  "time": "10:05 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "The Phoenician Scheme",
-  "date": "Jul 03",
-  "time": "10:10 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 03",
-  "time": "10:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 04",
-  "time": "11:30 AM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
-  "date": "Jul 04",
-  "time": "11:40 AM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 04",
-  "time": "11:40 AM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "THE GOONIES",
-  "date": "Jul 04",
-  "time": "11:45 AM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 04",
-  "time": "11:45 AM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 04",
-  "time": "11:45 AM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "The Life Of Chuck",
-  "date": "Jul 04",
-  "time": "11:50 AM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Elio",
-  "date": "Jul 04",
-  "time": "12:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "FAMILIAR TOUCH",
-  "date": "Jul 04",
-  "time": "12:10 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "The Phoenician Scheme",
-  "date": "Jul 04",
-  "time": "12:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "F1: The Movie",
-  "date": "Jul 04",
-  "time": "12:30 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 04",
-  "time": "12:30 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 04",
-  "time": "12:45 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 04",
-  "time": "12:50 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 04",
-  "time": "01:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 04",
-  "time": "01:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "28 Years Later",
-  "date": "Jul 04",
-  "time": "01:30 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 04",
-  "time": "01:50 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
-  "date": "Jul 04",
-  "time": "02:00 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 04",
-  "time": "02:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "INLAND EMPIRE",
-  "date": "Jul 04",
-  "time": "02:15 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "The Life Of Chuck",
-  "date": "Jul 04",
-  "time": "02:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "THE PHOENICIAN SCHEME",
-  "date": "Jul 04",
-  "time": "02:20 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 04",
-  "time": "02:20 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "The Phoenician Scheme",
-  "date": "Jul 04",
-  "time": "02:30 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "Elio",
-  "date": "Jul 04",
-  "time": "02:30 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "The Phoenician Scheme",
-  "date": "Jul 04",
-  "time": "02:45 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 04",
-  "time": "03:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 04",
-  "time": "03:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 04",
-  "time": "03:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "F1: The Movie",
-  "date": "Jul 04",
-  "time": "04:00 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 04",
-  "time": "04:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 04",
-  "time": "04:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 04",
-  "time": "04:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 04",
-  "time": "04:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
-  "date": "Jul 04",
-  "time": "04:20 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "28 Years Later",
-  "date": "Jul 04",
-  "time": "04:30 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "FAMILIAR TOUCH",
-  "date": "Jul 04",
-  "time": "04:40 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Elio",
-  "date": "Jul 04",
-  "time": "04:45 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 04",
-  "time": "04:45 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 04",
-  "time": "04:50 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 04",
-  "time": "05:00 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 04",
-  "time": "05:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "The Life Of Chuck",
-  "date": "Jul 04",
-  "time": "05:10 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "The Phoenician Scheme",
-  "date": "Jul 04",
-  "time": "05:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "THE WAGES OF FEAR (1953)",
-  "date": "Jul 04",
-  "time": "05:45 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 04",
-  "time": "06:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 04",
-  "time": "06:20 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 04",
-  "time": "06:30 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "FAMILIAR TOUCH",
-  "date": "Jul 04",
-  "time": "06:40 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
-  "date": "Jul 04",
-  "time": "06:45 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Elio",
-  "date": "Jul 04",
-  "time": "07:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 04",
-  "time": "07:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 04",
-  "time": "07:10 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 04",
-  "time": "07:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 04",
-  "time": "07:20 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 04",
-  "time": "07:20 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "F1: The Movie",
-  "date": "Jul 04",
-  "time": "07:30 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 04",
-  "time": "07:30 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "28 Years Later",
-  "date": "Jul 04",
-  "time": "07:30 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "The Life Of Chuck",
-  "date": "Jul 04",
-  "time": "07:40 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 04",
-  "time": "07:45 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "The Phoenician Scheme",
-  "date": "Jul 04",
-  "time": "07:45 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 04",
-  "time": "08:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "TATAMI",
-  "date": "Jul 04",
-  "time": "08:40 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "SORCERER",
-  "date": "Jul 04",
-  "time": "08:45 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 04",
-  "time": "08:50 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
-  "date": "Jul 04",
-  "time": "09:00 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 04",
+  "title": "MOTHRA",
+  "date": "Jul 23",
   "time": "09:30 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Elio",
-  "date": "Jul 04",
-  "time": "09:35 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 04",
-  "time": "09:45 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 04",
-  "time": "09:45 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 04",
-  "time": "09:50 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 04",
-  "time": "09:55 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 04",
-  "time": "10:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "The Life Of Chuck",
-  "date": "Jul 04",
-  "time": "10:05 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "The Phoenician Scheme",
-  "date": "Jul 04",
-  "time": "10:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "28 Years Later",
-  "date": "Jul 04",
-  "time": "10:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "The Goonies",
-  "date": "Jul 05",
-  "time": "11:00 AM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "THE WAGES OF FEAR (1953)",
-  "date": "Jul 05",
-  "time": "11:30 AM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 05",
-  "time": "11:30 AM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
-  "date": "Jul 05",
-  "time": "11:40 AM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 05",
-  "time": "11:40 AM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 05",
-  "time": "11:45 AM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 05",
-  "time": "11:45 AM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Elio",
-  "date": "Jul 05",
-  "time": "12:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "THE PHOENICIAN SCHEME",
-  "date": "Jul 05",
-  "time": "12:10 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "The Phoenician Scheme",
-  "date": "Jul 05",
-  "time": "12:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "F1: The Movie",
-  "date": "Jul 05",
-  "time": "12:30 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 05",
-  "time": "12:30 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 05",
-  "time": "12:45 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 05",
-  "time": "12:50 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 05",
-  "time": "01:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 05",
-  "time": "01:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "28 Years Later",
-  "date": "Jul 05",
-  "time": "01:30 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 05",
-  "time": "01:50 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
-  "date": "Jul 05",
-  "time": "02:00 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 05",
-  "time": "02:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "The Life Of Chuck",
-  "date": "Jul 05",
-  "time": "02:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "THE PHOENICIAN SCHEME",
-  "date": "Jul 05",
-  "time": "02:20 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 05",
-  "time": "02:20 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "THE GOONIES",
-  "date": "Jul 05",
-  "time": "02:30 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "The Phoenician Scheme",
-  "date": "Jul 05",
-  "time": "02:30 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "Elio",
-  "date": "Jul 05",
-  "time": "02:30 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "The Phoenician Scheme",
-  "date": "Jul 05",
-  "time": "02:45 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 05",
-  "time": "03:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 05",
-  "time": "03:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 05",
-  "time": "03:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "F1: The Movie",
-  "date": "Jul 05",
-  "time": "04:00 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 05",
-  "time": "04:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 05",
-  "time": "04:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 05",
-  "time": "04:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 05",
-  "time": "04:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
-  "date": "Jul 05",
-  "time": "04:20 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "28 Years Later",
-  "date": "Jul 05",
-  "time": "04:30 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "FAMILIAR TOUCH",
-  "date": "Jul 05",
-  "time": "04:40 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Elio",
-  "date": "Jul 05",
-  "time": "04:45 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 05",
-  "time": "04:45 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 05",
-  "time": "04:50 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "INLAND EMPIRE",
-  "date": "Jul 05",
-  "time": "05:00 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 05",
-  "time": "05:00 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 05",
-  "time": "05:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "The Life Of Chuck",
-  "date": "Jul 05",
-  "time": "05:10 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "The Phoenician Scheme",
-  "date": "Jul 05",
-  "time": "05:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 05",
-  "time": "06:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 05",
-  "time": "06:20 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 05",
-  "time": "06:30 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "FAMILIAR TOUCH",
-  "date": "Jul 05",
-  "time": "06:40 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
-  "date": "Jul 05",
-  "time": "06:45 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Elio",
-  "date": "Jul 05",
-  "time": "07:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 05",
-  "time": "07:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 05",
-  "time": "07:10 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 05",
-  "time": "07:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 05",
-  "time": "07:20 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 05",
-  "time": "07:20 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "F1: The Movie",
-  "date": "Jul 05",
-  "time": "07:30 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 05",
-  "time": "07:30 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "28 Years Later",
-  "date": "Jul 05",
-  "time": "07:30 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "The Life Of Chuck",
-  "date": "Jul 05",
-  "time": "07:40 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 05",
-  "time": "07:45 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "The Phoenician Scheme",
-  "date": "Jul 05",
-  "time": "07:45 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 05",
-  "time": "08:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "HEAT (1995)",
-  "date": "Jul 05",
-  "time": "08:30 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "TATAMI",
-  "date": "Jul 05",
-  "time": "08:40 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 05",
-  "time": "08:50 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
-  "date": "Jul 05",
-  "time": "09:00 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 05",
-  "time": "09:30 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Elio",
-  "date": "Jul 05",
-  "time": "09:35 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 05",
-  "time": "09:45 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 05",
-  "time": "09:45 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 05",
-  "time": "09:50 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 05",
-  "time": "09:55 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 05",
-  "time": "10:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "The Life Of Chuck",
-  "date": "Jul 05",
-  "time": "10:05 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "The Phoenician Scheme",
-  "date": "Jul 05",
-  "time": "10:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "28 Years Later",
-  "date": "Jul 05",
-  "time": "10:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "The Goonies",
-  "date": "Jul 06",
-  "time": "11:00 AM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "FAMILIAR TOUCH",
-  "date": "Jul 06",
-  "time": "11:15 AM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 06",
-  "time": "11:30 AM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 06",
-  "time": "11:40 AM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 06",
-  "time": "11:45 AM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 06",
-  "time": "11:45 AM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Elio",
-  "date": "Jul 06",
-  "time": "12:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "The Phoenician Scheme",
-  "date": "Jul 06",
-  "time": "12:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "F1: The Movie",
-  "date": "Jul 06",
-  "time": "12:30 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 06",
-  "time": "12:30 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 06",
-  "time": "12:45 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 06",
-  "time": "12:50 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 06",
-  "time": "01:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "THE SACRIFICE",
-  "date": "Jul 06",
-  "time": "01:15 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
-  "date": "Jul 06",
-  "time": "01:15 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 06",
-  "time": "01:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "THE PHOENICIAN SCHEME",
-  "date": "Jul 06",
-  "time": "01:30 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "28 Years Later",
-  "date": "Jul 06",
-  "time": "01:30 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 06",
-  "time": "01:50 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 06",
-  "time": "02:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "The Life Of Chuck",
-  "date": "Jul 06",
-  "time": "02:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 06",
-  "time": "02:20 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "The Phoenician Scheme",
-  "date": "Jul 06",
-  "time": "02:30 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "Elio",
-  "date": "Jul 06",
-  "time": "02:30 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "The Phoenician Scheme",
-  "date": "Jul 06",
-  "time": "02:45 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 06",
-  "time": "03:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 06",
-  "time": "03:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 06",
-  "time": "03:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
-  "date": "Jul 06",
-  "time": "03:30 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "THE PHOENICIAN SCHEME",
-  "date": "Jul 06",
-  "time": "03:45 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "F1: The Movie",
-  "date": "Jul 06",
-  "time": "04:00 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 06",
-  "time": "04:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 06",
-  "time": "04:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "HEAT (1995)",
-  "date": "Jul 06",
-  "time": "04:15 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 06",
-  "time": "04:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 06",
-  "time": "04:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "28 Years Later",
-  "date": "Jul 06",
-  "time": "04:30 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "Elio",
-  "date": "Jul 06",
-  "time": "04:45 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 06",
-  "time": "04:45 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 06",
-  "time": "04:50 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 06",
-  "time": "05:00 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 06",
-  "time": "05:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "The Life Of Chuck",
-  "date": "Jul 06",
-  "time": "05:10 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "The Phoenician Scheme",
-  "date": "Jul 06",
-  "time": "05:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "PUNK THE CAPITAL: BUILDING A SOUND MOVEMENT",
-  "date": "Jul 06",
-  "time": "06:00 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "FAMILIAR TOUCH",
-  "date": "Jul 06",
-  "time": "06:15 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 06",
-  "time": "06:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 06",
-  "time": "06:20 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 06",
-  "time": "06:30 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Elio",
-  "date": "Jul 06",
-  "time": "07:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 06",
-  "time": "07:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 06",
-  "time": "07:10 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 06",
-  "time": "07:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 06",
-  "time": "07:20 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 06",
-  "time": "07:20 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "F1: The Movie",
-  "date": "Jul 06",
-  "time": "07:30 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 06",
-  "time": "07:30 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "28 Years Later",
-  "date": "Jul 06",
-  "time": "07:30 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "The Life Of Chuck",
-  "date": "Jul 06",
-  "time": "07:40 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "INLAND EMPIRE",
-  "date": "Jul 06",
-  "time": "07:45 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 06",
-  "time": "07:45 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "The Phoenician Scheme",
-  "date": "Jul 06",
-  "time": "07:45 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 06",
-  "time": "08:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "TATAMI",
-  "date": "Jul 06",
-  "time": "08:15 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
-  "date": "Jul 06",
-  "time": "08:45 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
-  "date": "Jul 07",
-  "time": "11:40 AM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "THE WAGES OF FEAR (1953)",
-  "date": "Jul 07",
-  "time": "11:45 AM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 07",
-  "time": "11:45 AM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "THE PHOENICIAN SCHEME",
-  "date": "Jul 07",
-  "time": "11:50 AM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "F1: The Movie",
-  "date": "Jul 07",
-  "time": "12:30 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
-  "date": "Jul 07",
-  "time": "02:00 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "THE PHOENICIAN SCHEME",
-  "date": "Jul 07",
-  "time": "02:05 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "The Life Of Chuck",
-  "date": "Jul 07",
-  "time": "02:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 07",
-  "time": "02:20 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "The Phoenician Scheme",
-  "date": "Jul 07",
-  "time": "02:30 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "Elio",
-  "date": "Jul 07",
-  "time": "02:30 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "HEAT (1995)",
-  "date": "Jul 07",
-  "time": "02:45 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "The Phoenician Scheme",
-  "date": "Jul 07",
-  "time": "02:45 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 07",
-  "time": "03:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 07",
-  "time": "03:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 07",
-  "time": "03:20 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 07",
-  "time": "03:50 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "F1: The Movie",
-  "date": "Jul 07",
-  "time": "04:00 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 07",
-  "time": "04:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "28 Years Later",
-  "date": "Jul 07",
-  "time": "04:10 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 07",
-  "time": "04:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
-  "date": "Jul 07",
-  "time": "04:20 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 07",
-  "time": "04:20 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "FAMILIAR TOUCH",
-  "date": "Jul 07",
-  "time": "04:25 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "The Life Of Chuck",
-  "date": "Jul 07",
-  "time": "04:40 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 07",
-  "time": "04:40 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "Elio",
-  "date": "Jul 07",
-  "time": "04:45 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 07",
-  "time": "04:50 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 07",
-  "time": "04:50 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 07",
-  "time": "05:00 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "The Phoenician Scheme",
-  "date": "Jul 07",
-  "time": "05:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "THE GOONIES",
-  "date": "Jul 07",
-  "time": "06:00 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 07",
-  "time": "06:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "TATAMI",
-  "date": "Jul 07",
-  "time": "06:25 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 07",
-  "time": "06:25 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 07",
-  "time": "06:30 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 07",
-  "time": "06:35 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
-  "date": "Jul 07",
-  "time": "06:45 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Elio",
-  "date": "Jul 07",
-  "time": "07:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "$5 Secret Movie",
-  "date": "Jul 07",
-  "time": "07:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 07",
-  "time": "07:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 07",
-  "time": "07:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 07",
-  "time": "07:20 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 07",
-  "time": "07:25 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "F1: The Movie",
-  "date": "Jul 07",
-  "time": "07:30 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 07",
-  "time": "07:30 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 07",
-  "time": "07:35 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 07",
-  "time": "07:45 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "The Phoenician Scheme",
-  "date": "Jul 07",
-  "time": "07:45 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "28 Years Later",
-  "date": "Jul 07",
-  "time": "07:45 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "INLAND EMPIRE",
-  "date": "Jul 07",
-  "time": "08:30 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "FAMILIAR TOUCH",
-  "date": "Jul 07",
-  "time": "08:40 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
-  "date": "Jul 07",
-  "time": "09:00 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
-  "date": "Jul 08",
-  "time": "11:40 AM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "THE WAGES OF FEAR (1953)",
-  "date": "Jul 08",
-  "time": "11:45 AM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 08",
-  "time": "11:45 AM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "THE PHOENICIAN SCHEME",
-  "date": "Jul 08",
-  "time": "12:10 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "F1: The Movie",
-  "date": "Jul 08",
-  "time": "12:30 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
-  "date": "Jul 08",
-  "time": "02:00 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "The Life Of Chuck",
-  "date": "Jul 08",
-  "time": "02:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "THE PHOENICIAN SCHEME",
-  "date": "Jul 08",
-  "time": "02:20 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 08",
-  "time": "02:20 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "The Phoenician Scheme",
-  "date": "Jul 08",
-  "time": "02:30 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "Elio",
-  "date": "Jul 08",
-  "time": "02:30 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "INLAND EMPIRE",
-  "date": "Jul 08",
-  "time": "02:45 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "The Phoenician Scheme",
-  "date": "Jul 08",
-  "time": "02:45 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 08",
-  "time": "03:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 08",
-  "time": "03:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 08",
-  "time": "03:20 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 08",
-  "time": "03:50 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "F1: The Movie",
-  "date": "Jul 08",
-  "time": "04:00 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 08",
-  "time": "04:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "28 Years Later",
-  "date": "Jul 08",
-  "time": "04:10 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 08",
-  "time": "04:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
-  "date": "Jul 08",
-  "time": "04:20 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 08",
-  "time": "04:20 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "FAMILIAR TOUCH",
-  "date": "Jul 08",
-  "time": "04:40 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 08",
-  "time": "04:40 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "Elio",
-  "date": "Jul 08",
-  "time": "04:45 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 08",
-  "time": "04:50 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 08",
-  "time": "04:50 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 08",
-  "time": "05:00 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "The Life Of Chuck",
-  "date": "Jul 08",
-  "time": "05:10 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "The Phoenician Scheme",
-  "date": "Jul 08",
-  "time": "05:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "THE SACRIFICE",
-  "date": "Jul 08",
-  "time": "06:15 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 08",
-  "time": "06:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 08",
-  "time": "06:25 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 08",
-  "time": "06:35 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "FAMILIAR TOUCH",
-  "date": "Jul 08",
-  "time": "06:40 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
-  "date": "Jul 08",
-  "time": "06:45 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "LA HAINE",
-  "date": "Jul 08",
-  "time": "07:00 PM",
-  "status": "sold out",
-  "theaterID": "suns"
- },
- {
-  "title": "National Lampoon's Animal House",
-  "date": "Jul 08",
-  "time": "07:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Elio",
-  "date": "Jul 08",
-  "time": "07:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 08",
-  "time": "07:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 08",
-  "time": "07:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 08",
-  "time": "07:20 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 08",
-  "time": "07:25 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "F1: The Movie",
-  "date": "Jul 08",
-  "time": "07:30 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 08",
-  "time": "07:30 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 08",
-  "time": "07:35 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "The Life Of Chuck",
-  "date": "Jul 08",
-  "time": "07:40 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 08",
-  "time": "07:45 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "The Phoenician Scheme",
-  "date": "Jul 08",
-  "time": "07:45 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "28 Years Later",
-  "date": "Jul 08",
-  "time": "07:45 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "TATAMI",
-  "date": "Jul 08",
-  "time": "08:40 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
-  "date": "Jul 08",
-  "time": "09:00 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "SORCERER",
-  "date": "Jul 08",
-  "time": "09:15 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "DOGTOOTH",
-  "date": "Jul 08",
-  "time": "09:30 PM",
-  "status": "sold out",
-  "theaterID": "suns"
- },
- {
-  "title": "The Goonies",
-  "date": "Jul 09",
-  "time": "11:00 AM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
-  "date": "Jul 09",
-  "time": "11:40 AM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "THE SACRIFICE",
-  "date": "Jul 09",
-  "time": "11:45 AM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 09",
-  "time": "11:45 AM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "THE PHOENICIAN SCHEME",
-  "date": "Jul 09",
-  "time": "11:50 AM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "F1: The Movie",
-  "date": "Jul 09",
-  "time": "12:30 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
-  "date": "Jul 09",
-  "time": "02:00 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "THE PHOENICIAN SCHEME",
-  "date": "Jul 09",
-  "time": "02:05 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "The Life Of Chuck",
-  "date": "Jul 09",
-  "time": "02:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 09",
-  "time": "02:20 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "The Phoenician Scheme",
-  "date": "Jul 09",
-  "time": "02:30 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "Elio",
-  "date": "Jul 09",
-  "time": "02:30 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "HEAT (1995)",
-  "date": "Jul 09",
-  "time": "02:45 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "The Phoenician Scheme",
-  "date": "Jul 09",
-  "time": "02:45 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 09",
-  "time": "03:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 09",
-  "time": "03:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "F1: The Movie",
-  "date": "Jul 09",
-  "time": "04:00 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 09",
-  "time": "04:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 09",
-  "time": "04:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
-  "date": "Jul 09",
-  "time": "04:20 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "FAMILIAR TOUCH",
-  "date": "Jul 09",
-  "time": "04:25 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Elio",
-  "date": "Jul 09",
-  "time": "04:45 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 09",
-  "time": "04:50 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 09",
-  "time": "05:00 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "The Life Of Chuck",
-  "date": "Jul 09",
-  "time": "05:10 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "The Phoenician Scheme",
-  "date": "Jul 09",
-  "time": "05:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "THE WAGES OF FEAR (1953)",
-  "date": "Jul 09",
-  "time": "06:10 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 09",
-  "time": "06:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "TATAMI",
-  "date": "Jul 09",
-  "time": "06:25 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 09",
-  "time": "06:30 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
-  "date": "Jul 09",
-  "time": "06:45 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "CHOCOLAT",
-  "date": "Jul 09",
-  "time": "07:00 PM",
-  "status": "available",
-  "theaterID": "suns"
- },
- {
-  "title": "Elio",
-  "date": "Jul 09",
-  "time": "07:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 09",
-  "time": "07:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 09",
-  "time": "07:20 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "F1: The Movie",
-  "date": "Jul 09",
-  "time": "07:30 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 09",
-  "time": "07:30 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "The Life Of Chuck",
-  "date": "Jul 09",
-  "time": "07:40 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "The Phoenician Scheme",
-  "date": "Jul 09",
-  "time": "07:45 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Dry Season",
-  "date": "Jul 09",
-  "time": "08:00 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "FAMILIAR TOUCH",
-  "date": "Jul 09",
-  "time": "08:40 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
-  "date": "Jul 09",
-  "time": "09:00 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "SORCERER",
-  "date": "Jul 09",
-  "time": "09:15 PM",
-  "status": "available",
   "theaterID": "afisilver"
  },
  {
-  "title": "NO FEAR, NO DIE",
-  "date": "Jul 09",
+  "title": "TO A LAND UNKNOWN",
+  "date": "Jul 23",
   "time": "09:30 PM",
   "status": "available",
   "theaterID": "suns"
  },
  {
-  "title": "Paddington 2",
-  "date": "Jul 10",
+  "title": "Happy Feet",
+  "date": "Jul 24",
   "time": "10:30 AM",
   "status": "available",
   "theaterID": "miracle"
- },
- {
-  "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
-  "date": "Jul 10",
-  "time": "11:40 AM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 10",
-  "time": "11:45 AM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "THE WAGES OF FEAR (1953)",
-  "date": "Jul 10",
-  "time": "12:00 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "THE PHOENICIAN SCHEME",
-  "date": "Jul 10",
-  "time": "12:10 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "F1: The Movie",
-  "date": "Jul 10",
-  "time": "12:30 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
-  "date": "Jul 10",
-  "time": "02:00 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Superman",
-  "date": "Jul 10",
-  "time": "02:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Superman",
-  "date": "Jul 10",
-  "time": "02:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "THE PHOENICIAN SCHEME",
-  "date": "Jul 10",
-  "time": "02:20 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "The Phoenician Scheme",
-  "date": "Jul 10",
-  "time": "02:30 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "Elio",
-  "date": "Jul 10",
-  "time": "02:30 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "The Phoenician Scheme",
-  "date": "Jul 10",
-  "time": "02:45 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "THE SACRIFICE",
-  "date": "Jul 10",
-  "time": "03:00 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "28 Years Later",
-  "date": "Jul 10",
-  "time": "03:50 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "F1: The Movie",
-  "date": "Jul 10",
-  "time": "04:00 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 10",
-  "time": "04:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 10",
-  "time": "04:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
-  "date": "Jul 10",
-  "time": "04:20 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 10",
-  "time": "04:20 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "FAMILIAR TOUCH",
-  "date": "Jul 10",
-  "time": "04:40 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Elio",
-  "date": "Jul 10",
-  "time": "04:40 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Superman",
-  "date": "Jul 10",
-  "time": "04:40 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "Superman",
-  "date": "Jul 10",
-  "time": "04:45 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 10",
-  "time": "04:50 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 10",
-  "time": "05:00 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "The Phoenician Scheme",
-  "date": "Jul 10",
-  "time": "05:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "THE GOONIES",
-  "date": "Jul 10",
-  "time": "06:00 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "FAMILIAR TOUCH",
-  "date": "Jul 10",
-  "time": "06:40 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "POSITIVE FORCE: MORE THAN A WITNESS",
-  "date": "Jul 10",
-  "time": "07:00 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "TAKE OUT",
-  "date": "Jul 10",
-  "time": "07:00 PM",
-  "status": "sold out",
-  "theaterID": "suns"
- },
- {
-  "title": "Elio",
-  "date": "Jul 10",
-  "time": "07:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 10",
-  "time": "07:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 10",
-  "time": "07:10 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 10",
-  "time": "07:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Superman",
-  "date": "Jul 10",
-  "time": "07:20 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "F1: The Movie",
-  "date": "Jul 10",
-  "time": "07:30 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "Superman",
-  "date": "Jul 10",
-  "time": "07:30 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 10",
-  "time": "07:30 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 10",
-  "time": "07:35 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Materialists",
-  "date": "Jul 10",
-  "time": "07:45 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "The Phoenician Scheme",
-  "date": "Jul 10",
-  "time": "07:45 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "HEAT (1995)",
-  "date": "Jul 10",
-  "time": "08:30 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "TATAMI",
-  "date": "Jul 10",
-  "time": "08:40 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "MAN PUSH CART",
-  "date": "Jul 10",
-  "time": "09:15 PM",
-  "status": "available",
-  "theaterID": "suns"
- },
- {
-  "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
-  "date": "Jul 10",
-  "time": "09:30 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "GODZILLA RAIDS AGAIN",
-  "date": "Jul 11",
-  "time": "12:15 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Superman",
-  "date": "Jul 11",
-  "time": "01:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Paddington 2",
-  "date": "Jul 11",
-  "time": "02:00 PM",
-  "status": "available",
-  "theaterID": "miracle"
- },
- {
-  "title": "Superman",
-  "date": "Jul 11",
-  "time": "02:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "THE RAIN PEOPLE",
-  "date": "Jul 11",
-  "time": "02:15 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Superman",
-  "date": "Jul 11",
-  "time": "04:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "THE DESPERATE HOURS",
-  "date": "Jul 11",
-  "time": "04:30 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Superman",
-  "date": "Jul 11",
-  "time": "04:40 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "LE HAVRE",
-  "date": "Jul 11",
-  "time": "06:00 PM",
-  "status": "available",
-  "theaterID": "suns"
- },
- {
-  "title": "THE FRENCH CONNECTION",
-  "date": "Jul 11",
-  "time": "07:00 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Superman",
-  "date": "Jul 11",
-  "time": "07:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Superman",
-  "date": "Jul 11",
-  "time": "07:20 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "STRANGER THAN PARADISE",
-  "date": "Jul 11",
-  "time": "08:30 PM",
-  "status": "available",
-  "theaterID": "suns"
- },
- {
-  "title": "DEMENTIA 13 - Director's Cut",
-  "date": "Jul 11",
-  "time": "09:15 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Superman",
-  "date": "Jul 11",
-  "time": "10:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Superman",
-  "date": "Jul 11",
-  "time": "10:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "The Rocky Horror Picture Show",
-  "date": "Jul 11",
-  "time": "10:30 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Pokémon Detective Pikachu",
-  "date": "Jul 12",
-  "time": "11:00 AM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "GODZILLA RAIDS AGAIN",
-  "date": "Jul 12",
-  "time": "11:30 AM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "THE DESPERATE HOURS",
-  "date": "Jul 12",
-  "time": "11:45 AM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Superman",
-  "date": "Jul 12",
-  "time": "01:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Superman",
-  "date": "Jul 12",
-  "time": "02:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "THE RAIN PEOPLE",
-  "date": "Jul 12",
-  "time": "02:15 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Superman",
-  "date": "Jul 12",
-  "time": "04:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "TOO BAD SHE'S BAD",
-  "date": "Jul 12",
-  "time": "04:30 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Superman",
-  "date": "Jul 12",
-  "time": "04:40 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "BATANG WEST SIDE",
-  "date": "Jul 12",
-  "time": "06:00 PM",
-  "status": "available",
-  "theaterID": "suns"
- },
- {
-  "title": "Count Gore presents THE RETURN OF THE LIVING DEAD",
-  "date": "Jul 12",
-  "time": "07:00 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Superman",
-  "date": "Jul 12",
-  "time": "07:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Superman",
-  "date": "Jul 12",
-  "time": "07:20 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "DEMENTIA 13 - Director's Cut",
-  "date": "Jul 12",
-  "time": "09:45 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Superman",
-  "date": "Jul 12",
-  "time": "10:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Superman",
-  "date": "Jul 12",
-  "time": "10:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "The Rocky Horror Picture Show",
-  "date": "Jul 12",
-  "time": "10:30 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Pokémon Detective Pikachu",
-  "date": "Jul 13",
-  "time": "11:00 AM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "GODZILLA RAIDS AGAIN",
-  "date": "Jul 13",
-  "time": "11:30 AM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Superman",
-  "date": "Jul 13",
-  "time": "01:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "THE DESPERATE HOURS",
-  "date": "Jul 13",
-  "time": "01:15 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Superman",
-  "date": "Jul 13",
-  "time": "02:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "LE NOTTI BIANCHE",
-  "date": "Jul 13",
-  "time": "03:45 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Superman",
-  "date": "Jul 13",
-  "time": "04:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Superman",
-  "date": "Jul 13",
-  "time": "04:40 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "WE ARE FUGAZI FROM WASHINGTON, DC",
-  "date": "Jul 13",
-  "time": "06:00 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "BONNIE AND CLYDE",
-  "date": "Jul 13",
-  "time": "06:15 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Superman",
-  "date": "Jul 13",
-  "time": "07:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Superman",
-  "date": "Jul 13",
-  "time": "07:20 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "THE FRENCH CONNECTION",
-  "date": "Jul 13",
-  "time": "08:45 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "THE RAIN PEOPLE",
-  "date": "Jul 14",
-  "time": "12:00 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "THE DESPERATE HOURS",
-  "date": "Jul 14",
-  "time": "02:10 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "BONNIE AND CLYDE",
-  "date": "Jul 14",
-  "time": "04:30 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "DC Moth StorySLAM: DIRT",
-  "date": "Jul 14",
-  "time": "06:30 PM",
-  "status": "available",
-  "theaterID": "miracle"
- },
- {
-  "title": "AGAINST THE LAW (1950)",
-  "date": "Jul 14",
-  "time": "07:00 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "THE FRENCH CONNECTION",
-  "date": "Jul 14",
-  "time": "09:10 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "THE DESPERATE HOURS",
-  "date": "Jul 15",
-  "time": "11:45 AM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "THE RAIN PEOPLE",
-  "date": "Jul 15",
-  "time": "02:10 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "BONNIE AND CLYDE",
-  "date": "Jul 15",
-  "time": "04:30 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "THE FRENCH CONNECTION",
-  "date": "Jul 15",
-  "time": "07:00 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "LINGUA FRANCA",
-  "date": "Jul 15",
-  "time": "07:00 PM",
-  "status": "available",
-  "theaterID": "suns"
- },
- {
-  "title": "The Jerk",
-  "date": "Jul 15",
-  "time": "07:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "PROBLEMISTA",
-  "date": "Jul 15",
-  "time": "08:35 PM",
-  "status": "available",
-  "theaterID": "suns"
- },
- {
-  "title": "DEMENTIA 13 - Director's Cut",
-  "date": "Jul 15",
-  "time": "09:15 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "PROBLEMISTA",
-  "date": "Jul 15",
-  "time": "09:30 PM",
-  "status": "available",
-  "theaterID": "suns"
- },
- {
-  "title": "Pokémon Detective Pikachu",
-  "date": "Jul 16",
-  "time": "11:00 AM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "GODZILLA RAIDS AGAIN",
-  "date": "Jul 16",
-  "time": "12:15 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "THE DESPERATE HOURS",
-  "date": "Jul 16",
-  "time": "02:15 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "THE FRENCH CONNECTION",
-  "date": "Jul 16",
-  "time": "04:45 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "THE RAIN PEOPLE",
-  "date": "Jul 16",
-  "time": "07:00 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Citizen Kane",
-  "date": "Jul 16",
-  "time": "07:00 PM",
-  "status": "available",
-  "theaterID": "miracle"
- },
- {
-  "title": "ALI: FEAR EATS THE SOUL",
-  "date": "Jul 16",
-  "time": "07:00 PM",
-  "status": "available",
-  "theaterID": "suns"
- },
- {
-  "title": "The Ties That Bind Us",
-  "date": "Jul 16",
-  "time": "08:00 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "BONNIE AND CLYDE",
-  "date": "Jul 16",
-  "time": "09:15 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "STROSZEK",
-  "date": "Jul 16",
-  "time": "09:20 PM",
-  "status": "available",
-  "theaterID": "suns"
- },
- {
-  "title": "THE DESPERATE HOURS",
-  "date": "Jul 17",
-  "time": "12:00 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "THE FRENCH CONNECTION",
-  "date": "Jul 17",
-  "time": "02:30 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "THE RAIN PEOPLE",
-  "date": "Jul 17",
-  "time": "04:45 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "TO A LAND UNKNOWN",
-  "date": "Jul 17",
-  "time": "06:00 PM",
-  "status": "available",
-  "theaterID": "suns"
- },
- {
-  "title": "SALAD DAYS: A DECADE OF PUNK IN WASHINGTON, DC",
-  "date": "Jul 17",
-  "time": "06:45 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "AGAINST THE LAW (1950)",
-  "date": "Jul 17",
-  "time": "07:00 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "TO A LAND UNKNOWN",
-  "date": "Jul 17",
-  "time": "07:00 PM",
-  "status": "available",
-  "theaterID": "suns"
- },
- {
-  "title": "GODZILLA RAIDS AGAIN",
-  "date": "Jul 17",
-  "time": "09:15 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "TO A LAND UNKNOWN",
-  "date": "Jul 17",
-  "time": "09:35 PM",
-  "status": "available",
-  "theaterID": "suns"
- },
- {
-  "title": "TO CATCH A THIEF",
-  "date": "Jul 18",
-  "time": "11:45 AM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "THE DELINQUENTS (1957)",
-  "date": "Jul 18",
-  "time": "02:00 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "THE TROUBLE WITH HARRY",
-  "date": "Jul 18",
-  "time": "03:45 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "THE GODFATHER",
-  "date": "Jul 18",
-  "time": "06:00 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "TO A LAND UNKNOWN",
-  "date": "Jul 18",
-  "time": "06:00 PM",
-  "status": "available",
-  "theaterID": "suns"
- },
- {
-  "title": "TO A LAND UNKNOWN",
-  "date": "Jul 18",
-  "time": "07:00 PM",
-  "status": "available",
-  "theaterID": "suns"
- },
- {
-  "title": "PROBLEMISTA",
-  "date": "Jul 18",
-  "time": "08:35 PM",
-  "status": "available",
-  "theaterID": "suns"
- },
- {
-  "title": "PRIME CUT",
-  "date": "Jul 18",
-  "time": "09:30 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "PROBLEMISTA",
-  "date": "Jul 18",
-  "time": "09:30 PM",
-  "status": "available",
-  "theaterID": "suns"
- },
- {
-  "title": "TO A LAND UNKNOWN",
-  "date": "Jul 18",
-  "time": "09:35 PM",
-  "status": "available",
-  "theaterID": "suns"
- },
- {
-  "title": "Where the Wild Things Are",
-  "date": "Jul 19",
-  "time": "11:00 AM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "THAT COLD DAY IN THE PARK",
-  "date": "Jul 19",
-  "time": "11:45 AM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "MOTHRA",
-  "date": "Jul 19",
-  "time": "12:00 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "TO CATCH A THIEF",
-  "date": "Jul 19",
-  "time": "02:15 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "LA DOLCE VITA",
-  "date": "Jul 19",
-  "time": "04:30 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "THE GODFATHER",
-  "date": "Jul 19",
-  "time": "08:00 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Where the Wild Things Are",
-  "date": "Jul 20",
-  "time": "11:00 AM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "MOTHRA",
-  "date": "Jul 20",
-  "time": "11:30 AM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "THE TROUBLE WITH HARRY",
-  "date": "Jul 20",
-  "time": "01:15 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "LA DOLCE VITA",
-  "date": "Jul 20",
-  "time": "03:30 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "SPX Presents: MARRIED TO COMICS",
-  "date": "Jul 20",
-  "time": "06:00 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "PRIME CUT",
-  "date": "Jul 20",
-  "time": "07:00 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "SAFE (1995)",
-  "date": "Jul 20",
-  "time": "09:00 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "THE TROUBLE WITH HARRY",
-  "date": "Jul 21",
-  "time": "12:15 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "THAT COLD DAY IN THE PARK",
-  "date": "Jul 21",
-  "time": "02:30 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "PRIME CUT",
-  "date": "Jul 21",
-  "time": "05:00 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "THE DELINQUENTS (1957)",
-  "date": "Jul 21",
-  "time": "07:00 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "TO CATCH A THIEF",
-  "date": "Jul 21",
-  "time": "08:45 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "THE DELINQUENTS (1957)",
-  "date": "Jul 22",
-  "time": "11:30 AM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "LA DOLCE VITA",
-  "date": "Jul 22",
-  "time": "01:15 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "PRIME CUT",
-  "date": "Jul 22",
-  "time": "04:45 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "SAFE (1995)",
-  "date": "Jul 22",
-  "time": "06:45 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "AN EVENING SONG (FOR THREE VOICES)",
-  "date": "Jul 22",
-  "time": "07:00 PM",
-  "status": "available",
-  "theaterID": "suns"
- },
- {
-  "title": "Billy Madison",
-  "date": "Jul 22",
-  "time": "07:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "THAT COLD DAY IN THE PARK",
-  "date": "Jul 22",
-  "time": "09:15 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "COLOSSAL YOUTH",
-  "date": "Jul 22",
-  "time": "09:15 PM",
-  "status": "available",
-  "theaterID": "suns"
- },
- {
-  "title": "Where the Wild Things Are",
-  "date": "Jul 23",
-  "time": "11:00 AM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "THE DELINQUENTS (1957)",
-  "date": "Jul 23",
-  "time": "11:30 AM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "SAFE (1995)",
-  "date": "Jul 23",
-  "time": "01:15 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "TO CATCH A THIEF",
-  "date": "Jul 23",
-  "time": "03:45 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "LA DOLCE VITA",
-  "date": "Jul 23",
-  "time": "06:00 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "MOTHRA",
-  "date": "Jul 23",
-  "time": "09:30 PM",
-  "status": "available",
-  "theaterID": "afisilver"
  },
  {
   "title": "THE TROUBLE WITH HARRY",
@@ -4163,6 +243,27 @@
   "time": "11:30 AM",
   "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "MATERIALISTS",
+  "date": "Jul 24",
+  "time": "11:40 AM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "Don’t Let’s Go to the Dogs Tonight",
+  "date": "Jul 24",
+  "time": "12:00 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "F1: The Movie",
+  "date": "Jul 24",
+  "time": "12:15 PM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "TO CATCH A THIEF",
@@ -4186,11 +287,109 @@
   "theaterID": "Landmark Atlantic Plumbing Cinema"
  },
  {
+  "title": "MARLEE MATLIN: NOT ALONE ANYMORE",
+  "date": "Jul 24",
+  "time": "02:10 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "Don’t Let’s Go to the Dogs Tonight",
+  "date": "Jul 24",
+  "time": "02:15 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "TO A LAND UNKNOWN",
+  "date": "Jul 24",
+  "time": "02:20 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "Smurfs",
+  "date": "Jul 24",
+  "time": "02:30 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 24",
+  "time": "03:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Jul 24",
+  "time": "03:15 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "F1: The Movie",
+  "date": "Jul 24",
+  "time": "03:30 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 24",
+  "time": "03:30 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
   "title": "PRIME CUT",
   "date": "Jul 24",
   "time": "04:00 PM",
   "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 24",
+  "time": "04:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "F1 The Movie",
+  "date": "Jul 24",
+  "time": "04:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "F1 The Movie",
+  "date": "Jul 24",
+  "time": "04:15 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 24",
+  "time": "04:15 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "Jurassic World Rebirth",
+  "date": "Jul 24",
+  "time": "04:20 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Eddington",
+  "date": "Jul 24",
+  "time": "04:30 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
  },
  {
   "title": "The Fantastic Four: First Steps",
@@ -4200,9 +399,23 @@
   "theaterID": "Landmark Atlantic Plumbing Cinema"
  },
  {
+  "title": "Don’t Let’s Go to the Dogs Tonight",
+  "date": "Jul 24",
+  "time": "04:45 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
   "title": "The Fantastic Four: First Steps",
   "date": "Jul 24",
   "time": "04:45 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Smurfs",
+  "date": "Jul 24",
+  "time": "05:00 PM",
   "status": "available",
   "theaterID": "Landmark Bethesda Row Cinema"
  },
@@ -4212,6 +425,27 @@
   "time": "06:00 PM",
   "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 24",
+  "time": "06:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Jul 24",
+  "time": "06:15 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 24",
+  "time": "06:15 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
  },
  {
   "title": "Art House Theater Day: TANGERINE",
@@ -4228,6 +462,41 @@
   "theaterID": "suns"
  },
  {
+  "title": "Superman",
+  "date": "Jul 24",
+  "time": "07:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 24",
+  "time": "07:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "F1 The Movie",
+  "date": "Jul 24",
+  "time": "07:10 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "Jurassic World Rebirth",
+  "date": "Jul 24",
+  "time": "07:15 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Smurfs",
+  "date": "Jul 24",
+  "time": "07:20 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
   "title": "The Fantastic Four: First Steps",
   "date": "Jul 24",
   "time": "07:20 PM",
@@ -4235,9 +504,30 @@
   "theaterID": "Landmark Atlantic Plumbing Cinema"
  },
  {
+  "title": "Nights of Cabiria",
+  "date": "Jul 24",
+  "time": "07:30 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
   "title": "The Fantastic Four: First Steps",
   "date": "Jul 24",
   "time": "07:30 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Eddington",
+  "date": "Jul 24",
+  "time": "07:35 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "F1 The Movie",
+  "date": "Jul 24",
+  "time": "07:40 PM",
   "status": "available",
   "theaterID": "Landmark Bethesda Row Cinema"
  },
@@ -4252,7 +542,7 @@
   "title": "LONE STAR",
   "date": "Jul 24",
   "time": "09:30 PM",
-  "status": "available",
+  "status": "sold out",
   "theaterID": "suns"
  },
  {
@@ -4263,11 +553,88 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "Don’t Let’s Go to the Dogs Tonight",
+  "date": "Jul 25",
+  "time": "12:00 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "F1 The Movie",
+  "date": "Jul 25",
+  "time": "12:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Eddington",
+  "date": "Jul 25",
+  "time": "12:15 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Smurfs",
+  "date": "Jul 25",
+  "time": "12:30 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Bad Shabbos",
+  "date": "Jul 25",
+  "time": "12:45 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "Jurassic World Rebirth",
+  "date": "Jul 25",
+  "time": "12:45 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "F1 The Movie",
+  "date": "Jul 25",
+  "time": "12:45 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
   "title": "The Fantastic Four: First Steps",
   "date": "Jul 25",
   "time": "01:00 PM",
   "status": "available",
   "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Jul 25",
+  "time": "01:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 25",
+  "time": "01:10 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 25",
+  "time": "01:15 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Jurassic World Rebirth",
+  "date": "Jul 25",
+  "time": "01:25 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
  },
  {
   "title": "M*A*S*H",
@@ -4277,6 +644,20 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "Happy Feet (sensory friendly)",
+  "date": "Jul 25",
+  "time": "02:00 PM",
+  "status": "available",
+  "theaterID": "miracle"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Jul 25",
+  "time": "02:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
   "title": "The Fantastic Four: First Steps",
   "date": "Jul 25",
   "time": "02:00 PM",
@@ -4284,9 +665,107 @@
   "theaterID": "Landmark Atlantic Plumbing Cinema"
  },
  {
+  "title": "Superman",
+  "date": "Jul 25",
+  "time": "02:10 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "Don’t Let’s Go to the Dogs Tonight",
+  "date": "Jul 25",
+  "time": "02:15 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 25",
+  "time": "02:15 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Smurfs",
+  "date": "Jul 25",
+  "time": "02:30 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Bad Shabbos",
+  "date": "Jul 25",
+  "time": "03:00 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "F1 The Movie",
+  "date": "Jul 25",
+  "time": "03:15 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Eddington",
+  "date": "Jul 25",
+  "time": "03:30 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Jul 25",
+  "time": "03:30 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "F1 The Movie",
+  "date": "Jul 25",
+  "time": "03:50 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
   "title": "The Fantastic Four: First Steps",
   "date": "Jul 25",
   "time": "04:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 25",
+  "time": "04:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "Jurassic World Rebirth",
+  "date": "Jul 25",
+  "time": "04:10 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 25",
+  "time": "04:15 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Materialists",
+  "date": "Jul 25",
+  "time": "04:20 PM",
+  "status": "available",
+  "theaterID": "miracle"
+ },
+ {
+  "title": "Jurassic World Rebirth",
+  "date": "Jul 25",
+  "time": "04:20 PM",
   "status": "available",
   "theaterID": "Landmark Bethesda Row Cinema"
  },
@@ -4305,11 +784,88 @@
   "theaterID": "Landmark Atlantic Plumbing Cinema"
  },
  {
+  "title": "Don’t Let’s Go to the Dogs Tonight",
+  "date": "Jul 25",
+  "time": "04:45 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "Smurfs",
+  "date": "Jul 25",
+  "time": "04:50 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Jul 25",
+  "time": "05:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 25",
+  "time": "05:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "Bad Shabbos",
+  "date": "Jul 25",
+  "time": "05:15 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 25",
+  "time": "05:15 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
   "title": "THE EXILES",
   "date": "Jul 25",
   "time": "06:00 PM",
   "status": "available",
   "theaterID": "suns"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Jul 25",
+  "time": "06:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "F1 The Movie",
+  "date": "Jul 25",
+  "time": "06:30 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 25",
+  "time": "06:35 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "Eddington",
+  "date": "Jul 25",
+  "time": "06:45 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Jurassic World Rebirth",
+  "date": "Jul 25",
+  "time": "06:50 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
  },
  {
   "title": "I SHOT ANDY WARHOL in 35mm",
@@ -4319,9 +875,44 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "Batman Begins",
+  "date": "Jul 25",
+  "time": "07:00 PM",
+  "status": "available",
+  "theaterID": "miracle"
+ },
+ {
   "title": "The Fantastic Four: First Steps",
   "date": "Jul 25",
   "time": "07:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "F1 The Movie",
+  "date": "Jul 25",
+  "time": "07:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "Jurassic World Rebirth",
+  "date": "Jul 25",
+  "time": "07:10 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Don’t Let’s Go to the Dogs Tonight",
+  "date": "Jul 25",
+  "time": "07:15 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 25",
+  "time": "07:15 PM",
   "status": "available",
   "theaterID": "Landmark Bethesda Row Cinema"
  },
@@ -4333,11 +924,53 @@
   "theaterID": "Landmark Atlantic Plumbing Cinema"
  },
  {
+  "title": "Bad Shabbos",
+  "date": "Jul 25",
+  "time": "07:30 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "Smurfs",
+  "date": "Jul 25",
+  "time": "07:30 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 25",
+  "time": "07:35 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
   "title": "CHAN IS MISSING",
   "date": "Jul 25",
   "time": "08:00 PM",
-  "status": "available",
+  "status": "sold out",
   "theaterID": "suns"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Jul 25",
+  "time": "08:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 25",
+  "time": "08:15 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Jul 25",
+  "time": "08:30 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
  },
  {
   "title": "THE CONVERSATION (1974)",
@@ -4347,9 +980,79 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "Superman",
+  "date": "Jul 25",
+  "time": "09:15 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "F1 The Movie",
+  "date": "Jul 25",
+  "time": "09:35 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "Smurfs",
+  "date": "Jul 25",
+  "time": "09:40 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "F1 The Movie",
+  "date": "Jul 25",
+  "time": "09:45 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Eddington",
+  "date": "Jul 25",
+  "time": "09:50 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Jul 25",
+  "time": "09:50 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
   "title": "The Fantastic Four: First Steps",
   "date": "Jul 25",
   "time": "10:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Jurassic World Rebirth",
+  "date": "Jul 25",
+  "time": "10:05 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 25",
+  "time": "10:10 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Jurassic World Rebirth",
+  "date": "Jul 25",
+  "time": "10:15 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 25",
+  "time": "10:15 PM",
   "status": "available",
   "theaterID": "Landmark Atlantic Plumbing Cinema"
  },
@@ -4375,9 +1078,100 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "Don’t Let’s Go to the Dogs Tonight",
+  "date": "Jul 26",
+  "time": "12:00 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "F1 The Movie",
+  "date": "Jul 26",
+  "time": "12:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Eddington",
+  "date": "Jul 26",
+  "time": "12:15 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Smurfs",
+  "date": "Jul 26",
+  "time": "12:30 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Bad Shabbos",
+  "date": "Jul 26",
+  "time": "12:45 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "Jurassic World Rebirth",
+  "date": "Jul 26",
+  "time": "12:45 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "F1 The Movie",
+  "date": "Jul 26",
+  "time": "12:45 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
   "title": "The Fantastic Four: First Steps",
   "date": "Jul 26",
   "time": "01:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Jul 26",
+  "time": "01:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 26",
+  "time": "01:10 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 26",
+  "time": "01:15 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Jurassic World Rebirth",
+  "date": "Jul 26",
+  "time": "01:25 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "Minions: The Rise of Gru",
+  "date": "Jul 26",
+  "time": "02:00 PM",
+  "status": "available",
+  "theaterID": "miracle"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Jul 26",
+  "time": "02:00 PM",
   "status": "available",
   "theaterID": "Landmark Bethesda Row Cinema"
  },
@@ -4389,6 +1183,13 @@
   "theaterID": "Landmark Atlantic Plumbing Cinema"
  },
  {
+  "title": "Superman",
+  "date": "Jul 26",
+  "time": "02:10 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
   "title": "BREWSTER MCCLOUD",
   "date": "Jul 26",
   "time": "02:15 PM",
@@ -4396,9 +1197,93 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "Don’t Let’s Go to the Dogs Tonight",
+  "date": "Jul 26",
+  "time": "02:15 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 26",
+  "time": "02:15 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Smurfs",
+  "date": "Jul 26",
+  "time": "02:30 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Bad Shabbos",
+  "date": "Jul 26",
+  "time": "03:00 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "F1 The Movie",
+  "date": "Jul 26",
+  "time": "03:15 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Eddington",
+  "date": "Jul 26",
+  "time": "03:30 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Jul 26",
+  "time": "03:30 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "F1 The Movie",
+  "date": "Jul 26",
+  "time": "03:50 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
   "title": "The Fantastic Four: First Steps",
   "date": "Jul 26",
   "time": "04:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 26",
+  "time": "04:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "Jurassic World Rebirth",
+  "date": "Jul 26",
+  "time": "04:10 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 26",
+  "time": "04:15 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Jurassic World Rebirth",
+  "date": "Jul 26",
+  "time": "04:20 PM",
   "status": "available",
   "theaterID": "Landmark Bethesda Row Cinema"
  },
@@ -4417,11 +1302,81 @@
   "theaterID": "Landmark Atlantic Plumbing Cinema"
  },
  {
+  "title": "Don’t Let’s Go to the Dogs Tonight",
+  "date": "Jul 26",
+  "time": "04:45 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "Smurfs",
+  "date": "Jul 26",
+  "time": "04:50 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Jul 26",
+  "time": "05:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 26",
+  "time": "05:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "Bad Shabbos",
+  "date": "Jul 26",
+  "time": "05:15 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 26",
+  "time": "05:15 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
   "title": "PRESSURE",
   "date": "Jul 26",
   "time": "06:00 PM",
   "status": "available",
   "theaterID": "suns"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Jul 26",
+  "time": "06:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "Serialously Live with Annie Elise",
+  "date": "Jul 26",
+  "time": "06:30 PM",
+  "status": "available",
+  "theaterID": "miracle"
+ },
+ {
+  "title": "F1 The Movie",
+  "date": "Jul 26",
+  "time": "06:30 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 26",
+  "time": "06:35 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
  },
  {
   "title": "THE CONVERSATION (1974)",
@@ -4431,9 +1386,51 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "Eddington",
+  "date": "Jul 26",
+  "time": "06:45 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Jurassic World Rebirth",
+  "date": "Jul 26",
+  "time": "06:50 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
   "title": "The Fantastic Four: First Steps",
   "date": "Jul 26",
   "time": "07:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "F1 The Movie",
+  "date": "Jul 26",
+  "time": "07:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "Jurassic World Rebirth",
+  "date": "Jul 26",
+  "time": "07:10 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Don’t Let’s Go to the Dogs Tonight",
+  "date": "Jul 26",
+  "time": "07:15 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 26",
+  "time": "07:15 PM",
   "status": "available",
   "theaterID": "Landmark Bethesda Row Cinema"
  },
@@ -4445,11 +1442,46 @@
   "theaterID": "Landmark Atlantic Plumbing Cinema"
  },
  {
-  "title": "THE MYSTERY OF CHESS BOXING",
+  "title": "Bad Shabbos",
   "date": "Jul 26",
-  "time": "09:00 PM",
+  "time": "07:30 PM",
   "status": "available",
-  "theaterID": "afisilver"
+  "theaterID": "avalon"
+ },
+ {
+  "title": "Smurfs",
+  "date": "Jul 26",
+  "time": "07:30 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 26",
+  "time": "07:35 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Jul 26",
+  "time": "08:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 26",
+  "time": "08:15 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Jul 26",
+  "time": "08:30 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
  },
  {
   "title": "BABYLON",
@@ -4459,6 +1491,13 @@
   "theaterID": "suns"
  },
  {
+  "title": "THE MYSTERY OF CHESS BOXING",
+  "date": "Jul 26",
+  "time": "09:10 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
   "title": "NIGHT MOVES (1975)",
   "date": "Jul 26",
   "time": "09:15 PM",
@@ -4466,11 +1505,88 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "Superman",
+  "date": "Jul 26",
+  "time": "09:15 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "F1 The Movie",
+  "date": "Jul 26",
+  "time": "09:35 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "Smurfs",
+  "date": "Jul 26",
+  "time": "09:40 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "F1 The Movie",
+  "date": "Jul 26",
+  "time": "09:45 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Eddington",
+  "date": "Jul 26",
+  "time": "09:50 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Jul 26",
+  "time": "09:50 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
   "title": "The Fantastic Four: First Steps",
   "date": "Jul 26",
   "time": "10:00 PM",
   "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Jurassic World Rebirth",
+  "date": "Jul 26",
+  "time": "10:05 PM",
+  "status": "available",
   "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 26",
+  "time": "10:10 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Jurassic World Rebirth",
+  "date": "Jul 26",
+  "time": "10:15 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 26",
+  "time": "10:15 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "Dirty Dancing",
+  "date": "Jul 27",
+  "time": "10:30 AM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "Paddington 2",
@@ -4487,11 +1603,74 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "Don’t Let’s Go to the Dogs Tonight",
+  "date": "Jul 27",
+  "time": "12:00 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "F1 The Movie",
+  "date": "Jul 27",
+  "time": "12:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 27",
+  "time": "12:15 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Smurfs",
+  "date": "Jul 27",
+  "time": "12:30 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Bad Shabbos",
+  "date": "Jul 27",
+  "time": "12:45 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "Jurassic World Rebirth",
+  "date": "Jul 27",
+  "time": "12:45 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "F1 The Movie",
+  "date": "Jul 27",
+  "time": "12:45 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
   "title": "The Fantastic Four: First Steps",
   "date": "Jul 27",
   "time": "01:00 PM",
   "status": "available",
   "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Jul 27",
+  "time": "01:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 27",
+  "time": "01:10 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
  },
  {
   "title": "RICHARD III (1955)",
@@ -4501,6 +1680,20 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "Superman",
+  "date": "Jul 27",
+  "time": "01:15 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Jurassic World Rebirth",
+  "date": "Jul 27",
+  "time": "01:25 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
   "title": "SUMMER WARS",
   "date": "Jul 27",
   "time": "01:30 PM",
@@ -4508,9 +1701,86 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "Eddington",
+  "date": "Jul 27",
+  "time": "01:30 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "The Life of Chuck",
+  "date": "Jul 27",
+  "time": "02:00 PM",
+  "status": "available",
+  "theaterID": "miracle"
+ },
+ {
   "title": "The Fantastic Four: First Steps",
   "date": "Jul 27",
   "time": "02:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Jul 27",
+  "time": "02:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 27",
+  "time": "02:10 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "Don’t Let’s Go to the Dogs Tonight",
+  "date": "Jul 27",
+  "time": "02:15 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "Smurfs",
+  "date": "Jul 27",
+  "time": "02:30 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Bad Shabbos",
+  "date": "Jul 27",
+  "time": "03:00 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 27",
+  "time": "03:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "F1 The Movie",
+  "date": "Jul 27",
+  "time": "03:15 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Jul 27",
+  "time": "03:30 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "F1 The Movie",
+  "date": "Jul 27",
+  "time": "03:50 PM",
   "status": "available",
   "theaterID": "Landmark Atlantic Plumbing Cinema"
  },
@@ -4522,11 +1792,53 @@
   "theaterID": "Landmark Bethesda Row Cinema"
  },
  {
+  "title": "Superman",
+  "date": "Jul 27",
+  "time": "04:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "Jurassic World Rebirth",
+  "date": "Jul 27",
+  "time": "04:10 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 27",
+  "time": "04:15 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
   "title": "M*A*S*H",
   "date": "Jul 27",
   "time": "04:20 PM",
   "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "Jurassic World Rebirth",
+  "date": "Jul 27",
+  "time": "04:20 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Materialists",
+  "date": "Jul 27",
+  "time": "04:30 PM",
+  "status": "available",
+  "theaterID": "miracle"
+ },
+ {
+  "title": "Eddington",
+  "date": "Jul 27",
+  "time": "04:30 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
  },
  {
   "title": "The Fantastic Four: First Steps",
@@ -4536,11 +1848,74 @@
   "theaterID": "Landmark Atlantic Plumbing Cinema"
  },
  {
+  "title": "Don’t Let’s Go to the Dogs Tonight",
+  "date": "Jul 27",
+  "time": "04:45 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "Smurfs",
+  "date": "Jul 27",
+  "time": "04:50 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Jul 27",
+  "time": "05:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 27",
+  "time": "05:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "Bad Shabbos",
+  "date": "Jul 27",
+  "time": "05:15 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
   "title": "SOMETHING BETTER CHANGE",
   "date": "Jul 27",
   "time": "06:00 PM",
   "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 27",
+  "time": "06:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Jul 27",
+  "time": "06:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "F1 The Movie",
+  "date": "Jul 27",
+  "time": "06:30 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 27",
+  "time": "06:35 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
  },
  {
   "title": "LA NOTTE",
@@ -4550,9 +1925,51 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "Jurassic World Rebirth",
+  "date": "Jul 27",
+  "time": "06:50 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
   "title": "The Fantastic Four: First Steps",
   "date": "Jul 27",
   "time": "07:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "F1 The Movie",
+  "date": "Jul 27",
+  "time": "07:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "The Phoenician Scheme",
+  "date": "Jul 27",
+  "time": "07:05 PM",
+  "status": "available",
+  "theaterID": "miracle"
+ },
+ {
+  "title": "Jurassic World Rebirth",
+  "date": "Jul 27",
+  "time": "07:10 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Don’t Let’s Go to the Dogs Tonight",
+  "date": "Jul 27",
+  "time": "07:15 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 27",
+  "time": "07:15 PM",
   "status": "available",
   "theaterID": "Landmark Bethesda Row Cinema"
  },
@@ -4562,6 +1979,41 @@
   "time": "07:20 PM",
   "status": "available",
   "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "Bad Shabbos",
+  "date": "Jul 27",
+  "time": "07:30 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "Smurfs",
+  "date": "Jul 27",
+  "time": "07:30 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 27",
+  "time": "07:35 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "Eddington",
+  "date": "Jul 27",
+  "time": "07:50 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Jul 27",
+  "time": "08:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
  },
  {
   "title": "BREWSTER MCCLOUD",
@@ -4578,6 +2030,20 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "Don’t Let’s Go to the Dogs Tonight",
+  "date": "Jul 28",
+  "time": "12:00 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "Bad Shabbos",
+  "date": "Jul 28",
+  "time": "12:45 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
   "title": "BREWSTER MCCLOUD",
   "date": "Jul 28",
   "time": "02:15 PM",
@@ -4585,11 +2051,109 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "Don’t Let’s Go to the Dogs Tonight",
+  "date": "Jul 28",
+  "time": "02:15 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "Bad Shabbos",
+  "date": "Jul 28",
+  "time": "03:00 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 28",
+  "time": "03:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "F1 The Movie",
+  "date": "Jul 28",
+  "time": "03:15 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Jul 28",
+  "time": "04:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 28",
+  "time": "04:15 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Jurassic World Rebirth",
+  "date": "Jul 28",
+  "time": "04:20 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
   "title": "LA NOTTE",
   "date": "Jul 28",
   "time": "04:30 PM",
   "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "Eddington",
+  "date": "Jul 28",
+  "time": "04:30 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Don’t Let’s Go to the Dogs Tonight",
+  "date": "Jul 28",
+  "time": "04:45 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "Smurfs",
+  "date": "Jul 28",
+  "time": "04:50 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Jul 28",
+  "time": "05:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Bad Shabbos",
+  "date": "Jul 28",
+  "time": "05:15 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 28",
+  "time": "06:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "F1 The Movie",
+  "date": "Jul 28",
+  "time": "06:30 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
  },
  {
   "title": "SUMMER WARS",
@@ -4606,6 +2170,62 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Jul 28",
+  "time": "07:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Jurassic World Rebirth",
+  "date": "Jul 28",
+  "time": "07:10 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Don’t Let’s Go to the Dogs Tonight",
+  "date": "Jul 28",
+  "time": "07:15 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 28",
+  "time": "07:15 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Bad Shabbos",
+  "date": "Jul 28",
+  "time": "07:30 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "Smurfs",
+  "date": "Jul 28",
+  "time": "07:30 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Eddington",
+  "date": "Jul 28",
+  "time": "07:50 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Jul 28",
+  "time": "08:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
   "title": "THE CONVERSATION (1974)",
   "date": "Jul 28",
   "time": "09:15 PM",
@@ -4620,6 +2240,20 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "Don’t Let’s Go to the Dogs Tonight",
+  "date": "Jul 29",
+  "time": "12:00 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "Bad Shabbos",
+  "date": "Jul 29",
+  "time": "12:45 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
   "title": "M*A*S*H",
   "date": "Jul 29",
   "time": "02:15 PM",
@@ -4627,11 +2261,158 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "Don’t Let’s Go to the Dogs Tonight",
+  "date": "Jul 29",
+  "time": "02:15 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "Bad Shabbos",
+  "date": "Jul 29",
+  "time": "03:00 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 29",
+  "time": "03:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "F1 The Movie",
+  "date": "Jul 29",
+  "time": "03:15 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Eddington",
+  "date": "Jul 29",
+  "time": "03:30 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Jul 29",
+  "time": "03:40 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "F1 The Movie",
+  "date": "Jul 29",
+  "time": "03:50 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Jul 29",
+  "time": "04:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 29",
+  "time": "04:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 29",
+  "time": "04:15 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Jurassic World Rebirth",
+  "date": "Jul 29",
+  "time": "04:20 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Jurassic World Rebirth",
+  "date": "Jul 29",
+  "time": "04:20 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Jul 29",
+  "time": "04:40 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
   "title": "WE'RE NO ANGELS (1955)",
   "date": "Jul 29",
   "time": "04:45 PM",
   "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "Don’t Let’s Go to the Dogs Tonight",
+  "date": "Jul 29",
+  "time": "04:45 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "Smurfs",
+  "date": "Jul 29",
+  "time": "04:50 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Jul 29",
+  "time": "05:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 29",
+  "time": "05:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "Bad Shabbos",
+  "date": "Jul 29",
+  "time": "05:15 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Jul 29",
+  "time": "06:20 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "F1 The Movie",
+  "date": "Jul 29",
+  "time": "06:30 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 29",
+  "time": "06:35 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
  },
  {
   "title": "SUMMER WARS",
@@ -4658,6 +2439,90 @@
   "title": "The Big Lebowski",
   "date": "Jul 29",
   "time": "07:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Jul 29",
+  "time": "07:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Together",
+  "date": "Jul 29",
+  "time": "07:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "F1 The Movie",
+  "date": "Jul 29",
+  "time": "07:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "Jurassic World Rebirth",
+  "date": "Jul 29",
+  "time": "07:10 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Jurassic World Rebirth",
+  "date": "Jul 29",
+  "time": "07:10 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "Don’t Let’s Go to the Dogs Tonight",
+  "date": "Jul 29",
+  "time": "07:15 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 29",
+  "time": "07:15 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Jul 29",
+  "time": "07:20 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "Bad Shabbos",
+  "date": "Jul 29",
+  "time": "07:30 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "Smurfs",
+  "date": "Jul 29",
+  "time": "07:30 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 29",
+  "time": "07:35 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Jul 29",
+  "time": "08:00 PM",
   "status": "available",
   "theaterID": "Landmark Bethesda Row Cinema"
  },
@@ -4697,11 +2562,130 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "Don’t Let’s Go to the Dogs Tonight",
+  "date": "Jul 30",
+  "time": "12:00 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "Bad Shabbos",
+  "date": "Jul 30",
+  "time": "12:45 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "Together",
+  "date": "Jul 30",
+  "time": "02:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
   "title": "THE CONVERSATION (1974)",
   "date": "Jul 30",
   "time": "02:15 PM",
   "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "Don’t Let’s Go to the Dogs Tonight",
+  "date": "Jul 30",
+  "time": "02:15 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "Smurfs",
+  "date": "Jul 30",
+  "time": "02:30 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Bad Shabbos",
+  "date": "Jul 30",
+  "time": "03:00 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "F1 The Movie",
+  "date": "Jul 30",
+  "time": "03:15 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Jul 30",
+  "time": "03:40 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "F1 The Movie",
+  "date": "Jul 30",
+  "time": "03:50 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Jul 30",
+  "time": "04:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 30",
+  "time": "04:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 30",
+  "time": "04:15 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Together",
+  "date": "Jul 30",
+  "time": "04:15 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "Jurassic World Rebirth",
+  "date": "Jul 30",
+  "time": "04:20 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Eddington",
+  "date": "Jul 30",
+  "time": "04:30 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Together",
+  "date": "Jul 30",
+  "time": "04:30 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Jul 30",
+  "time": "04:40 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
  },
  {
   "title": "NIGHT MOVES (1975)",
@@ -4711,6 +2695,62 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "Don’t Let’s Go to the Dogs Tonight",
+  "date": "Jul 30",
+  "time": "04:45 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "Smurfs",
+  "date": "Jul 30",
+  "time": "04:50 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Jul 30",
+  "time": "05:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 30",
+  "time": "05:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "Bad Shabbos",
+  "date": "Jul 30",
+  "time": "05:15 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Jul 30",
+  "time": "06:20 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "F1 The Movie",
+  "date": "Jul 30",
+  "time": "06:30 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 30",
+  "time": "06:35 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
   "title": "M*A*S*H",
   "date": "Jul 30",
   "time": "07:00 PM",
@@ -4718,11 +2758,109 @@
   "theaterID": "afisilver"
  },
  {
-  "title": "KILLER OF SHEEP",
+  "title": "Arsenic and Old Lace",
   "date": "Jul 30",
   "time": "07:00 PM",
   "status": "available",
+  "theaterID": "miracle"
+ },
+ {
+  "title": "KILLER OF SHEEP",
+  "date": "Jul 30",
+  "time": "07:00 PM",
+  "status": "sold out",
   "theaterID": "suns"
+ },
+ {
+  "title": "Together",
+  "date": "Jul 30",
+  "time": "07:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "F1 The Movie",
+  "date": "Jul 30",
+  "time": "07:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Jul 30",
+  "time": "07:05 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Jurassic World Rebirth",
+  "date": "Jul 30",
+  "time": "07:10 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Together",
+  "date": "Jul 30",
+  "time": "07:10 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 30",
+  "time": "07:15 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Jul 30",
+  "time": "07:20 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "Bad Shabbos",
+  "date": "Jul 30",
+  "time": "07:30 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "Smurfs",
+  "date": "Jul 30",
+  "time": "07:30 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 30",
+  "time": "07:35 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "Eddington",
+  "date": "Jul 30",
+  "time": "07:50 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "The Life of Chuck",
+  "date": "Jul 30",
+  "time": "08:00 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Jul 30",
+  "time": "08:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
  },
  {
   "title": "BREWSTER MCCLOUD",
@@ -4739,6 +2877,27 @@
   "theaterID": "suns"
  },
  {
+  "title": "The Wild Robot",
+  "date": "Jul 31",
+  "time": "10:30 AM",
+  "status": "available",
+  "theaterID": "miracle"
+ },
+ {
+  "title": "Don’t Let’s Go to the Dogs Tonight",
+  "date": "Jul 31",
+  "time": "12:00 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "Bad Shabbos",
+  "date": "Jul 31",
+  "time": "12:45 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
   "title": "LA NOTTE",
   "date": "Jul 31",
   "time": "01:15 PM",
@@ -4746,11 +2905,137 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "Together",
+  "date": "Jul 31",
+  "time": "02:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Don’t Let’s Go to the Dogs Tonight",
+  "date": "Jul 31",
+  "time": "02:15 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "Bad Shabbos",
+  "date": "Jul 31",
+  "time": "03:00 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "F1 The Movie",
+  "date": "Jul 31",
+  "time": "03:15 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Jul 31",
+  "time": "03:40 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
   "title": "RICHARD III (1955)",
   "date": "Jul 31",
   "time": "03:45 PM",
   "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Jul 31",
+  "time": "04:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 31",
+  "time": "04:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 31",
+  "time": "04:15 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Together",
+  "date": "Jul 31",
+  "time": "04:15 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "Jurassic World Rebirth",
+  "date": "Jul 31",
+  "time": "04:20 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Together",
+  "date": "Jul 31",
+  "time": "04:30 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Jul 31",
+  "time": "04:40 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "Don’t Let’s Go to the Dogs Tonight",
+  "date": "Jul 31",
+  "time": "04:45 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Jul 31",
+  "time": "05:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Bad Shabbos",
+  "date": "Jul 31",
+  "time": "05:15 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Jul 31",
+  "time": "06:20 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "F1 The Movie",
+  "date": "Jul 31",
+  "time": "06:30 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 31",
+  "time": "06:35 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
  },
  {
   "title": "THE CONVERSATION (1974)",
@@ -4767,6 +3052,76 @@
   "theaterID": "suns"
  },
  {
+  "title": "Together",
+  "date": "Jul 31",
+  "time": "07:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "The Naked Gun",
+  "date": "Jul 31",
+  "time": "07:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Jul 31",
+  "time": "07:05 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Together",
+  "date": "Jul 31",
+  "time": "07:10 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "Don’t Let’s Go to the Dogs Tonight",
+  "date": "Jul 31",
+  "time": "07:15 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "Superman",
+  "date": "Jul 31",
+  "time": "07:15 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Jul 31",
+  "time": "07:20 PM",
+  "status": "available",
+  "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "Bad Shabbos",
+  "date": "Jul 31",
+  "time": "07:30 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "The Naked Gun",
+  "date": "Jul 31",
+  "time": "07:30 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Jul 31",
+  "time": "08:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
   "title": "SOLEIL Ô",
   "date": "Jul 31",
   "time": "08:45 PM",
@@ -4781,11 +3136,18 @@
   "theaterID": "afisilver"
  },
  {
-  "title": "DIVORCE ITALIAN STYLE",
+  "title": "The Naked Gun",
   "date": "Aug 01",
-  "time": "11:30 AM",
+  "time": "12:00 PM",
   "status": "available",
-  "theaterID": "afisilver"
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Together",
+  "date": "Aug 01",
+  "time": "12:30 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
  },
  {
   "title": "THE COURT JESTER",
@@ -4795,11 +3157,39 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "The Naked Gun",
+  "date": "Aug 01",
+  "time": "02:30 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Together",
+  "date": "Aug 01",
+  "time": "03:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
   "title": "MCCABE & MRS. MILLER",
   "date": "Aug 01",
   "time": "04:00 PM",
   "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "The Naked Gun",
+  "date": "Aug 01",
+  "time": "04:45 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Together",
+  "date": "Aug 01",
+  "time": "05:15 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
  },
  {
   "title": "BOYS DON'T CRY in 35mm",
@@ -4816,16 +3206,23 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "The Naked Gun",
+  "date": "Aug 01",
+  "time": "07:15 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Together",
+  "date": "Aug 01",
+  "time": "07:45 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
   "title": "OFFICE KILLER in 35mm",
   "date": "Aug 01",
   "time": "09:30 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "CatVideoFest 2025",
-  "date": "Aug 02",
-  "time": "11:00 AM",
   "status": "available",
   "theaterID": "afisilver"
  },
@@ -4839,9 +3236,30 @@
  {
   "title": "CatVideoFest 2025",
   "date": "Aug 02",
-  "time": "01:00 PM",
+  "time": "11:00 AM",
   "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "Willy Wonka & the Chocolate Factory",
+  "date": "Aug 02",
+  "time": "11:00 AM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "The Naked Gun",
+  "date": "Aug 02",
+  "time": "12:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Together",
+  "date": "Aug 02",
+  "time": "12:30 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
  },
  {
   "title": "HIGH SOCIETY",
@@ -4851,9 +3269,898 @@
   "theaterID": "afisilver"
  },
  {
-  "title": "CatVideoFest 2025",
+  "title": "The Naked Gun",
+  "date": "Aug 02",
+  "time": "02:30 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Together",
   "date": "Aug 02",
   "time": "03:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "IMAGES",
+  "date": "Aug 02",
+  "time": "03:30 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "The Naked Gun",
+  "date": "Aug 02",
+  "time": "04:45 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Together",
+  "date": "Aug 02",
+  "time": "05:15 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "THE GODFATHER PART II",
+  "date": "Aug 02",
+  "time": "07:15 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "The Naked Gun",
+  "date": "Aug 02",
+  "time": "07:15 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Together",
+  "date": "Aug 02",
+  "time": "07:45 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Summer with Monika",
+  "date": "Aug 03",
+  "time": "10:30 AM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "Willy Wonka & the Chocolate Factory",
+  "date": "Aug 03",
+  "time": "11:00 AM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "EBIRAH, HORROR OF THE DEEP",
+  "date": "Aug 03",
+  "time": "11:30 AM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "The Naked Gun",
+  "date": "Aug 03",
+  "time": "12:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Together",
+  "date": "Aug 03",
+  "time": "12:30 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "THE COURT JESTER",
+  "date": "Aug 03",
+  "time": "01:15 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "CatVideoFest 2025",
+  "date": "Aug 03",
+  "time": "01:30 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "The Naked Gun",
+  "date": "Aug 03",
+  "time": "02:30 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Together",
+  "date": "Aug 03",
+  "time": "03:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "The Naked Gun",
+  "date": "Aug 03",
+  "time": "04:45 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "HOOSIERS",
+  "date": "Aug 03",
+  "time": "05:15 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "Together",
+  "date": "Aug 03",
+  "time": "05:15 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "The Naked Gun",
+  "date": "Aug 03",
+  "time": "07:15 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "MCCABE & MRS. MILLER",
+  "date": "Aug 03",
+  "time": "07:45 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "Together",
+  "date": "Aug 03",
+  "time": "07:45 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "HIGH SOCIETY",
+  "date": "Aug 04",
+  "time": "02:00 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "HOOSIERS",
+  "date": "Aug 04",
+  "time": "04:30 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "THE ASSASSIN (1961)",
+  "date": "Aug 04",
+  "time": "07:00 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "$5 Secret Movie",
+  "date": "Aug 04",
+  "time": "07:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "IMAGES",
+  "date": "Aug 04",
+  "time": "09:15 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "IMAGES",
+  "date": "Aug 05",
+  "time": "12:00 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "THE COURT JESTER",
+  "date": "Aug 05",
+  "time": "02:15 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "MCCABE & MRS. MILLER",
+  "date": "Aug 05",
+  "time": "04:30 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "Wet Hot American Summer",
+  "date": "Aug 05",
+  "time": "07:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "HOOSIERS",
+  "date": "Aug 05",
+  "time": "09:15 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "Willy Wonka & the Chocolate Factory",
+  "date": "Aug 06",
+  "time": "11:00 AM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "THE ASSASSIN (1961)",
+  "date": "Aug 06",
+  "time": "11:45 AM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "HIGH SOCIETY",
+  "date": "Aug 06",
+  "time": "02:00 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "HOOSIERS",
+  "date": "Aug 06",
+  "time": "04:30 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "MCCABE & MRS. MILLER",
+  "date": "Aug 06",
+  "time": "07:00 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "A Photographic Memory",
+  "date": "Aug 06",
+  "time": "08:00 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "EBIRAH, HORROR OF THE DEEP",
+  "date": "Aug 06",
+  "time": "09:30 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "MCCABE & MRS. MILLER",
+  "date": "Aug 07",
+  "time": "12:00 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "Freakier Friday",
+  "date": "Aug 07",
+  "time": "02:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "THE COURT JESTER",
+  "date": "Aug 07",
+  "time": "02:30 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "Freakier Friday",
+  "date": "Aug 07",
+  "time": "04:30 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "THE ASSASSIN (1961)",
+  "date": "Aug 07",
+  "time": "04:45 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "THE GODFATHER PART II",
+  "date": "Aug 07",
+  "time": "07:00 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "Freakier Friday",
+  "date": "Aug 07",
+  "time": "07:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Freakier Friday",
+  "date": "Aug 08",
+  "time": "11:30 AM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "HEARTS OF DARKNESS: A FILMMAKER'S APOCALYPSE",
+  "date": "Aug 08",
+  "time": "11:45 AM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "THE MAN WHO KNEW TOO MUCH (1956)",
+  "date": "Aug 08",
+  "time": "01:45 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "Freakier Friday",
+  "date": "Aug 08",
+  "time": "02:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "THE LONG GOODBYE",
+  "date": "Aug 08",
+  "time": "04:15 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "Freakier Friday",
+  "date": "Aug 08",
+  "time": "04:30 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "NORTH BY NORTHWEST",
+  "date": "Aug 08",
+  "time": "06:45 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "Freakier Friday",
+  "date": "Aug 08",
+  "time": "07:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "The Rocky Horror Picture Show",
+  "date": "Aug 08",
+  "time": "10:30 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "THE TEN COMMANDMENTS (1956)",
+  "date": "Aug 09",
+  "time": "11:00 AM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "Smallfoot",
+  "date": "Aug 09",
+  "time": "11:00 AM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Freakier Friday",
+  "date": "Aug 09",
+  "time": "11:30 AM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "THE MAN WHO KNEW TOO MUCH (1956)",
+  "date": "Aug 09",
+  "time": "01:20 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "Freakier Friday",
+  "date": "Aug 09",
+  "time": "02:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "THIEVES LIKE US",
+  "date": "Aug 09",
+  "time": "03:30 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "THE ORGANIZER (1963)",
+  "date": "Aug 09",
+  "time": "03:50 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "Freakier Friday",
+  "date": "Aug 09",
+  "time": "04:30 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "BLOOD SIMPLE",
+  "date": "Aug 09",
+  "time": "06:00 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "Freakier Friday",
+  "date": "Aug 09",
+  "time": "07:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "APOCALYPSE NOW: THE FINAL CUT",
+  "date": "Aug 09",
+  "time": "08:15 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "The Rocky Horror Picture Show",
+  "date": "Aug 09",
+  "time": "10:30 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "The Bridges of Madison County",
+  "date": "Aug 10",
+  "time": "10:30 AM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "THE MAN WHO KNEW TOO MUCH (1956)",
+  "date": "Aug 10",
+  "time": "01:15 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "THE LONG GOODBYE",
+  "date": "Aug 10",
+  "time": "01:30 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "NORTH BY NORTHWEST",
+  "date": "Aug 10",
+  "time": "03:45 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "HEARTS OF DARKNESS: A FILMMAKER'S APOCALYPSE",
+  "date": "Aug 10",
+  "time": "04:00 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "Freakier Friday",
+  "date": "Aug 10",
+  "time": "04:30 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "Freakier Friday",
+  "date": "Aug 10",
+  "time": "07:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "HAPPINESS",
+  "date": "Aug 10",
+  "time": "09:00 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "HEARTS OF DARKNESS: A FILMMAKER'S APOCALYPSE",
+  "date": "Aug 11",
+  "time": "11:45 AM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "THE LONG GOODBYE",
+  "date": "Aug 11",
+  "time": "04:10 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "THE ORGANIZER (1963)",
+  "date": "Aug 11",
+  "time": "06:30 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "THIEVES LIKE US",
+  "date": "Aug 11",
+  "time": "09:10 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "THE MAN WHO KNEW TOO MUCH (1956)",
+  "date": "Aug 12",
+  "time": "01:15 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "NORTH BY NORTHWEST",
+  "date": "Aug 12",
+  "time": "03:45 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "HAPPINESS",
+  "date": "Aug 12",
+  "time": "06:30 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "Lost in Translation",
+  "date": "Aug 12",
+  "time": "07:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "BLOOD SIMPLE",
+  "date": "Aug 12",
+  "time": "09:15 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "Smallfoot",
+  "date": "Aug 13",
+  "time": "11:00 AM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "HEARTS OF DARKNESS: A FILMMAKER'S APOCALYPSE",
+  "date": "Aug 13",
+  "time": "11:45 AM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "THE MAN WHO KNEW TOO MUCH (1956)",
+  "date": "Aug 13",
+  "time": "01:45 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "THE ORGANIZER (1963)",
+  "date": "Aug 13",
+  "time": "04:15 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "THE LONG GOODBYE",
+  "date": "Aug 13",
+  "time": "07:00 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "THE ORGANIZER (1963)",
+  "date": "Aug 14",
+  "time": "11:45 AM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "THIEVES LIKE US",
+  "date": "Aug 14",
+  "time": "02:30 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "BLOOD SIMPLE",
+  "date": "Aug 14",
+  "time": "05:00 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "APOCALYPSE NOW: THE FINAL CUT",
+  "date": "Aug 14",
+  "time": "07:15 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "TERROR OF MECHAGODZILLA",
+  "date": "Aug 15",
+  "time": "12:30 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "CALIFORNIA SPLIT",
+  "date": "Aug 15",
+  "time": "02:30 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "ONE FROM THE HEART: REPRISE",
+  "date": "Aug 15",
+  "time": "04:45 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "HEDWIG AND THE ANGRY INCH",
+  "date": "Aug 15",
+  "time": "07:00 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "RAISING ARIZONA",
+  "date": "Aug 15",
+  "time": "09:00 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "TERROR OF MECHAGODZILLA",
+  "date": "Aug 16",
+  "time": "11:30 AM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "NASHVILLE",
+  "date": "Aug 16",
+  "time": "12:00 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "MISSISSIPPI BURNING",
+  "date": "Aug 16",
+  "time": "01:25 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "VELVET GOLDMINE",
+  "date": "Aug 16",
+  "time": "09:30 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "My Summer of Love",
+  "date": "Aug 17",
+  "time": "10:30 AM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "TERROR OF MECHAGODZILLA",
+  "date": "Aug 17",
+  "time": "11:30 AM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "CALIFORNIA SPLIT",
+  "date": "Aug 17",
+  "time": "01:30 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "ONE FROM THE HEART: REPRISE",
+  "date": "Aug 17",
+  "time": "07:00 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "HEDWIG AND THE ANGRY INCH",
+  "date": "Aug 17",
+  "time": "09:00 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "ONE FROM THE HEART: REPRISE",
+  "date": "Aug 18",
+  "time": "04:45 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "VELVET GOLDMINE",
+  "date": "Aug 18",
+  "time": "07:00 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "CALIFORNIA SPLIT",
+  "date": "Aug 18",
+  "time": "09:30 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "MISSISSIPPI BURNING",
+  "date": "Aug 19",
+  "time": "11:45 AM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "CALIFORNIA SPLIT",
+  "date": "Aug 19",
+  "time": "02:30 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "HEDWIG AND THE ANGRY INCH",
+  "date": "Aug 19",
+  "time": "04:45 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "RAISING ARIZONA",
+  "date": "Aug 19",
+  "time": "07:00 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "Eternal Sunshine of the Spotless Mind",
+  "date": "Aug 19",
+  "time": "07:00 PM",
+  "status": "available",
+  "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "ONE FROM THE HEART: REPRISE",
+  "date": "Aug 19",
+  "time": "09:10 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "ONE FROM THE HEART: REPRISE",
+  "date": "Aug 20",
+  "time": "11:30 AM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "RAISING ARIZONA",
+  "date": "Aug 20",
+  "time": "01:30 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "NASHVILLE",
+  "date": "Aug 20",
+  "time": "03:45 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "CALIFORNIA SPLIT",
+  "date": "Aug 20",
+  "time": "07:00 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "Jane Austen Wrecked My Life",
+  "date": "Aug 20",
+  "time": "08:00 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "MISSISSIPPI BURNING",
+  "date": "Aug 20",
+  "time": "09:15 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "CALIFORNIA SPLIT",
+  "date": "Aug 21",
+  "time": "02:30 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "ONE FROM THE HEART: REPRISE",
+  "date": "Aug 21",
+  "time": "04:45 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "MISSISSIPPI BURNING",
+  "date": "Aug 21",
+  "time": "06:50 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "TERROR OF MECHAGODZILLA",
+  "date": "Aug 21",
+  "time": "09:30 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "FUNNY FACE (1957)",
+  "date": "Aug 22",
+  "time": "11:30 AM",
   "status": "available",
   "theaterID": "afisilver"
  }

@@ -1,3 +1,4 @@
+import BLACKLIST_PHRASES from './utils/blacklist.js';
 import React, { useEffect, useState } from "react";
 import DatePicker from "react-datepicker";
 import "react-datepicker/dist/react-datepicker.css";
@@ -6,9 +7,7 @@ import movies from './data/movies.json';
 import theaters from './data/theaters.json';
 import { getPosterUrl } from './utils/tmdb';
 
-// Normalize date to 'Mon D' (e.g., 'Jul 3')
 function normalizeDate(dateStr) {
-  // Match e.g. 'Jul 03' or 'Jul 3' and convert to 'Jul 3'
   const match = dateStr.match(/^(\w{3})\s0?(\d{1,2})$/);
   if (match) {
     return `${match[1]} ${parseInt(match[2], 10)}`;
@@ -16,16 +15,24 @@ function normalizeDate(dateStr) {
   return dateStr;
 }
 
-// Group and condense movies by normalized date and lowercase title (for stacking by movie, case-insensitive)
+function normalizeTitle(title) {
+  let cleanedTitle = title;
+  for (const phrase of BLACKLIST_PHRASES) {
+    const regex = new RegExp(phrase, 'gi');
+    cleanedTitle = cleanedTitle.replace(regex, '').trim();
+  }
+  return cleanedTitle.toLowerCase().replace(/[^\w\s]/g, '').replace(/\s+/g, ' ').trim();
+}
+// Group and condense movies by normalized date and normalized title (for stacking by movie, case-insensitive, ignore punctuation)
 const groupedByDateAndTitle = movies.reduce((acc, movie) => {
-  const lowerTitle = movie.title.toLowerCase();
+  const normTitle = normalizeTitle(movie.title);
   const normDate = normalizeDate(movie.date);
   if (!acc[normDate]) acc[normDate] = {};
-  if (!acc[normDate][lowerTitle]) acc[normDate][lowerTitle] = [];
+  if (!acc[normDate][normTitle]) acc[normDate][normTitle] = [];
   // Find if this theater already exists for this movie on this date
-  let theaterEntry = acc[normDate][lowerTitle].find(m => m.theaterID === movie.theaterID);
+  let theaterEntry = acc[normDate][normTitle].find(m => m.theaterID === movie.theaterID);
   if (!theaterEntry) {
-    acc[normDate][lowerTitle].push({
+    acc[normDate][normTitle].push({
       ...movie,
       date: normDate, // ensure all movies in group have normalized date
       times: [{ time: movie.time, status: movie.status }]
@@ -53,6 +60,7 @@ function Modal({ title, onClose, children }) {
 export default function App() {
   const [posters, setPosters] = useState({});
   const [selectedMovie, setSelectedMovie] = useState(null);
+  const [selectedStack, setSelectedStack] = useState(null); // {date, title, idx}
   const [showTheaterList, setShowTheaterList] = useState(false);
   const [showMovieList, setShowMovieList] = useState(false);
   const [showOfflineList, setShowOfflineList] = useState(false);
@@ -77,7 +85,14 @@ export default function App() {
   }, []);
 
   const uniqueMovieKeys = new Set(movies.map(m => `${m.title}|${m.theaterID}`));
-  const uniqueMovies = Array.from(new Set(movies.map(m => m.title)));
+// Unique movies by normalized title (case-insensitive, ignore punctuation)
+const uniqueMovies = Array.from(
+  movies.reduce((acc, m) => {
+    const norm = normalizeTitle(m.title);
+    if (!acc.has(norm)) acc.set(norm, m.title);
+    return acc;
+  }, new Map()).values()
+);
   const offlineTheaters = theaters.filter(theater => theater.online === false);
   const availableDates = Object.keys(groupedByDateAndTitle).sort((a, b) => {
     // Try to sort by month and day
@@ -99,7 +114,7 @@ export default function App() {
   const scrollToDate = (date) => {
     const section = document.getElementById(`date-${date}`);
     if (section) {
-      const yOffset = -120;
+      const yOffset = -90;
       const y = section.getBoundingClientRect().top + window.pageYOffset + yOffset;
       window.scrollTo({ top: y, behavior: 'smooth' });
     }
@@ -129,7 +144,7 @@ export default function App() {
         <div className="w-full px-4 py-3 text-white text-center text-sm sm:text-base font-audiowide">
           <div className="flex flex-col sm:flex-row justify-center items-center gap-2 sm:gap-6">
             <button className="bg-zinc-800" onClick={() => setShowMovieList(true)}>
-              🎞️ {uniqueMovieKeys.size} Movies Showing
+              🎞️ {uniqueMovies.length} Movies Showing
             </button>
             <button className="bg-zinc-800" onClick={() => setShowTheaterList(true)}>
               🏛️ {Object.keys(theaterMap).length} Theaters Listed
@@ -176,7 +191,10 @@ export default function App() {
                             return (
                               <div
                                 key={movie.theaterID}
-                                onClick={() => setSelectedMovie({ ...movie, bgClass, date })}
+                                onClick={() => {
+                                  setSelectedMovie({ ...movie, bgClass, date });
+                                  setSelectedStack({ date, title: normalizeTitle(title), idx });
+                                }}
                                 className="cursor-pointer absolute left-0 right-0 rounded-2xl shadow-lg flex flex-col sm:flex-row overflow-hidden h-60 transition-transform duration-300 transform hover:scale-[1.03] hover:shadow-2xl"
                                 style={{ top: `${idx * stackOffset}px`, zIndex: 10 + (arr.length - idx), opacity: 1 }}
                               >
@@ -217,21 +235,21 @@ export default function App() {
 
         {selectedMovie && (
           <div className="fixed inset-0 z-50 bg-black bg-opacity-80 flex justify-center items-center">
-            <div className={`text-white rounded-2xl shadow-xl p-6 max-w-4xl w-full relative flex flex-col sm:flex-row gap-6`}>
+            <div className={`text-white rounded-2xl shadow-xl p-6 max-w-4xl w-full relative flex flex-col sm:flex-row gap-6 max-h-[95vh] overflow-y-auto`}>
               {/* Blank card for background, same as site bg, behind the colored card */}
               <div className="absolute inset-0 bg-zinc-900 rounded-2xl" style={{ zIndex: 0 }} />
               <div className={`absolute inset-0 rounded-2xl ${selectedMovie.bgClass}`} style={{ zIndex: 1 }} />
-              <button onClick={() => setSelectedMovie(null)} className="absolute top-2 right-2 text-white text-2xl z-20">×</button>
+              <button onClick={() => { setSelectedMovie(null); setSelectedStack(null); }} className="absolute top-2 right-2 text-white text-2xl z-20">×</button>
               <div className="sm:w-1/2 flex justify-center items-center z-10">
                 {posters[selectedMovie.title] ? (
-                  <img src={posters[selectedMovie.title]} alt={selectedMovie.title} className="object-cover max-h-[500px] w-full rounded" />
+                  <img src={posters[selectedMovie.title]} alt={selectedMovie.title} className="object-cover max-h-[80vh] w-full rounded" />
                 ) : (
                   <div className="bg-zinc-700 h-60 w-full flex items-center justify-center text-sm text-zinc-300">
                     {selectedMovie.poster || 'Poster Unavailable'}
                   </div>
                 )}
               </div>
-              <div className="sm:w-1/2 flex flex-col justify-center z-10">
+              <div className="sm:w-1/2 flex flex-col justify-center z-10 relative">
                 <h2 className="text-3xl font-bold mb-2 font-limelight">{selectedMovie.title}</h2>
                 <p className="text-zinc-300 text-sm mb-2 font-montserratalts">{selectedMovie.date}</p>
                 <p className="text-zinc-300 mb-2 text-sm font-montserratalts">
@@ -242,6 +260,44 @@ export default function App() {
                   ))}
                 </p>
                 <p className="text-zinc-100 text-xl font-alumnisc mb-4">{theaterMap[selectedMovie.theaterID]?.name || 'Unknown Theater'}</p>
+                {/* Swap buttons for stacked cards */}
+                {selectedStack && (() => {
+                  const { date, title, idx } = selectedStack;
+                  const stack =
+                    groupedByDateAndTitle[date] && groupedByDateAndTitle[date][title]
+                      ? groupedByDateAndTitle[date][title]
+                      : null;
+                  if (stack && stack.length > 1) {
+                    return (
+                      <div className="flex justify-center items-center gap-4 mt-4 absolute left-0 right-0" style={{ bottom: 0, marginBottom: '1.5rem' }}>
+                        <button
+                          className="bg-zinc-700 px-6 py-3 rounded-lg text-white font-bold text-2xl disabled:opacity-50 shadow-md hover:bg-zinc-600 transition-colors"
+                          onClick={() => {
+                            const prevIdx = (idx - 1 + stack.length) % stack.length;
+                            setSelectedMovie({ ...stack[prevIdx], bgClass: theaterMap[stack[prevIdx].theaterID]?.colorClass || 'bg-zinc-800', date });
+                            setSelectedStack({ date, title, idx: prevIdx });
+                          }}
+                          disabled={stack.length < 2}
+                        >
+                          ◀
+                        </button>
+                        <span className="text-sm text-zinc-300">{idx + 1} / {stack.length}</span>
+                        <button
+                          className="bg-zinc-700 px-6 py-3 rounded-lg text-white font-bold text-2xl disabled:opacity-50 shadow-md hover:bg-zinc-600 transition-colors"
+                          onClick={() => {
+                            const nextIdx = (idx + 1) % stack.length;
+                            setSelectedMovie({ ...stack[nextIdx], bgClass: theaterMap[stack[nextIdx].theaterID]?.colorClass || 'bg-zinc-800', date });
+                            setSelectedStack({ date, title, idx: nextIdx });
+                          }}
+                          disabled={stack.length < 2}
+                        >
+                          ▶
+                        </button>
+                      </div>
+                    );
+                  }
+                  return null;
+                })()}
               </div>
             </div>
           </div>
@@ -283,12 +339,15 @@ export default function App() {
 
         {showCalendar && (
           <Modal title="Jump to Date" onClose={() => setShowCalendar(false)}>
-            <DatePicker
-              selected={calendarDate}
-              onChange={(date) => setCalendarDate(date)}
-              inline
-              includeDates={availableDates.map(d => new Date(d))}
-            />
+            <div className="flex justify-center items-center w-full">
+              <DatePicker
+                selected={calendarDate}
+                onChange={(date) => setCalendarDate(date)}
+                inline
+                includeDates={availableDates.map(d => new Date(d))}
+                openToDate={calendarDate || (availableDates.length > 0 ? new Date(availableDates[0]) : new Date())}
+              />
+            </div>
           </Modal>
         )}
       </main>

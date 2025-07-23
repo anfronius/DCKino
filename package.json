@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "@tailwindcss/line-clamp": "^0.4.4",
-    "date-fns": "^4.1.0",
-    "react-datepicker": "^8.4.0"
-  }
-}
