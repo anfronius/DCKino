@@ -10,3 +10,5 @@ __pycache__/
 .scrapy
 
 node_modules/
+
+dist/
