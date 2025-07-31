@@ -1,152 +1,5 @@
 [
  {
-  "title": "The Fantastic Four: First Steps",
-  "date": "Jul 30",
-  "time": "06:20 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "SHALL WE DANCE? (1996)",
-  "date": "Jul 30",
-  "time": "06:30 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 30",
-  "time": "06:30 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Superman",
-  "date": "Jul 30",
-  "time": "06:35 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "M*A*S*H",
-  "date": "Jul 30",
-  "time": "07:00 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Arsenic and Old Lace",
-  "date": "Jul 30",
-  "time": "07:00 PM",
-  "status": "available",
-  "theaterID": "miracle"
- },
- {
-  "title": "Together",
-  "date": "Jul 30",
-  "time": "07:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 30",
-  "time": "07:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "The Fantastic Four: First Steps",
-  "date": "Jul 30",
-  "time": "07:05 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Jurassic World Rebirth",
-  "date": "Jul 30",
-  "time": "07:10 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Together",
-  "date": "Jul 30",
-  "time": "07:10 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "Superman",
-  "date": "Jul 30",
-  "time": "07:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "The Fantastic Four: First Steps",
-  "date": "Jul 30",
-  "time": "07:20 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "Bad Shabbos",
-  "date": "Jul 30",
-  "time": "07:30 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "Smurfs",
-  "date": "Jul 30",
-  "time": "07:30 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Superman",
-  "date": "Jul 30",
-  "time": "07:35 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "Eddington",
-  "date": "Jul 30",
-  "time": "07:50 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "The Life of Chuck",
-  "date": "Jul 30",
-  "time": "08:00 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "The Fantastic Four: First Steps",
-  "date": "Jul 30",
-  "time": "08:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "BREWSTER MCCLOUD",
-  "date": "Jul 30",
-  "time": "09:30 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "The Wild Robot",
-  "date": "Jul 31",
-  "time": "10:30 AM",
-  "status": "available",
-  "theaterID": "miracle"
- },
- {
   "title": "SHANGHAI BLUES",
   "date": "Jul 31",
   "time": "11:40 AM",
@@ -4497,6 +4350,41 @@
   "title": "GODZILLA 2000: MILLENNIUM",
   "date": "Aug 29",
   "time": "04:00 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "MERMAIDS",
+  "date": "Aug 29",
+  "time": "06:00 PM",
+  "status": "available",
+  "theaterID": "suns"
+ },
+ {
+  "title": "JAWS: 50th Anniversary",
+  "date": "Aug 29",
+  "time": "06:15 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "VERTIGO in 70mm",
+  "date": "Aug 29",
+  "time": "06:30 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "THE LURE",
+  "date": "Aug 29",
+  "time": "08:45 PM",
+  "status": "available",
+  "theaterID": "suns"
+ },
+ {
+  "title": "THE NAVIGATOR: A MEDIEVAL ODYSSEY",
+  "date": "Aug 29",
+  "time": "08:50 PM",
   "status": "available",
   "theaterID": "afisilver"
  }

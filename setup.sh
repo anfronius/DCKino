@@ -75,17 +75,16 @@ setup_env() {
 # Function for NPM Options
 site_start_options() {
     cd "$FRONTEND_DIR"
-    echo -e "\n\n${BLUE_BG}What would you like to do with the frontend site now?${default}\n"
-    echo -e "${MAGENTA}  1. Run testrun pipeline (full production)"
-    echo -e "${MAGENTA}  2. Run 'npm run dev' (for development) ${default}"
-    echo -e "${MAGENTA}  3. Run 'npm run build' (basic production) ${default}"
-    echo -e "${MAGENTA}  4. Nothing ${default}\n"
-    read -p "${BLUE}${BLINK}Enter your choice (1-4):${default} " choice
+    echo -e "\n\n${BLUE_BG}What would you like to do now?${default}\n"
+    echo -e "${MAGENTA}  1. Run DCKino pipeline (full production)"
+    echo -e "${MAGENTA}  2. Run basic dev server ${default}"
+    echo -e "${MAGENTA}  3. Nothing ${default}\n"
+    read -p "${BLUE}${BLINK}Enter your choice (1-3):${default} " choice
     case $choice in
         1)
             echo -e "\n\n${BLUE}Running testrun pipeline... ${default}"
             cd "$BASE_DIR"
-            ./testrun.sh
+            ./run_dckino.sh
             ;;
         2)
             echo -e "\n\n${BLUE}Starting dev server... This will block the terminal. Press Ctrl+C to exit.${YELLOW}"
@@ -93,11 +92,6 @@ site_start_options() {
             echo -e "${default}"
             ;;
         3)
-            echo -e "\n\n${BLUE}Building for basic production...${YELLOW}"
-            npm run build
-            echo -e "${GREEN}Build complete. You can now preview the basic production build with 'npm run preview' from the '$FRONTEND_DIR' directory.${default}"
-            ;;
-        4)
             echo -e "\n\n${GREEN}No action taken. You can start the site later by running 'npm run dev' or 'npm run build' in the '$FRONTEND_DIR' directory.${default}"
             ;;
         *)
