@@ -36,7 +36,7 @@ check_nodejs_version() {
             exit 1
         fi
     else
-        echo -e "${RED}Error: Node.js is not installed. Please install Node.js version 20 or higher. ${default}"
+        echo -e "${RED}Error: Node.js is not installed. Please install Node.js version 20 or higher. On Ubuntu, install Node Version Manager (NVM) 'curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash' and run 'nvm install 20'. ${default}"
         exit 1
     fi
 }

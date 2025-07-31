@@ -1,33 +1,5 @@
 [
  {
-  "title": "SHANGHAI BLUES",
-  "date": "Jul 31",
-  "time": "11:40 AM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "TO A LAND UNKNOWN",
-  "date": "Jul 31",
-  "time": "11:50 AM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Don’t Let’s Go to the Dogs Tonight",
-  "date": "Jul 31",
-  "time": "12:00 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "Bad Shabbos",
-  "date": "Jul 31",
-  "time": "12:45 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
   "title": "LA NOTTE",
   "date": "Jul 31",
   "time": "01:15 PM",
@@ -231,13 +203,6 @@
   "theaterID": "afisilver"
  },
  {
-  "title": "BLACK GIRL",
-  "date": "Jul 31",
-  "time": "07:00 PM",
-  "status": "sold out",
-  "theaterID": "suns"
- },
- {
   "title": "Together",
   "date": "Jul 31",
   "time": "07:00 PM",
@@ -329,13 +294,6 @@
   "theaterID": "Landmark Bethesda Row Cinema"
  },
  {
-  "title": "SOLEIL Ô",
-  "date": "Jul 31",
-  "time": "08:45 PM",
-  "status": "sold out",
-  "theaterID": "suns"
- },
- {
   "title": "INVASION OF ASTRO-MONSTER",
   "date": "Jul 31",
   "time": "09:30 PM",
@@ -364,6 +322,13 @@
   "theaterID": "Landmark Bethesda Row Cinema"
  },
  {
+  "title": "FOLKTALES",
+  "date": "Aug 01",
+  "time": "11:50 AM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
   "title": "Don’t Let’s Go to the Dogs Tonight",
   "date": "Aug 01",
   "time": "12:00 PM",
@@ -383,6 +348,13 @@
   "time": "12:15 PM",
   "status": "available",
   "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "RAN - 40th Anniversary",
+  "date": "Aug 01",
+  "time": "12:30 PM",
+  "status": "available",
+  "theaterID": "afisilver"
  },
  {
   "title": "Together",
@@ -460,6 +432,13 @@
   "time": "02:00 PM",
   "status": "available",
   "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
+  "date": "Aug 01",
+  "time": "02:05 PM",
+  "status": "available",
+  "theaterID": "afisilver"
  },
  {
   "title": "Don’t Let’s Go to the Dogs Tonight",
@@ -675,7 +654,7 @@
   "title": "THE WICKER MAN",
   "date": "Aug 01",
   "time": "07:00 PM",
-  "status": "available",
+  "status": "sold out",
   "theaterID": "suns"
  },
  {
@@ -910,6 +889,13 @@
   "theaterID": "Landmark Bethesda Row Cinema"
  },
  {
+  "title": "FOLKTALES",
+  "date": "Aug 02",
+  "time": "11:50 AM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
   "title": "Don’t Let’s Go to the Dogs Tonight",
   "date": "Aug 02",
   "time": "12:00 PM",
@@ -1006,6 +992,13 @@
   "time": "02:00 PM",
   "status": "available",
   "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
+  "date": "Aug 02",
+  "time": "02:05 PM",
+  "status": "available",
+  "theaterID": "afisilver"
  },
  {
   "title": "Don’t Let’s Go to the Dogs Tonight",
@@ -1176,10 +1169,17 @@
   "theaterID": "Landmark Bethesda Row Cinema"
  },
  {
+  "title": "RAN - 40th Anniversary",
+  "date": "Aug 02",
+  "time": "05:45 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
   "title": "SINNERS",
   "date": "Aug 02",
   "time": "06:00 PM",
-  "status": "available",
+  "status": "sold out",
   "theaterID": "suns"
  },
  {
@@ -1321,6 +1321,13 @@
   "time": "08:40 PM",
   "status": "available",
   "theaterID": "Landmark Atlantic Plumbing Cinema"
+ },
+ {
+  "title": "SHALL WE DANCE? (1996)",
+  "date": "Aug 02",
+  "time": "08:50 PM",
+  "status": "available",
+  "theaterID": "afisilver"
  },
  {
   "title": "Superman",
@@ -1519,6 +1526,13 @@
   "theaterID": "Landmark Atlantic Plumbing Cinema"
  },
  {
+  "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
+  "date": "Aug 03",
+  "time": "01:20 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
   "title": "CatVideoFest 2025",
   "date": "Aug 03",
   "time": "01:30 PM",
@@ -1617,6 +1631,13 @@
   "theaterID": "Landmark Atlantic Plumbing Cinema"
  },
  {
+  "title": "FOLKTALES",
+  "date": "Aug 03",
+  "time": "03:35 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 03",
   "time": "03:40 PM",
@@ -1713,6 +1734,13 @@
   "time": "05:15 PM",
   "status": "available",
   "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "RAN - 40th Anniversary",
+  "date": "Aug 03",
+  "time": "06:00 PM",
+  "status": "available",
+  "theaterID": "afisilver"
  },
  {
   "title": "The Fantastic Four: First Steps",
@@ -1834,9 +1862,23 @@
   "theaterID": "Landmark Bethesda Row Cinema"
  },
  {
+  "title": "THE GODFATHER",
+  "date": "Aug 03",
+  "time": "08:15 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
   "title": "DIVORCE ITALIAN STYLE",
   "date": "Aug 04",
   "time": "11:45 AM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "FOLKTALES",
+  "date": "Aug 04",
+  "time": "11:50 AM",
   "status": "available",
   "theaterID": "afisilver"
  },
@@ -1846,6 +1888,13 @@
   "time": "12:00 PM",
   "status": "available",
   "theaterID": "avalon"
+ },
+ {
+  "title": "RAN - 40th Anniversary",
+  "date": "Aug 04",
+  "time": "12:05 PM",
+  "status": "available",
+  "theaterID": "afisilver"
  },
  {
   "title": "Bad Shabbos",
@@ -1867,6 +1916,13 @@
   "time": "02:00 PM",
   "status": "available",
   "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
+  "date": "Aug 04",
+  "time": "02:05 PM",
+  "status": "available",
+  "theaterID": "afisilver"
  },
  {
   "title": "Don’t Let’s Go to the Dogs Tonight",
@@ -2156,6 +2212,20 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "RAN - 40th Anniversary",
+  "date": "Aug 05",
+  "time": "11:45 AM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "FOLKTALES",
+  "date": "Aug 05",
+  "time": "11:50 AM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
   "title": "IMAGES",
   "date": "Aug 05",
   "time": "12:00 PM",
@@ -2182,6 +2252,13 @@
   "time": "02:00 PM",
   "status": "available",
   "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
+  "date": "Aug 05",
+  "time": "02:05 PM",
+  "status": "available",
+  "theaterID": "afisilver"
  },
  {
   "title": "THE COURT JESTER",
@@ -2390,7 +2467,7 @@
   "title": "THE WICKER MAN",
   "date": "Aug 05",
   "time": "07:00 PM",
-  "status": "available",
+  "status": "sold out",
   "theaterID": "suns"
  },
  {
@@ -2485,11 +2562,25 @@
   "theaterID": "Landmark Bethesda Row Cinema"
  },
  {
+  "title": "THE GODFATHER",
+  "date": "Aug 05",
+  "time": "08:15 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
   "title": "MIDSOMMAR",
   "date": "Aug 05",
   "time": "08:30 PM",
   "status": "sold out",
   "theaterID": "suns"
+ },
+ {
+  "title": "SHALL WE DANCE? (1996)",
+  "date": "Aug 05",
+  "time": "08:50 PM",
+  "status": "available",
+  "theaterID": "afisilver"
  },
  {
   "title": "HOOSIERS",
@@ -2513,9 +2604,23 @@
   "theaterID": "Landmark Bethesda Row Cinema"
  },
  {
+  "title": "RAN - 40th Anniversary",
+  "date": "Aug 06",
+  "time": "11:45 AM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
   "title": "THE ASSASSIN (1961)",
   "date": "Aug 06",
   "time": "11:45 AM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "FOLKTALES",
+  "date": "Aug 06",
+  "time": "11:50 AM",
   "status": "available",
   "theaterID": "afisilver"
  },
@@ -2546,6 +2651,13 @@
   "time": "02:00 PM",
   "status": "available",
   "theaterID": "Landmark Bethesda Row Cinema"
+ },
+ {
+  "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
+  "date": "Aug 06",
+  "time": "02:05 PM",
+  "status": "available",
+  "theaterID": "afisilver"
  },
  {
   "title": "Don’t Let’s Go to the Dogs Tonight",
@@ -2691,7 +2803,7 @@
   "title": "CLOSE-UP",
   "date": "Aug 06",
   "time": "07:00 PM",
-  "status": "available",
+  "status": "sold out",
   "theaterID": "suns"
  },
  {
@@ -2763,6 +2875,20 @@
   "time": "09:30 PM",
   "status": "available",
   "theaterID": "suns"
+ },
+ {
+  "title": "RAN - 40th Anniversary",
+  "date": "Aug 07",
+  "time": "11:45 AM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "FOLKTALES",
+  "date": "Aug 07",
+  "time": "11:50 AM",
+  "status": "available",
+  "theaterID": "afisilver"
  },
  {
   "title": "MCCABE & MRS. MILLER",
@@ -2947,6 +3073,13 @@
   "theaterID": "Landmark Bethesda Row Cinema"
  },
  {
+  "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
+  "date": "Aug 07",
+  "time": "06:35 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
   "title": "THE GODFATHER PART II",
   "date": "Aug 07",
   "time": "07:00 PM",
@@ -3052,6 +3185,13 @@
   "theaterID": "Landmark Bethesda Row Cinema"
  },
  {
+  "title": "SHALL WE DANCE? (1996)",
+  "date": "Aug 07",
+  "time": "08:50 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
   "title": "CatVideoFest 2025",
   "date": "Aug 07",
   "time": "09:30 PM",
@@ -3062,7 +3202,7 @@
   "title": "AFTER HOURS",
   "date": "Aug 07",
   "time": "10:00 PM",
-  "status": "available",
+  "status": "sold out",
   "theaterID": "suns"
  },
  {
@@ -3125,7 +3265,7 @@
   "title": "SINNERS",
   "date": "Aug 08",
   "time": "06:00 PM",
-  "status": "available",
+  "status": "sold out",
   "theaterID": "suns"
  },
  {
@@ -3552,7 +3692,7 @@
   "title": "A SEPARATION",
   "date": "Aug 13",
   "time": "07:00 PM",
-  "status": "available",
+  "status": "sold out",
   "theaterID": "suns"
  },
  {
@@ -4385,6 +4525,20 @@
   "title": "THE NAVIGATOR: A MEDIEVAL ODYSSEY",
   "date": "Aug 29",
   "time": "08:50 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "POPEYE",
+  "date": "Aug 30",
+  "time": "11:00 AM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "GODZILLA 2000: MILLENNIUM",
+  "date": "Aug 30",
+  "time": "11:00 AM",
   "status": "available",
   "theaterID": "afisilver"
  }
