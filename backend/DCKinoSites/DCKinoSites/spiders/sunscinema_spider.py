@@ -1,5 +1,5 @@
 import scrapy
-from pathlib import Path
+import re
 from datetime import datetime
 
 class SunsCinemaSpider(scrapy.Spider):
@@ -9,57 +9,50 @@ class SunsCinemaSpider(scrapy.Spider):
 
     custom_settings = {
         "FEEDS": {
-            "data/sunsmovies.json": {
+            f"data/suns/suns_raw_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json": {
                 "format": "json",
                 "encoding": "utf-8",
                 "fields": ["title", "date", "time", "status", "theaterID"],
-                "overwrite": True
+                "overwrite": True,
             }
         }
     }
 
     def parse(self, response):
-        # Loop through each movie block
         movie_blocks = response.css("div.showtimes-description")
 
         for block in movie_blocks:
-            # Extract title
             title = block.css("h2.show-title a.title::text").get()
-            title = title.strip() if title else None
+            if not title:
+                continue
 
-            # Extract date list
             date_list = block.css("ul.datelist li")
             if not date_list:
                 continue
 
             for date_item in date_list:
-                raw_date = date_item.css("span::text").get()
-                if not raw_date:
+                date = date_item.css("span::text").get()
+                if not date:
                     continue
 
-                try:
-                    parts = raw_date.replace(",", "").split()
-                    if len(parts) >= 3:
-                        dt = datetime.strptime(f"{parts[1]} {parts[2]}", "%b %d")
-                        date = dt.strftime("%b %d")
-                    else:
-                        date = raw_date.strip()
-                except Exception:
-                    date = raw_date.strip()
-
-                # Get all showtime buttons under the current block
                 showtimes = block.css("a.showtime, span.showtime")
-                for st in showtimes:
-                    time = st.css("::text").get()
-                    if not time or not date:
+                for showtime in showtimes:
+                    time = showtime.css("::text").get()
+                    if not time:
                         continue
 
-                    status = "sold out" if "sold-out" in st.attrib.get("class", "") else "available"
+                    cleaned_time = re.sub(r"[\n\t\r]+", "", time) if time else time
+
+                    status = (
+                        "sold out"
+                        if "sold-out" in showtime.attrib.get("class", "")
+                        else "available"
+                    )
 
                     yield {
                         "title": title,
                         "date": date,
-                        "time": time.strip(),
+                        "time": cleaned_time,
                         "status": status,
-                        "theaterID": "suns"
+                        "theaterID": "suns",
                     }

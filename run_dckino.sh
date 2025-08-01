@@ -29,7 +29,15 @@ backup_json_data() {
     cd "$BACKEND_DIR/DCKinoSites/utils"
     echo -e "${BLUE}Backing up old JSONs... ${default}"
     python3 backup_data.py
-    echo -e "${GREEN}Backup script ran${default}"
+    echo -e "${GREEN}Backup script ran ${default}"
+}
+
+# Function for deleting old JSONs
+delete_current_json() {
+    cd "$BACKEND_DIR/DCKinoSites/data"
+    echo -e "${BLUE}Deleting old JSONs... ${default}"
+    find . -type f -name "*.json" -delete
+    echo -e "${GREEN}Old JSONs deleted ${default}"
 }
 
 # Function for activating virtual environment
@@ -49,20 +57,17 @@ deactivate_venv() {
 # Function for running Spiders
 run_movie_spiders() {
     cd "$BACKEND_DIR/DCKinoSites"
-    declare -A spiders=(
-        [afisilver]="AFI"
-        [miracle]="Miracle"
-        [suns]="Suns"
-        [avalon]="Avalon"
-        [landmark]="Landmark"
-    )
-    echo -e "${BLUE_BG}Running spiders...${default}"
-    for spider_name in "${!spiders[@]}"; do
-        display_name="${spiders[$spider_name]}"
-        echo -e "${BLUE}Running ${display_name} spider... ${YELLOW}\n"
-        scrapy crawl "$spider_name"
-        echo -e "\n${GREEN}${BLINK}${display_name} spider finished ${default}"
-    done
+    echo -e "${BLUE}Starting spider script... ${default}"
+    python3 utils/run_spiders.py
+    echo -e "${GREEN}Spider script ended ${default}"
+}
+
+# Function for processing data 
+process_data() {
+    cd "$BACKEND_DIR/DCKinoSites"
+    echo -e "${BLUE}Starting data processor... ${default}"
+    python3 utils/process_data.py
+    echo -e "${GREEN}Processor script ended ${default}"
 }
 
 # Function for combining and filtering showings
@@ -111,14 +116,20 @@ dckino_site_options() {
 
 echo -e "\n\n${MAGENTA_BG}${BOLD}${UNDERLINE} ///// Beginning DCKino Testrun Script ///// ${default}\n\n"
 
-# Backup old JSONs
-backup_json_data
+# Delete old JSONs
+delete_current_json
 
 # Activate virtual environment
 activate_venv
 
 # Run spiders
 run_movie_spiders
+
+# Run data processor
+process_data
+
+# Backup old JSONs
+backup_json_data
 
 # Run combining script
 combine_showings

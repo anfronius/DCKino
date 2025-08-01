@@ -1,857 +1,367 @@
 [
  {
-  "title": "LA NOTTE",
-  "date": "Jul 31",
-  "time": "01:15 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
-  "date": "Jul 31",
-  "time": "01:45 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Together",
-  "date": "Jul 31",
-  "time": "02:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Don’t Let’s Go to the Dogs Tonight",
-  "date": "Jul 31",
-  "time": "02:15 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "The Bad Guys 2",
-  "date": "Jul 31",
-  "time": "02:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Bad Shabbos",
-  "date": "Jul 31",
-  "time": "03:00 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 31",
-  "time": "03:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "The Bad Guys 2",
-  "date": "Jul 31",
-  "time": "03:30 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "The Fantastic Four: First Steps",
-  "date": "Jul 31",
-  "time": "03:40 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "RICHARD III (1955)",
-  "date": "Jul 31",
-  "time": "03:45 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Superman",
-  "date": "Jul 31",
-  "time": "03:55 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "SHALL WE DANCE? (1996)",
-  "date": "Jul 31",
-  "time": "04:00 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "The Fantastic Four: First Steps",
-  "date": "Jul 31",
-  "time": "04:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Superman",
-  "date": "Jul 31",
-  "time": "04:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Together",
-  "date": "Jul 31",
-  "time": "04:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "Eddington",
-  "date": "Jul 31",
-  "time": "04:20 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "MATERIALISTS",
-  "date": "Jul 31",
-  "time": "04:25 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "The Fantastic Four: First Steps",
-  "date": "Jul 31",
-  "time": "04:25 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "Together",
-  "date": "Jul 31",
-  "time": "04:30 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Don’t Let’s Go to the Dogs Tonight",
-  "date": "Jul 31",
-  "time": "04:45 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "The Bad Guys 2",
-  "date": "Jul 31",
-  "time": "04:45 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Together",
-  "date": "Jul 31",
-  "time": "04:45 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "The Fantastic Four: First Steps",
-  "date": "Jul 31",
-  "time": "05:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "The Fantastic Four: First Steps",
-  "date": "Jul 31",
-  "time": "05:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "Bad Shabbos",
-  "date": "Jul 31",
-  "time": "05:15 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "The Fantastic Four: First Steps",
-  "date": "Jul 31",
-  "time": "06:20 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Jul 31",
-  "time": "06:30 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Superman",
-  "date": "Jul 31",
-  "time": "06:35 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "THE CONVERSATION (1974)",
-  "date": "Jul 31",
-  "time": "07:00 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Together",
-  "date": "Jul 31",
-  "time": "07:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "The Naked Gun",
-  "date": "Jul 31",
-  "time": "07:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "The Fantastic Four: First Steps",
-  "date": "Jul 31",
-  "time": "07:05 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Together",
-  "date": "Jul 31",
-  "time": "07:10 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "Don’t Let’s Go to the Dogs Tonight",
-  "date": "Jul 31",
-  "time": "07:15 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "Superman",
-  "date": "Jul 31",
-  "time": "07:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "The Bad Guys 2",
-  "date": "Jul 31",
-  "time": "07:20 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "The Fantastic Four: First Steps",
-  "date": "Jul 31",
-  "time": "07:20 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "Bad Shabbos",
-  "date": "Jul 31",
-  "time": "07:30 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "The Naked Gun",
-  "date": "Jul 31",
-  "time": "07:30 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "The Naked Gun",
-  "date": "Jul 31",
-  "time": "07:30 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "The Fantastic Four: First Steps",
-  "date": "Jul 31",
-  "time": "08:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "The Naked Gun",
-  "date": "Jul 31",
-  "time": "08:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "INVASION OF ASTRO-MONSTER",
-  "date": "Jul 31",
-  "time": "09:30 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "DIVORCE ITALIAN STYLE",
-  "date": "Aug 01",
-  "time": "11:30 AM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "The Bad Guys 2",
-  "date": "Aug 01",
-  "time": "11:30 AM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Aug 01",
-  "time": "11:45 AM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "FOLKTALES",
-  "date": "Aug 01",
-  "time": "11:50 AM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Don’t Let’s Go to the Dogs Tonight",
-  "date": "Aug 01",
-  "time": "12:00 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "The Naked Gun",
-  "date": "Aug 01",
-  "time": "12:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Superman",
-  "date": "Aug 01",
-  "time": "12:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "RAN - 40th Anniversary",
-  "date": "Aug 01",
-  "time": "12:30 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Together",
-  "date": "Aug 01",
-  "time": "12:30 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Bad Shabbos",
-  "date": "Aug 01",
-  "time": "12:45 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 01",
-  "time": "01:00 PM",
+  "time": "3:40 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Together",
-  "date": "Aug 01",
-  "time": "01:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "Superman",
-  "date": "Aug 01",
-  "time": "01:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "The Naked Gun",
-  "date": "Aug 01",
-  "time": "01:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "Superman",
-  "date": "Aug 01",
-  "time": "01:30 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "THE COURT JESTER",
-  "date": "Aug 01",
-  "time": "01:45 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "The Fantastic Four: First Steps",
-  "date": "Aug 01",
-  "time": "01:45 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "The Fantastic Four: First Steps",
-  "date": "Aug 01",
-  "time": "02:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Together",
-  "date": "Aug 01",
-  "time": "02:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
-  "date": "Aug 01",
-  "time": "02:05 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Don’t Let’s Go to the Dogs Tonight",
-  "date": "Aug 01",
-  "time": "02:15 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "The Bad Guys 2",
-  "date": "Aug 01",
-  "time": "02:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "The Naked Gun",
-  "date": "Aug 01",
-  "time": "02:15 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "The Naked Gun",
-  "date": "Aug 01",
-  "time": "02:30 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Aug 01",
-  "time": "02:50 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Bad Shabbos",
-  "date": "Aug 01",
-  "time": "03:00 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "Together",
-  "date": "Aug 01",
-  "time": "03:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Eddington",
-  "date": "Aug 01",
-  "time": "03:05 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Superman",
-  "date": "Aug 01",
-  "time": "03:20 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "The Fantastic Four: First Steps",
-  "date": "Aug 01",
-  "time": "03:40 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "MCCABE & MRS. MILLER",
   "date": "Aug 01",
-  "time": "04:00 PM",
+  "time": "4:00 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 01",
-  "time": "04:00 PM",
+  "time": "4:00 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Superman",
   "date": "Aug 01",
-  "time": "04:15 PM",
+  "time": "4:15 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Superman",
   "date": "Aug 01",
-  "time": "04:20 PM",
+  "time": "4:20 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
+ },
+ {
+  "title": "Materialists",
+  "date": "Aug 01",
+  "time": "4:25 PM",
+  "status": "available",
+  "theaterID": "miracle"
  },
  {
   "title": "The Bad Guys 2",
   "date": "Aug 01",
-  "time": "04:30 PM",
+  "time": "4:30 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Together",
   "date": "Aug 01",
-  "time": "04:30 PM",
+  "time": "4:30 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 01",
-  "time": "04:40 PM",
+  "time": "4:40 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "Don’t Let’s Go to the Dogs Tonight",
   "date": "Aug 01",
-  "time": "04:45 PM",
+  "time": "4:45 PM",
   "status": "available",
   "theaterID": "avalon"
  },
  {
   "title": "The Naked Gun",
   "date": "Aug 01",
-  "time": "04:45 PM",
+  "time": "4:45 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "The Naked Gun",
   "date": "Aug 01",
-  "time": "04:50 PM",
+  "time": "4:50 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 01",
-  "time": "05:00 PM",
+  "time": "5:00 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Bad Shabbos",
   "date": "Aug 01",
-  "time": "05:15 PM",
+  "time": "5:15 PM",
   "status": "available",
   "theaterID": "avalon"
  },
  {
   "title": "Together",
   "date": "Aug 01",
-  "time": "05:15 PM",
+  "time": "5:15 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "THE WICKER MAN",
-  "date": "Aug 01",
-  "time": "06:00 PM",
-  "status": "available",
-  "theaterID": "suns"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 01",
-  "time": "06:00 PM",
+  "time": "6:00 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Superman",
   "date": "Aug 01",
-  "time": "06:00 PM",
+  "time": "6:00 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
+ },
+ {
+  "title": "THE WICKER MAN",
+  "date": "Aug 01",
+  "time": "6:00 PM",
+  "status": "available",
+  "theaterID": "suns"
  },
  {
   "title": "F1 The Movie",
   "date": "Aug 01",
-  "time": "06:30 PM",
+  "time": "6:30 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "The Naked Gun",
   "date": "Aug 01",
-  "time": "06:30 PM",
+  "time": "6:30 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "BOYS DON'T CRY in 35mm",
   "date": "Aug 01",
-  "time": "06:45 PM",
+  "time": "6:45 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "CatVideoFest 2025",
   "date": "Aug 01",
-  "time": "07:00 PM",
+  "time": "7:00 PM",
   "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Aug 01",
+  "time": "7:00 PM",
+  "status": "available",
+  "theaterID": "landmark bethesda row cinema"
+ },
+ {
+  "title": "Superman",
+  "date": "Aug 01",
+  "time": "7:00 PM",
+  "status": "available",
+  "theaterID": "landmark atlantic plumbing cinema"
+ },
+ {
+  "title": "Arsenic and Old Lace",
+  "date": "Aug 01",
+  "time": "7:00 PM",
+  "status": "available",
+  "theaterID": "miracle"
  },
  {
   "title": "THE WICKER MAN",
   "date": "Aug 01",
-  "time": "07:00 PM",
+  "time": "7:00 PM",
   "status": "sold out",
   "theaterID": "suns"
  },
  {
-  "title": "The Fantastic Four: First Steps",
-  "date": "Aug 01",
-  "time": "07:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
   "title": "Superman",
   "date": "Aug 01",
-  "time": "07:00 PM",
+  "time": "7:10 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "Superman",
-  "date": "Aug 01",
-  "time": "07:10 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 01",
-  "time": "07:10 PM",
+  "time": "7:10 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "Don’t Let’s Go to the Dogs Tonight",
   "date": "Aug 01",
-  "time": "07:15 PM",
+  "time": "7:15 PM",
   "status": "available",
   "theaterID": "avalon"
  },
  {
   "title": "The Naked Gun",
   "date": "Aug 01",
-  "time": "07:15 PM",
+  "time": "7:15 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "The Bad Guys 2",
   "date": "Aug 01",
-  "time": "07:20 PM",
+  "time": "7:20 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Together",
   "date": "Aug 01",
-  "time": "07:20 PM",
+  "time": "7:20 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "Bad Shabbos",
   "date": "Aug 01",
-  "time": "07:30 PM",
+  "time": "7:30 PM",
   "status": "available",
   "theaterID": "avalon"
  },
  {
   "title": "The Naked Gun",
   "date": "Aug 01",
-  "time": "07:30 PM",
+  "time": "7:30 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "Together",
   "date": "Aug 01",
-  "time": "07:45 PM",
+  "time": "7:45 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Superman",
   "date": "Aug 01",
-  "time": "08:10 PM",
+  "time": "8:10 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Aug 01",
+  "time": "8:30 PM",
+  "status": "available",
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "MIDSOMMAR",
   "date": "Aug 01",
-  "time": "08:30 PM",
+  "time": "8:30 PM",
   "status": "sold out",
   "theaterID": "suns"
  },
  {
-  "title": "The Fantastic Four: First Steps",
-  "date": "Aug 01",
-  "time": "08:30 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
   "title": "Together",
   "date": "Aug 01",
-  "time": "08:40 PM",
+  "time": "8:40 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "Superman",
   "date": "Aug 01",
-  "time": "09:10 PM",
+  "time": "9:10 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "OFFICE KILLER in 35mm",
   "date": "Aug 01",
-  "time": "09:30 PM",
+  "time": "9:30 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
+  "title": "The Naked Gun",
+  "date": "Aug 01",
+  "time": "9:30 PM",
+  "status": "available",
+  "theaterID": "landmark bethesda row cinema"
+ },
+ {
+  "title": "The Naked Gun",
+  "date": "Aug 01",
+  "time": "9:30 PM",
+  "status": "available",
+  "theaterID": "landmark atlantic plumbing cinema"
+ },
+ {
   "title": "MIDSOMMAR",
   "date": "Aug 01",
-  "time": "09:30 PM",
+  "time": "9:30 PM",
   "status": "available",
   "theaterID": "suns"
  },
  {
-  "title": "The Naked Gun",
-  "date": "Aug 01",
-  "time": "09:30 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "The Naked Gun",
-  "date": "Aug 01",
-  "time": "09:30 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
   "title": "The Bad Guys 2",
   "date": "Aug 01",
-  "time": "09:40 PM",
+  "time": "9:40 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Together",
   "date": "Aug 01",
-  "time": "09:40 PM",
+  "time": "9:40 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "F1 The Movie",
   "date": "Aug 01",
-  "time": "09:45 PM",
+  "time": "9:45 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 01",
-  "time": "09:50 PM",
+  "time": "9:50 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 01",
   "time": "10:00 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Superman",
   "date": "Aug 01",
   "time": "10:00 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "Superman",
   "date": "Aug 01",
   "time": "10:10 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Together",
   "date": "Aug 01",
   "time": "10:15 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "EBIRAH, HORROR OF THE DEEP",
@@ -872,21 +382,21 @@
   "date": "Aug 02",
   "time": "11:00 AM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "The Bad Guys 2",
   "date": "Aug 02",
   "time": "11:30 AM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "F1 The Movie",
   "date": "Aug 02",
   "time": "11:45 AM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "FOLKTALES",
@@ -907,21 +417,21 @@
   "date": "Aug 02",
   "time": "12:00 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Superman",
   "date": "Aug 02",
   "time": "12:15 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Together",
   "date": "Aug 02",
   "time": "12:30 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Bad Shabbos",
@@ -933,492 +443,513 @@
  {
   "title": "HIGH SOCIETY",
   "date": "Aug 02",
-  "time": "01:00 PM",
+  "time": "1:00 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 02",
-  "time": "01:00 PM",
+  "time": "1:00 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Together",
   "date": "Aug 02",
-  "time": "01:00 PM",
+  "time": "1:00 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "Superman",
   "date": "Aug 02",
-  "time": "01:15 PM",
+  "time": "1:15 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "The Naked Gun",
   "date": "Aug 02",
-  "time": "01:15 PM",
+  "time": "1:15 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "Superman",
   "date": "Aug 02",
-  "time": "01:30 PM",
+  "time": "1:30 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 02",
-  "time": "01:45 PM",
+  "time": "1:45 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 02",
-  "time": "02:00 PM",
+  "time": "2:00 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Together",
   "date": "Aug 02",
-  "time": "02:00 PM",
+  "time": "2:00 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
+ },
+ {
+  "title": "CatVideoFest 2025",
+  "date": "Aug 02",
+  "time": "2:00 PM",
+  "status": "available",
+  "theaterID": "miracle"
  },
  {
   "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
   "date": "Aug 02",
-  "time": "02:05 PM",
+  "time": "2:05 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "Don’t Let’s Go to the Dogs Tonight",
   "date": "Aug 02",
-  "time": "02:15 PM",
+  "time": "2:15 PM",
   "status": "available",
   "theaterID": "avalon"
  },
  {
   "title": "The Bad Guys 2",
   "date": "Aug 02",
-  "time": "02:15 PM",
+  "time": "2:15 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "The Naked Gun",
   "date": "Aug 02",
-  "time": "02:15 PM",
+  "time": "2:15 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "The Naked Gun",
   "date": "Aug 02",
-  "time": "02:30 PM",
+  "time": "2:30 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "F1 The Movie",
   "date": "Aug 02",
-  "time": "02:50 PM",
+  "time": "2:50 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Bad Shabbos",
   "date": "Aug 02",
-  "time": "03:00 PM",
+  "time": "3:00 PM",
   "status": "available",
   "theaterID": "avalon"
  },
  {
   "title": "Together",
   "date": "Aug 02",
-  "time": "03:00 PM",
+  "time": "3:00 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Eddington",
   "date": "Aug 02",
-  "time": "03:05 PM",
+  "time": "3:05 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Superman",
   "date": "Aug 02",
-  "time": "03:20 PM",
+  "time": "3:20 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "IMAGES",
   "date": "Aug 02",
-  "time": "03:30 PM",
+  "time": "3:30 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 02",
-  "time": "03:40 PM",
+  "time": "3:40 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 02",
-  "time": "04:00 PM",
+  "time": "4:00 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
+ },
+ {
+  "title": "Triumph of the Heart – Early Access",
+  "date": "Aug 02",
+  "time": "4:00 PM",
+  "status": "available",
+  "theaterID": "miracle"
  },
  {
   "title": "Superman",
   "date": "Aug 02",
-  "time": "04:15 PM",
+  "time": "4:15 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Superman",
   "date": "Aug 02",
-  "time": "04:20 PM",
+  "time": "4:20 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "The Bad Guys 2",
   "date": "Aug 02",
-  "time": "04:30 PM",
+  "time": "4:30 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Together",
   "date": "Aug 02",
-  "time": "04:30 PM",
+  "time": "4:30 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 02",
-  "time": "04:40 PM",
+  "time": "4:40 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "Don’t Let’s Go to the Dogs Tonight",
   "date": "Aug 02",
-  "time": "04:45 PM",
+  "time": "4:45 PM",
   "status": "available",
   "theaterID": "avalon"
  },
  {
   "title": "The Naked Gun",
   "date": "Aug 02",
-  "time": "04:45 PM",
+  "time": "4:45 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "The Naked Gun",
   "date": "Aug 02",
-  "time": "04:50 PM",
+  "time": "4:50 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "DIVORCE ITALIAN STYLE",
   "date": "Aug 02",
-  "time": "05:00 PM",
+  "time": "5:00 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 02",
-  "time": "05:00 PM",
+  "time": "5:00 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Bad Shabbos",
   "date": "Aug 02",
-  "time": "05:15 PM",
+  "time": "5:15 PM",
   "status": "available",
   "theaterID": "avalon"
  },
  {
   "title": "Together",
   "date": "Aug 02",
-  "time": "05:15 PM",
+  "time": "5:15 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "RAN - 40th Anniversary",
   "date": "Aug 02",
-  "time": "05:45 PM",
+  "time": "5:45 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Aug 02",
+  "time": "6:00 PM",
+  "status": "available",
+  "theaterID": "landmark bethesda row cinema"
+ },
+ {
+  "title": "Superman",
+  "date": "Aug 02",
+  "time": "6:00 PM",
+  "status": "available",
+  "theaterID": "landmark atlantic plumbing cinema"
+ },
+ {
   "title": "SINNERS",
   "date": "Aug 02",
-  "time": "06:00 PM",
+  "time": "6:00 PM",
   "status": "sold out",
   "theaterID": "suns"
  },
  {
   "title": "SINNERS",
   "date": "Aug 02",
-  "time": "06:00 PM",
+  "time": "6:00 PM",
   "status": "available",
   "theaterID": "suns"
  },
  {
-  "title": "The Fantastic Four: First Steps",
-  "date": "Aug 02",
-  "time": "06:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "Superman",
-  "date": "Aug 02",
-  "time": "06:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
   "title": "F1 The Movie",
   "date": "Aug 02",
-  "time": "06:30 PM",
+  "time": "6:30 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "The Naked Gun",
   "date": "Aug 02",
-  "time": "06:30 PM",
+  "time": "6:30 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 02",
-  "time": "07:00 PM",
+  "time": "7:00 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Superman",
   "date": "Aug 02",
-  "time": "07:00 PM",
+  "time": "7:00 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
+ },
+ {
+  "title": "F1: The Movie",
+  "date": "Aug 02",
+  "time": "7:00 PM",
+  "status": "available",
+  "theaterID": "miracle"
  },
  {
   "title": "Superman",
   "date": "Aug 02",
-  "time": "07:10 PM",
+  "time": "7:10 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 02",
-  "time": "07:10 PM",
+  "time": "7:10 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "THE GODFATHER PART II",
   "date": "Aug 02",
-  "time": "07:15 PM",
+  "time": "7:15 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "Don’t Let’s Go to the Dogs Tonight",
   "date": "Aug 02",
-  "time": "07:15 PM",
+  "time": "7:15 PM",
   "status": "available",
   "theaterID": "avalon"
  },
  {
   "title": "The Naked Gun",
   "date": "Aug 02",
-  "time": "07:15 PM",
+  "time": "7:15 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "The Bad Guys 2",
   "date": "Aug 02",
-  "time": "07:20 PM",
+  "time": "7:20 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Together",
   "date": "Aug 02",
-  "time": "07:20 PM",
+  "time": "7:20 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "Bad Shabbos",
   "date": "Aug 02",
-  "time": "07:30 PM",
+  "time": "7:30 PM",
   "status": "available",
   "theaterID": "avalon"
  },
  {
   "title": "The Naked Gun",
   "date": "Aug 02",
-  "time": "07:30 PM",
+  "time": "7:30 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "Together",
   "date": "Aug 02",
-  "time": "07:45 PM",
+  "time": "7:45 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Superman",
   "date": "Aug 02",
-  "time": "08:10 PM",
+  "time": "8:10 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 02",
-  "time": "08:30 PM",
+  "time": "8:30 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "Together",
   "date": "Aug 02",
-  "time": "08:40 PM",
+  "time": "8:40 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "SHALL WE DANCE? (1996)",
   "date": "Aug 02",
-  "time": "08:50 PM",
+  "time": "8:50 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "Superman",
   "date": "Aug 02",
-  "time": "09:10 PM",
+  "time": "9:10 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "SINNERS",
   "date": "Aug 02",
-  "time": "09:15 PM",
+  "time": "9:15 PM",
   "status": "available",
   "theaterID": "suns"
  },
  {
   "title": "SINNERS",
   "date": "Aug 02",
-  "time": "09:15 PM",
+  "time": "9:15 PM",
   "status": "available",
   "theaterID": "suns"
  },
  {
   "title": "The Naked Gun",
   "date": "Aug 02",
-  "time": "09:30 PM",
+  "time": "9:30 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "The Naked Gun",
   "date": "Aug 02",
-  "time": "09:30 PM",
+  "time": "9:30 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "The Bad Guys 2",
   "date": "Aug 02",
-  "time": "09:40 PM",
+  "time": "9:40 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Together",
   "date": "Aug 02",
-  "time": "09:40 PM",
+  "time": "9:40 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "F1 The Movie",
   "date": "Aug 02",
-  "time": "09:45 PM",
+  "time": "9:45 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 02",
-  "time": "09:50 PM",
+  "time": "9:50 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 02",
   "time": "10:00 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Superman",
   "date": "Aug 02",
   "time": "10:00 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "Superman",
   "date": "Aug 02",
   "time": "10:10 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Together",
   "date": "Aug 02",
   "time": "10:15 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Summer with Monika",
@@ -1432,7 +963,7 @@
   "date": "Aug 03",
   "time": "11:00 AM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "EBIRAH, HORROR OF THE DEEP",
@@ -1446,14 +977,14 @@
   "date": "Aug 03",
   "time": "11:30 AM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "F1 The Movie",
   "date": "Aug 03",
   "time": "11:45 AM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Don’t Let’s Go to the Dogs Tonight",
@@ -1467,21 +998,21 @@
   "date": "Aug 03",
   "time": "12:00 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Superman",
   "date": "Aug 03",
   "time": "12:15 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Together",
   "date": "Aug 03",
   "time": "12:30 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Bad Shabbos",
@@ -1493,378 +1024,399 @@
  {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 03",
-  "time": "01:00 PM",
+  "time": "1:00 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Together",
   "date": "Aug 03",
-  "time": "01:00 PM",
+  "time": "1:00 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "THE COURT JESTER",
   "date": "Aug 03",
-  "time": "01:15 PM",
+  "time": "1:15 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "Superman",
   "date": "Aug 03",
-  "time": "01:15 PM",
+  "time": "1:15 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "The Naked Gun",
   "date": "Aug 03",
-  "time": "01:15 PM",
+  "time": "1:15 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
   "date": "Aug 03",
-  "time": "01:20 PM",
+  "time": "1:20 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "CatVideoFest 2025",
   "date": "Aug 03",
-  "time": "01:30 PM",
+  "time": "1:30 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "Superman",
   "date": "Aug 03",
-  "time": "01:30 PM",
+  "time": "1:30 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 03",
-  "time": "01:45 PM",
+  "time": "1:45 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 03",
-  "time": "02:00 PM",
+  "time": "2:00 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Together",
   "date": "Aug 03",
-  "time": "02:00 PM",
+  "time": "2:00 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
+ },
+ {
+  "title": "CatVideoFest 2025",
+  "date": "Aug 03",
+  "time": "2:00 PM",
+  "status": "available",
+  "theaterID": "miracle"
  },
  {
   "title": "Don’t Let’s Go to the Dogs Tonight",
   "date": "Aug 03",
-  "time": "02:15 PM",
+  "time": "2:15 PM",
   "status": "available",
   "theaterID": "avalon"
  },
  {
   "title": "The Bad Guys 2",
   "date": "Aug 03",
-  "time": "02:15 PM",
+  "time": "2:15 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "The Naked Gun",
   "date": "Aug 03",
-  "time": "02:15 PM",
+  "time": "2:15 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "The Naked Gun",
   "date": "Aug 03",
-  "time": "02:30 PM",
+  "time": "2:30 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "F1 The Movie",
   "date": "Aug 03",
-  "time": "02:50 PM",
+  "time": "2:50 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Bad Shabbos",
   "date": "Aug 03",
-  "time": "03:00 PM",
+  "time": "3:00 PM",
   "status": "available",
   "theaterID": "avalon"
  },
  {
   "title": "Together",
   "date": "Aug 03",
-  "time": "03:00 PM",
+  "time": "3:00 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Eddington",
   "date": "Aug 03",
-  "time": "03:05 PM",
+  "time": "3:05 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Superman",
   "date": "Aug 03",
-  "time": "03:20 PM",
+  "time": "3:20 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "FOLKTALES",
   "date": "Aug 03",
-  "time": "03:35 PM",
+  "time": "3:35 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 03",
-  "time": "03:40 PM",
+  "time": "3:40 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 03",
-  "time": "04:00 PM",
+  "time": "4:00 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
+ },
+ {
+  "title": "Materialists",
+  "date": "Aug 03",
+  "time": "4:00 PM",
+  "status": "available",
+  "theaterID": "miracle"
  },
  {
   "title": "Superman",
   "date": "Aug 03",
-  "time": "04:15 PM",
+  "time": "4:15 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Superman",
   "date": "Aug 03",
-  "time": "04:20 PM",
+  "time": "4:20 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "The Bad Guys 2",
   "date": "Aug 03",
-  "time": "04:30 PM",
+  "time": "4:30 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Together",
   "date": "Aug 03",
-  "time": "04:30 PM",
+  "time": "4:30 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 03",
-  "time": "04:40 PM",
+  "time": "4:40 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "Don’t Let’s Go to the Dogs Tonight",
   "date": "Aug 03",
-  "time": "04:45 PM",
+  "time": "4:45 PM",
   "status": "available",
   "theaterID": "avalon"
  },
  {
   "title": "The Naked Gun",
   "date": "Aug 03",
-  "time": "04:45 PM",
+  "time": "4:45 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "The Naked Gun",
   "date": "Aug 03",
-  "time": "04:50 PM",
+  "time": "4:50 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 03",
-  "time": "05:00 PM",
+  "time": "5:00 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "HOOSIERS",
   "date": "Aug 03",
-  "time": "05:15 PM",
+  "time": "5:15 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "Bad Shabbos",
   "date": "Aug 03",
-  "time": "05:15 PM",
+  "time": "5:15 PM",
   "status": "available",
   "theaterID": "avalon"
  },
  {
   "title": "Together",
   "date": "Aug 03",
-  "time": "05:15 PM",
+  "time": "5:15 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "RAN - 40th Anniversary",
   "date": "Aug 03",
-  "time": "06:00 PM",
+  "time": "6:00 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 03",
-  "time": "06:00 PM",
+  "time": "6:00 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Superman",
   "date": "Aug 03",
-  "time": "06:00 PM",
+  "time": "6:00 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "F1 The Movie",
   "date": "Aug 03",
-  "time": "06:30 PM",
+  "time": "6:30 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "The Naked Gun",
   "date": "Aug 03",
-  "time": "06:30 PM",
+  "time": "6:30 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
+ },
+ {
+  "title": "The Phoenician Scheme",
+  "date": "Aug 03",
+  "time": "6:30 PM",
+  "status": "available",
+  "theaterID": "miracle"
  },
  {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 03",
-  "time": "07:00 PM",
+  "time": "7:00 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Superman",
   "date": "Aug 03",
-  "time": "07:00 PM",
+  "time": "7:00 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "Superman",
   "date": "Aug 03",
-  "time": "07:10 PM",
+  "time": "7:10 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 03",
-  "time": "07:10 PM",
+  "time": "7:10 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "Don’t Let’s Go to the Dogs Tonight",
   "date": "Aug 03",
-  "time": "07:15 PM",
+  "time": "7:15 PM",
   "status": "available",
   "theaterID": "avalon"
  },
  {
   "title": "The Naked Gun",
   "date": "Aug 03",
-  "time": "07:15 PM",
+  "time": "7:15 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "The Bad Guys 2",
   "date": "Aug 03",
-  "time": "07:20 PM",
+  "time": "7:20 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Together",
   "date": "Aug 03",
-  "time": "07:20 PM",
+  "time": "7:20 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "Bad Shabbos",
   "date": "Aug 03",
-  "time": "07:30 PM",
+  "time": "7:30 PM",
   "status": "available",
   "theaterID": "avalon"
  },
  {
   "title": "The Naked Gun",
   "date": "Aug 03",
-  "time": "07:30 PM",
+  "time": "7:30 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "MCCABE & MRS. MILLER",
   "date": "Aug 03",
-  "time": "07:45 PM",
+  "time": "7:45 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "Together",
   "date": "Aug 03",
-  "time": "07:45 PM",
+  "time": "7:45 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Superman",
   "date": "Aug 03",
-  "time": "08:10 PM",
+  "time": "8:10 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "THE GODFATHER",
   "date": "Aug 03",
-  "time": "08:15 PM",
+  "time": "8:15 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
@@ -1906,308 +1458,315 @@
  {
   "title": "HIGH SOCIETY",
   "date": "Aug 04",
-  "time": "02:00 PM",
+  "time": "2:00 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 04",
-  "time": "02:00 PM",
+  "time": "2:00 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
   "date": "Aug 04",
-  "time": "02:05 PM",
+  "time": "2:05 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "Don’t Let’s Go to the Dogs Tonight",
   "date": "Aug 04",
-  "time": "02:15 PM",
+  "time": "2:15 PM",
   "status": "available",
   "theaterID": "avalon"
  },
  {
   "title": "The Bad Guys 2",
   "date": "Aug 04",
-  "time": "02:15 PM",
+  "time": "2:15 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "The Naked Gun",
   "date": "Aug 04",
-  "time": "02:30 PM",
+  "time": "2:30 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "F1 The Movie",
   "date": "Aug 04",
-  "time": "02:45 PM",
+  "time": "2:45 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Bad Shabbos",
   "date": "Aug 04",
-  "time": "03:00 PM",
+  "time": "3:00 PM",
   "status": "available",
   "theaterID": "avalon"
  },
  {
   "title": "Together",
   "date": "Aug 04",
-  "time": "03:00 PM",
+  "time": "3:00 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Eddington",
   "date": "Aug 04",
-  "time": "03:05 PM",
+  "time": "3:05 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Together",
   "date": "Aug 04",
-  "time": "03:40 PM",
+  "time": "3:40 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "The Naked Gun",
   "date": "Aug 04",
-  "time": "03:50 PM",
+  "time": "3:50 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 04",
-  "time": "04:00 PM",
+  "time": "4:00 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Superman",
   "date": "Aug 04",
-  "time": "04:10 PM",
+  "time": "4:10 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "Superman",
   "date": "Aug 04",
-  "time": "04:15 PM",
+  "time": "4:15 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "HOOSIERS",
   "date": "Aug 04",
-  "time": "04:30 PM",
+  "time": "4:30 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "The Bad Guys 2",
   "date": "Aug 04",
-  "time": "04:30 PM",
+  "time": "4:30 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 04",
-  "time": "04:30 PM",
+  "time": "4:30 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "Together",
   "date": "Aug 04",
-  "time": "04:40 PM",
+  "time": "4:40 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "Don’t Let’s Go to the Dogs Tonight",
   "date": "Aug 04",
-  "time": "04:45 PM",
+  "time": "4:45 PM",
   "status": "available",
   "theaterID": "avalon"
  },
  {
   "title": "The Naked Gun",
   "date": "Aug 04",
-  "time": "04:45 PM",
+  "time": "4:45 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "The Naked Gun",
   "date": "Aug 04",
-  "time": "04:50 PM",
+  "time": "4:50 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 04",
-  "time": "05:00 PM",
+  "time": "5:00 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Bad Shabbos",
   "date": "Aug 04",
-  "time": "05:15 PM",
+  "time": "5:15 PM",
   "status": "available",
   "theaterID": "avalon"
  },
  {
   "title": "Together",
   "date": "Aug 04",
-  "time": "05:15 PM",
+  "time": "5:15 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Superman",
   "date": "Aug 04",
-  "time": "06:00 PM",
+  "time": "6:00 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 04",
-  "time": "06:20 PM",
+  "time": "6:20 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "CatVideoFest 2025",
   "date": "Aug 04",
-  "time": "06:30 PM",
+  "time": "6:30 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "F1 The Movie",
   "date": "Aug 04",
-  "time": "06:30 PM",
+  "time": "6:30 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "THE ASSASSIN (1961)",
   "date": "Aug 04",
-  "time": "07:00 PM",
+  "time": "7:00 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 04",
-  "time": "07:00 PM",
+  "time": "7:00 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "$5 Secret Movie",
   "date": "Aug 04",
-  "time": "07:00 PM",
+  "time": "7:00 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Superman",
   "date": "Aug 04",
-  "time": "07:00 PM",
+  "time": "7:00 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
+ },
+ {
+  "title": "F1: The Movie",
+  "date": "Aug 04",
+  "time": "7:00 PM",
+  "status": "available",
+  "theaterID": "miracle"
  },
  {
   "title": "Superman",
   "date": "Aug 04",
-  "time": "07:10 PM",
+  "time": "7:10 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Together",
   "date": "Aug 04",
-  "time": "07:10 PM",
+  "time": "7:10 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "Don’t Let’s Go to the Dogs Tonight",
   "date": "Aug 04",
-  "time": "07:15 PM",
+  "time": "7:15 PM",
   "status": "available",
   "theaterID": "avalon"
  },
  {
   "title": "The Naked Gun",
   "date": "Aug 04",
-  "time": "07:15 PM",
+  "time": "7:15 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "The Bad Guys 2",
   "date": "Aug 04",
-  "time": "07:20 PM",
+  "time": "7:20 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 04",
-  "time": "07:20 PM",
+  "time": "7:20 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "Bad Shabbos",
   "date": "Aug 04",
-  "time": "07:30 PM",
+  "time": "7:30 PM",
   "status": "available",
   "theaterID": "avalon"
  },
  {
   "title": "The Naked Gun",
   "date": "Aug 04",
-  "time": "07:30 PM",
+  "time": "7:30 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "Together",
   "date": "Aug 04",
-  "time": "07:45 PM",
+  "time": "7:45 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 04",
-  "time": "08:00 PM",
+  "time": "8:00 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "IMAGES",
   "date": "Aug 04",
-  "time": "09:15 PM",
+  "time": "9:15 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
@@ -2249,350 +1808,350 @@
  {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 05",
-  "time": "02:00 PM",
+  "time": "2:00 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
   "date": "Aug 05",
-  "time": "02:05 PM",
+  "time": "2:05 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE COURT JESTER",
   "date": "Aug 05",
-  "time": "02:15 PM",
+  "time": "2:15 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "Don’t Let’s Go to the Dogs Tonight",
   "date": "Aug 05",
-  "time": "02:15 PM",
+  "time": "2:15 PM",
   "status": "available",
   "theaterID": "avalon"
  },
  {
   "title": "The Bad Guys 2",
   "date": "Aug 05",
-  "time": "02:15 PM",
+  "time": "2:15 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "The Naked Gun",
   "date": "Aug 05",
-  "time": "02:30 PM",
+  "time": "2:30 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "F1 The Movie",
   "date": "Aug 05",
-  "time": "02:45 PM",
+  "time": "2:45 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Bad Shabbos",
   "date": "Aug 05",
-  "time": "03:00 PM",
+  "time": "3:00 PM",
   "status": "available",
   "theaterID": "avalon"
  },
  {
   "title": "Together",
   "date": "Aug 05",
-  "time": "03:00 PM",
+  "time": "3:00 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Eddington",
   "date": "Aug 05",
-  "time": "03:05 PM",
+  "time": "3:05 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Together",
   "date": "Aug 05",
-  "time": "03:40 PM",
+  "time": "3:40 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "The Naked Gun",
   "date": "Aug 05",
-  "time": "03:50 PM",
+  "time": "3:50 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 05",
-  "time": "04:00 PM",
+  "time": "4:00 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Superman",
   "date": "Aug 05",
-  "time": "04:10 PM",
+  "time": "4:10 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "Superman",
   "date": "Aug 05",
-  "time": "04:15 PM",
+  "time": "4:15 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "MCCABE & MRS. MILLER",
   "date": "Aug 05",
-  "time": "04:30 PM",
+  "time": "4:30 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "The Bad Guys 2",
   "date": "Aug 05",
-  "time": "04:30 PM",
+  "time": "4:30 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 05",
-  "time": "04:30 PM",
+  "time": "4:30 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "Together",
   "date": "Aug 05",
-  "time": "04:40 PM",
+  "time": "4:40 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "Don’t Let’s Go to the Dogs Tonight",
   "date": "Aug 05",
-  "time": "04:45 PM",
+  "time": "4:45 PM",
   "status": "available",
   "theaterID": "avalon"
  },
  {
   "title": "The Naked Gun",
   "date": "Aug 05",
-  "time": "04:45 PM",
+  "time": "4:45 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "The Naked Gun",
   "date": "Aug 05",
-  "time": "04:50 PM",
+  "time": "4:50 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 05",
-  "time": "05:00 PM",
+  "time": "5:00 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Bad Shabbos",
   "date": "Aug 05",
-  "time": "05:15 PM",
+  "time": "5:15 PM",
   "status": "available",
   "theaterID": "avalon"
  },
  {
   "title": "Together",
   "date": "Aug 05",
-  "time": "05:15 PM",
+  "time": "5:15 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "THE WICKER MAN",
-  "date": "Aug 05",
-  "time": "06:00 PM",
-  "status": "available",
-  "theaterID": "suns"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Superman",
   "date": "Aug 05",
-  "time": "06:00 PM",
+  "time": "6:00 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
+ },
+ {
+  "title": "THE WICKER MAN",
+  "date": "Aug 05",
+  "time": "6:00 PM",
+  "status": "available",
+  "theaterID": "suns"
  },
  {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 05",
-  "time": "06:20 PM",
+  "time": "6:20 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "CatVideoFest 2025",
   "date": "Aug 05",
-  "time": "06:30 PM",
+  "time": "6:30 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "F1 The Movie",
   "date": "Aug 05",
-  "time": "06:30 PM",
+  "time": "6:30 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "DIVORCE ITALIAN STYLE",
   "date": "Aug 05",
-  "time": "07:00 PM",
+  "time": "7:00 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
+  "title": "Wet Hot American Summer",
+  "date": "Aug 05",
+  "time": "7:00 PM",
+  "status": "available",
+  "theaterID": "landmark bethesda row cinema"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Aug 05",
+  "time": "7:00 PM",
+  "status": "available",
+  "theaterID": "landmark bethesda row cinema"
+ },
+ {
+  "title": "Superman",
+  "date": "Aug 05",
+  "time": "7:00 PM",
+  "status": "available",
+  "theaterID": "landmark atlantic plumbing cinema"
+ },
+ {
   "title": "THE WICKER MAN",
   "date": "Aug 05",
-  "time": "07:00 PM",
+  "time": "7:00 PM",
   "status": "sold out",
   "theaterID": "suns"
  },
  {
-  "title": "Wet Hot American Summer",
-  "date": "Aug 05",
-  "time": "07:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
-  "title": "The Fantastic Four: First Steps",
-  "date": "Aug 05",
-  "time": "07:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
   "title": "Superman",
   "date": "Aug 05",
-  "time": "07:00 PM",
+  "time": "7:10 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
- },
- {
-  "title": "Superman",
-  "date": "Aug 05",
-  "time": "07:10 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Together",
   "date": "Aug 05",
-  "time": "07:10 PM",
+  "time": "7:10 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "Don’t Let’s Go to the Dogs Tonight",
   "date": "Aug 05",
-  "time": "07:15 PM",
+  "time": "7:15 PM",
   "status": "available",
   "theaterID": "avalon"
  },
  {
   "title": "The Naked Gun",
   "date": "Aug 05",
-  "time": "07:15 PM",
+  "time": "7:15 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "The Bad Guys 2",
   "date": "Aug 05",
-  "time": "07:20 PM",
+  "time": "7:20 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 05",
-  "time": "07:20 PM",
+  "time": "7:20 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "Bad Shabbos",
   "date": "Aug 05",
-  "time": "07:30 PM",
+  "time": "7:30 PM",
   "status": "available",
   "theaterID": "avalon"
  },
  {
   "title": "The Naked Gun",
   "date": "Aug 05",
-  "time": "07:30 PM",
+  "time": "7:30 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "Together",
   "date": "Aug 05",
-  "time": "07:45 PM",
+  "time": "7:45 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 05",
-  "time": "08:00 PM",
+  "time": "8:00 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "THE GODFATHER",
   "date": "Aug 05",
-  "time": "08:15 PM",
+  "time": "8:15 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "MIDSOMMAR",
   "date": "Aug 05",
-  "time": "08:30 PM",
+  "time": "8:30 PM",
   "status": "sold out",
   "theaterID": "suns"
  },
  {
   "title": "SHALL WE DANCE? (1996)",
   "date": "Aug 05",
-  "time": "08:50 PM",
+  "time": "8:50 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "HOOSIERS",
   "date": "Aug 05",
-  "time": "09:15 PM",
+  "time": "9:15 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "MIDSOMMAR",
   "date": "Aug 05",
-  "time": "09:30 PM",
+  "time": "9:30 PM",
   "status": "available",
   "theaterID": "suns"
  },
@@ -2601,7 +2160,7 @@
   "date": "Aug 06",
   "time": "11:00 AM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "RAN - 40th Anniversary",
@@ -2641,240 +2200,247 @@
  {
   "title": "HIGH SOCIETY",
   "date": "Aug 06",
-  "time": "02:00 PM",
+  "time": "2:00 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 06",
-  "time": "02:00 PM",
+  "time": "2:00 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
   "date": "Aug 06",
-  "time": "02:05 PM",
+  "time": "2:05 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "Don’t Let’s Go to the Dogs Tonight",
   "date": "Aug 06",
-  "time": "02:15 PM",
+  "time": "2:15 PM",
   "status": "available",
   "theaterID": "avalon"
  },
  {
   "title": "The Bad Guys 2",
   "date": "Aug 06",
-  "time": "02:15 PM",
+  "time": "2:15 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "The Naked Gun",
   "date": "Aug 06",
-  "time": "02:30 PM",
+  "time": "2:30 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "F1 The Movie",
   "date": "Aug 06",
-  "time": "02:45 PM",
+  "time": "2:45 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Bad Shabbos",
   "date": "Aug 06",
-  "time": "03:00 PM",
+  "time": "3:00 PM",
   "status": "available",
   "theaterID": "avalon"
  },
  {
   "title": "Together",
   "date": "Aug 06",
-  "time": "03:00 PM",
+  "time": "3:00 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Eddington",
   "date": "Aug 06",
-  "time": "03:05 PM",
+  "time": "3:05 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 06",
-  "time": "04:00 PM",
+  "time": "4:00 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Superman",
   "date": "Aug 06",
-  "time": "04:15 PM",
+  "time": "4:15 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "HOOSIERS",
   "date": "Aug 06",
-  "time": "04:30 PM",
+  "time": "4:30 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "The Bad Guys 2",
   "date": "Aug 06",
-  "time": "04:30 PM",
+  "time": "4:30 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Don’t Let’s Go to the Dogs Tonight",
   "date": "Aug 06",
-  "time": "04:45 PM",
+  "time": "4:45 PM",
   "status": "available",
   "theaterID": "avalon"
  },
  {
   "title": "The Naked Gun",
   "date": "Aug 06",
-  "time": "04:45 PM",
+  "time": "4:45 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 06",
-  "time": "05:00 PM",
+  "time": "5:00 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Bad Shabbos",
   "date": "Aug 06",
-  "time": "05:15 PM",
+  "time": "5:15 PM",
   "status": "available",
   "theaterID": "avalon"
  },
  {
   "title": "Together",
   "date": "Aug 06",
-  "time": "05:15 PM",
+  "time": "5:15 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Superman",
   "date": "Aug 06",
-  "time": "06:15 PM",
+  "time": "6:15 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "CatVideoFest 2025",
   "date": "Aug 06",
-  "time": "06:30 PM",
+  "time": "6:30 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "F1 The Movie",
   "date": "Aug 06",
-  "time": "06:30 PM",
+  "time": "6:30 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "MCCABE & MRS. MILLER",
   "date": "Aug 06",
-  "time": "07:00 PM",
+  "time": "7:00 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Aug 06",
+  "time": "7:00 PM",
+  "status": "available",
+  "theaterID": "landmark bethesda row cinema"
+ },
+ {
   "title": "CLOSE-UP",
   "date": "Aug 06",
-  "time": "07:00 PM",
+  "time": "7:00 PM",
   "status": "sold out",
   "theaterID": "suns"
  },
  {
-  "title": "The Fantastic Four: First Steps",
-  "date": "Aug 06",
-  "time": "07:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
   "title": "Superman",
   "date": "Aug 06",
-  "time": "07:10 PM",
+  "time": "7:10 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "The Naked Gun",
   "date": "Aug 06",
-  "time": "07:15 PM",
+  "time": "7:15 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "The Bad Guys 2",
   "date": "Aug 06",
-  "time": "07:20 PM",
+  "time": "7:20 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Bad Shabbos",
   "date": "Aug 06",
-  "time": "07:30 PM",
+  "time": "7:30 PM",
   "status": "available",
   "theaterID": "avalon"
  },
  {
   "title": "Together",
   "date": "Aug 06",
-  "time": "07:45 PM",
+  "time": "7:45 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "A Photographic Memory",
   "date": "Aug 06",
-  "time": "08:00 PM",
+  "time": "8:00 PM",
   "status": "available",
   "theaterID": "avalon"
  },
  {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 06",
-  "time": "08:00 PM",
+  "time": "8:00 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "EBIRAH, HORROR OF THE DEEP",
   "date": "Aug 06",
-  "time": "09:30 PM",
+  "time": "9:30 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "TASTE OF CHERRY",
   "date": "Aug 06",
-  "time": "09:30 PM",
+  "time": "9:30 PM",
   "status": "available",
   "theaterID": "suns"
+ },
+ {
+  "title": "Willy Wonka and the Chocolate Factory",
+  "date": "Aug 07",
+  "time": "10:30 AM",
+  "status": "available",
+  "theaterID": "miracle"
  },
  {
   "title": "RAN - 40th Anniversary",
@@ -2914,287 +2480,287 @@
  {
   "title": "Freakier Friday",
   "date": "Aug 07",
-  "time": "02:00 PM",
+  "time": "2:00 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Don’t Let’s Go to the Dogs Tonight",
   "date": "Aug 07",
-  "time": "02:15 PM",
+  "time": "2:15 PM",
   "status": "available",
   "theaterID": "avalon"
  },
  {
   "title": "The Bad Guys 2",
   "date": "Aug 07",
-  "time": "02:15 PM",
+  "time": "2:15 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Weapons",
   "date": "Aug 07",
-  "time": "02:20 PM",
+  "time": "2:20 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "THE COURT JESTER",
   "date": "Aug 07",
-  "time": "02:30 PM",
+  "time": "2:30 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "The Naked Gun",
   "date": "Aug 07",
-  "time": "02:30 PM",
+  "time": "2:30 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Bad Shabbos",
   "date": "Aug 07",
-  "time": "03:00 PM",
+  "time": "3:00 PM",
   "status": "available",
   "theaterID": "avalon"
  },
  {
   "title": "Together",
   "date": "Aug 07",
-  "time": "03:00 PM",
+  "time": "3:00 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 07",
-  "time": "04:00 PM",
+  "time": "4:00 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Weapons",
   "date": "Aug 07",
-  "time": "04:00 PM",
+  "time": "4:00 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "Superman",
   "date": "Aug 07",
-  "time": "04:10 PM",
+  "time": "4:10 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "Superman",
   "date": "Aug 07",
-  "time": "04:15 PM",
+  "time": "4:15 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Freakier Friday",
   "date": "Aug 07",
-  "time": "04:30 PM",
+  "time": "4:30 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "The Bad Guys 2",
   "date": "Aug 07",
-  "time": "04:30 PM",
+  "time": "4:30 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 07",
-  "time": "04:30 PM",
+  "time": "4:30 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "Together",
   "date": "Aug 07",
-  "time": "04:40 PM",
+  "time": "4:40 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "THE ASSASSIN (1961)",
   "date": "Aug 07",
-  "time": "04:45 PM",
+  "time": "4:45 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "Don’t Let’s Go to the Dogs Tonight",
   "date": "Aug 07",
-  "time": "04:45 PM",
+  "time": "4:45 PM",
   "status": "available",
   "theaterID": "avalon"
  },
  {
   "title": "The Naked Gun",
   "date": "Aug 07",
-  "time": "04:45 PM",
+  "time": "4:45 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "The Naked Gun",
   "date": "Aug 07",
-  "time": "04:50 PM",
+  "time": "4:50 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "Weapons",
   "date": "Aug 07",
-  "time": "05:00 PM",
+  "time": "5:00 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Bad Shabbos",
   "date": "Aug 07",
-  "time": "05:15 PM",
+  "time": "5:15 PM",
   "status": "available",
   "theaterID": "avalon"
  },
  {
   "title": "Together",
   "date": "Aug 07",
-  "time": "05:15 PM",
+  "time": "5:15 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
   "date": "Aug 07",
-  "time": "06:35 PM",
+  "time": "6:35 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE GODFATHER PART II",
   "date": "Aug 07",
-  "time": "07:00 PM",
+  "time": "7:00 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
-  "title": "UNDER THE SILVER LAKE",
-  "date": "Aug 07",
-  "time": "07:00 PM",
-  "status": "available",
-  "theaterID": "suns"
- },
- {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 07",
-  "time": "07:00 PM",
+  "time": "7:00 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Freakier Friday",
   "date": "Aug 07",
-  "time": "07:00 PM",
+  "time": "7:00 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Superman",
   "date": "Aug 07",
-  "time": "07:00 PM",
+  "time": "7:00 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
+ },
+ {
+  "title": "UNDER THE SILVER LAKE",
+  "date": "Aug 07",
+  "time": "7:00 PM",
+  "status": "available",
+  "theaterID": "suns"
  },
  {
   "title": "Superman",
   "date": "Aug 07",
-  "time": "07:10 PM",
+  "time": "7:10 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Weapons",
   "date": "Aug 07",
-  "time": "07:10 PM",
+  "time": "7:10 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "The Naked Gun",
   "date": "Aug 07",
-  "time": "07:15 PM",
+  "time": "7:15 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "The Bad Guys 2",
   "date": "Aug 07",
-  "time": "07:20 PM",
+  "time": "7:20 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 07",
-  "time": "07:20 PM",
+  "time": "7:20 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "Bad Shabbos",
   "date": "Aug 07",
-  "time": "07:30 PM",
+  "time": "7:30 PM",
   "status": "available",
   "theaterID": "avalon"
  },
  {
   "title": "Together",
   "date": "Aug 07",
-  "time": "07:30 PM",
+  "time": "7:30 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "The Naked Gun",
   "date": "Aug 07",
-  "time": "07:40 PM",
+  "time": "7:40 PM",
   "status": "available",
-  "theaterID": "Landmark Atlantic Plumbing Cinema"
+  "theaterID": "landmark atlantic plumbing cinema"
  },
  {
   "title": "Weapons",
   "date": "Aug 07",
-  "time": "07:45 PM",
+  "time": "7:45 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Together",
   "date": "Aug 07",
-  "time": "07:45 PM",
+  "time": "7:45 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "SHALL WE DANCE? (1996)",
   "date": "Aug 07",
-  "time": "08:50 PM",
+  "time": "8:50 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "CatVideoFest 2025",
   "date": "Aug 07",
-  "time": "09:30 PM",
+  "time": "9:30 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
@@ -3210,7 +2776,7 @@
   "date": "Aug 08",
   "time": "11:30 AM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "HEARTS OF DARKNESS: A FILMMAKER'S APOCALYPSE",
@@ -3222,121 +2788,121 @@
  {
   "title": "THE MAN WHO KNEW TOO MUCH (1956)",
   "date": "Aug 08",
-  "time": "01:45 PM",
+  "time": "1:45 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "Weapons",
   "date": "Aug 08",
-  "time": "01:45 PM",
+  "time": "1:45 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Freakier Friday",
   "date": "Aug 08",
-  "time": "02:00 PM",
+  "time": "2:00 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "THE LONG GOODBYE",
   "date": "Aug 08",
-  "time": "04:15 PM",
+  "time": "4:15 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "Freakier Friday",
   "date": "Aug 08",
-  "time": "04:30 PM",
+  "time": "4:30 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Weapons",
   "date": "Aug 08",
-  "time": "04:45 PM",
+  "time": "4:45 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "SINNERS",
   "date": "Aug 08",
-  "time": "06:00 PM",
+  "time": "6:00 PM",
   "status": "sold out",
   "theaterID": "suns"
  },
  {
   "title": "SINNERS",
   "date": "Aug 08",
-  "time": "06:00 PM",
+  "time": "6:00 PM",
   "status": "available",
   "theaterID": "suns"
  },
  {
   "title": "NORTH BY NORTHWEST",
   "date": "Aug 08",
-  "time": "06:45 PM",
+  "time": "6:45 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "Freakier Friday",
   "date": "Aug 08",
-  "time": "07:00 PM",
+  "time": "7:00 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Weapons",
   "date": "Aug 08",
-  "time": "07:45 PM",
+  "time": "7:45 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "SINNERS",
   "date": "Aug 08",
-  "time": "09:15 PM",
+  "time": "9:15 PM",
   "status": "available",
   "theaterID": "suns"
  },
  {
   "title": "SINNERS",
   "date": "Aug 08",
-  "time": "09:15 PM",
+  "time": "9:15 PM",
   "status": "available",
   "theaterID": "suns"
  },
  {
   "title": "NO WAY OUT (1987)",
   "date": "Aug 08",
-  "time": "09:30 PM",
+  "time": "9:30 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "Freakier Friday",
   "date": "Aug 08",
-  "time": "09:45 PM",
+  "time": "9:45 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "The Rocky Horror Picture Show",
   "date": "Aug 08",
   "time": "10:30 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Weapons",
   "date": "Aug 08",
   "time": "10:45 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "THE TEN COMMANDMENTS (1956)",
@@ -3350,7 +2916,7 @@
   "date": "Aug 09",
   "time": "11:00 AM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "GODZILLA VS. MEGALON",
@@ -3364,126 +2930,133 @@
   "date": "Aug 09",
   "time": "11:30 AM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "THE MAN WHO KNEW TOO MUCH (1956)",
   "date": "Aug 09",
-  "time": "01:20 PM",
+  "time": "1:20 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "Weapons",
   "date": "Aug 09",
-  "time": "01:45 PM",
+  "time": "1:45 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Freakier Friday",
   "date": "Aug 09",
-  "time": "02:00 PM",
+  "time": "2:00 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
+ },
+ {
+  "title": "CatVideoFest 2025",
+  "date": "Aug 09",
+  "time": "2:00 PM",
+  "status": "available",
+  "theaterID": "miracle"
  },
  {
   "title": "THIEVES LIKE US",
   "date": "Aug 09",
-  "time": "03:30 PM",
+  "time": "3:30 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE ORGANIZER (1963)",
   "date": "Aug 09",
-  "time": "03:50 PM",
+  "time": "3:50 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "Freakier Friday",
   "date": "Aug 09",
-  "time": "04:30 PM",
+  "time": "4:30 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Weapons",
   "date": "Aug 09",
-  "time": "04:45 PM",
+  "time": "4:45 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "BLOOD SIMPLE",
   "date": "Aug 09",
-  "time": "06:00 PM",
+  "time": "6:00 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "PICNIC AT HANGING ROCK: 50TH ANNIVERSARY",
   "date": "Aug 09",
-  "time": "06:00 PM",
+  "time": "6:00 PM",
   "status": "available",
   "theaterID": "suns"
  },
  {
   "title": "PICNIC AT HANGING ROCK: 50TH ANNIVERSARY",
   "date": "Aug 09",
-  "time": "06:00 PM",
+  "time": "6:00 PM",
   "status": "available",
   "theaterID": "suns"
  },
  {
   "title": "Freakier Friday",
   "date": "Aug 09",
-  "time": "07:00 PM",
+  "time": "7:00 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Weapons",
   "date": "Aug 09",
-  "time": "07:45 PM",
+  "time": "7:45 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "APOCALYPSE NOW: THE FINAL CUT",
   "date": "Aug 09",
-  "time": "08:15 PM",
+  "time": "8:15 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "CHINATOWN FUNK EXPRESS V",
   "date": "Aug 09",
-  "time": "09:30 PM",
+  "time": "9:30 PM",
   "status": "available",
   "theaterID": "suns"
  },
  {
   "title": "Freakier Friday",
   "date": "Aug 09",
-  "time": "09:45 PM",
+  "time": "9:45 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "The Rocky Horror Picture Show",
   "date": "Aug 09",
   "time": "10:30 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Weapons",
   "date": "Aug 09",
   "time": "10:45 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "The Bridges of Madison County",
@@ -3502,70 +3075,77 @@
  {
   "title": "THE MAN WHO KNEW TOO MUCH (1956)",
   "date": "Aug 10",
-  "time": "01:15 PM",
+  "time": "1:15 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE LONG GOODBYE",
   "date": "Aug 10",
-  "time": "01:30 PM",
+  "time": "1:30 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
+  "title": "The Sound of Music",
+  "date": "Aug 10",
+  "time": "2:00 PM",
+  "status": "available",
+  "theaterID": "miracle"
+ },
+ {
   "title": "NORTH BY NORTHWEST",
   "date": "Aug 10",
-  "time": "03:45 PM",
+  "time": "3:45 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "HEARTS OF DARKNESS: A FILMMAKER'S APOCALYPSE",
   "date": "Aug 10",
-  "time": "04:00 PM",
+  "time": "4:00 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "Freakier Friday",
   "date": "Aug 10",
-  "time": "04:30 PM",
+  "time": "4:30 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Weapons",
   "date": "Aug 10",
-  "time": "04:45 PM",
+  "time": "4:45 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "NO WAY OUT (1987)",
   "date": "Aug 10",
-  "time": "06:30 PM",
+  "time": "6:30 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "Freakier Friday",
   "date": "Aug 10",
-  "time": "07:00 PM",
+  "time": "7:00 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Weapons",
   "date": "Aug 10",
-  "time": "07:45 PM",
+  "time": "7:45 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "HAPPINESS",
   "date": "Aug 10",
-  "time": "09:00 PM",
+  "time": "9:00 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
@@ -3579,77 +3159,77 @@
  {
   "title": "NO WAY OUT (1987)",
   "date": "Aug 11",
-  "time": "01:45 PM",
+  "time": "1:45 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE LONG GOODBYE",
   "date": "Aug 11",
-  "time": "04:10 PM",
+  "time": "4:10 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE ORGANIZER (1963)",
   "date": "Aug 11",
-  "time": "06:30 PM",
+  "time": "6:30 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THIEVES LIKE US",
   "date": "Aug 11",
-  "time": "09:10 PM",
+  "time": "9:10 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE MAN WHO KNEW TOO MUCH (1956)",
   "date": "Aug 12",
-  "time": "01:15 PM",
+  "time": "1:15 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "NORTH BY NORTHWEST",
   "date": "Aug 12",
-  "time": "03:45 PM",
+  "time": "3:45 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "HAPPINESS",
   "date": "Aug 12",
-  "time": "06:30 PM",
+  "time": "6:30 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
+  "title": "Lost in Translation",
+  "date": "Aug 12",
+  "time": "7:00 PM",
+  "status": "available",
+  "theaterID": "landmark bethesda row cinema"
+ },
+ {
   "title": "DESERT HEARTS",
   "date": "Aug 12",
-  "time": "07:00 PM",
+  "time": "7:00 PM",
   "status": "available",
   "theaterID": "suns"
  },
  {
-  "title": "Lost in Translation",
-  "date": "Aug 12",
-  "time": "07:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
   "title": "BLOOD SIMPLE",
   "date": "Aug 12",
-  "time": "09:15 PM",
+  "time": "9:15 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "BROKEBACK MOUNTAIN",
   "date": "Aug 12",
-  "time": "09:20 PM",
+  "time": "9:20 PM",
   "status": "sold out",
   "theaterID": "suns"
  },
@@ -3658,7 +3238,7 @@
   "date": "Aug 13",
   "time": "11:00 AM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "HEARTS OF DARKNESS: A FILMMAKER'S APOCALYPSE",
@@ -3670,51 +3250,58 @@
  {
   "title": "THE MAN WHO KNEW TOO MUCH (1956)",
   "date": "Aug 13",
-  "time": "01:45 PM",
+  "time": "1:45 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE ORGANIZER (1963)",
   "date": "Aug 13",
-  "time": "04:15 PM",
+  "time": "4:15 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE LONG GOODBYE",
   "date": "Aug 13",
-  "time": "07:00 PM",
+  "time": "7:00 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "A SEPARATION",
   "date": "Aug 13",
-  "time": "07:00 PM",
+  "time": "7:00 PM",
   "status": "sold out",
   "theaterID": "suns"
  },
  {
   "title": "EEPHUS",
   "date": "Aug 13",
-  "time": "07:15 PM",
+  "time": "7:15 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "GODZILLA VS. MEGALON",
   "date": "Aug 13",
-  "time": "09:30 PM",
+  "time": "9:30 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "A SEPARATION",
   "date": "Aug 13",
-  "time": "09:45 PM",
+  "time": "9:45 PM",
   "status": "available",
   "theaterID": "suns"
+ },
+ {
+  "title": "An American Tail",
+  "date": "Aug 14",
+  "time": "10:30 AM",
+  "status": "available",
+  "theaterID": "miracle"
  },
  {
   "title": "THE ORGANIZER (1963)",
@@ -3726,28 +3313,35 @@
  {
   "title": "THIEVES LIKE US",
   "date": "Aug 14",
-  "time": "02:30 PM",
+  "time": "2:30 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "BLOOD SIMPLE",
   "date": "Aug 14",
-  "time": "05:00 PM",
+  "time": "5:00 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
+  "title": "Match In A Haystack",
+  "date": "Aug 14",
+  "time": "7:00 PM",
+  "status": "available",
+  "theaterID": "miracle"
+ },
+ {
   "title": "SHALL WE DANCE?",
   "date": "Aug 14",
-  "time": "07:00 PM",
+  "time": "7:00 PM",
   "status": "available",
   "theaterID": "suns"
  },
  {
   "title": "APOCALYPSE NOW: THE FINAL CUT",
   "date": "Aug 14",
-  "time": "07:15 PM",
+  "time": "7:15 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
@@ -3768,56 +3362,56 @@
  {
   "title": "CALIFORNIA SPLIT",
   "date": "Aug 15",
-  "time": "02:30 PM",
+  "time": "2:30 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "ONE FROM THE HEART: REPRISE",
   "date": "Aug 15",
-  "time": "04:45 PM",
+  "time": "4:45 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "PICNIC AT HANGING ROCK: 50TH ANNIVERSARY",
   "date": "Aug 15",
-  "time": "06:00 PM",
+  "time": "6:00 PM",
   "status": "available",
   "theaterID": "suns"
  },
  {
   "title": "PICNIC AT HANGING ROCK: 50TH ANNIVERSARY",
   "date": "Aug 15",
-  "time": "06:00 PM",
+  "time": "6:00 PM",
   "status": "available",
   "theaterID": "suns"
  },
  {
   "title": "HEDWIG AND THE ANGRY INCH",
   "date": "Aug 15",
-  "time": "07:00 PM",
+  "time": "7:00 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "WOMAN IN THE DUNES",
   "date": "Aug 15",
-  "time": "08:45 PM",
+  "time": "8:45 PM",
   "status": "available",
   "theaterID": "suns"
  },
  {
   "title": "RAISING ARIZONA",
   "date": "Aug 15",
-  "time": "09:00 PM",
+  "time": "9:00 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "WOMAN IN THE DUNES",
   "date": "Aug 15",
-  "time": "09:10 PM",
+  "time": "9:10 PM",
   "status": "available",
   "theaterID": "suns"
  },
@@ -3838,35 +3432,42 @@
  {
   "title": "MISSISSIPPI BURNING",
   "date": "Aug 16",
-  "time": "01:25 PM",
+  "time": "1:25 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "8½ in 35mm",
   "date": "Aug 16",
-  "time": "03:30 PM",
+  "time": "3:30 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
+  "title": "Match In A Haystack",
+  "date": "Aug 16",
+  "time": "4:30 PM",
+  "status": "available",
+  "theaterID": "miracle"
+ },
+ {
   "title": "WATERWORLD",
   "date": "Aug 16",
-  "time": "06:00 PM",
+  "time": "6:00 PM",
   "status": "available",
   "theaterID": "suns"
  },
  {
   "title": "ANACONDA",
   "date": "Aug 16",
-  "time": "09:15 PM",
+  "time": "9:15 PM",
   "status": "available",
   "theaterID": "suns"
  },
  {
   "title": "VELVET GOLDMINE",
   "date": "Aug 16",
-  "time": "09:30 PM",
+  "time": "9:30 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
@@ -3887,63 +3488,70 @@
  {
   "title": "CALIFORNIA SPLIT",
   "date": "Aug 17",
-  "time": "01:30 PM",
+  "time": "1:30 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
+  "title": "The Sound of Music",
+  "date": "Aug 17",
+  "time": "2:00 PM",
+  "status": "available",
+  "theaterID": "miracle"
+ },
+ {
   "title": "THE GRATEFUL DEAD MOVIE 2025 Meet-Up",
   "date": "Aug 17",
-  "time": "04:00 PM",
+  "time": "4:00 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "8½ in 35mm",
   "date": "Aug 17",
-  "time": "04:15 PM",
+  "time": "4:15 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "ONE FROM THE HEART: REPRISE",
   "date": "Aug 17",
-  "time": "07:00 PM",
+  "time": "7:00 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "HEDWIG AND THE ANGRY INCH",
   "date": "Aug 17",
-  "time": "09:00 PM",
+  "time": "9:00 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "ONE FROM THE HEART: REPRISE",
   "date": "Aug 18",
-  "time": "04:45 PM",
+  "time": "4:45 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "VELVET GOLDMINE",
   "date": "Aug 18",
-  "time": "07:00 PM",
+  "time": "7:00 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "The Boy and the Beast",
   "date": "Aug 18",
-  "time": "07:00 PM",
+  "time": "7:00 PM",
   "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
+  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "CALIFORNIA SPLIT",
   "date": "Aug 18",
-  "time": "09:30 PM",
+  "time": "9:30 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
@@ -3957,56 +3565,56 @@
  {
   "title": "CALIFORNIA SPLIT",
   "date": "Aug 19",
-  "time": "02:30 PM",
+  "time": "2:30 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "HEDWIG AND THE ANGRY INCH",
   "date": "Aug 19",
-  "time": "04:45 PM",
+  "time": "4:45 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "RAISING ARIZONA",
   "date": "Aug 19",
-  "time": "07:00 PM",
+  "time": "7:00 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
+  "title": "Eternal Sunshine of the Spotless Mind",
+  "date": "Aug 19",
+  "time": "7:00 PM",
+  "status": "available",
+  "theaterID": "landmark bethesda row cinema"
+ },
+ {
   "title": "BAD DAY AT BLACK ROCK",
   "date": "Aug 19",
-  "time": "07:00 PM",
+  "time": "7:00 PM",
   "status": "available",
   "theaterID": "suns"
  },
  {
-  "title": "Eternal Sunshine of the Spotless Mind",
-  "date": "Aug 19",
-  "time": "07:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
   "title": "WOMAN IN THE DUNES",
   "date": "Aug 19",
-  "time": "08:45 PM",
+  "time": "8:45 PM",
   "status": "available",
   "theaterID": "suns"
  },
  {
   "title": "ONE FROM THE HEART: REPRISE",
   "date": "Aug 19",
-  "time": "09:10 PM",
+  "time": "9:10 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "WOMAN IN THE DUNES",
   "date": "Aug 19",
-  "time": "09:10 PM",
+  "time": "9:10 PM",
   "status": "available",
   "theaterID": "suns"
  },
@@ -4020,91 +3628,112 @@
  {
   "title": "RAISING ARIZONA",
   "date": "Aug 20",
-  "time": "01:30 PM",
+  "time": "1:30 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "NASHVILLE",
   "date": "Aug 20",
-  "time": "03:45 PM",
+  "time": "3:45 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE GRATEFUL DEAD MOVIE 2025 Meet-Up",
   "date": "Aug 20",
-  "time": "06:15 PM",
+  "time": "6:15 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "CALIFORNIA SPLIT",
   "date": "Aug 20",
-  "time": "07:00 PM",
+  "time": "7:00 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
+  "title": "The Maltese Falcon",
+  "date": "Aug 20",
+  "time": "7:00 PM",
+  "status": "available",
+  "theaterID": "miracle"
+ },
+ {
   "title": "CHESS OF THE WIND",
   "date": "Aug 20",
-  "time": "07:00 PM",
+  "time": "7:00 PM",
   "status": "available",
   "theaterID": "suns"
  },
  {
   "title": "Jane Austen Wrecked My Life",
   "date": "Aug 20",
-  "time": "08:00 PM",
+  "time": "8:00 PM",
   "status": "available",
   "theaterID": "avalon"
  },
  {
   "title": "MISSISSIPPI BURNING",
   "date": "Aug 20",
-  "time": "09:15 PM",
+  "time": "9:15 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "PARASITE",
   "date": "Aug 20",
-  "time": "09:30 PM",
+  "time": "9:30 PM",
   "status": "available",
   "theaterID": "suns"
  },
  {
+  "title": "Sing 2",
+  "date": "Aug 21",
+  "time": "10:30 AM",
+  "status": "available",
+  "theaterID": "miracle"
+ },
+ {
   "title": "CALIFORNIA SPLIT",
   "date": "Aug 21",
-  "time": "02:30 PM",
+  "time": "2:30 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "ONE FROM THE HEART: REPRISE",
   "date": "Aug 21",
-  "time": "04:45 PM",
+  "time": "4:45 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "MISSISSIPPI BURNING",
   "date": "Aug 21",
-  "time": "06:50 PM",
+  "time": "6:50 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
+  "title": "Match In A Haystack",
+  "date": "Aug 21",
+  "time": "7:00 PM",
+  "status": "available",
+  "theaterID": "miracle"
+ },
+ {
   "title": "THE GAME",
   "date": "Aug 21",
-  "time": "07:00 PM",
+  "time": "7:00 PM",
   "status": "available",
   "theaterID": "suns"
  },
  {
   "title": "TERROR OF MECHAGODZILLA",
   "date": "Aug 21",
-  "time": "09:30 PM",
+  "time": "9:30 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
@@ -4125,35 +3754,49 @@
  {
   "title": "3 WOMEN (1977)",
   "date": "Aug 22",
-  "time": "01:45 PM",
+  "time": "1:45 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
+  "title": "Sing 2 (sensory friendly)",
+  "date": "Aug 22",
+  "time": "2:00 PM",
+  "status": "available",
+  "theaterID": "miracle"
+ },
+ {
   "title": "LA GRANDE BOUFFE",
   "date": "Aug 22",
-  "time": "04:15 PM",
+  "time": "4:15 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "PURPLE NOON",
   "date": "Aug 22",
-  "time": "06:00 PM",
+  "time": "6:00 PM",
   "status": "available",
   "theaterID": "suns"
  },
  {
   "title": "FAR FROM HEAVEN",
   "date": "Aug 22",
-  "time": "07:00 PM",
+  "time": "7:00 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
+  "title": "The Maltese Falcon",
+  "date": "Aug 22",
+  "time": "7:00 PM",
+  "status": "available",
+  "theaterID": "miracle"
+ },
+ {
   "title": "RUMBLE FISH",
   "date": "Aug 22",
-  "time": "09:30 PM",
+  "time": "9:30 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
@@ -4174,35 +3817,35 @@
  {
   "title": "SALVATION!",
   "date": "Aug 23",
-  "time": "01:15 PM",
+  "time": "1:15 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "BUFFALO BILL AND THE INDIANS",
   "date": "Aug 23",
-  "time": "04:00 PM",
+  "time": "4:00 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "CAROL",
   "date": "Aug 23",
-  "time": "06:45 PM",
+  "time": "6:45 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE OUTSIDERS: THE COMPLETE NOVEL",
   "date": "Aug 23",
-  "time": "09:15 PM",
+  "time": "9:15 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE TOXIC AVENGER (1984)",
   "date": "Aug 23",
-  "time": "09:45 PM",
+  "time": "9:45 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
@@ -4223,35 +3866,42 @@
  {
   "title": "FUNNY FACE (1957)",
   "date": "Aug 24",
-  "time": "01:15 PM",
+  "time": "1:15 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "LA GRANDE BOUFFE",
   "date": "Aug 24",
-  "time": "01:45 PM",
+  "time": "1:45 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "3 WOMEN (1977)",
   "date": "Aug 24",
-  "time": "03:30 PM",
+  "time": "3:30 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "NARROW MARGIN (1990)",
   "date": "Aug 24",
-  "time": "06:00 PM",
+  "time": "6:00 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
+  "title": "Match In A Haystack",
+  "date": "Aug 24",
+  "time": "7:00 PM",
+  "status": "available",
+  "theaterID": "miracle"
+ },
+ {
   "title": "THE 10TH VICTIM",
   "date": "Aug 24",
-  "time": "08:15 PM",
+  "time": "8:15 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
@@ -4265,42 +3915,42 @@
  {
   "title": "CAROL",
   "date": "Aug 25",
-  "time": "02:15 PM",
+  "time": "2:15 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "FAR FROM HEAVEN",
   "date": "Aug 25",
-  "time": "04:45 PM",
+  "time": "4:45 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "FUNNY FACE (1957)",
   "date": "Aug 25",
-  "time": "07:00 PM",
+  "time": "7:00 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "SALVATION!",
   "date": "Aug 25",
-  "time": "07:15 PM",
+  "time": "7:15 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "NARROW MARGIN (1990)",
   "date": "Aug 25",
-  "time": "09:00 PM",
+  "time": "9:00 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "BUFFALO BILL AND THE INDIANS",
   "date": "Aug 25",
-  "time": "09:15 PM",
+  "time": "9:15 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
@@ -4314,56 +3964,56 @@
  {
   "title": "FUNNY FACE (1957)",
   "date": "Aug 26",
-  "time": "02:00 PM",
+  "time": "2:00 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "A WEDDING",
   "date": "Aug 26",
-  "time": "04:15 PM",
+  "time": "4:15 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE OUTSIDERS: THE COMPLETE NOVEL",
   "date": "Aug 26",
-  "time": "07:00 PM",
+  "time": "7:00 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
+  "title": "Moonrise Kingdom",
+  "date": "Aug 26",
+  "time": "7:00 PM",
+  "status": "available",
+  "theaterID": "landmark bethesda row cinema"
+ },
+ {
   "title": "STRANGER BY THE LAKE",
   "date": "Aug 26",
-  "time": "07:00 PM",
+  "time": "7:00 PM",
   "status": "available",
   "theaterID": "suns"
  },
  {
-  "title": "Moonrise Kingdom",
-  "date": "Aug 26",
-  "time": "07:00 PM",
-  "status": "available",
-  "theaterID": "Landmark Bethesda Row Cinema"
- },
- {
   "title": "LA GRANDE BOUFFE",
   "date": "Aug 26",
-  "time": "09:00 PM",
+  "time": "9:00 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "RUMBLE FISH",
   "date": "Aug 26",
-  "time": "09:20 PM",
+  "time": "9:20 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "BEACH RATS",
   "date": "Aug 26",
-  "time": "09:30 PM",
+  "time": "9:30 PM",
   "status": "available",
   "theaterID": "suns"
  },
@@ -4377,49 +4027,49 @@
  {
   "title": "LA GRANDE BOUFFE",
   "date": "Aug 27",
-  "time": "02:00 PM",
+  "time": "2:00 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "NARROW MARGIN (1990)",
   "date": "Aug 27",
-  "time": "04:40 PM",
+  "time": "4:40 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "A WEDDING",
   "date": "Aug 27",
-  "time": "06:45 PM",
+  "time": "6:45 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE SEALED SOIL",
   "date": "Aug 27",
-  "time": "07:00 PM",
+  "time": "7:00 PM",
   "status": "available",
   "theaterID": "suns"
  },
  {
   "title": "THE SEALED SOIL",
   "date": "Aug 27",
-  "time": "09:15 PM",
+  "time": "9:15 PM",
   "status": "available",
   "theaterID": "suns"
  },
  {
   "title": "FAR FROM HEAVEN",
   "date": "Aug 27",
-  "time": "09:20 PM",
+  "time": "9:20 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE TOXIC AVENGER (1984)",
   "date": "Aug 27",
-  "time": "09:30 PM",
+  "time": "9:30 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
@@ -4433,42 +4083,42 @@
  {
   "title": "3 WOMEN (1977)",
   "date": "Aug 28",
-  "time": "04:30 PM",
+  "time": "4:30 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "CAROL",
   "date": "Aug 28",
-  "time": "07:00 PM",
+  "time": "7:00 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "DEEP BLUE SEA",
   "date": "Aug 28",
-  "time": "07:00 PM",
+  "time": "7:00 PM",
   "status": "available",
   "theaterID": "suns"
  },
  {
   "title": "GODZILLA VS. DESTOROYAH",
   "date": "Aug 28",
-  "time": "09:00 PM",
+  "time": "9:00 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "THE 10TH VICTIM",
   "date": "Aug 28",
-  "time": "09:30 PM",
+  "time": "9:30 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "CRUEL JAWS",
   "date": "Aug 28",
-  "time": "09:35 PM",
+  "time": "9:35 PM",
   "status": "available",
   "theaterID": "suns"
  },
@@ -4482,49 +4132,56 @@
  {
   "title": "A SLIGHTLY PREGNANT MAN",
   "date": "Aug 29",
-  "time": "01:50 PM",
+  "time": "1:50 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "GODZILLA 2000: MILLENNIUM",
   "date": "Aug 29",
-  "time": "04:00 PM",
+  "time": "4:00 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "MERMAIDS",
   "date": "Aug 29",
-  "time": "06:00 PM",
+  "time": "6:00 PM",
   "status": "available",
   "theaterID": "suns"
  },
  {
   "title": "JAWS: 50th Anniversary",
   "date": "Aug 29",
-  "time": "06:15 PM",
+  "time": "6:15 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
   "title": "VERTIGO in 70mm",
   "date": "Aug 29",
-  "time": "06:30 PM",
+  "time": "6:30 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
  {
+  "title": "Clueless",
+  "date": "Aug 29",
+  "time": "7:00 PM",
+  "status": "available",
+  "theaterID": "miracle"
+ },
+ {
   "title": "THE LURE",
   "date": "Aug 29",
-  "time": "08:45 PM",
+  "time": "8:45 PM",
   "status": "available",
   "theaterID": "suns"
  },
  {
   "title": "THE NAVIGATOR: A MEDIEVAL ODYSSEY",
   "date": "Aug 29",
-  "time": "08:50 PM",
+  "time": "8:50 PM",
   "status": "available",
   "theaterID": "afisilver"
  },
@@ -4541,5 +4198,82 @@
   "time": "11:00 AM",
   "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "VINCENT & THEO",
+  "date": "Aug 30",
+  "time": "1:20 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "A SLIGHTLY PREGNANT MAN",
+  "date": "Aug 30",
+  "time": "1:30 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "THE SEARCHERS in 70mm",
+  "date": "Aug 30",
+  "time": "3:45 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "VERTIGO in 70mm",
+  "date": "Aug 30",
+  "time": "6:30 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "JAWS: 50th Anniversary",
+  "date": "Aug 30",
+  "time": "7:00 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "UNFORGIVEN (1992)",
+  "date": "Aug 30",
+  "time": "9:30 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "Call Me by Your Name",
+  "date": "Aug 31",
+  "time": "10:30 AM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "GODZILLA 2000: MILLENNIUM",
+  "date": "Aug 31",
+  "time": "11:15 AM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "UNFORGIVEN (1992)",
+  "date": "Aug 31",
+  "time": "1:30 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "THE SEARCHERS in 70mm",
+  "date": "Aug 31",
+  "time": "1:45 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "Harry Potter and The Sorcerer’s Stone",
+  "date": "Aug 31",
+  "time": "2:00 PM",
+  "status": "available",
+  "theaterID": "miracle"
  }
 ]

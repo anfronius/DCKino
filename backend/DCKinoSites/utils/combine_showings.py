@@ -2,18 +2,15 @@ import json
 from datetime import datetime, timedelta
 from pathlib import Path
 
-# Base directory (where this script is located)
+
+# Base directory (where the Scrapy project is located)
 base_dir = Path(__file__).resolve().parent.parent
 
-# Input files
-afi_path = base_dir / "data/afimovies.json"
-miracle_path = base_dir / "data/miraclemovies.json"
-suns_path = base_dir / "data/sunsmovies.json"
-avalon_path = base_dir / "data/avalonmovies.json"
-landmark_path = base_dir / "data/landmarkmovies.json"
+# Data directory (where JSONs are located)
+data_dir = base_dir / "data"
 
 # Output file (to site's data folder)
-output_dir = base_dir.parent.parent/ "frontend/src/data"
+output_dir = base_dir.parent.parent / "frontend/src/data"
 output_path = output_dir / "movies.json"
 output_dir.mkdir(parents=True, exist_ok=True)
 
@@ -37,41 +34,34 @@ class Styles:
     UNDERLINE = '\033[4m'
     default = '\033[0m'
 
-# Function which loads JSON data from a primary path. If the file doesn't exist, is empty, or has fewer than min_entries, it attempts to load from a backup file, then merges
-def load_json(path, label, min_entries=5):
-    backup_path = base_dir / "data_backup" / f"{path.stem}_backup.json"
-    if path.exists():
-        try:
-            with open(path, "r", encoding="utf-8") as f:
-                data = json.load(f)
-            if len(data) >= min_entries:
-                print(f"{Colors.GREEN}Loaded {len(data)} entries from {label} ({path.name}) {Styles.default}")
-                return data
-            else:
-                print(f"{Colors.YELLOW}{label} file has {len(data)} entries (minimum {min_entries} required). Trying backup... {Styles.default}")
-        except (json.JSONDecodeError, Exception) as e:
-            print(f"{Colors.RED}Failed to load or parse {label} from {path.name}: {e}. Trying backup... {Styles.default}")
-    if backup_path.exists():
-        try:
-            with open(backup_path, "r", encoding="utf-8") as f:
-                data = json.load(f)
-            print(f"{Colors.GREEN}Loaded {len(data)} entries from {label} backup ({backup_path.name}) {Styles.default}")
-            return data
-        except Exception as e:
-            print(f"{Colors.RED}Failed to load {label} from backup {backup_path.name}: {e} {Styles.default}")
-            return []
-    print(f"{BG_Colors.RED_BG}Could not load sufficient data for {label} from primary or backup paths. {Styles.default}")
-    return []
+# Theater list
+theaters = ["afisilver", "avalon", "landmark", "miracle", "suns"]
 
-# Function to normalize time format to "HH:MM PM"
-def normalize_time(t):
+# Load the latest processed JSON file for a theater from its data subdirectory
+def load_json(theater, min_entries=5):
+    theater_dir = data_dir / theater
+    if not theater_dir.exists():
+        print(f"{Colors.RED}Directory not found for {theater}: {theater_dir} {Styles.default}")
+        return []
+    json_files = sorted(theater_dir.glob("*_processed_*.json"), key=lambda x: x.stat().st_mtime, reverse=True)
+    if not json_files:
+        print(f"{Colors.RED}No processed JSON files found for {theater} in {theater_dir} {Styles.default}")
+        return []
+    latest_file = json_files[0]
     try:
-        return datetime.strptime(t.strip().lower(), "%I:%M %p").strftime("%I:%M %p")
-    except Exception as e:
-        print(f"[TIME ERROR] '{t}' – {e}")
-        return t
+        with open(latest_file, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        if len(data) >= min_entries:
+            print(f"{Colors.GREEN}Loaded {len(data)} entries from {theater} ({latest_file.name}) {Styles.default}")
+            return data
+        else:
+            print(f"{Colors.YELLOW}{theater} file has {len(data)} entries (minimum {min_entries} required). Skipping... {Styles.default}")
+            return []
+    except (json.JSONDecodeError, Exception) as e:
+        print(f"{Colors.RED}Failed to load or parse {theater} from {latest_file.name}: {e} {Styles.default}")
+        return []
 
-# Function to only keep showings within next 60 days and assumes showtimes with a date earlier than today is for next year instead
+# Parse date and time from standardized format to datetime for sorting
 def parse_datetime(entry):
     try:
         now = datetime.today()
@@ -84,39 +74,26 @@ def parse_datetime(entry):
         print(f"[DATETIME ERROR] {entry} – {e}")
         return None
 
-print(f"\n\n{BG_Colors.MAGENTA_BG}{Styles.BOLD}{Styles.UNDERLINE} ///// Beginning Showings Combination Script ///// {Styles.default}\n\n")
+# Main function to combine, filter, sort, and output showtimes to frontend
+def main():
+    print(f"\n\n{BG_Colors.MAGENTA_BG}{Styles.BOLD}{Styles.UNDERLINE} ///// Beginning Showings Combination Script ///// {Styles.default}\n\n")
+    combined = []
+    for theater in theaters:
+        combined += load_json(theater)
+    print(f"\n{Colors.BLUE}Total combined entries: {len(combined)} {Styles.default}")
+    filtered = [
+        entry for entry in combined
+        if (dt := parse_datetime(entry)) and today <= dt <= cutoff
+    ]
+    print(f"{Colors.BLUE}Entries within 30-day window: {len(filtered)} {Styles.default}")
+    sorted_combined = sorted(filtered, key=parse_datetime)
+    try:
+        with open(output_path, "w", encoding="utf-8") as f:
+            json.dump(sorted_combined, f, indent=1, ensure_ascii=False)
+        print(f"\n{Colors.GREEN}{Styles.BLINK}Saved {len(sorted_combined)} sorted showings to {output_path.resolve()} {Styles.default}")
+    except Exception as e:
+        print(f"{BG_Colors.RED_BG}Failed to write output file: {e} {Styles.default}")
+    print(f"\n\n{BG_Colors.GREEN_BG}{Styles.BOLD} ///// Showings Combination Complete ///// {Styles.default}\n\n")
 
-# Load all JSON files
-afi_data = load_json(afi_path, "AFI")
-miracle_data = load_json(miracle_path, "Miracle")
-suns_data = load_json(suns_path, "Suns")
-avalon_data = load_json(avalon_path, "Avalon")
-landmark_data = load_json(landmark_path, "Landmark")
-
-# Combine all data
-combined = afi_data + miracle_data + suns_data + avalon_data + landmark_data
-print(f"\n{Colors.BLUE}Total combined entries: {len(combined)} {Styles.default}")
-
-# Normalize times
-for entry in combined:
-    entry["time"] = normalize_time(entry["time"])
-
-# Filter for relevency
-filtered = [
-    entry for entry in combined
-    if (dt := parse_datetime(entry)) and today <= dt <= cutoff
-]
-print(f"{Colors.BLUE}Entries within 30-day window: {len(filtered)} {Styles.default}")
-
-# Sort chronologically
-sorted_combined = sorted(filtered, key=parse_datetime)
-
-# Save result
-try:
-    with open(output_path, "w", encoding="utf-8") as f:
-        json.dump(sorted_combined, f, indent=1, ensure_ascii=False)
-    print(f"\n{Colors.GREEN}{Styles.BLINK}Saved {len(sorted_combined)} sorted showings to {output_path.resolve()} {Styles.default}")
-except Exception as e:
-    print(f"{BG_Colors.RED_BG}Failed to write output file: {e} {Styles.default}")
-
-print(f"\n\n{BG_Colors.GREEN_BG}{Styles.BOLD} ///// Showings Combination Complete ///// {Styles.default}\n\n")
+if __name__ == '__main__':
+    main()
