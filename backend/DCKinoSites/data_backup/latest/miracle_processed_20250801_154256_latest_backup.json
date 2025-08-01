@@ -7,6 +7,20 @@
     "theaterID": "miracle"
   },
   {
+    "title": "The Goonies",
+    "date": "Sep 05",
+    "time": "7:00 PM",
+    "status": "available",
+    "theaterID": "miracle"
+  },
+  {
+    "title": "Harry Potter and The Sorcerer\u2019s Stone",
+    "date": "Aug 31",
+    "time": "2:00 PM",
+    "status": "available",
+    "theaterID": "miracle"
+  },
+  {
     "title": "Clueless",
     "date": "Aug 29",
     "time": "7:00 PM",
@@ -198,20 +212,6 @@
   {
     "title": "CatVideoFest 2025",
     "date": "Aug 09",
-    "time": "2:00 PM",
-    "status": "available",
-    "theaterID": "miracle"
-  },
-  {
-    "title": "The Goonies",
-    "date": "Sep 05",
-    "time": "7:00 PM",
-    "status": "available",
-    "theaterID": "miracle"
-  },
-  {
-    "title": "Harry Potter and The Sorcerer\u2019s Stone",
-    "date": "Aug 31",
     "time": "2:00 PM",
     "status": "available",
     "theaterID": "miracle"
