@@ -59,13 +59,17 @@ function Modal({ title, onClose, children }) {
 
 export default function App() {
   const [posters, setPosters] = useState({});
-  const [selectedMovie, setSelectedMovie] = useState(null);
   const [selectedStack, setSelectedStack] = useState(null); // {date, title, idx}
   const [showTheaterList, setShowTheaterList] = useState(false);
   const [showMovieList, setShowMovieList] = useState(false);
   const [showOfflineList, setShowOfflineList] = useState(false);
   const [showCalendar, setShowCalendar] = useState(false);
   const [calendarDate, setCalendarDate] = useState(null);
+
+  const getFirstTime = (movie) => {
+    if (!movie.times || movie.times.length === 0) return '23:59';
+    return movie.times[0].time;
+  };
 
   useEffect(() => {
     const loadPosters = async () => {
@@ -128,10 +132,21 @@ const uniqueMovies = Array.from(
     }
   }, [calendarDate]);
 
-  return (
+    return (
     <>
       <header className="w-full bg-zinc-800 shadow-md sticky top-0 z-50">
-        <div className="w-full px-4 py-4 flex justify-between items-center">
+        {/* Mobile layout: Title first, then buttons below */}
+        <div className="sm:hidden px-4 py-4">
+          <h1 className="text-4xl font-bold text-center text-white font-bungee border-b border-zinc-600 pb-2">
+            🎬 DC Kino Showtimes
+          </h1>
+          <div className="flex w-full px-4 mt-3 gap-4">
+            <button className="text-white material-icons text-base flex-1" onClick={scrollToTop}>cottage</button>
+            <button className="text-white material-icons text-base flex-1" onClick={() => setShowCalendar(true)}>calendar_month</button>
+          </div>
+        </div>
+        {/* Desktop layout: Buttons on either side of the title */}
+        <div className="hidden sm:flex justify-between items-center px-4 py-4">
           <button className="text-white material-icons text-base" onClick={scrollToTop}>cottage</button>
           <h1 className="text-4xl font-bold text-center text-white font-bungee">
             🎬 DC Kino Showtimes
@@ -142,14 +157,23 @@ const uniqueMovies = Array.from(
 
       <header className="w-full bg-zinc-700 shadow-inner">
         <div className="w-full px-4 py-3 text-white text-center text-sm sm:text-base font-audiowide">
-          <div className="flex flex-col sm:flex-row justify-center items-center gap-2 sm:gap-6">
-            <button className="bg-zinc-800" onClick={() => setShowMovieList(true)}>
+          <div className="flex flex-col sm:flex-row justify-center items-center space-y-2 sm:space-y-0 sm:gap-6">
+            <button 
+              className="bg-zinc-800 w-full sm:w-auto px-4 py-2 rounded flex items-center justify-center gap-2" 
+              onClick={() => setShowMovieList(true)}
+            >
               🎞️ {uniqueMovies.length} Movies Showing
             </button>
-            <button className="bg-zinc-800" onClick={() => setShowTheaterList(true)}>
+            <button 
+              className="bg-zinc-800 w-full sm:w-auto px-4 py-2 rounded flex items-center justify-center gap-2" 
+              onClick={() => setShowTheaterList(true)}
+            >
               🏛️ {Object.keys(theaterMap).length} Theaters Listed
             </button>
-            <button className="bg-zinc-800" onClick={() => setShowOfflineList(true)}>
+            <button 
+              className="bg-zinc-800 w-full sm:w-auto px-4 py-2 rounded flex items-center justify-center gap-2" 
+              onClick={() => setShowOfflineList(true)}
+            >
               🔌 {offlineTheaters.length > 0 ? `${offlineTheaters.length} Theater${offlineTheaters.length > 1 ? 's' : ''} Offline` : "All Theater Sites Online"}
             </button>
           </div>
@@ -166,41 +190,28 @@ const uniqueMovies = Array.from(
                 </h2>
                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
                   {Object.entries(moviesByTitle).map(([title, showings], groupIdx) => {
-                    // Overlay cards with vertical offset: top card is last in array
-                    const stackOffset = 32; // px
+                    const stackOffset = 32;
                     const stackHeight = 240 + (showings.length - 1) * stackOffset;
                     return (
                       <div key={title} className="relative" style={{ height: `${stackHeight}px` }}>
                         {[...showings]
                           .slice()
-                          .sort((a, b) => {
-                            // Sort by earliest showing time (first time in times array)
-                            const getFirstTime = (movie) => {
-                              if (!movie.times || movie.times.length === 0) return '23:59';
-                              // Assume time is in HH:MM or H:MM format
-                              return movie.times[0].time;
-                            };
-                            return getFirstTime(a).localeCompare(getFirstTime(b));
-                          })
+                          .sort((a, b) => getFirstTime(a).localeCompare(getFirstTime(b)))
                           .map((movie, idx, arr) => {
                             const theater = theaterMap[movie.theaterID];
                             const bgClass = theater?.colorClass || 'bg-zinc-800';
                             const posterUrl = posters[movie.title];
-                            // Overlay: top card is at the top, each card below is lower
-                            // idx=0 is top, idx=arr.length-1 is bottom
                             return (
                               <div
                                 key={movie.theaterID}
                                 onClick={() => {
-                                  setSelectedMovie({ ...movie, bgClass, date });
                                   setSelectedStack({ date, title: normalizeTitle(title), idx });
                                 }}
-                                className="cursor-pointer absolute left-0 right-0 rounded-2xl shadow-lg flex flex-col sm:flex-row overflow-hidden h-60 transition-transform duration-300 transform hover:scale-[1.03] hover:shadow-2xl"
+                                className="cursor-pointer absolute left-0 right-0 rounded-2xl shadow-lg flex flex-row overflow-hidden h-60 transition-transform duration-300 transform hover:scale-[1.03] hover:shadow-2xl"
                                 style={{ top: `${idx * stackOffset}px`, zIndex: 10 + (arr.length - idx), opacity: 1 }}
                               >
-                                {/* Blank card for background, same as site bg */}
                                 <div className="absolute inset-0 bg-zinc-900" style={{ zIndex: 0 }} />
-                                <div className="w-full sm:w-1/2 h-1/2 sm:h-full bg-zinc-700 flex items-center justify-center text-sm text-zinc-300 z-10">
+                                <div className="w-1/2 sm:w-1/3 h-full bg-zinc-700 flex items-center justify-center text-sm text-zinc-300 z-10">
                                   {posterUrl ? (
                                     <img src={posterUrl} alt={movie.title} className="object-cover w-full h-full" />
                                   ) : (
@@ -208,17 +219,17 @@ const uniqueMovies = Array.from(
                                   )}
                                 </div>
                                 <div className={`absolute inset-0 ${bgClass}`} style={{ zIndex: 1 }} />
-                                <div className="relative z-10 p-6 flex flex-col justify-start w-full text-white">
-                                  <div className="text-2xl font-semibold mt-1 mb-4 font-limelight line-clamp-3">{movie.title}</div>
+                                <div className="relative z-10 p-3 sm:p-6 flex flex-col justify-start w-1/2 sm:w-2/3 text-white">
+                                  <div className="text-xl sm:text-2xl font-semibold mt-0 sm:mt-1 mb-2 sm:mb-4 font-limelight line-clamp-3">{movie.title}</div>
                                   <div className="mt-auto">
-                                    <div className="text-zinc-100 text-sm leading-tight mb-3 font-montserratalts">
+                                    <div className="text-zinc-100 text-xs sm:text-sm leading-tight mb-1 sm:mb-3 font-montserratalts">
                                       {movie.times.map(({ time, status }, i) => (
                                         <span key={i} className={status !== 'available' ? 'line-through' : ''}>
                                           {i > 0 ? ' • ' : ''}{time}
                                         </span>
                                       ))}
                                     </div>
-                                    <div className="text-zinc-100 text-xl font-alumnisc line-clamp-2">{theater?.name || 'Unknown Theater'}</div>
+                                    <div className="text-zinc-100 text-lg sm:text-xl font-alumnisc line-clamp-2">{theater?.name || 'Unknown Theater'}</div>
                                   </div>
                                 </div>
                               </div>
@@ -233,72 +244,79 @@ const uniqueMovies = Array.from(
           </div>
         </div>
 
-        {selectedMovie && (
-          <div className="fixed inset-0 z-50 bg-black bg-opacity-80 flex justify-center items-center">
-            <div className={`text-white rounded-2xl shadow-xl p-6 max-w-4xl w-full relative flex flex-col sm:flex-row gap-6 max-h-[95vh] overflow-y-auto`}>
-              {/* Blank card for background, same as site bg, behind the colored card */}
-              <div className="absolute inset-0 bg-zinc-900 rounded-2xl" style={{ zIndex: 0 }} />
-              <div className={`absolute inset-0 rounded-2xl ${selectedMovie.bgClass}`} style={{ zIndex: 1 }} />
-              <button onClick={() => { setSelectedMovie(null); setSelectedStack(null); }} className="absolute top-2 right-2 text-white text-2xl z-20">×</button>
-              <div className="sm:w-1/2 flex justify-center items-center z-10">
-                {posters[selectedMovie.title] ? (
-                  <img src={posters[selectedMovie.title]} alt={selectedMovie.title} className="object-cover max-h-[80vh] w-full rounded" />
-                ) : (
-                  <div className="bg-zinc-700 h-60 w-full flex items-center justify-center text-sm text-zinc-300">
-                    {selectedMovie.poster || 'Poster Unavailable'}
-                  </div>
-                )}
-              </div>
-              <div className="sm:w-1/2 flex flex-col justify-center z-10 relative">
-                <h2 className="text-3xl font-bold mb-2 font-limelight">{selectedMovie.title}</h2>
-                <p className="text-zinc-300 text-sm mb-2 font-montserratalts">{selectedMovie.date}</p>
-                <p className="text-zinc-300 mb-2 text-sm font-montserratalts">
-                  {selectedMovie.times.map(({ time, status }, i) => (
-                    <span key={i} className={status !== 'available' ? 'line-through' : ''}>
-                      {i > 0 ? ' • ' : ''}{time}
-                    </span>
-                  ))}
-                </p>
-                <p className="text-zinc-100 text-xl font-alumnisc mb-4">{theaterMap[selectedMovie.theaterID]?.name || 'Unknown Theater'}</p>
-                {/* Swap buttons for stacked cards */}
-                {selectedStack && (() => {
-                  const { date, title, idx } = selectedStack;
-                  const stack =
-                    groupedByDateAndTitle[date] && groupedByDateAndTitle[date][title]
-                      ? groupedByDateAndTitle[date][title]
-                      : null;
-                  if (stack && stack.length > 1) {
-                    return (
-                      <div className="flex justify-center items-center gap-4 mt-4 absolute left-0 right-0" style={{ bottom: 0, marginBottom: '1.5rem' }}>
-                        <button
-                          className="bg-zinc-700 px-6 py-3 rounded-lg text-white font-bold text-2xl disabled:opacity-50 shadow-md hover:bg-zinc-600 transition-colors"
-                          onClick={() => {
-                            const prevIdx = (idx - 1 + stack.length) % stack.length;
-                            setSelectedMovie({ ...stack[prevIdx], bgClass: theaterMap[stack[prevIdx].theaterID]?.colorClass || 'bg-zinc-800', date });
-                            setSelectedStack({ date, title, idx: prevIdx });
-                          }}
-                          disabled={stack.length < 2}
-                        >
-                          ◀
-                        </button>
-                        <span className="text-sm text-zinc-300">{idx + 1} / {stack.length}</span>
-                        <button
-                          className="bg-zinc-700 px-6 py-3 rounded-lg text-white font-bold text-2xl disabled:opacity-50 shadow-md hover:bg-zinc-600 transition-colors"
-                          onClick={() => {
-                            const nextIdx = (idx + 1) % stack.length;
-                            setSelectedMovie({ ...stack[nextIdx], bgClass: theaterMap[stack[nextIdx].theaterID]?.colorClass || 'bg-zinc-800', date });
-                            setSelectedStack({ date, title, idx: nextIdx });
-                          }}
-                          disabled={stack.length < 2}
-                        >
-                          ▶
-                        </button>
+        {selectedStack && (
+          <div className="fixed inset-0 z-50 bg-black bg-opacity-80 flex justify-center items-center p-4">
+            <div className="text-white rounded-2xl shadow-xl p-6 w-full max-w-4xl relative flex flex-col md:flex-row gap-6 max-h-[95vh] overflow-y-auto">
+              {(() => {
+                const { date, title, idx } = selectedStack;
+                const stack = groupedByDateAndTitle[date]?.[title]
+                  ? [...groupedByDateAndTitle[date][title]].sort((a, b) => getFirstTime(a).localeCompare(getFirstTime(b)))
+                  : null;
+
+                if (stack) {
+                  const currentMovie = stack[idx];
+                  const bgClass = theaterMap[currentMovie.theaterID]?.colorClass || 'bg-zinc-800';
+
+                  return (
+                    <>
+                      <div className="absolute inset-0 bg-zinc-900 rounded-2xl" style={{ zIndex: 0 }} />
+                      <div className={`absolute inset-0 rounded-2xl ${bgClass}`} style={{ zIndex: 1 }} />
+                      <button onClick={() => setSelectedStack(null)} className="absolute top-2 right-2 text-white text-2xl z-20">×</button>
+                      <div className="w-full md:w-1/2 flex justify-center items-center z-10">
+                        {posters[currentMovie.title] ? (
+                          <img
+                            src={posters[currentMovie.title]}
+                            alt={currentMovie.title}
+                            className="object-cover w-full max-h-[50vh] md:max-h-[80vh] rounded"
+                          />
+                        ) : (
+                          <div className="bg-zinc-700 h-60 w-full flex items-center justify-center text-sm text-zinc-300">
+                            {currentMovie.poster || 'Poster Unavailable'}
+                          </div>
+                        )}
                       </div>
-                    );
-                  }
-                  return null;
-                })()}
-              </div>
+                      <div className="w-full md:w-1/2 flex flex-col justify-center z-10 relative pb-16 md:pb-0">
+                        <h2 className="text-3xl font-bold mb-2 font-limelight">{currentMovie.title}</h2>
+                        <p className="text-zinc-300 text-sm mb-2 font-montserratalts">{currentMovie.date}</p>
+                        <p className="text-zinc-300 mb-2 text-sm font-montserratalts">
+                          {currentMovie.times.map(({ time, status }, i) => (
+                            <span key={i} className={status !== 'available' ? 'line-through' : ''}>
+                              {i > 0 ? ' • ' : ''}{time}
+                            </span>
+                          ))}
+                        </p>
+                        <p className="text-zinc-100 text-xl font-alumnisc mb-4">{theaterMap[currentMovie.theaterID]?.name || 'Unknown Theater'}</p>
+                        {stack.length > 1 && (
+                          <div className="flex justify-center items-center gap-4 mt-4 absolute left-0 right-0 bottom-0 md:relative md:bottom-auto md:mt-4">
+                            <button
+                              className="bg-zinc-700 px-6 py-3 rounded-lg text-white font-bold text-2xl disabled:opacity-50 shadow-md hover:bg-zinc-600 transition-colors"
+                              onClick={() => {
+                                const prevIdx = (idx - 1 + stack.length) % stack.length;
+                                setSelectedStack({ ...selectedStack, idx: prevIdx });
+                              }}
+                              disabled={stack.length < 2}
+                            >
+                              ◀
+                            </button>
+                            <span className="text-sm text-zinc-300">{idx + 1} / {stack.length}</span>
+                            <button
+                              className="bg-zinc-700 px-6 py-3 rounded-lg text-white font-bold text-2xl disabled:opacity-50 shadow-md hover:bg-zinc-600 transition-colors"
+                              onClick={() => {
+                                const nextIdx = (idx + 1) % stack.length;
+                                setSelectedStack({ ...selectedStack, idx: nextIdx });
+                              }}
+                              disabled={stack.length < 2}
+                            >
+                              ▶
+                            </button>
+                          </div>
+                        )}
+                      </div>
+                    </>
+                  );
+                }
+                return null;
+              })()}
             </div>
           </div>
         )}

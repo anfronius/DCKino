@@ -2,12 +2,12 @@ import json
 from datetime import datetime, timedelta
 from pathlib import Path
 
-
 # Base directory (where the Scrapy project is located)
 base_dir = Path(__file__).resolve().parent.parent
 
-# Data directory (where JSONs are located)
+# Data directories (where JSONs are located)
 data_dir = base_dir / "data"
+backup_dir = base_dir / "data_backup/latest"
 
 # Output file (to site's data folder)
 output_dir = base_dir.parent.parent / "frontend/src/data"
@@ -37,29 +37,59 @@ class Styles:
 # Theater list
 theaters = ["afisilver", "avalon", "landmark", "miracle", "suns"]
 
-# Load the latest processed JSON file for a theater from its data subdirectory
+# Load the latest processed JSON file for a theater from its data subdirectory or backup
 def load_json(theater, min_entries=5):
     theater_dir = data_dir / theater
+    backup_theater_dir = backup_dir
+    primary_failed = False
     if not theater_dir.exists():
         print(f"{Colors.RED}Directory not found for {theater}: {theater_dir} {Styles.default}")
-        return []
-    json_files = sorted(theater_dir.glob("*_processed_*.json"), key=lambda x: x.stat().st_mtime, reverse=True)
-    if not json_files:
-        print(f"{Colors.RED}No processed JSON files found for {theater} in {theater_dir} {Styles.default}")
-        return []
-    latest_file = json_files[0]
-    try:
-        with open(latest_file, "r", encoding="utf-8") as f:
-            data = json.load(f)
-        if len(data) >= min_entries:
-            print(f"{Colors.GREEN}Loaded {len(data)} entries from {theater} ({latest_file.name}) {Styles.default}")
-            return data
+        primary_failed = True
+    else:
+        json_files = sorted(theater_dir.glob("*_processed_*.json"), key=lambda x: x.stat().st_mtime, reverse=True)
+        if json_files:
+            latest_file = json_files[0]
+            try:
+                with open(latest_file, "r", encoding="utf-8") as f:
+                    data = json.load(f)
+                if len(data) >= min_entries:
+                    print(f"{Colors.GREEN}Loaded {len(data)} entries from {theater} ({latest_file.name}) {Styles.default}")
+                    return data
+                else:
+                    print(f"{Colors.YELLOW}{theater} file has {len(data)} entries (minimum {min_entries} required). Checking backup... {Styles.default}")
+                    primary_failed = True
+            except (json.JSONDecodeError, Exception) as e:
+                print(f"{Colors.RED}Failed to load or parse {theater} from {latest_file.name}: {e}. Checking backup... {Styles.default}")
+                primary_failed = True
         else:
-            print(f"{Colors.YELLOW}{theater} file has {len(data)} entries (minimum {min_entries} required). Skipping... {Styles.default}")
-            return []
-    except (json.JSONDecodeError, Exception) as e:
-        print(f"{Colors.RED}Failed to load or parse {theater} from {latest_file.name}: {e} {Styles.default}")
-        return []
+            print(f"{Colors.RED}No processed JSON files found for {theater} in {theater_dir}. Checking backup... {Styles.default}")
+            primary_failed = True
+
+    # Check backup directory if primary file is missing or invalid
+    if primary_failed and backup_theater_dir.exists():
+        print(f"{Colors.YELLOW}Falling back to backup for {theater}... {Styles.default}")
+        backup_files = sorted(
+            backup_theater_dir.glob(f"{theater}_processed_*_latest_backup.json"),
+            key=lambda x: datetime.strptime(x.name.split('_processed_')[1].split('_latest_backup')[0], "%Y%m%d_%H%M%S"),
+            reverse=True
+        )
+        if backup_files:
+            latest_backup_file = backup_files[0]
+            try:
+                with open(latest_backup_file, "r", encoding="utf-8") as f:
+                    data = json.load(f)
+                if len(data) >= min_entries:
+                    print(f"{Colors.GREEN}Loaded {len(data)} entries from {theater} backup ({latest_backup_file.name}) {Styles.default}")
+                    return data
+                else:
+                    print(f"{Colors.YELLOW}{theater} backup file has {len(data)} entries (minimum {min_entries} required). Skipping... {Styles.default}")
+            except (json.JSONDecodeError, Exception) as e:
+                print(f"{Colors.RED}Failed to load or parse {theater} backup from {latest_backup_file.name}: {e} {Styles.default}")
+        else:
+            print(f"{Colors.RED}No backup file found for {theater} in {backup_theater_dir} {Styles.default}")
+    elif primary_failed:
+        print(f"{Colors.RED}Backup directory not found: {backup_theater_dir} {Styles.default}")
+    return []
 
 # Parse date and time from standardized format to datetime for sorting
 def parse_datetime(entry):

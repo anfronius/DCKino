@@ -1,5 +1,7 @@
 [
 {"title": "Trail Running Film Festival", "date": "Jul 31 2025", "time": "7:00 pm - 9:00 pm", "status": "available", "theaterID": "miracle"},
+{"title": "CatVideoFest 2025", "date": "Aug 03 2025", "time": "2:00 pm - 3:15 pm", "status": "available", "theaterID": "miracle"},
+{"title": "CatVideoFest 2025", "date": "Aug 09 2025", "time": "2:00 pm - 3:15 pm", "status": "available", "theaterID": "miracle"},
 {"title": "The Goonies", "date": "Sep 05 2025", "time": "7:00 pm - 8:54 pm", "status": "available", "theaterID": "miracle"},
 {"title": "Harry Potter and The Sorcerer’s Stone", "date": "Aug 31 2025", "time": "2:00 pm - 4:32 pm", "status": "available", "theaterID": "miracle"},
 {"title": "Clueless", "date": "Aug 29 2025", "time": "7:00 pm - 8:37 pm", "status": "available", "theaterID": "miracle"},
@@ -10,7 +12,6 @@
 {"title": "Willy Wonka and the Chocolate Factory", "date": "Aug 07 2025", "time": "10:30 am - 12:10 pm", "status": "available", "theaterID": "miracle"},
 {"title": "Arsenic and Old Lace", "date": "Aug 01 2025", "time": "7:00 pm - 8:58 pm", "status": "available", "theaterID": "miracle"},
 {"title": "The Maltese Falcon", "date": "Aug 22 2025", "time": "7:00 pm - 8:40 pm", "status": "available", "theaterID": "miracle"},
-{"title": "The Maltese Falcon", "date": "Aug 20 2025", "time": "7:00 pm - 8:40 pm", "status": "available", "theaterID": "miracle"},
 {"title": "Materialists", "date": "Aug 03 2025", "time": "4:00 pm - 5:56 pm", "status": "available", "theaterID": "miracle"},
 {"title": "F1: The Movie", "date": "Aug 04 2025", "time": "7:00 pm - 9:36 pm", "status": "available", "theaterID": "miracle"},
 {"title": "The Phoenician Scheme", "date": "Aug 03 2025", "time": "6:30 pm - 8:11 pm", "status": "available", "theaterID": "miracle"},
@@ -28,6 +29,5 @@
 {"title": "St. Elmo’s Fire", "date": "Oct 10 2025", "time": "7:00 pm - 8:50 pm", "status": "available", "theaterID": "miracle"},
 {"title": "Sing 2 (sensory friendly)", "date": "Aug 22 2025", "time": "2:00 pm - 3:52 pm", "status": "available", "theaterID": "miracle"},
 {"title": "CatVideoFest 2025", "date": "Aug 02 2025", "time": "2:00 pm - 3:15 pm", "status": "available", "theaterID": "miracle"},
-{"title": "CatVideoFest 2025", "date": "Aug 03 2025", "time": "2:00 pm - 3:15 pm", "status": "available", "theaterID": "miracle"},
-{"title": "CatVideoFest 2025", "date": "Aug 09 2025", "time": "2:00 pm - 3:15 pm", "status": "available", "theaterID": "miracle"}
+{"title": "The Maltese Falcon", "date": "Aug 20 2025", "time": "7:00 pm - 8:40 pm", "status": "available", "theaterID": "miracle"}
 ]
