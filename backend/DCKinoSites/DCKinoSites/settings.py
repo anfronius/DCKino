@@ -50,6 +50,24 @@ TELNETCONSOLE_ENABLED = False
 #    "DCKinoSites.middlewares.DckinositesSpiderMiddleware": 543,
 #}
 
+# Use asyncio reactor required by Playwright
+TWISTED_REACTOR = "twisted.internet.asyncioreactor.AsyncioSelectorReactor"
+
+# Enable Playwright download handler for JS rendering
+DOWNLOAD_HANDLERS = {
+    "http": "scrapy_playwright.handler.ScrapyPlaywrightDownloadHandler",
+    "https": "scrapy_playwright.handler.ScrapyPlaywrightDownloadHandler",
+}
+
+# Playwright browser type (chromium is default and recommended)
+PLAYWRIGHT_BROWSER_TYPE = "chromium"
+
+# Playwright launch options to handle WSL sandbox issues
+PLAYWRIGHT_LAUNCH_OPTIONS = {
+    "headless": True,
+    "args": ["--no-sandbox", "--disable-setuid-sandbox"]
+}
+
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #DOWNLOADER_MIDDLEWARES = {
@@ -84,7 +102,7 @@ TELNETCONSOLE_ENABLED = False
 # Enable and configure HTTP caching (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html#httpcache-middleware-settings
 HTTPCACHE_ENABLED = True
-#HTTPCACHE_EXPIRATION_SECS = 0
+HTTPCACHE_EXPIRATION_SECS = 21600
 #HTTPCACHE_DIR = "httpcache"
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = "scrapy.extensions.httpcache.FilesystemCacheStorage"

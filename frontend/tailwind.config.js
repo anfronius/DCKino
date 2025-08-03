@@ -13,7 +13,9 @@ export default {
     'bg-amber-50/75',
     'bg-lime-400/75',
     'bg-indigo-500/75',
-    'border-zinc-600'
+    'border-zinc-600',
+    'bg-pink-700/75',
+    'bg-purple-600/75'
   ],
   theme: {
     extend: {

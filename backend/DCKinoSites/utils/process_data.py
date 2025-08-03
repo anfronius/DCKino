@@ -25,7 +25,7 @@ class Styles:
     default = '\033[0m'
 
 # Theater names
-theaters = ["afisilver", "avalon", "landmark", "miracle", "suns"]
+theaters = ["afisilver", "angelika", "avalon", "landmark", "miracle", "suns"]
 
 # Process afisilver data: date as 'Sunday, August 24, 2025', time as '8:15 p.m.' or '11:30 a.m.'
 def process_afisilver(item):
@@ -45,6 +45,32 @@ def process_afisilver(item):
         }
     except Exception as e:
         print(f"{Colors.RED}Error processing afisilver item {item}: {e} {Styles.default}")
+        return None
+
+def process_angelika(item):
+    try:
+        # Standardize date from 'YYYY-MM-DD' to '%b %d'
+        date_str = item["date"].strip()
+        dt = datetime.strptime(date_str, "%Y-%m-%d")
+        std_date = dt.strftime("%b %d")
+
+        # Standardize time: remove timezone (e.g., '-04') and convert to 12-hour format
+        time_str = item["time"].split("-")[0].strip()  # Remove timezone (e.g., '21:45:00-04' -> '21:45:00')
+        dt = datetime.strptime(time_str, "%H:%M:%S")
+        std_time = dt.strftime("%I:%M %p").lstrip("0")
+
+        # Standardize status: convert boolean to string
+        status = "sold out" if item["status"] else "available"
+
+        return {
+            "title": item["title"].strip(),
+            "date": std_date,
+            "time": std_time,
+            "status": status,
+            "theaterID": item["theaterID"].strip().lower()
+        }
+    except Exception as e:
+        print(f"{Colors.RED}Error processing angelika item {item}: {e} {Styles.default}")
         return None
     
 # Process avalon data: date as '7/25/25', time as '12:45 P'
@@ -134,6 +160,7 @@ def process_json_file(json_file, theater):
             data = json.load(f)
         processor_map = {
             "afisilver": process_afisilver,
+            "angelika": process_angelika,
             "avalon": process_avalon,
             "landmark": process_landmark,
             "miracle": process_miracle,

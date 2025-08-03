@@ -40,5 +40,19 @@
     "colorClass": "bg-lime-400/75",
     "address": "7235 Woodmont Avenue, Bethesda, MD",
     "screens": 8
+  },
+  {
+    "theaterID": "angelika popup",
+    "name": "Angelika Pop-Up at Union Market",
+    "colorClass": "bg-pink-700/75",
+    "address": "550 Penn Street NE, Washington DC",
+    "screens": 3
+  },
+  {
+    "theaterID": "angelika mosaic",
+    "name": "Angelika Film Center & Café at Mosaic",
+    "colorClass": "bg-purple-600/75",
+    "address": "2911 District Avenue, Fairfax, Virginia",
+    "screens": 8
   }
 ]
