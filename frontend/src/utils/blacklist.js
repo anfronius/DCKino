@@ -7,6 +7,8 @@ const BLACKLIST_PHRASES = [
   'Art House Theater Day: ',
   ' in 35mm',
   '(sensory friendly)',
+  '- 40th Anniversary',
+  ': 50TH ANNIVERSARY',
   // Add any more phrases you want to ignore here
 ];
 

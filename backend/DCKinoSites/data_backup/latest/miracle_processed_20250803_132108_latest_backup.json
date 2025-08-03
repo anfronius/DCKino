@@ -7,34 +7,6 @@
     "theaterID": "miracle"
   },
   {
-    "title": "CatVideoFest 2025",
-    "date": "Aug 03",
-    "time": "2:00 PM",
-    "status": "available",
-    "theaterID": "miracle"
-  },
-  {
-    "title": "CatVideoFest 2025",
-    "date": "Aug 09",
-    "time": "2:00 PM",
-    "status": "available",
-    "theaterID": "miracle"
-  },
-  {
-    "title": "The Goonies",
-    "date": "Sep 05",
-    "time": "7:00 PM",
-    "status": "available",
-    "theaterID": "miracle"
-  },
-  {
-    "title": "Harry Potter and The Sorcerer\u2019s Stone",
-    "date": "Aug 31",
-    "time": "2:00 PM",
-    "status": "available",
-    "theaterID": "miracle"
-  },
-  {
     "title": "Clueless",
     "date": "Aug 29",
     "time": "7:00 PM",
@@ -86,6 +58,13 @@
   {
     "title": "The Maltese Falcon",
     "date": "Aug 22",
+    "time": "7:00 PM",
+    "status": "available",
+    "theaterID": "miracle"
+  },
+  {
+    "title": "The Maltese Falcon",
+    "date": "Aug 20",
     "time": "7:00 PM",
     "status": "available",
     "theaterID": "miracle"
@@ -210,9 +189,30 @@
     "theaterID": "miracle"
   },
   {
-    "title": "The Maltese Falcon",
-    "date": "Aug 20",
+    "title": "CatVideoFest 2025",
+    "date": "Aug 03",
+    "time": "2:00 PM",
+    "status": "available",
+    "theaterID": "miracle"
+  },
+  {
+    "title": "CatVideoFest 2025",
+    "date": "Aug 09",
+    "time": "2:00 PM",
+    "status": "available",
+    "theaterID": "miracle"
+  },
+  {
+    "title": "The Goonies",
+    "date": "Sep 05",
     "time": "7:00 PM",
+    "status": "available",
+    "theaterID": "miracle"
+  },
+  {
+    "title": "Harry Potter and The Sorcerer\u2019s Stone",
+    "date": "Aug 31",
+    "time": "2:00 PM",
     "status": "available",
     "theaterID": "miracle"
   }

@@ -1,5 +1,5 @@
 import scrapy
-from datetime import datetime, timezone, timedelta
+from datetime import datetime, timezone
 from dateutil import parser as dateparser
 
 
@@ -7,6 +7,9 @@ class MiracleSpider(scrapy.Spider):
     name = "miracle"
     allowed_domains = ["themiracletheatre.com"]
     sitemap_url = "https://themiracletheatre.com/wp-sitemap-posts-mec-events-1.xml"
+    
+    # Configurable minimum lastmod date
+    MIN_LASTMOD_DATE = datetime(2025, 7, 31).date()
 
     custom_settings = {
         "FEEDS": {
@@ -34,8 +37,8 @@ class MiracleSpider(scrapy.Spider):
         )
 
     def parse_sitemap(self, response):
-        today = datetime.now(timezone.utc).date()
-        yesterday = today - timedelta(days=1)
+        min_lastmod_date = self.MIN_LASTMOD_DATE
+
         ns = {"ns": "http://www.sitemaps.org/schemas/sitemap/0.9"}
 
         for url_node in response.xpath("//ns:url", namespaces=ns):
@@ -49,7 +52,7 @@ class MiracleSpider(scrapy.Spider):
                 lastmod_dt = dateparser.parse(lastmod_raw)
                 lastmod_date = lastmod_dt.astimezone(timezone.utc).date()
 
-                if lastmod_date in (today, yesterday):
+                if lastmod_date >= min_lastmod_date:
                     yield scrapy.Request(
                         url=loc,
                         callback=self.parse_event_page,
