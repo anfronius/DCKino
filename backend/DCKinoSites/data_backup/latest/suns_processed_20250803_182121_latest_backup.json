@@ -17,7 +17,7 @@
     "title": "TASTE OF CHERRY",
     "date": "Aug 06",
     "time": "9:30 PM",
-    "status": "available",
+    "status": "sold out",
     "theaterID": "suns"
   },
   {
@@ -38,14 +38,14 @@
     "title": "SINNERS",
     "date": "Aug 08",
     "time": "6:00 PM",
-    "status": "available",
+    "status": "sold out",
     "theaterID": "suns"
   },
   {
     "title": "SINNERS",
     "date": "Aug 08",
     "time": "9:15 PM",
-    "status": "available",
+    "status": "sold out",
     "theaterID": "suns"
   },
   {

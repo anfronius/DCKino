@@ -770,65 +770,9 @@
     "theaterID": "landmark bethesda row cinema"
   },
   {
-    "title": "Willy Wonka & the Chocolate Factory",
-    "date": "Aug 03",
-    "time": "11:00 AM",
-    "status": "available",
-    "theaterID": "landmark bethesda row cinema"
-  },
-  {
-    "title": "The Naked Gun",
-    "date": "Aug 03",
-    "time": "12:00 PM",
-    "status": "available",
-    "theaterID": "landmark bethesda row cinema"
-  },
-  {
-    "title": "The Naked Gun",
-    "date": "Aug 03",
-    "time": "2:30 PM",
-    "status": "available",
-    "theaterID": "landmark bethesda row cinema"
-  },
-  {
-    "title": "The Naked Gun",
-    "date": "Aug 03",
-    "time": "4:45 PM",
-    "status": "available",
-    "theaterID": "landmark bethesda row cinema"
-  },
-  {
     "title": "The Naked Gun",
     "date": "Aug 03",
     "time": "7:15 PM",
-    "status": "available",
-    "theaterID": "landmark bethesda row cinema"
-  },
-  {
-    "title": "The Fantastic Four: First Steps",
-    "date": "Aug 03",
-    "time": "1:00 PM",
-    "status": "available",
-    "theaterID": "landmark bethesda row cinema"
-  },
-  {
-    "title": "The Fantastic Four: First Steps",
-    "date": "Aug 03",
-    "time": "2:00 PM",
-    "status": "available",
-    "theaterID": "landmark bethesda row cinema"
-  },
-  {
-    "title": "The Fantastic Four: First Steps",
-    "date": "Aug 03",
-    "time": "4:00 PM",
-    "status": "available",
-    "theaterID": "landmark bethesda row cinema"
-  },
-  {
-    "title": "The Fantastic Four: First Steps",
-    "date": "Aug 03",
-    "time": "5:00 PM",
     "status": "available",
     "theaterID": "landmark bethesda row cinema"
   },
@@ -849,27 +793,6 @@
   {
     "title": "Superman",
     "date": "Aug 03",
-    "time": "12:15 PM",
-    "status": "available",
-    "theaterID": "landmark bethesda row cinema"
-  },
-  {
-    "title": "Superman",
-    "date": "Aug 03",
-    "time": "1:15 PM",
-    "status": "available",
-    "theaterID": "landmark bethesda row cinema"
-  },
-  {
-    "title": "Superman",
-    "date": "Aug 03",
-    "time": "4:15 PM",
-    "status": "available",
-    "theaterID": "landmark bethesda row cinema"
-  },
-  {
-    "title": "Superman",
-    "date": "Aug 03",
     "time": "7:10 PM",
     "status": "available",
     "theaterID": "landmark bethesda row cinema"
@@ -884,42 +807,7 @@
   {
     "title": "F1 The Movie",
     "date": "Aug 03",
-    "time": "11:45 AM",
-    "status": "available",
-    "theaterID": "landmark bethesda row cinema"
-  },
-  {
-    "title": "F1 The Movie",
-    "date": "Aug 03",
-    "time": "2:50 PM",
-    "status": "available",
-    "theaterID": "landmark bethesda row cinema"
-  },
-  {
-    "title": "F1 The Movie",
-    "date": "Aug 03",
     "time": "6:30 PM",
-    "status": "available",
-    "theaterID": "landmark bethesda row cinema"
-  },
-  {
-    "title": "Eddington",
-    "date": "Aug 03",
-    "time": "3:05 PM",
-    "status": "available",
-    "theaterID": "landmark bethesda row cinema"
-  },
-  {
-    "title": "Together",
-    "date": "Aug 03",
-    "time": "12:30 PM",
-    "status": "available",
-    "theaterID": "landmark bethesda row cinema"
-  },
-  {
-    "title": "Together",
-    "date": "Aug 03",
-    "time": "3:00 PM",
     "status": "available",
     "theaterID": "landmark bethesda row cinema"
   },
@@ -934,27 +822,6 @@
     "title": "Together",
     "date": "Aug 03",
     "time": "7:45 PM",
-    "status": "available",
-    "theaterID": "landmark bethesda row cinema"
-  },
-  {
-    "title": "The Bad Guys 2",
-    "date": "Aug 03",
-    "time": "11:30 AM",
-    "status": "available",
-    "theaterID": "landmark bethesda row cinema"
-  },
-  {
-    "title": "The Bad Guys 2",
-    "date": "Aug 03",
-    "time": "2:15 PM",
-    "status": "available",
-    "theaterID": "landmark bethesda row cinema"
-  },
-  {
-    "title": "The Bad Guys 2",
-    "date": "Aug 03",
-    "time": "4:30 PM",
     "status": "available",
     "theaterID": "landmark bethesda row cinema"
   },
@@ -1206,27 +1073,6 @@
   {
     "title": "The Naked Gun",
     "date": "Aug 03",
-    "time": "1:15 PM",
-    "status": "available",
-    "theaterID": "landmark atlantic plumbing cinema"
-  },
-  {
-    "title": "The Naked Gun",
-    "date": "Aug 03",
-    "time": "2:15 PM",
-    "status": "available",
-    "theaterID": "landmark atlantic plumbing cinema"
-  },
-  {
-    "title": "The Naked Gun",
-    "date": "Aug 03",
-    "time": "4:50 PM",
-    "status": "available",
-    "theaterID": "landmark atlantic plumbing cinema"
-  },
-  {
-    "title": "The Naked Gun",
-    "date": "Aug 03",
     "time": "6:30 PM",
     "status": "available",
     "theaterID": "landmark atlantic plumbing cinema"
@@ -1241,49 +1087,7 @@
   {
     "title": "The Fantastic Four: First Steps",
     "date": "Aug 03",
-    "time": "1:45 PM",
-    "status": "available",
-    "theaterID": "landmark atlantic plumbing cinema"
-  },
-  {
-    "title": "The Fantastic Four: First Steps",
-    "date": "Aug 03",
-    "time": "3:40 PM",
-    "status": "available",
-    "theaterID": "landmark atlantic plumbing cinema"
-  },
-  {
-    "title": "The Fantastic Four: First Steps",
-    "date": "Aug 03",
-    "time": "4:40 PM",
-    "status": "available",
-    "theaterID": "landmark atlantic plumbing cinema"
-  },
-  {
-    "title": "The Fantastic Four: First Steps",
-    "date": "Aug 03",
     "time": "7:10 PM",
-    "status": "available",
-    "theaterID": "landmark atlantic plumbing cinema"
-  },
-  {
-    "title": "Superman",
-    "date": "Aug 03",
-    "time": "1:30 PM",
-    "status": "available",
-    "theaterID": "landmark atlantic plumbing cinema"
-  },
-  {
-    "title": "Superman",
-    "date": "Aug 03",
-    "time": "3:20 PM",
-    "status": "available",
-    "theaterID": "landmark atlantic plumbing cinema"
-  },
-  {
-    "title": "Superman",
-    "date": "Aug 03",
-    "time": "4:20 PM",
     "status": "available",
     "theaterID": "landmark atlantic plumbing cinema"
   },
@@ -1298,27 +1102,6 @@
     "title": "Superman",
     "date": "Aug 03",
     "time": "7:00 PM",
-    "status": "available",
-    "theaterID": "landmark atlantic plumbing cinema"
-  },
-  {
-    "title": "Together",
-    "date": "Aug 03",
-    "time": "1:00 PM",
-    "status": "available",
-    "theaterID": "landmark atlantic plumbing cinema"
-  },
-  {
-    "title": "Together",
-    "date": "Aug 03",
-    "time": "2:00 PM",
-    "status": "available",
-    "theaterID": "landmark atlantic plumbing cinema"
-  },
-  {
-    "title": "Together",
-    "date": "Aug 03",
-    "time": "4:30 PM",
     "status": "available",
     "theaterID": "landmark atlantic plumbing cinema"
   },
