@@ -52,7 +52,7 @@
     "theaterID": "angelika mosaic",
     "name": "Angelika Film Center & Café at Mosaic",
     "colorClass": "bg-purple-600/75",
-    "address": "2911 District Avenue, Fairfax, Virginia",
+    "address": "2911 District Avenue, Fairfax, VA",
     "screens": 8
   },
   {
@@ -61,5 +61,12 @@
     "colorClass": "bg-neutral-50/75",
     "address": "650 Jefferson Drive SW, Washington, DC",
     "screens": 1
+  },
+  {
+    "theaterID": "greenbeltcinema",
+    "name": "Greenbelt Cinema",
+    "colorClass": "bg-emerald-900/75",
+    "address": "129 Centerway, Greenbelt, MD",
+    "screens": 2
   }
 ]

@@ -3,7 +3,6 @@ from datetime import datetime
 import json
 import re
 
-
 # Define paths
 base_dir = Path(__file__).parent.parent
 data_dir = base_dir / "data"
@@ -25,7 +24,7 @@ class Styles:
     default = '\033[0m'
 
 # Theater names
-theaters = ["afisilver", "angelika", "avalon", "landmark", "miracle", "suns", "lockmart"]
+theaters = ["afisilver", "angelika", "avalon", "greenbelt", "landmark", "miracle", "suns", "lockmart"]
 
 # Process afisilver data: date as 'Sunday, August 24, 2025', time as '8:15 p.m.' or '11:30 a.m.'
 def process_afisilver(item):
@@ -91,6 +90,33 @@ def process_avalon(item):
         }
     except Exception as e:
         print(f"{Colors.RED}Error processing avalon item {item}: {e} {Styles.default}")
+        return None
+
+# Process greenbeltcinema data: date as '2025-08-09', time as '13:00:00', available as boolean
+def process_greenbelt(item):
+    try:
+        # Standardize date from 'YYYY-MM-DD' to '%b %d'
+        date_str = item["date"].strip()
+        dt = datetime.strptime(date_str, "%Y-%m-%d")
+        std_date = dt.strftime("%b %d")
+
+        # Standardize time from 'HH:MM:SS' to '%I:%M %p' without leading zero
+        time_str = item["time"].strip()
+        dt = datetime.strptime(time_str, "%H:%M:%S")
+        std_time = dt.strftime("%I:%M %p").lstrip("0")
+
+        # Standardize status: convert boolean to string
+        status = "available" if item["available"] else "sold out"
+
+        return {
+            "title": item["title"].strip(),
+            "date": std_date,
+            "time": std_time,
+            "status": status,
+            "theaterID": item["theaterID"].strip().lower()
+        }
+    except Exception as e:
+        print(f"{Colors.RED}Error processing greenbelt item {item}: {e} {Styles.default}")
         return None
 
 # Process landmark data: date as '2025-08-26', time as '19:00:00'
@@ -185,7 +211,8 @@ def process_json_file(json_file, theater):
             "landmark": process_landmark,
             "miracle": process_miracle,
             "suns": process_suns,
-            "lockmart": process_lockmart
+            "lockmart": process_lockmart,
+            "greenbelt": process_greenbelt
         }
         processor = processor_map.get(theater)
         if not processor:

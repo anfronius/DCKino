@@ -35,7 +35,7 @@ class Styles:
     default = '\033[0m'
 
 # Theater list
-theaters = ["afisilver", "angelika", "avalon", "landmark", "lockmart", "miracle", "suns"]
+theaters = ["afisilver", "angelika", "avalon", "greenbelt", "landmark", "lockmart", "miracle", "suns"]
 
 # Load the latest processed JSON file for a theater from its data subdirectory or backup
 def load_json(theater, min_entries=5):

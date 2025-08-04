@@ -323,13 +323,6 @@
   },
   {
     "title": "SHALL WE DANCE? (1996)",
-    "date": "Aug 02",
-    "time": "8:50 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "SHALL WE DANCE? (1996)",
     "date": "Aug 05",
     "time": "8:50 PM",
     "status": "available",
@@ -416,20 +409,6 @@
     "title": "THE ROYAL TENENBAUMS",
     "date": "Sep 17",
     "time": "12:45 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "RAN - 40th Anniversary",
-    "date": "Aug 02",
-    "time": "5:45 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "RAN - 40th Anniversary",
-    "date": "Aug 03",
-    "time": "6:00 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
@@ -855,13 +834,6 @@
   },
   {
     "title": "MCCABE & MRS. MILLER",
-    "date": "Aug 03",
-    "time": "7:45 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "MCCABE & MRS. MILLER",
     "date": "Aug 05",
     "time": "4:30 PM",
     "status": "available",
@@ -1023,20 +995,6 @@
   },
   {
     "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
-    "date": "Aug 02",
-    "time": "2:05 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
-    "date": "Aug 03",
-    "time": "1:20 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
     "date": "Aug 04",
     "time": "2:05 PM",
     "status": "available",
@@ -1065,13 +1023,6 @@
   },
   {
     "title": "IMAGES",
-    "date": "Aug 02",
-    "time": "3:30 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "IMAGES",
     "date": "Aug 04",
     "time": "9:15 PM",
     "status": "available",
@@ -1081,13 +1032,6 @@
     "title": "IMAGES",
     "date": "Aug 05",
     "time": "12:00 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "HOOSIERS",
-    "date": "Aug 03",
-    "time": "5:15 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
@@ -1158,13 +1102,6 @@
     "title": "HIGHEST 2 LOWEST",
     "date": "Aug 21",
     "time": "12:50 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "HIGH SOCIETY",
-    "date": "Aug 02",
-    "time": "1:00 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
@@ -1471,13 +1408,6 @@
   },
   {
     "title": "THE GODFATHER PART II",
-    "date": "Aug 02",
-    "time": "7:15 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "THE GODFATHER PART II",
     "date": "Aug 07",
     "time": "7:00 PM",
     "status": "available",
@@ -1501,13 +1431,6 @@
     "title": "THE GODFATHER CODA: THE DEATH OF MICHAEL CORLEONE",
     "date": "Sep 04",
     "time": "6:00 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "THE GODFATHER",
-    "date": "Aug 03",
-    "time": "8:15 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
@@ -1576,20 +1499,6 @@
   },
   {
     "title": "FOLKTALES",
-    "date": "Aug 02",
-    "time": "11:50 AM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "FOLKTALES",
-    "date": "Aug 03",
-    "time": "3:35 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "FOLKTALES",
     "date": "Aug 04",
     "time": "11:50 AM",
     "status": "available",
@@ -1653,29 +1562,8 @@
   },
   {
     "title": "EBIRAH, HORROR OF THE DEEP",
-    "date": "Aug 03",
-    "time": "11:30 AM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "EBIRAH, HORROR OF THE DEEP",
     "date": "Aug 06",
     "time": "9:30 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "DIVORCE ITALIAN STYLE",
-    "date": "Aug 02",
-    "time": "5:00 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "DIVORCE ITALIAN STYLE",
-    "date": "Aug 04",
-    "time": "11:45 AM",
     "status": "available",
     "theaterID": "afisilver"
   },
@@ -1697,13 +1585,6 @@
     "title": "DARK EYES",
     "date": "Sep 16",
     "time": "6:30 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "THE COURT JESTER",
-    "date": "Aug 03",
-    "time": "1:15 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
@@ -1739,20 +1620,6 @@
     "title": "CITY OF WOMEN",
     "date": "Sep 11",
     "time": "1:00 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "CatVideoFest 2025",
-    "date": "Aug 02",
-    "time": "1:00 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "CatVideoFest 2025",
-    "date": "Aug 03",
-    "time": "1:30 PM",
     "status": "available",
     "theaterID": "afisilver"
   },

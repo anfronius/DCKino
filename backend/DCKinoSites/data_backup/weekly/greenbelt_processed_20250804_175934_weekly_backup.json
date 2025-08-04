@@ -1,0 +1,121 @@
+[
+  {
+    "title": "Bad Shabbos",
+    "date": "Aug 04",
+    "time": "6:00 PM",
+    "status": "available",
+    "theaterID": "greenbeltcinema"
+  },
+  {
+    "title": "Bad Shabbos",
+    "date": "Aug 05",
+    "time": "7:15 PM",
+    "status": "available",
+    "theaterID": "greenbeltcinema"
+  },
+  {
+    "title": "Sorry, Baby",
+    "date": "Aug 05",
+    "time": "7:00 PM",
+    "status": "available",
+    "theaterID": "greenbeltcinema"
+  },
+  {
+    "title": "Festival Express",
+    "date": "Aug 06",
+    "time": "7:30 PM",
+    "status": "available",
+    "theaterID": "greenbeltcinema"
+  },
+  {
+    "title": "Bad Shabbos",
+    "date": "Aug 06",
+    "time": "7:15 PM",
+    "status": "available",
+    "theaterID": "greenbeltcinema"
+  },
+  {
+    "title": "Sorry, Baby",
+    "date": "Aug 06",
+    "time": "5:00 PM",
+    "status": "available",
+    "theaterID": "greenbeltcinema"
+  },
+  {
+    "title": "To Catch a Thief (1955)",
+    "date": "Aug 07",
+    "time": "8:00 PM",
+    "status": "available",
+    "theaterID": "greenbeltcinema"
+  },
+  {
+    "title": "The Parent Trap",
+    "date": "Aug 07",
+    "time": "1:00 PM",
+    "status": "available",
+    "theaterID": "greenbeltcinema"
+  },
+  {
+    "title": "Bad Shabbos",
+    "date": "Aug 07",
+    "time": "5:50 PM",
+    "status": "available",
+    "theaterID": "greenbeltcinema"
+  },
+  {
+    "title": "Sorry, Baby",
+    "date": "Aug 07",
+    "time": "7:45 PM",
+    "status": "available",
+    "theaterID": "greenbeltcinema"
+  },
+  {
+    "title": "The Parent Trap",
+    "date": "Aug 09",
+    "time": "1:00 PM",
+    "status": "available",
+    "theaterID": "greenbeltcinema"
+  },
+  {
+    "title": "The Wiz",
+    "date": "Aug 10",
+    "time": "1:00 PM",
+    "status": "available",
+    "theaterID": "greenbeltcinema"
+  },
+  {
+    "title": "Make A Circle",
+    "date": "Aug 12",
+    "time": "7:00 PM",
+    "status": "available",
+    "theaterID": "greenbeltcinema"
+  },
+  {
+    "title": "blur: To The End",
+    "date": "Aug 13",
+    "time": "7:30 PM",
+    "status": "available",
+    "theaterID": "greenbeltcinema"
+  },
+  {
+    "title": "Mr. Peabody and Sherman",
+    "date": "Aug 14",
+    "time": "1:00 PM",
+    "status": "available",
+    "theaterID": "greenbeltcinema"
+  },
+  {
+    "title": "Wall-E",
+    "date": "Aug 21",
+    "time": "1:00 PM",
+    "status": "available",
+    "theaterID": "greenbeltcinema"
+  },
+  {
+    "title": "Raiders of the Lost Ark",
+    "date": "Aug 24",
+    "time": "1:45 PM",
+    "status": "available",
+    "theaterID": "greenbeltcinema"
+  }
+]

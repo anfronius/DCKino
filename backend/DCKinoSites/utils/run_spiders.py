@@ -26,7 +26,7 @@ class Styles:
     default = '\033[0m'
 
 # Spider list
-SPIDERS = ['afisilver', 'angelika', 'avalon', 'landmark', 'lockmart', 'miracle', 'suns']
+SPIDERS = ['afisilver', 'angelika', 'avalon', 'greenbelt', 'landmark', 'lockmart', 'miracle', 'suns']
 
 # Main function to run spiders
 def main():

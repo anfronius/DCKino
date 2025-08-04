@@ -1,369 +1,5 @@
 [
  {
-  "title": "TOGETHER",
-  "date": "Aug 04",
-  "time": "12:00 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "Don’t Let’s Go to the Dogs Tonight",
-  "date": "Aug 04",
-  "time": "12:00 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "RAN - 40th Anniversary",
-  "date": "Aug 04",
-  "time": "12:05 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "THE FANTASTIC FOUR: FIRST STEPS",
-  "date": "Aug 04",
-  "time": "12:30 PM",
-  "status": "available",
-  "theaterID": "angelika popup"
- },
- {
-  "title": "SUPERMAN",
-  "date": "Aug 04",
-  "time": "12:35 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "Bad Shabbos",
-  "date": "Aug 04",
-  "time": "12:45 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "SUPERMAN",
-  "date": "Aug 04",
-  "time": "1:00 PM",
-  "status": "available",
-  "theaterID": "angelika popup"
- },
- {
-  "title": "THE FANTASTIC FOUR: FIRST STEPS",
-  "date": "Aug 04",
-  "time": "1:00 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "THE FANTASTIC FOUR: FIRST STEPS",
-  "date": "Aug 04",
-  "time": "1:15 PM",
-  "status": "available",
-  "theaterID": "angelika popup"
- },
- {
-  "title": "THE NAKED GUN",
-  "date": "Aug 04",
-  "time": "1:20 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "THE FANTASTIC FOUR: FIRST STEPS",
-  "date": "Aug 04",
-  "time": "1:30 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "THE BAD GUYS 2",
-  "date": "Aug 04",
-  "time": "1:40 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "HIGH SOCIETY",
-  "date": "Aug 04",
-  "time": "2:00 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "SUPERMAN",
-  "date": "Aug 04",
-  "time": "2:00 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "The Fantastic Four: First Steps",
-  "date": "Aug 04",
-  "time": "2:00 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
-  "date": "Aug 04",
-  "time": "2:05 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "THE BAD GUYS 2",
-  "date": "Aug 04",
-  "time": "2:15 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "Don’t Let’s Go to the Dogs Tonight",
-  "date": "Aug 04",
-  "time": "2:15 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "The Bad Guys 2",
-  "date": "Aug 04",
-  "time": "2:15 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "TOGETHER",
-  "date": "Aug 04",
-  "time": "2:25 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "The Naked Gun",
-  "date": "Aug 04",
-  "time": "2:30 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Aug 04",
-  "time": "2:45 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "Bad Shabbos",
-  "date": "Aug 04",
-  "time": "3:00 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "Together",
-  "date": "Aug 04",
-  "time": "3:00 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "Eddington",
-  "date": "Aug 04",
-  "time": "3:05 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "THE NAKED GUN",
-  "date": "Aug 04",
-  "time": "3:25 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "F1 THE MOVIE",
-  "date": "Aug 04",
-  "time": "3:30 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "THE BAD GUYS 2",
-  "date": "Aug 04",
-  "time": "3:35 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "Together",
-  "date": "Aug 04",
-  "time": "3:40 PM",
-  "status": "available",
-  "theaterID": "landmark atlantic plumbing cinema"
- },
- {
-  "title": "The Naked Gun",
-  "date": "Aug 04",
-  "time": "3:50 PM",
-  "status": "available",
-  "theaterID": "landmark atlantic plumbing cinema"
- },
- {
-  "title": "DAZED AND CONFUSED",
-  "date": "Aug 04",
-  "time": "4:00 PM",
-  "status": "available",
-  "theaterID": "angelika popup"
- },
- {
-  "title": "DAZED AND CONFUSED",
-  "date": "Aug 04",
-  "time": "4:00 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "The Fantastic Four: First Steps",
-  "date": "Aug 04",
-  "time": "4:00 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "Superman",
-  "date": "Aug 04",
-  "time": "4:10 PM",
-  "status": "available",
-  "theaterID": "landmark atlantic plumbing cinema"
- },
- {
-  "title": "SUPERMAN",
-  "date": "Aug 04",
-  "time": "4:15 PM",
-  "status": "available",
-  "theaterID": "angelika popup"
- },
- {
-  "title": "THE FANTASTIC FOUR: FIRST STEPS",
-  "date": "Aug 04",
-  "time": "4:15 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "Superman",
-  "date": "Aug 04",
-  "time": "4:15 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "HOOSIERS",
-  "date": "Aug 04",
-  "time": "4:30 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "The Bad Guys 2",
-  "date": "Aug 04",
-  "time": "4:30 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "The Fantastic Four: First Steps",
-  "date": "Aug 04",
-  "time": "4:30 PM",
-  "status": "available",
-  "theaterID": "landmark atlantic plumbing cinema"
- },
- {
-  "title": "Together",
-  "date": "Aug 04",
-  "time": "4:40 PM",
-  "status": "available",
-  "theaterID": "landmark atlantic plumbing cinema"
- },
- {
-  "title": "THE BAD GUYS 2",
-  "date": "Aug 04",
-  "time": "4:45 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "TOGETHER",
-  "date": "Aug 04",
-  "time": "4:45 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "Don’t Let’s Go to the Dogs Tonight",
-  "date": "Aug 04",
-  "time": "4:45 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "The Naked Gun",
-  "date": "Aug 04",
-  "time": "4:45 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "The Naked Gun",
-  "date": "Aug 04",
-  "time": "4:50 PM",
-  "status": "available",
-  "theaterID": "landmark atlantic plumbing cinema"
- },
- {
-  "title": "SUPERMAN",
-  "date": "Aug 04",
-  "time": "5:00 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "The Fantastic Four: First Steps",
-  "date": "Aug 04",
-  "time": "5:00 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "Bad Shabbos",
-  "date": "Aug 04",
-  "time": "5:15 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "Together",
-  "date": "Aug 04",
-  "time": "5:15 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "THE NAKED GUN",
-  "date": "Aug 04",
-  "time": "5:30 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "Superman",
-  "date": "Aug 04",
-  "time": "6:00 PM",
-  "status": "available",
-  "theaterID": "landmark atlantic plumbing cinema"
- },
- {
   "title": "THE BAD GUYS 2",
   "date": "Aug 04",
   "time": "6:05 PM",
@@ -1120,6 +756,13 @@
   "theaterID": "angelika mosaic"
  },
  {
+  "title": "Sorry, Baby",
+  "date": "Aug 05",
+  "time": "7:00 PM",
+  "status": "available",
+  "theaterID": "greenbeltcinema"
+ },
+ {
   "title": "Wet Hot American Summer",
   "date": "Aug 05",
   "time": "7:00 PM",
@@ -1181,6 +824,13 @@
   "time": "7:15 PM",
   "status": "available",
   "theaterID": "avalon"
+ },
+ {
+  "title": "Bad Shabbos",
+  "date": "Aug 05",
+  "time": "7:15 PM",
+  "status": "available",
+  "theaterID": "greenbeltcinema"
  },
  {
   "title": "The Naked Gun",
@@ -1694,6 +1344,13 @@
   "theaterID": "landmark bethesda row cinema"
  },
  {
+  "title": "Sorry, Baby",
+  "date": "Aug 06",
+  "time": "5:00 PM",
+  "status": "available",
+  "theaterID": "greenbeltcinema"
+ },
+ {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 06",
   "time": "5:00 PM",
@@ -1792,7 +1449,7 @@
   "theaterID": "angelika popup"
  },
  {
-  "title": "TINĀ",
+  "title": "ANGELIKA MEMBERS EXCLUSIVE MYSTERY SCREENING",
   "date": "Aug 06",
   "time": "7:00 PM",
   "status": "available",
@@ -1820,6 +1477,13 @@
   "theaterID": "suns"
  },
  {
+  "title": "ANGELIKA MEMBERS EXCLUSIVE MYSTERY SCREENING",
+  "date": "Aug 06",
+  "time": "7:10 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
   "title": "Superman",
   "date": "Aug 06",
   "time": "7:10 PM",
@@ -1832,6 +1496,13 @@
   "time": "7:15 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "Bad Shabbos",
+  "date": "Aug 06",
+  "time": "7:15 PM",
+  "status": "available",
+  "theaterID": "greenbeltcinema"
  },
  {
   "title": "The Naked Gun",
@@ -1867,6 +1538,13 @@
   "time": "7:30 PM",
   "status": "available",
   "theaterID": "avalon"
+ },
+ {
+  "title": "Festival Express",
+  "date": "Aug 06",
+  "time": "7:30 PM",
+  "status": "available",
+  "theaterID": "greenbeltcinema"
  },
  {
   "title": "Together",
@@ -2049,6 +1727,13 @@
   "time": "12:45 PM",
   "status": "available",
   "theaterID": "avalon"
+ },
+ {
+  "title": "The Parent Trap",
+  "date": "Aug 07",
+  "time": "1:00 PM",
+  "status": "available",
+  "theaterID": "greenbeltcinema"
  },
  {
   "title": "THE FANTASTIC FOUR: FIRST STEPS",
@@ -2275,6 +1960,13 @@
   "theaterID": "landmark bethesda row cinema"
  },
  {
+  "title": "Bad Shabbos",
+  "date": "Aug 07",
+  "time": "5:50 PM",
+  "status": "available",
+  "theaterID": "greenbeltcinema"
+ },
+ {
   "title": "The Fantastic Four: First Steps",
   "date": "Aug 07",
   "time": "6:00 PM",
@@ -2422,6 +2114,13 @@
   "theaterID": "landmark atlantic plumbing cinema"
  },
  {
+  "title": "Sorry, Baby",
+  "date": "Aug 07",
+  "time": "7:45 PM",
+  "status": "available",
+  "theaterID": "greenbeltcinema"
+ },
+ {
   "title": "Weapons",
   "date": "Aug 07",
   "time": "7:45 PM",
@@ -2434,6 +2133,13 @@
   "time": "7:45 PM",
   "status": "available",
   "theaterID": "landmark bethesda row cinema"
+ },
+ {
+  "title": "To Catch a Thief (1955)",
+  "date": "Aug 07",
+  "time": "8:00 PM",
+  "status": "available",
+  "theaterID": "greenbeltcinema"
  },
  {
   "title": "SHALL WE DANCE? (1996)",
@@ -2541,6 +2247,20 @@
   "theaterID": "angelika mosaic"
  },
  {
+  "title": "Bad Shabbos",
+  "date": "Aug 08",
+  "time": "12:45 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "It’s Never Over, Jeff Buckley",
+  "date": "Aug 08",
+  "time": "1:15 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
   "title": "THE MAN WHO KNEW TOO MUCH (1956)",
   "date": "Aug 08",
   "time": "1:45 PM",
@@ -2597,6 +2317,13 @@
   "theaterID": "angelika mosaic"
  },
  {
+  "title": "Bad Shabbos",
+  "date": "Aug 08",
+  "time": "3:00 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
   "title": "THE LONG GOODBYE",
   "date": "Aug 08",
   "time": "4:15 PM",
@@ -2609,6 +2336,13 @@
   "time": "4:15 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "It’s Never Over, Jeff Buckley",
+  "date": "Aug 08",
+  "time": "4:15 PM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "THE FANTASTIC FOUR: FIRST STEPS",
@@ -2651,6 +2385,13 @@
   "time": "5:00 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "Bad Shabbos",
+  "date": "Aug 08",
+  "time": "5:15 PM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "F1® The Movie",
@@ -2702,6 +2443,13 @@
   "theaterID": "angelika mosaic"
  },
  {
+  "title": "It’s Never Over, Jeff Buckley",
+  "date": "Aug 08",
+  "time": "7:15 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
   "title": "IT’S NEVER OVER, JEFF BUCKLEY",
   "date": "Aug 08",
   "time": "7:30 PM",
@@ -2714,6 +2462,13 @@
   "time": "7:30 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "Bad Shabbos",
+  "date": "Aug 08",
+  "time": "7:30 PM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "Weapons",
@@ -2870,6 +2625,27 @@
   "theaterID": "angelika mosaic"
  },
  {
+  "title": "Bad Shabbos",
+  "date": "Aug 09",
+  "time": "12:45 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "The Parent Trap",
+  "date": "Aug 09",
+  "time": "1:00 PM",
+  "status": "available",
+  "theaterID": "greenbeltcinema"
+ },
+ {
+  "title": "It’s Never Over, Jeff Buckley",
+  "date": "Aug 09",
+  "time": "1:15 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
   "title": "THE MAN WHO KNEW TOO MUCH (1956)",
   "date": "Aug 09",
   "time": "1:20 PM",
@@ -2940,6 +2716,13 @@
   "theaterID": "angelika mosaic"
  },
  {
+  "title": "Bad Shabbos",
+  "date": "Aug 09",
+  "time": "3:00 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
   "title": "THIEVES LIKE US",
   "date": "Aug 09",
   "time": "3:30 PM",
@@ -2954,11 +2737,25 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "Materialists",
+  "date": "Aug 09",
+  "time": "4:00 PM",
+  "status": "available",
+  "theaterID": "miracle"
+ },
+ {
   "title": "THE BAD GUYS 2",
   "date": "Aug 09",
   "time": "4:15 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "It’s Never Over, Jeff Buckley",
+  "date": "Aug 09",
+  "time": "4:15 PM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "THE FANTASTIC FOUR: FIRST STEPS",
@@ -3001,6 +2798,13 @@
   "time": "5:00 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "Bad Shabbos",
+  "date": "Aug 09",
+  "time": "5:15 PM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "#RUNSEOKJIN_EP.TOUR in AMSTERDAM: LIVE VIEWING",
@@ -3066,6 +2870,13 @@
   "theaterID": "angelika mosaic"
  },
  {
+  "title": "It’s Never Over, Jeff Buckley",
+  "date": "Aug 09",
+  "time": "7:15 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
   "title": "IT’S NEVER OVER, JEFF BUCKLEY",
   "date": "Aug 09",
   "time": "7:30 PM",
@@ -3078,6 +2889,13 @@
   "time": "7:30 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "Bad Shabbos",
+  "date": "Aug 09",
+  "time": "7:30 PM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "Weapons",
@@ -3120,13 +2938,6 @@
   "time": "9:45 PM",
   "status": "available",
   "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "IT’S NEVER OVER, JEFF BUCKLEY",
-  "date": "Aug 09",
-  "time": "10:00 PM",
-  "status": "available",
-  "theaterID": "angelika popup"
  },
  {
   "title": "THE FANTASTIC FOUR: FIRST STEPS",
@@ -3206,11 +3017,32 @@
   "theaterID": "angelika mosaic"
  },
  {
+  "title": "Bad Shabbos",
+  "date": "Aug 10",
+  "time": "12:45 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "The Wiz",
+  "date": "Aug 10",
+  "time": "1:00 PM",
+  "status": "available",
+  "theaterID": "greenbeltcinema"
+ },
+ {
   "title": "THE MAN WHO KNEW TOO MUCH (1956)",
   "date": "Aug 10",
   "time": "1:15 PM",
   "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "It’s Never Over, Jeff Buckley",
+  "date": "Aug 10",
+  "time": "1:15 PM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "THE LONG GOODBYE",
@@ -3276,6 +3108,13 @@
   "theaterID": "angelika mosaic"
  },
  {
+  "title": "Bad Shabbos",
+  "date": "Aug 10",
+  "time": "3:00 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
   "title": "NORTH BY NORTHWEST",
   "date": "Aug 10",
   "time": "3:45 PM",
@@ -3295,6 +3134,13 @@
   "time": "4:15 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "It’s Never Over, Jeff Buckley",
+  "date": "Aug 10",
+  "time": "4:15 PM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "THE FANTASTIC FOUR: FIRST STEPS",
@@ -3339,6 +3185,20 @@
   "theaterID": "angelika mosaic"
  },
  {
+  "title": "Bad Shabbos",
+  "date": "Aug 10",
+  "time": "5:15 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "The Phoenician Scheme",
+  "date": "Aug 10",
+  "time": "5:30 PM",
+  "status": "available",
+  "theaterID": "miracle"
+ },
+ {
   "title": "F1® The Movie",
   "date": "Aug 10",
   "time": "6:00 PM",
@@ -3381,6 +3241,13 @@
   "theaterID": "angelika mosaic"
  },
  {
+  "title": "It’s Never Over, Jeff Buckley",
+  "date": "Aug 10",
+  "time": "7:15 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
   "title": "IT’S NEVER OVER, JEFF BUCKLEY",
   "date": "Aug 10",
   "time": "7:30 PM",
@@ -3395,11 +3262,25 @@
   "theaterID": "angelika mosaic"
  },
  {
+  "title": "Bad Shabbos",
+  "date": "Aug 10",
+  "time": "7:30 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
   "title": "Weapons",
   "date": "Aug 10",
   "time": "7:45 PM",
   "status": "available",
   "theaterID": "landmark bethesda row cinema"
+ },
+ {
+  "title": "F1: The Movie",
+  "date": "Aug 10",
+  "time": "7:45 PM",
+  "status": "available",
+  "theaterID": "miracle"
  },
  {
   "title": "HAPPINESS",
@@ -3486,6 +3367,20 @@
   "theaterID": "angelika mosaic"
  },
  {
+  "title": "Bad Shabbos",
+  "date": "Aug 11",
+  "time": "12:45 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "It’s Never Over, Jeff Buckley",
+  "date": "Aug 11",
+  "time": "1:15 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
   "title": "NO WAY OUT (1987)",
   "date": "Aug 11",
   "time": "1:45 PM",
@@ -3528,6 +3423,13 @@
   "theaterID": "angelika mosaic"
  },
  {
+  "title": "Bad Shabbos",
+  "date": "Aug 11",
+  "time": "3:00 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
   "title": "THE LONG GOODBYE",
   "date": "Aug 11",
   "time": "4:10 PM",
@@ -3540,6 +3442,13 @@
   "time": "4:15 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "It’s Never Over, Jeff Buckley",
+  "date": "Aug 11",
+  "time": "4:15 PM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "THE FANTASTIC FOUR: FIRST STEPS",
@@ -3556,6 +3465,13 @@
   "theaterID": "angelika mosaic"
  },
  {
+  "title": "Willy Wonka and the Chocolate Factory",
+  "date": "Aug 11",
+  "time": "4:30 PM",
+  "status": "available",
+  "theaterID": "miracle"
+ },
+ {
   "title": "IT’S NEVER OVER, JEFF BUCKLEY",
   "date": "Aug 11",
   "time": "5:00 PM",
@@ -3568,6 +3484,13 @@
   "time": "5:00 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "Bad Shabbos",
+  "date": "Aug 11",
+  "time": "5:15 PM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "THE ORGANIZER (1963)",
@@ -3591,11 +3514,25 @@
   "theaterID": "angelika mosaic"
  },
  {
+  "title": "F1: The Movie",
+  "date": "Aug 11",
+  "time": "7:00 PM",
+  "status": "available",
+  "theaterID": "miracle"
+ },
+ {
   "title": "THE FANTASTIC FOUR: FIRST STEPS",
   "date": "Aug 11",
   "time": "7:15 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "It’s Never Over, Jeff Buckley",
+  "date": "Aug 11",
+  "time": "7:15 PM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "IT’S NEVER OVER, JEFF BUCKLEY",
@@ -3610,6 +3547,13 @@
   "time": "7:30 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "Bad Shabbos",
+  "date": "Aug 11",
+  "time": "7:30 PM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "THIEVES LIKE US",
@@ -3675,11 +3619,25 @@
   "theaterID": "angelika mosaic"
  },
  {
+  "title": "Bad Shabbos",
+  "date": "Aug 12",
+  "time": "12:45 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
   "title": "THE MAN WHO KNEW TOO MUCH (1956)",
   "date": "Aug 12",
   "time": "1:15 PM",
   "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "It’s Never Over, Jeff Buckley",
+  "date": "Aug 12",
+  "time": "1:15 PM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "THE FANTASTIC FOUR: FIRST STEPS",
@@ -3717,6 +3675,13 @@
   "theaterID": "angelika mosaic"
  },
  {
+  "title": "Bad Shabbos",
+  "date": "Aug 12",
+  "time": "3:00 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
   "title": "NORTH BY NORTHWEST",
   "date": "Aug 12",
   "time": "3:45 PM",
@@ -3729,6 +3694,13 @@
   "time": "4:15 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "It’s Never Over, Jeff Buckley",
+  "date": "Aug 12",
+  "time": "4:15 PM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "THE FANTASTIC FOUR: FIRST STEPS",
@@ -3757,6 +3729,20 @@
   "time": "5:00 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "CatVideoFest 2025",
+  "date": "Aug 12",
+  "time": "5:00 PM",
+  "status": "available",
+  "theaterID": "miracle"
+ },
+ {
+  "title": "Bad Shabbos",
+  "date": "Aug 12",
+  "time": "5:15 PM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "HAPPINESS",
@@ -3794,11 +3780,25 @@
   "theaterID": "angelika mosaic"
  },
  {
+  "title": "Make A Circle",
+  "date": "Aug 12",
+  "time": "7:00 PM",
+  "status": "available",
+  "theaterID": "greenbeltcinema"
+ },
+ {
   "title": "Lost in Translation",
   "date": "Aug 12",
   "time": "7:00 PM",
   "status": "available",
   "theaterID": "landmark bethesda row cinema"
+ },
+ {
+  "title": "F1: The Movie",
+  "date": "Aug 12",
+  "time": "7:00 PM",
+  "status": "available",
+  "theaterID": "miracle"
  },
  {
   "title": "DESERT HEARTS",
@@ -3815,6 +3815,13 @@
   "theaterID": "angelika mosaic"
  },
  {
+  "title": "It’s Never Over, Jeff Buckley",
+  "date": "Aug 12",
+  "time": "7:15 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
   "title": "IT’S NEVER OVER, JEFF BUCKLEY",
   "date": "Aug 12",
   "time": "7:30 PM",
@@ -3827,6 +3834,13 @@
   "time": "7:30 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "Bad Shabbos",
+  "date": "Aug 12",
+  "time": "7:30 PM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "BLOOD SIMPLE",
@@ -3906,11 +3920,25 @@
   "theaterID": "angelika mosaic"
  },
  {
+  "title": "Bad Shabbos",
+  "date": "Aug 13",
+  "time": "12:45 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
   "title": "THE BAD GUYS 2",
   "date": "Aug 13",
   "time": "1:00 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "It’s Never Over, Jeff Buckley",
+  "date": "Aug 13",
+  "time": "1:15 PM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "THE MAN WHO KNEW TOO MUCH (1956)",
@@ -3941,6 +3969,13 @@
   "theaterID": "angelika mosaic"
  },
  {
+  "title": "Bad Shabbos",
+  "date": "Aug 13",
+  "time": "3:00 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
   "title": "THE BAD GUYS 2",
   "date": "Aug 13",
   "time": "3:30 PM",
@@ -3969,6 +4004,13 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "It’s Never Over, Jeff Buckley",
+  "date": "Aug 13",
+  "time": "4:15 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
   "title": "THE FANTASTIC FOUR: FIRST STEPS",
   "date": "Aug 13",
   "time": "4:30 PM",
@@ -3988,6 +4030,13 @@
   "time": "5:00 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "Bad Shabbos",
+  "date": "Aug 13",
+  "time": "5:15 PM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "THE LONG GOODBYE",
@@ -4058,6 +4107,20 @@
   "time": "7:30 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "Bad Shabbos",
+  "date": "Aug 13",
+  "time": "7:30 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "blur: To The End",
+  "date": "Aug 13",
+  "time": "7:30 PM",
+  "status": "available",
+  "theaterID": "greenbeltcinema"
  },
  {
   "title": "GODZILLA VS. MEGALON",
@@ -4144,6 +4207,27 @@
   "theaterID": "angelika popup"
  },
  {
+  "title": "Bad Shabbos",
+  "date": "Aug 14",
+  "time": "12:45 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
+  "title": "Mr. Peabody and Sherman",
+  "date": "Aug 14",
+  "time": "1:00 PM",
+  "status": "available",
+  "theaterID": "greenbeltcinema"
+ },
+ {
+  "title": "It’s Never Over, Jeff Buckley",
+  "date": "Aug 14",
+  "time": "1:15 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
   "title": "THE FANTASTIC FOUR: FIRST STEPS",
   "date": "Aug 14",
   "time": "1:45 PM",
@@ -4179,11 +4263,25 @@
   "theaterID": "angelika popup"
  },
  {
+  "title": "Bad Shabbos",
+  "date": "Aug 14",
+  "time": "3:00 PM",
+  "status": "available",
+  "theaterID": "avalon"
+ },
+ {
   "title": "THE BAD GUYS 2",
   "date": "Aug 14",
   "time": "4:15 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "It’s Never Over, Jeff Buckley",
+  "date": "Aug 14",
+  "time": "4:15 PM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "THE FANTASTIC FOUR: FIRST STEPS",
@@ -4268,6 +4366,13 @@
   "time": "7:30 PM",
   "status": "available",
   "theaterID": "angelika popup"
+ },
+ {
+  "title": "Bad Shabbos",
+  "date": "Aug 14",
+  "time": "7:30 PM",
+  "status": "available",
+  "theaterID": "avalon"
  },
  {
   "title": "THE BAD GUYS 2",
@@ -4522,6 +4627,13 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "CatVideoFest 2025",
+  "date": "Aug 16",
+  "time": "2:00 PM",
+  "status": "available",
+  "theaterID": "miracle"
+ },
+ {
   "title": "EAST OF WALL",
   "date": "Aug 16",
   "time": "3:00 PM",
@@ -4709,6 +4821,13 @@
   "time": "5:15 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "How to Train Your Dragon",
+  "date": "Aug 17",
+  "time": "5:30 PM",
+  "status": "available",
+  "theaterID": "miracle"
  },
  {
   "title": "F1® The Movie",
@@ -5285,6 +5404,13 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "Wall-E",
+  "date": "Aug 21",
+  "time": "1:00 PM",
+  "status": "available",
+  "theaterID": "greenbeltcinema"
+ },
+ {
   "title": "CALIFORNIA SPLIT",
   "date": "Aug 21",
   "time": "2:30 PM",
@@ -5479,6 +5605,13 @@
   "time": "1:45 PM",
   "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "Raiders of the Lost Ark",
+  "date": "Aug 24",
+  "time": "1:45 PM",
+  "status": "available",
+  "theaterID": "greenbeltcinema"
  },
  {
   "title": "3 WOMEN (1977)",
@@ -6606,5 +6739,68 @@
   "time": "11:30 AM",
   "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "JAWS: 50th ANNIVERSARY",
+  "date": "Sep 03",
+  "time": "12:30 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
+  "title": "THE TOXIC AVENGER (UNRATED)",
+  "date": "Sep 03",
+  "time": "12:30 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "JAWS: 50th ANNIVERSARY",
+  "date": "Sep 03",
+  "time": "2:00 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "POPEYE",
+  "date": "Sep 03",
+  "time": "2:15 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "THE TOXIC AVENGER (UNRATED)",
+  "date": "Sep 03",
+  "time": "3:00 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "JAWS: 50th ANNIVERSARY",
+  "date": "Sep 03",
+  "time": "3:30 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
+  "title": "A SLIGHTLY PREGNANT MAN",
+  "date": "Sep 03",
+  "time": "4:40 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "JAWS: 50th ANNIVERSARY",
+  "date": "Sep 03",
+  "time": "4:45 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "THE TOXIC AVENGER (UNRATED)",
+  "date": "Sep 03",
+  "time": "5:30 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
  }
 ]
