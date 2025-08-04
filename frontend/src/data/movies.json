@@ -1,327 +1,5 @@
 [
  {
-  "title": "SUPERMAN",
-  "date": "Aug 03",
-  "time": "6:30 PM",
-  "status": "available",
-  "theaterID": "angelika popup"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Aug 03",
-  "time": "6:30 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "The Naked Gun",
-  "date": "Aug 03",
-  "time": "6:30 PM",
-  "status": "available",
-  "theaterID": "landmark atlantic plumbing cinema"
- },
- {
-  "title": "The Phoenician Scheme",
-  "date": "Aug 03",
-  "time": "6:30 PM",
-  "status": "available",
-  "theaterID": "miracle"
- },
- {
-  "title": "F1 THE MOVIE",
-  "date": "Aug 03",
-  "time": "6:45 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "THE FANTASTIC FOUR: FIRST STEPS",
-  "date": "Aug 03",
-  "time": "7:00 PM",
-  "status": "available",
-  "theaterID": "angelika popup"
- },
- {
-  "title": "THE FANTASTIC FOUR: FIRST STEPS",
-  "date": "Aug 03",
-  "time": "7:00 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "The Fantastic Four: First Steps",
-  "date": "Aug 03",
-  "time": "7:00 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "Superman",
-  "date": "Aug 03",
-  "time": "7:00 PM",
-  "status": "available",
-  "theaterID": "landmark atlantic plumbing cinema"
- },
- {
-  "title": "TOGETHER",
-  "date": "Aug 03",
-  "time": "7:10 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "Superman",
-  "date": "Aug 03",
-  "time": "7:10 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "The Fantastic Four: First Steps",
-  "date": "Aug 03",
-  "time": "7:10 PM",
-  "status": "available",
-  "theaterID": "landmark atlantic plumbing cinema"
- },
- {
-  "title": "THE BAD GUYS 2",
-  "date": "Aug 03",
-  "time": "7:15 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "Don’t Let’s Go to the Dogs Tonight",
-  "date": "Aug 03",
-  "time": "7:15 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "The Naked Gun",
-  "date": "Aug 03",
-  "time": "7:15 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "The Bad Guys 2",
-  "date": "Aug 03",
-  "time": "7:20 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "Together",
-  "date": "Aug 03",
-  "time": "7:20 PM",
-  "status": "available",
-  "theaterID": "landmark atlantic plumbing cinema"
- },
- {
-  "title": "THE NAKED GUN",
-  "date": "Aug 03",
-  "time": "7:30 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "Bad Shabbos",
-  "date": "Aug 03",
-  "time": "7:30 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "The Naked Gun",
-  "date": "Aug 03",
-  "time": "7:30 PM",
-  "status": "available",
-  "theaterID": "landmark atlantic plumbing cinema"
- },
- {
-  "title": "MCCABE & MRS. MILLER",
-  "date": "Aug 03",
-  "time": "7:45 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "SUPERMAN",
-  "date": "Aug 03",
-  "time": "7:45 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "Together",
-  "date": "Aug 03",
-  "time": "7:45 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "THE FANTASTIC FOUR: FIRST STEPS",
-  "date": "Aug 03",
-  "time": "8:00 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "Superman",
-  "date": "Aug 03",
-  "time": "8:10 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "THE GODFATHER",
-  "date": "Aug 03",
-  "time": "8:15 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "THE NAKED GUN",
-  "date": "Aug 03",
-  "time": "8:40 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "THE FANTASTIC FOUR: FIRST STEPS",
-  "date": "Aug 03",
-  "time": "9:00 PM",
-  "status": "available",
-  "theaterID": "angelika popup"
- },
- {
-  "title": "SUPERMAN",
-  "date": "Aug 03",
-  "time": "9:20 PM",
-  "status": "available",
-  "theaterID": "angelika popup"
- },
- {
-  "title": "F1 THE MOVIE",
-  "date": "Aug 03",
-  "time": "9:30 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "TOGETHER",
-  "date": "Aug 03",
-  "time": "9:35 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "THE FANTASTIC FOUR: FIRST STEPS",
-  "date": "Aug 03",
-  "time": "9:45 PM",
-  "status": "available",
-  "theaterID": "angelika popup"
- },
- {
-  "title": "THE FANTASTIC FOUR: FIRST STEPS",
-  "date": "Aug 03",
-  "time": "9:45 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "THE BAD GUYS 2",
-  "date": "Aug 03",
-  "time": "9:45 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "SUPERMAN",
-  "date": "Aug 03",
-  "time": "10:00 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "THE NAKED GUN",
-  "date": "Aug 03",
-  "time": "10:30 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "THE FANTASTIC FOUR: FIRST STEPS",
-  "date": "Aug 03",
-  "time": "10:35 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "THE BAD GUYS 2",
-  "date": "Aug 04",
-  "time": "10:10 AM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "F1 THE MOVIE",
-  "date": "Aug 04",
-  "time": "10:30 AM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "THE FANTASTIC FOUR: FIRST STEPS",
-  "date": "Aug 04",
-  "time": "10:45 AM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "OH, HI",
-  "date": "Aug 04",
-  "time": "10:45 AM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "SUPERMAN",
-  "date": "Aug 04",
-  "time": "11:00 AM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "THE NAKED GUN",
-  "date": "Aug 04",
-  "time": "11:15 AM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "DIVORCE ITALIAN STYLE",
-  "date": "Aug 04",
-  "time": "11:45 AM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "THE BAD GUYS 2",
-  "date": "Aug 04",
-  "time": "11:45 AM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "FOLKTALES",
-  "date": "Aug 04",
-  "time": "11:50 AM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
   "title": "TOGETHER",
   "date": "Aug 04",
   "time": "12:00 PM",
@@ -1620,7 +1298,7 @@
   "title": "MIDSOMMAR",
   "date": "Aug 05",
   "time": "9:30 PM",
-  "status": "available",
+  "status": "sold out",
   "theaterID": "suns"
  },
  {
@@ -2042,6 +1720,13 @@
   "time": "5:15 PM",
   "status": "available",
   "theaterID": "landmark bethesda row cinema"
+ },
+ {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Aug 06",
+  "time": "6:00 PM",
+  "status": "available",
+  "theaterID": "lockheedmartin"
  },
  {
   "title": "THE FANTASTIC FOUR: FIRST STEPS",
@@ -2590,6 +2275,13 @@
   "theaterID": "landmark bethesda row cinema"
  },
  {
+  "title": "The Fantastic Four: First Steps",
+  "date": "Aug 07",
+  "time": "6:00 PM",
+  "status": "available",
+  "theaterID": "lockheedmartin"
+ },
+ {
   "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
   "date": "Aug 07",
   "time": "6:35 PM",
@@ -2961,6 +2653,13 @@
   "theaterID": "angelika mosaic"
  },
  {
+  "title": "F1® The Movie",
+  "date": "Aug 08",
+  "time": "6:00 PM",
+  "status": "available",
+  "theaterID": "lockheedmartin"
+ },
+ {
   "title": "SINNERS",
   "date": "Aug 08",
   "time": "6:00 PM",
@@ -3318,6 +3017,13 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "F1® The Movie",
+  "date": "Aug 09",
+  "time": "6:00 PM",
+  "status": "available",
+  "theaterID": "lockheedmartin"
+ },
+ {
   "title": "PICNIC AT HANGING ROCK: 50TH ANNIVERSARY",
   "date": "Aug 09",
   "time": "6:00 PM",
@@ -3631,6 +3337,13 @@
   "time": "5:00 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "F1® The Movie",
+  "date": "Aug 10",
+  "time": "6:00 PM",
+  "status": "available",
+  "theaterID": "lockheedmartin"
  },
  {
   "title": "NO WAY OUT (1987)",
@@ -4676,6 +4389,13 @@
   "theaterID": "angelika mosaic"
  },
  {
+  "title": "F1® The Movie",
+  "date": "Aug 15",
+  "time": "6:00 PM",
+  "status": "available",
+  "theaterID": "lockheedmartin"
+ },
+ {
   "title": "PICNIC AT HANGING ROCK: 50TH ANNIVERSARY",
   "date": "Aug 15",
   "time": "6:00 PM",
@@ -4844,6 +4564,13 @@
   "theaterID": "angelika mosaic"
  },
  {
+  "title": "F1® The Movie",
+  "date": "Aug 16",
+  "time": "6:00 PM",
+  "status": "available",
+  "theaterID": "lockheedmartin"
+ },
+ {
   "title": "WATERWORLD",
   "date": "Aug 16",
   "time": "6:00 PM",
@@ -4982,6 +4709,13 @@
   "time": "5:15 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "F1® The Movie",
+  "date": "Aug 17",
+  "time": "6:00 PM",
+  "status": "available",
+  "theaterID": "lockheedmartin"
  },
  {
   "title": "SHIN GODZILLA (RE-RELEASE)",
@@ -5463,7 +5197,7 @@
   "title": "CHESS OF THE WIND",
   "date": "Aug 20",
   "time": "7:00 PM",
-  "status": "available",
+  "status": "sold out",
   "theaterID": "suns"
  },
  {
@@ -6809,5 +6543,68 @@
   "time": "5:30 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "JAWS: 50th ANNIVERSARY",
+  "date": "Sep 02",
+  "time": "6:30 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
+  "title": "JAWS: 50th Anniversary",
+  "date": "Sep 02",
+  "time": "6:45 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "JAWS: 50th ANNIVERSARY",
+  "date": "Sep 02",
+  "time": "7:00 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "9381",
+  "date": "Sep 02",
+  "time": "7:00 PM",
+  "status": "available",
+  "theaterID": "landmark bethesda row cinema"
+ },
+ {
+  "title": "THE TOXIC AVENGER (UNRATED)",
+  "date": "Sep 02",
+  "time": "8:00 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "THE NAVIGATOR: A MEDIEVAL ODYSSEY",
+  "date": "Sep 02",
+  "time": "9:30 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "JAWS: 50th ANNIVERSARY",
+  "date": "Sep 02",
+  "time": "9:30 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
+  "title": "JAWS: 50th ANNIVERSARY",
+  "date": "Sep 03",
+  "time": "11:15 AM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "UNFORGIVEN (1992)",
+  "date": "Sep 03",
+  "time": "11:30 AM",
+  "status": "available",
+  "theaterID": "afisilver"
  }
 ]

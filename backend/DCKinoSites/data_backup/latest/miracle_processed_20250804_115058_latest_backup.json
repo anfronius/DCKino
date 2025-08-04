@@ -42,13 +42,6 @@
     "theaterID": "miracle"
   },
   {
-    "title": "An American Tail",
-    "date": "Aug 14",
-    "time": "10:30 AM",
-    "status": "available",
-    "theaterID": "miracle"
-  },
-  {
     "title": "The Wild Robot",
     "date": "Jul 31",
     "time": "10:30 AM",
@@ -63,8 +56,8 @@
     "theaterID": "miracle"
   },
   {
-    "title": "Willy Wonka and the Chocolate Factory",
-    "date": "Aug 07",
+    "title": "An American Tail",
+    "date": "Aug 14",
     "time": "10:30 AM",
     "status": "available",
     "theaterID": "miracle"
@@ -73,6 +66,13 @@
     "title": "Arsenic and Old Lace",
     "date": "Aug 01",
     "time": "7:00 PM",
+    "status": "available",
+    "theaterID": "miracle"
+  },
+  {
+    "title": "Willy Wonka and the Chocolate Factory",
+    "date": "Aug 07",
+    "time": "10:30 AM",
     "status": "available",
     "theaterID": "miracle"
   },
@@ -99,6 +99,13 @@
   },
   {
     "title": "F1: The Movie",
+    "date": "Aug 02",
+    "time": "7:00 PM",
+    "status": "available",
+    "theaterID": "miracle"
+  },
+  {
+    "title": "F1: The Movie",
     "date": "Aug 04",
     "time": "7:00 PM",
     "status": "available",
@@ -108,13 +115,6 @@
     "title": "The Phoenician Scheme",
     "date": "Aug 03",
     "time": "6:30 PM",
-    "status": "available",
-    "theaterID": "miracle"
-  },
-  {
-    "title": "F1: The Movie",
-    "date": "Aug 02",
-    "time": "7:00 PM",
     "status": "available",
     "theaterID": "miracle"
   },
@@ -133,6 +133,13 @@
     "theaterID": "miracle"
   },
   {
+    "title": "Triumph of the Heart \u2013 Early Access",
+    "date": "Aug 02",
+    "time": "4:00 PM",
+    "status": "available",
+    "theaterID": "miracle"
+  },
+  {
     "title": "The Sound of Music",
     "date": "Aug 17",
     "time": "2:00 PM",
@@ -143,13 +150,6 @@
     "title": "This Is Spinal Tap",
     "date": "Oct 03",
     "time": "9:30 PM",
-    "status": "available",
-    "theaterID": "miracle"
-  },
-  {
-    "title": "Triumph of the Heart \u2013 Early Access",
-    "date": "Aug 02",
-    "time": "4:00 PM",
     "status": "available",
     "theaterID": "miracle"
   },

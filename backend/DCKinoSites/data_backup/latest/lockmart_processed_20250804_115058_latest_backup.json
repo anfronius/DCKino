@@ -1,0 +1,58 @@
+[
+  {
+    "title": "The Fantastic Four: First Steps",
+    "date": "Aug 06",
+    "time": "6:00 PM",
+    "status": "available",
+    "theaterID": "lockheedmartin"
+  },
+  {
+    "title": "The Fantastic Four: First Steps",
+    "date": "Aug 07",
+    "time": "6:00 PM",
+    "status": "available",
+    "theaterID": "lockheedmartin"
+  },
+  {
+    "title": "F1\u00ae The Movie",
+    "date": "Aug 08",
+    "time": "6:00 PM",
+    "status": "available",
+    "theaterID": "lockheedmartin"
+  },
+  {
+    "title": "F1\u00ae The Movie",
+    "date": "Aug 09",
+    "time": "6:00 PM",
+    "status": "available",
+    "theaterID": "lockheedmartin"
+  },
+  {
+    "title": "F1\u00ae The Movie",
+    "date": "Aug 10",
+    "time": "6:00 PM",
+    "status": "available",
+    "theaterID": "lockheedmartin"
+  },
+  {
+    "title": "F1\u00ae The Movie",
+    "date": "Aug 15",
+    "time": "6:00 PM",
+    "status": "available",
+    "theaterID": "lockheedmartin"
+  },
+  {
+    "title": "F1\u00ae The Movie",
+    "date": "Aug 16",
+    "time": "6:00 PM",
+    "status": "available",
+    "theaterID": "lockheedmartin"
+  },
+  {
+    "title": "F1\u00ae The Movie",
+    "date": "Aug 17",
+    "time": "6:00 PM",
+    "status": "available",
+    "theaterID": "lockheedmartin"
+  }
+]

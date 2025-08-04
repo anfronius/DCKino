@@ -1,5 +1,5 @@
 [
-{"title": "MIDSOMMAR", "date": "Tue,  Aug 5", "time": "9:30 pm", "status": "available", "theaterID": "suns"},
+{"title": "MIDSOMMAR", "date": "Tue,  Aug 5", "time": "9:30 pm", "status": "sold out", "theaterID": "suns"},
 {"title": "CLOSE-UP", "date": "Wed,  Aug 6", "time": "7:00 pm", "status": "sold out", "theaterID": "suns"},
 {"title": "TASTE OF CHERRY", "date": "Wed,  Aug 6", "time": "9:30 pm", "status": "sold out", "theaterID": "suns"},
 {"title": "UNDER THE SILVER LAKE", "date": "Thu,  Aug 7", "time": "7:00 pm", "status": "sold out", "theaterID": "suns"},
@@ -24,7 +24,7 @@
 {"title": "WATERWORLD", "date": "Sat,  Aug 16", "time": "6:00 pm", "status": "available", "theaterID": "suns"},
 {"title": "ANACONDA", "date": "Sat,  Aug 16", "time": "9:15 pm", "status": "available", "theaterID": "suns"},
 {"title": "BAD DAY AT BLACK ROCK", "date": "Tue,  Aug 19", "time": "7:00 pm", "status": "available", "theaterID": "suns"},
-{"title": "CHESS OF THE WIND", "date": "Wed,  Aug 20", "time": "7:00 pm", "status": "available", "theaterID": "suns"},
+{"title": "CHESS OF THE WIND", "date": "Wed,  Aug 20", "time": "7:00 pm", "status": "sold out", "theaterID": "suns"},
 {"title": "PARASITE", "date": "Wed,  Aug 20", "time": "9:30 pm", "status": "sold out", "theaterID": "suns"},
 {"title": "THE GAME", "date": "Thu,  Aug 21", "time": "7:00 pm", "status": "available", "theaterID": "suns"},
 {"title": "FUNNY GAMES", "date": "Thu,  Aug 21", "time": "10:00 pm", "status": "available", "theaterID": "suns"},

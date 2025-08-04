@@ -25,7 +25,7 @@ class Styles:
     default = '\033[0m'
 
 # Theater names
-theaters = ["afisilver", "angelika", "avalon", "landmark", "miracle", "suns"]
+theaters = ["afisilver", "angelika", "avalon", "landmark", "miracle", "suns", "lockmart"]
 
 # Process afisilver data: date as 'Sunday, August 24, 2025', time as '8:15 p.m.' or '11:30 a.m.'
 def process_afisilver(item):
@@ -113,6 +113,26 @@ def process_landmark(item):
         print(f"{Colors.RED}Error processing landmark item {item}: {e} {Styles.default}")
         return None
 
+# Process lockmart data: date as '2025-08-04', time as '06:00pm'
+def process_lockmart(item):
+    try:
+        date_str = item["date"].strip()
+        dt = datetime.strptime(date_str, "%Y-%m-%d")
+        std_date = dt.strftime("%b %d")
+        time_str = item["time"].lower().replace("am", " am").replace("pm", " pm").strip()
+        dt = datetime.strptime(time_str, "%I:%M %p")
+        std_time = dt.strftime("%I:%M %p").lstrip("0")
+        return {
+            "title": item["title"].strip(),
+            "date": std_date,
+            "time": std_time,
+            "status": item["status"].strip(),
+            "theaterID": item["theaterID"].strip().lower()
+        }
+    except Exception as e:
+        print(f"{Colors.RED}Error processing lockmart item {item}: {e} {Styles.default}")
+        return None
+
 # Process miracle data: date as 'Jul 31 2025', time as '7:00 pm - 9:00 pm'
 def process_miracle(item):
     try:
@@ -164,7 +184,8 @@ def process_json_file(json_file, theater):
             "avalon": process_avalon,
             "landmark": process_landmark,
             "miracle": process_miracle,
-            "suns": process_suns
+            "suns": process_suns,
+            "lockmart": process_lockmart
         }
         processor = processor_map.get(theater)
         if not processor:

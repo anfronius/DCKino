@@ -3,7 +3,7 @@
     "title": "MIDSOMMAR",
     "date": "Aug 05",
     "time": "9:30 PM",
-    "status": "available",
+    "status": "sold out",
     "theaterID": "suns"
   },
   {
@@ -178,7 +178,7 @@
     "title": "CHESS OF THE WIND",
     "date": "Aug 20",
     "time": "7:00 PM",
-    "status": "available",
+    "status": "sold out",
     "theaterID": "suns"
   },
   {

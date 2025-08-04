@@ -54,5 +54,12 @@
     "colorClass": "bg-purple-600/75",
     "address": "2911 District Avenue, Fairfax, Virginia",
     "screens": 8
+  },
+  {
+    "theaterID": "lockheedmartin",
+    "name": "Lockheed Martin IMAX Theater",
+    "colorClass": "bg-neutral-50/75",
+    "address": "650 Jefferson Drive SW, Washington, DC",
+    "screens": 1
   }
 ]
