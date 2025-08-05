@@ -13,5 +13,3 @@ node_modules/
 
 dist/
 backend/DCKinoSites/data/*/*.json
-
-frontend/public/posters/*.webp

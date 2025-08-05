@@ -1,40 +1,5 @@
 [
  {
-  "title": "Together",
-  "date": "Aug 05",
-  "time": "3:40 PM",
-  "status": "available",
-  "theaterID": "landmark atlantic plumbing cinema"
- },
- {
-  "title": "THE BAD GUYS 2",
-  "date": "Aug 05",
-  "time": "3:45 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "SUPERMAN",
-  "date": "Aug 05",
-  "time": "3:50 PM",
-  "status": "available",
-  "theaterID": "angelika popup"
- },
- {
-  "title": "The Naked Gun",
-  "date": "Aug 05",
-  "time": "3:50 PM",
-  "status": "available",
-  "theaterID": "landmark atlantic plumbing cinema"
- },
- {
-  "title": "The Fantastic Four: First Steps",
-  "date": "Aug 05",
-  "time": "4:00 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
   "title": "Superman",
   "date": "Aug 05",
   "time": "4:10 PM",

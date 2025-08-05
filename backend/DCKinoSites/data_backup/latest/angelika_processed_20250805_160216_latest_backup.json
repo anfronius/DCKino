@@ -583,13 +583,6 @@
   {
     "title": "THE BAD GUYS 2",
     "date": "Aug 05",
-    "time": "3:45 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 05",
     "time": "4:45 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
@@ -2396,13 +2389,6 @@
   {
     "title": "F1 THE MOVIE",
     "date": "Aug 05",
-    "time": "3:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "F1 THE MOVIE",
-    "date": "Aug 05",
     "time": "7:40 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
@@ -3790,13 +3776,6 @@
     "title": "HOLA FRIDA",
     "date": "Aug 14",
     "time": "2:15 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "SUPERMAN",
-    "date": "Aug 05",
-    "time": "3:50 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },
