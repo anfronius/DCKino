@@ -4,6 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "prebuild": "node fetch_posters.js",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
@@ -12,6 +13,7 @@
   "dependencies": {
     "@tailwindcss/line-clamp": "^0.4.4",
     "date-fns": "^4.1.0",
+    "node-fetch": "^2.7.0",
     "react": "^19.1.0",
     "react-datepicker": "^8.4.0",
     "react-dom": "^19.1.0"

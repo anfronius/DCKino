@@ -2,20 +2,6 @@
   {
     "title": "THE FANTASTIC FOUR: FIRST STEPS",
     "date": "Aug 05",
-    "time": "1:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 05",
-    "time": "2:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 05",
     "time": "4:15 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
@@ -591,13 +577,6 @@
     "title": "JAWS: 50th ANNIVERSARY",
     "date": "Sep 04",
     "time": "9:45 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 05",
-    "time": "2:15 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
@@ -2228,13 +2207,6 @@
   {
     "title": "THE NAKED GUN",
     "date": "Aug 05",
-    "time": "1:20 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE NAKED GUN",
-    "date": "Aug 05",
     "time": "5:30 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
@@ -2257,13 +2229,6 @@
     "title": "THE NAKED GUN",
     "date": "Aug 05",
     "time": "10:15 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE NAKED GUN",
-    "date": "Aug 05",
-    "time": "3:25 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
@@ -2306,20 +2271,6 @@
     "title": "THE NAKED GUN",
     "date": "Aug 06",
     "time": "1:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "SUPERMAN",
-    "date": "Aug 05",
-    "time": "12:55 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "SUPERMAN",
-    "date": "Aug 05",
-    "time": "1:50 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
@@ -2383,13 +2334,6 @@
     "title": "SUPERMAN",
     "date": "Aug 06",
     "time": "10:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "TOGETHER",
-    "date": "Aug 05",
-    "time": "2:25 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
@@ -2863,20 +2807,6 @@
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "OH, HI",
-    "date": "Aug 05",
-    "time": "1:15 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "OH, HI",
-    "date": "Aug 06",
-    "time": "1:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
     "title": "THE GRATEFUL DEAD MOVIE 2025 MEET-UP",
     "date": "Aug 14",
     "time": "6:30 PM",
@@ -3017,6 +2947,13 @@
     "theaterID": "angelika mosaic"
   },
   {
+    "title": "OH, HI",
+    "date": "Aug 06",
+    "time": "1:30 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
     "title": "ANDREA BOCELLI: BECAUSE I BELIEVE",
     "date": "Sep 24",
     "time": "7:00 PM",
@@ -3078,20 +3015,6 @@
     "time": "7:10 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 05",
-    "time": "12:45 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 05",
-    "time": "1:30 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
   },
   {
     "title": "THE FANTASTIC FOUR: FIRST STEPS",
@@ -3286,6 +3209,20 @@
     "title": "THE FANTASTIC FOUR: FIRST STEPS",
     "date": "Aug 11",
     "time": "8:15 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "THE FANTASTIC FOUR: FIRST STEPS",
+    "date": "Aug 12",
+    "time": "1:45 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "THE FANTASTIC FOUR: FIRST STEPS",
+    "date": "Aug 12",
+    "time": "7:15 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },
@@ -3489,6 +3426,13 @@
     "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
     "date": "Aug 12",
     "time": "1:15 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
+    "date": "Aug 12",
+    "time": "2:35 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },
@@ -3752,9 +3696,100 @@
     "theaterID": "angelika popup"
   },
   {
-    "title": "SUPERMAN",
-    "date": "Aug 05",
-    "time": "1:00 PM",
+    "title": "HOLA FRIDA",
+    "date": "Aug 08",
+    "time": "12:30 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "HOLA FRIDA",
+    "date": "Aug 08",
+    "time": "3:00 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "HOLA FRIDA",
+    "date": "Aug 09",
+    "time": "12:30 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "HOLA FRIDA",
+    "date": "Aug 09",
+    "time": "3:00 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "HOLA FRIDA",
+    "date": "Aug 10",
+    "time": "12:00 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "HOLA FRIDA",
+    "date": "Aug 10",
+    "time": "6:15 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "HOLA FRIDA",
+    "date": "Aug 11",
+    "time": "12:30 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "HOLA FRIDA",
+    "date": "Aug 11",
+    "time": "4:20 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "HOLA FRIDA",
+    "date": "Aug 12",
+    "time": "12:30 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "HOLA FRIDA",
+    "date": "Aug 12",
+    "time": "5:25 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "HOLA FRIDA",
+    "date": "Aug 13",
+    "time": "12:10 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "HOLA FRIDA",
+    "date": "Aug 13",
+    "time": "3:00 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "HOLA FRIDA",
+    "date": "Aug 14",
+    "time": "11:10 AM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "HOLA FRIDA",
+    "date": "Aug 14",
+    "time": "2:15 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },
@@ -3843,90 +3878,6 @@
     "theaterID": "angelika popup"
   },
   {
-    "title": "HOLA FRIDA",
-    "date": "Aug 08",
-    "time": "12:30 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "HOLA FRIDA",
-    "date": "Aug 08",
-    "time": "3:00 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "HOLA FRIDA",
-    "date": "Aug 09",
-    "time": "12:30 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "HOLA FRIDA",
-    "date": "Aug 09",
-    "time": "3:00 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "HOLA FRIDA",
-    "date": "Aug 10",
-    "time": "12:00 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "HOLA FRIDA",
-    "date": "Aug 10",
-    "time": "6:15 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "HOLA FRIDA",
-    "date": "Aug 11",
-    "time": "12:30 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "HOLA FRIDA",
-    "date": "Aug 11",
-    "time": "4:20 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "HOLA FRIDA",
-    "date": "Aug 13",
-    "time": "12:10 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "HOLA FRIDA",
-    "date": "Aug 13",
-    "time": "3:00 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "HOLA FRIDA",
-    "date": "Aug 14",
-    "time": "11:10 AM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "HOLA FRIDA",
-    "date": "Aug 14",
-    "time": "2:15 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
     "title": "THE GIRL WHO LEAPT THROUGH TIME",
     "date": "Sep 28",
     "time": "4:00 PM",
@@ -3956,7 +3907,7 @@
   },
   {
     "title": "HARRY POTTER AND THE DEATHLY HALLOWS: PART 1",
-    "date": "Aug 15",
+    "date": "Aug 16",
     "time": "10:00 AM",
     "status": "available",
     "theaterID": "angelika popup"

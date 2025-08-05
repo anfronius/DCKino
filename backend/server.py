@@ -14,18 +14,18 @@ logger = logging.getLogger(__name__)
 
 app = FastAPI()
 
-# Enable CORS
+# Enable CORS for local development
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173"],  # Allow Vite dev server
+    allow_origins=["http://localhost:5173"],
     allow_credentials=True,
-    allow_methods=["*"],  # Allow all HTTP methods (GET, POST, etc.)
-    allow_headers=["*"],  # Allow all headers
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 load_dotenv()
 TMDB_API_KEY = os.getenv("TMDB_API_KEY")
-POSTER_DIR = os.path.join(os.path.dirname(__file__), "public", "posters")
+POSTER_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "frontend", "public", "posters")
 
 if not TMDB_API_KEY:
     logger.error("TMDB_API_KEY is not set in .env file")
@@ -38,7 +38,8 @@ except Exception as e:
     logger.error(f"Failed to create posters directory: {str(e)}")
     raise
 
-app.mount("/posters", StaticFiles(directory=POSTER_DIR), name="posters")
+# Mount static files with custom configuration
+app.mount("/posters", StaticFiles(directory=POSTER_DIR, check_dir=False), name="posters")
 
 @app.get("/poster/{title}")
 async def get_poster(title: str, year: str = None):

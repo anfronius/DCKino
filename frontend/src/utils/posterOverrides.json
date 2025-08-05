@@ -17,10 +17,14 @@
   },
   {
     "title": "Willy Wonka & the Chocolate Factory",
-    "year": 1971
+    "year": "1971"
   },
   {
     "title": "Willy Wonka and the Chocolate Factory",
-    "year": 1971
+    "year": "1971"
+  },
+  {
+    "title": "Eddington",
+    "file": "8.webp"
   }
 ]

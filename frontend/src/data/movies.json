@@ -1,173 +1,5 @@
 [
  {
-  "title": "THE FANTASTIC FOUR: FIRST STEPS",
-  "date": "Aug 05",
-  "time": "12:45 PM",
-  "status": "available",
-  "theaterID": "angelika popup"
- },
- {
-  "title": "Bad Shabbos",
-  "date": "Aug 05",
-  "time": "12:45 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "SUPERMAN",
-  "date": "Aug 05",
-  "time": "12:55 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "SUPERMAN",
-  "date": "Aug 05",
-  "time": "1:00 PM",
-  "status": "available",
-  "theaterID": "angelika popup"
- },
- {
-  "title": "OH, HI",
-  "date": "Aug 05",
-  "time": "1:15 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "THE NAKED GUN",
-  "date": "Aug 05",
-  "time": "1:20 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "THE FANTASTIC FOUR: FIRST STEPS",
-  "date": "Aug 05",
-  "time": "1:30 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "THE FANTASTIC FOUR: FIRST STEPS",
-  "date": "Aug 05",
-  "time": "1:30 PM",
-  "status": "available",
-  "theaterID": "angelika popup"
- },
- {
-  "title": "SUPERMAN",
-  "date": "Aug 05",
-  "time": "1:50 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "The Fantastic Four: First Steps",
-  "date": "Aug 05",
-  "time": "2:00 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
-  "date": "Aug 05",
-  "time": "2:05 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "THE COURT JESTER",
-  "date": "Aug 05",
-  "time": "2:15 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "THE BAD GUYS 2",
-  "date": "Aug 05",
-  "time": "2:15 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "Don’t Let’s Go to the Dogs Tonight",
-  "date": "Aug 05",
-  "time": "2:15 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "The Bad Guys 2",
-  "date": "Aug 05",
-  "time": "2:15 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "TOGETHER",
-  "date": "Aug 05",
-  "time": "2:25 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "THE FANTASTIC FOUR: FIRST STEPS",
-  "date": "Aug 05",
-  "time": "2:30 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "The Naked Gun",
-  "date": "Aug 05",
-  "time": "2:30 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "F1 The Movie",
-  "date": "Aug 05",
-  "time": "2:45 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "Bad Shabbos",
-  "date": "Aug 05",
-  "time": "3:00 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "Together",
-  "date": "Aug 05",
-  "time": "3:00 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "Eddington",
-  "date": "Aug 05",
-  "time": "3:05 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "THE NAKED GUN",
-  "date": "Aug 05",
-  "time": "3:25 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "F1 THE MOVIE",
-  "date": "Aug 05",
-  "time": "3:30 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
   "title": "Together",
   "date": "Aug 05",
   "time": "3:40 PM",
@@ -3969,6 +3801,13 @@
   "theaterID": "angelika mosaic"
  },
  {
+  "title": "HOLA FRIDA",
+  "date": "Aug 12",
+  "time": "12:30 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
   "title": "Bad Shabbos",
   "date": "Aug 12",
   "time": "12:45 PM",
@@ -4004,6 +3843,13 @@
   "theaterID": "angelika mosaic"
  },
  {
+  "title": "THE FANTASTIC FOUR: FIRST STEPS",
+  "date": "Aug 12",
+  "time": "1:45 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
   "title": "THE BAD GUYS 2",
   "date": "Aug 12",
   "time": "1:50 PM",
@@ -4023,6 +3869,13 @@
   "time": "2:30 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "IT’S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
+  "date": "Aug 12",
+  "time": "2:35 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
  },
  {
   "title": "Bad Shabbos",
@@ -4137,6 +3990,13 @@
   "theaterID": "avalon"
  },
  {
+  "title": "HOLA FRIDA",
+  "date": "Aug 12",
+  "time": "5:25 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
   "title": "HAPPINESS",
   "date": "Aug 12",
   "time": "6:30 PM",
@@ -4219,6 +4079,13 @@
   "time": "7:15 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "THE FANTASTIC FOUR: FIRST STEPS",
+  "date": "Aug 12",
+  "time": "7:15 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
  },
  {
   "title": "It’s Never Over, Jeff Buckley",
@@ -4879,13 +4746,6 @@
   "theaterID": "suns"
  },
  {
-  "title": "HARRY POTTER AND THE DEATHLY HALLOWS: PART 1",
-  "date": "Aug 15",
-  "time": "10:00 AM",
-  "status": "available",
-  "theaterID": "angelika popup"
- },
- {
   "title": "EAST OF WALL",
   "date": "Aug 15",
   "time": "10:30 AM",
@@ -5038,6 +4898,13 @@
   "time": "10:00 AM",
   "status": "available",
   "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "HARRY POTTER AND THE DEATHLY HALLOWS: PART 1",
+  "date": "Aug 16",
+  "time": "10:00 AM",
+  "status": "available",
+  "theaterID": "angelika popup"
  },
  {
   "title": "EAST OF WALL",
@@ -7353,6 +7220,27 @@
   "title": "JAWS: 50th ANNIVERSARY",
   "date": "Sep 04",
   "time": "12:00 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
+  "title": "VINCENT & THEO",
+  "date": "Sep 04",
+  "time": "1:00 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "JAWS: 50th ANNIVERSARY",
+  "date": "Sep 04",
+  "time": "1:30 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "JAWS: 50th ANNIVERSARY",
+  "date": "Sep 04",
+  "time": "3:00 PM",
   "status": "available",
   "theaterID": "angelika popup"
  }

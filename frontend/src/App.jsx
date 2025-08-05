@@ -1,11 +1,12 @@
 import BLACKLIST_PHRASES from './utils/blacklist.js';
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useState, useCallback } from "react";
 import DatePicker from "react-datepicker";
 import "react-datepicker/dist/react-datepicker.css";
 import "./index.css";
 import movies from './data/movies.json';
 import theaters from './data/theaters.json';
 import { getPosterUrl } from './utils/tmdb';
+import POSTER_OVERRIDES from './utils/posterOverrides.json';
 
 function normalizeDate(dateStr) {
   const match = dateStr.match(/^(\w{3})\s0?(\d{1,2})$/);
@@ -23,18 +24,17 @@ function normalizeTitle(title) {
   }
   return cleanedTitle.toLowerCase().replace(/[^\w\s]/g, '').replace(/\s+/g, ' ').trim();
 }
-// Group and condense movies by normalized date and normalized title (for stacking by movie, case-insensitive, ignore punctuation)
+
 const groupedByDateAndTitle = movies.reduce((acc, movie) => {
   const normTitle = normalizeTitle(movie.title);
   const normDate = normalizeDate(movie.date);
   if (!acc[normDate]) acc[normDate] = {};
   if (!acc[normDate][normTitle]) acc[normDate][normTitle] = [];
-  // Find if this theater already exists for this movie on this date
   let theaterEntry = acc[normDate][normTitle].find(m => m.theaterID === movie.theaterID);
   if (!theaterEntry) {
     acc[normDate][normTitle].push({
       ...movie,
-      date: normDate, // ensure all movies in group have normalized date
+      date: normDate,
       times: [{ time: movie.time, status: movie.status }]
     });
   } else {
@@ -71,35 +71,55 @@ export default function App() {
     return movie.times[0].time;
   };
 
+  const handleImageError = useCallback((e) => {
+    if (!e.target.getAttribute('data-error-handled')) {
+      e.target.src = '/posters/placeholder.webp';
+      e.target.setAttribute('data-error-handled', 'true');
+    }
+  }, []);
+
   useEffect(() => {
     const loadPosters = async () => {
       const results = {};
       const seen = new Set();
       for (const movie of movies) {
-        const key = `${movie.title}|${movie.theaterID}`;
+        const normTitle = normalizeTitle(movie.title);
+        const key = `${normTitle}|${movie.theaterID}`;
         if (!seen.has(key)) {
           seen.add(key);
-          const url = await getPosterUrl(movie.title);
-          if (url) results[movie.title] = url;
+          const url = await getPosterUrl(movie.title, movie.theaterID);
+          if (url) results[normTitle] = url;
         }
       }
       setPosters(results);
     };
-    loadPosters();
+    if (process.env.NODE_ENV !== 'production') {
+      loadPosters();
+    } else {
+      const staticPosters = {};
+      for (const movie of movies) {
+        const normTitle = normalizeTitle(movie.title);
+        const override = POSTER_OVERRIDES.find(o => normalizeTitle(o.title) === normTitle);
+        if (override?.file) {
+          staticPosters[normTitle] = `/fixed_posters/${override.file}`;
+        } else {
+          staticPosters[normTitle] = `/posters/${normTitle.replace(/\s+/g, '_')}.webp`;
+        }
+      }
+      setPosters(staticPosters);
+    }
   }, []);
 
-  const uniqueMovieKeys = new Set(movies.map(m => `${m.title}|${m.theaterID}`));
-// Unique movies by normalized title (case-insensitive, ignore punctuation)
-const uniqueMovies = Array.from(
-  movies.reduce((acc, m) => {
-    const norm = normalizeTitle(m.title);
-    if (!acc.has(norm)) acc.set(norm, m.title);
-    return acc;
-  }, new Map()).values()
-);
+  const uniqueMovieKeys = new Set(movies.map(m => `${normalizeTitle(m.title)}|${m.theaterID}`));
+  const uniqueMovies = Array.from(
+    movies.reduce((acc, m) => {
+      const norm = normalizeTitle(m.title);
+      if (!acc.has(norm)) acc.set(norm, m.title);
+      return acc;
+    }, new Map()).values()
+  );
   const offlineTheaters = theaters.filter(theater => theater.online === false);
   const availableDates = Object.keys(groupedByDateAndTitle).sort((a, b) => {
-    // Try to sort by month and day
     const parse = (s) => {
       const m = s.match(/^(\w{3})\s(\d{1,2})$/);
       if (!m) return [0, 0];
@@ -132,10 +152,9 @@ const uniqueMovies = Array.from(
     }
   }, [calendarDate]);
 
-    return (
+  return (
     <>
       <header className="w-full bg-zinc-800 shadow-md sticky top-0 z-50">
-        {/* Mobile layout: Title first, then buttons below */}
         <div className="sm:hidden px-4 py-4">
           <h1 className="text-4xl font-bold text-center text-white font-bungee border-b border-zinc-600 pb-2">
             🎬 DC Kino Showtimes
@@ -145,7 +164,6 @@ const uniqueMovies = Array.from(
             <button className="text-white material-icons text-base flex-1" onClick={() => setShowCalendar(true)}>calendar_month</button>
           </div>
         </div>
-        {/* Desktop layout: Buttons on either side of the title */}
         <div className="hidden sm:flex justify-between items-center px-4 py-4">
           <button className="text-white material-icons text-base" onClick={scrollToTop}>cottage</button>
           <h1 className="text-4xl font-bold text-center text-white font-bungee">
@@ -200,23 +218,20 @@ const uniqueMovies = Array.from(
                           .map((movie, idx, arr) => {
                             const theater = theaterMap[movie.theaterID];
                             const bgClass = theater?.colorClass || 'bg-zinc-800';
-                            const posterUrl = posters[movie.title];
+                            const normTitle = normalizeTitle(movie.title);
+                            const posterUrl = posters[normTitle] || `/posters/${normTitle.replace(/\s+/g, '_')}.webp`;
                             return (
                               <div
                                 key={movie.theaterID}
                                 onClick={() => {
-                                  setSelectedStack({ date, title: normalizeTitle(title), idx });
+                                  setSelectedStack({ date, title: normTitle, idx });
                                 }}
                                 className="cursor-pointer absolute left-0 right-0 rounded-2xl shadow-lg flex flex-row overflow-hidden h-60 transition-transform duration-300 transform hover:scale-[1.03] hover:shadow-2xl"
                                 style={{ top: `${idx * stackOffset}px`, zIndex: 10 + (arr.length - idx), opacity: 1 }}
                               >
                                 <div className="absolute inset-0 bg-zinc-900" style={{ zIndex: 0 }} />
                                 <div className="w-1/2 sm:w-1/3 h-full bg-zinc-700 flex items-center justify-center text-sm text-zinc-300 z-10">
-                                  {posterUrl ? (
-                                    <img src={posterUrl} alt={movie.title} className="object-cover w-full h-full" />
-                                  ) : (
-                                    movie.poster || 'Poster'
-                                  )}
+                                  <img src={posterUrl} alt={movie.title} className="object-cover w-full h-full" onError={handleImageError} />
                                 </div>
                                 <div className={`absolute inset-0 ${bgClass}`} style={{ zIndex: 1 }} />
                                 <div className="relative z-10 p-3 sm:p-6 flex flex-col justify-start w-1/2 sm:w-2/3 text-white">
@@ -256,24 +271,20 @@ const uniqueMovies = Array.from(
                 if (stack) {
                   const currentMovie = stack[idx];
                   const bgClass = theaterMap[currentMovie.theaterID]?.colorClass || 'bg-zinc-800';
-
+                  const normTitle = normalizeTitle(currentMovie.title);
+                  const posterUrl = posters[normTitle] || `/posters/${normTitle.replace(/\s+/g, '_')}.webp`;
                   return (
                     <>
                       <div className="absolute inset-0 bg-zinc-900 rounded-2xl" style={{ zIndex: 0 }} />
                       <div className={`absolute inset-0 rounded-2xl ${bgClass}`} style={{ zIndex: 1 }} />
                       <button onClick={() => setSelectedStack(null)} className="absolute top-2 right-2 text-white text-2xl z-20">×</button>
                       <div className="w-full md:w-1/2 flex justify-center items-center z-10">
-                        {posters[currentMovie.title] ? (
-                          <img
-                            src={posters[currentMovie.title]}
-                            alt={currentMovie.title}
-                            className="object-cover w-full max-h-[50vh] md:max-h-[80vh] rounded"
-                          />
-                        ) : (
-                          <div className="bg-zinc-700 h-60 w-full flex items-center justify-center text-sm text-zinc-300">
-                            {currentMovie.poster || 'Poster Unavailable'}
-                          </div>
-                        )}
+                        <img
+                          src={posterUrl}
+                          alt={currentMovie.title}
+                          className="object-cover w-full max-h-[50vh] md:max-h-[80vh] rounded"
+                          onError={handleImageError}
+                        />
                       </div>
                       <div className="w-full md:w-1/2 flex flex-col justify-center z-10 relative pb-16 md:pb-0">
                         <h2 className="text-3xl font-bold mb-2 font-limelight">{currentMovie.title}</h2>
