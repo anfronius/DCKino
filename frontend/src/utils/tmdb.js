@@ -1,21 +1,25 @@
 import BLACKLIST_PHRASES from './blacklist.js';
 import POSTER_OVERRIDES from './posterOverrides.json';
 
-export async function getPosterUrl(title, theaterID) {
-  const TMDB_API_KEY = import.meta.env.VITE_TMDB_API_KEY;
-
-  // Extract title and year if in format: "Movie Title (YYYY)"
-  const match = title.match(/^(.*?)(?:\s*\((\d{4})\))?$/);
-  let query = match?.[1]?.trim() ?? title;
-  let year = match?.[2];
-
-  // Apply phrase blacklist cleanup
+function normalizeTitle(title) {
+  let cleanedTitle = title;
   for (const phrase of BLACKLIST_PHRASES) {
     const regex = new RegExp(phrase, 'gi');
-    query = query.replace(regex, '').trim();
+    cleanedTitle = cleanedTitle.replace(regex, '').trim();
+  }
+  return cleanedTitle.toLowerCase().replace(/[^\w\s]/g, '').replace(/\s+/g, ' ').trim();
+}
+
+export async function getPosterUrl(title, theaterID) {
+  const match = title.match(/^(.*?)(?:\s*\((\d{4})\))?$/);
+  let query = normalizeTitle(match?.[1]?.trim() ?? title); // Normalize here
+  let year = match?.[2];
+
+  for (const phrase of BLACKLIST_PHRASES) {
+    const regex = new RegExp(phrase, 'gi');
+    query = query.replace(regex, '').trim(); // Additional cleanup (optional)
   }
 
-  // Check poster override
   const override = POSTER_OVERRIDES.find(
     entry => entry.title.toLowerCase() === query.toLowerCase()
   );
@@ -23,20 +27,16 @@ export async function getPosterUrl(title, theaterID) {
     year = override.year;
   }
 
-  const url = new URL("https://api.themoviedb.org/3/search/movie");
-  url.searchParams.append("api_key", TMDB_API_KEY);
-  url.searchParams.append("query", query);
-  if (year) url.searchParams.append("year", year);
+  const backendUrl = new URL(`http://localhost:3001/poster/${encodeURIComponent(query)}`);
+  if (year) {
+    backendUrl.searchParams.append('year', year);
+  }
 
   try {
-    const res = await fetch(url);
-    if (!res.ok) return null;
-
-    const data = await res.json();
-    const posterPath = data?.results?.[0]?.poster_path;
-    if (!posterPath) return null;
-
-    return `https://image.tmdb.org/t/p/w342${posterPath}`;
+    const response = await fetch(backendUrl);
+    if (!response.ok) return null;
+    const data = await response.json();
+    return data.posterUrl ? `http://localhost:3001${data.posterUrl}` : null;
   } catch {
     return null;
   }
