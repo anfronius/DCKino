@@ -9,6 +9,8 @@ const BLACKLIST_PHRASES = [
   '(sensory friendly)',
   '- 40th Anniversary',
   ': 50TH ANNIVERSARY',
+  ' in 70mm',
+  'BONUS CONTENT',
   // Add any more phrases you want to ignore here
 ];
 

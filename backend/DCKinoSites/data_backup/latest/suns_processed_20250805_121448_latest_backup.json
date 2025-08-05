@@ -1,12 +1,5 @@
 [
   {
-    "title": "MIDSOMMAR",
-    "date": "Aug 05",
-    "time": "9:30 PM",
-    "status": "sold out",
-    "theaterID": "suns"
-  },
-  {
     "title": "CLOSE-UP",
     "date": "Aug 06",
     "time": "7:00 PM",
@@ -192,7 +185,7 @@
     "title": "THE GAME",
     "date": "Aug 21",
     "time": "7:00 PM",
-    "status": "available",
+    "status": "sold out",
     "theaterID": "suns"
   },
   {

@@ -42,15 +42,15 @@
     "theaterID": "miracle"
   },
   {
-    "title": "The Wild Robot",
-    "date": "Jul 31",
+    "title": "An American Tail",
+    "date": "Aug 14",
     "time": "10:30 AM",
     "status": "available",
     "theaterID": "miracle"
   },
   {
-    "title": "An American Tail",
-    "date": "Aug 14",
+    "title": "The Wild Robot",
+    "date": "Jul 31",
     "time": "10:30 AM",
     "status": "available",
     "theaterID": "miracle"
@@ -147,16 +147,16 @@
     "theaterID": "miracle"
   },
   {
-    "title": "Materialists",
-    "date": "Aug 03",
-    "time": "4:00 PM",
+    "title": "The Phoenician Scheme",
+    "date": "Aug 10",
+    "time": "5:30 PM",
     "status": "available",
     "theaterID": "miracle"
   },
   {
-    "title": "The Phoenician Scheme",
-    "date": "Aug 10",
-    "time": "5:30 PM",
+    "title": "Materialists",
+    "date": "Aug 03",
+    "time": "4:00 PM",
     "status": "available",
     "theaterID": "miracle"
   },
@@ -203,16 +203,16 @@
     "theaterID": "miracle"
   },
   {
-    "title": "Triumph of the Heart \u2013 Early Access",
-    "date": "Aug 02",
-    "time": "4:00 PM",
+    "title": "This Is Spinal Tap",
+    "date": "Oct 03",
+    "time": "9:30 PM",
     "status": "available",
     "theaterID": "miracle"
   },
   {
-    "title": "This Is Spinal Tap",
-    "date": "Oct 03",
-    "time": "9:30 PM",
+    "title": "Triumph of the Heart \u2013 Early Access",
+    "date": "Aug 02",
+    "time": "4:00 PM",
     "status": "available",
     "theaterID": "miracle"
   },
@@ -259,15 +259,15 @@
     "theaterID": "miracle"
   },
   {
-    "title": "CatVideoFest 2025",
-    "date": "Aug 02",
+    "title": "Sing 2 (sensory friendly)",
+    "date": "Aug 22",
     "time": "2:00 PM",
     "status": "available",
     "theaterID": "miracle"
   },
   {
-    "title": "Sing 2 (sensory friendly)",
-    "date": "Aug 22",
+    "title": "CatVideoFest 2025",
+    "date": "Aug 02",
     "time": "2:00 PM",
     "status": "available",
     "theaterID": "miracle"

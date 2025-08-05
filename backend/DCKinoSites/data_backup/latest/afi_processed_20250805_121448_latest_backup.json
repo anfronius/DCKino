@@ -414,13 +414,6 @@
   },
   {
     "title": "RAN - 40th Anniversary",
-    "date": "Aug 04",
-    "time": "12:05 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "RAN - 40th Anniversary",
     "date": "Aug 05",
     "time": "11:45 AM",
     "status": "available",
@@ -995,13 +988,6 @@
   },
   {
     "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
-    "date": "Aug 04",
-    "time": "2:05 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
     "date": "Aug 05",
     "time": "2:05 PM",
     "status": "available",
@@ -1023,22 +1009,8 @@
   },
   {
     "title": "IMAGES",
-    "date": "Aug 04",
-    "time": "9:15 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "IMAGES",
     "date": "Aug 05",
     "time": "12:00 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "HOOSIERS",
-    "date": "Aug 04",
-    "time": "4:30 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
@@ -1102,13 +1074,6 @@
     "title": "HIGHEST 2 LOWEST",
     "date": "Aug 21",
     "time": "12:50 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "HIGH SOCIETY",
-    "date": "Aug 04",
-    "time": "2:00 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
@@ -1499,13 +1464,6 @@
   },
   {
     "title": "FOLKTALES",
-    "date": "Aug 04",
-    "time": "11:50 AM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "FOLKTALES",
     "date": "Aug 05",
     "time": "11:50 AM",
     "status": "available",
@@ -1554,7 +1512,7 @@
     "theaterID": "afisilver"
   },
   {
-    "title": "EEPHUS",
+    "title": "EEPHUS + Q&A",
     "date": "Aug 13",
     "time": "7:15 PM",
     "status": "available",
@@ -1620,13 +1578,6 @@
     "title": "CITY OF WOMEN",
     "date": "Sep 11",
     "time": "1:00 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "CatVideoFest 2025",
-    "date": "Aug 04",
-    "time": "6:30 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
@@ -1795,13 +1746,6 @@
     "title": "BARTON FINK",
     "date": "Sep 17",
     "time": "6:45 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "THE ASSASSIN (1961)",
-    "date": "Aug 04",
-    "time": "7:00 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
