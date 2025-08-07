@@ -64,7 +64,8 @@ function normalizeTitle(title) {
     const regex = new RegExp(phrase, 'gi');
     cleanedTitle = cleanedTitle.replace(regex, '').trim();
   }
-  return cleanedTitle.toLowerCase().replace(/[^\w\s]/g, '').replace(/\s+/g, ' ').trim();
+  // Preserve special characters, only collapse multiple spaces
+  return cleanedTitle.toLowerCase().replace(/\s+/g, ' ').trim();
 }
 
 async function fetchAllPosters() {

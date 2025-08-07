@@ -7,7 +7,8 @@ function normalizeTitle(title) {
     const regex = new RegExp(phrase, 'gi');
     cleanedTitle = cleanedTitle.replace(regex, '').trim();
   }
-  return cleanedTitle.toLowerCase().replace(/[^\w\s]/g, '').replace(/\s+/g, ' ').trim();
+  // Only replace multiple spaces, keep special characters like ½
+  return cleanedTitle.toLowerCase().replace(/\s+/g, ' ').trim();
 }
 
 export async function getPosterUrl(title, theaterID) {

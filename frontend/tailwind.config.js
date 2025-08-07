@@ -17,7 +17,8 @@ export default {
     'bg-pink-700/75',
     'bg-purple-600/75',
     'bg-neutral-50/75',
-    'bg-emerald-900/75'
+    'bg-emerald-900/75',
+    'text-zinc-900'
   ],
   theme: {
     extend: {

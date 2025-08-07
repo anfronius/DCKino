@@ -1,6 +1,7 @@
 import json
 from datetime import datetime, timedelta
 from pathlib import Path
+import blacklist_showings  # Import the script directly from the same directory
 
 # Base directory (where the Scrapy project is located)
 base_dir = Path(__file__).resolve().parent.parent
@@ -13,6 +14,9 @@ backup_dir = base_dir / "data_backup/latest"
 output_dir = base_dir.parent.parent / "frontend/src/data"
 output_path = output_dir / "movies.json"
 output_dir.mkdir(parents=True, exist_ok=True)
+
+# Access the BLACKLIST_SHOWINGS constant from the imported script
+BLACKLIST_SHOWINGS = blacklist_showings.BLACKLIST_SHOWINGS
 
 # Setting time limits
 today = datetime.today()
@@ -111,11 +115,13 @@ def main():
     for theater in theaters:
         combined += load_json(theater)
     print(f"\n{Colors.BLUE}Total combined entries: {len(combined)} {Styles.default}")
+    # Filter out blacklisted showings using raw titles
     filtered = [
         entry for entry in combined
         if (dt := parse_datetime(entry)) and today <= dt <= cutoff
+        and entry['title'] not in BLACKLIST_SHOWINGS
     ]
-    print(f"{Colors.BLUE}Entries within 30-day window: {len(filtered)} {Styles.default}")
+    print(f"{Colors.BLUE}Entries within 30-day window (after blacklist): {len(filtered)} {Styles.default}")
     sorted_combined = sorted(filtered, key=parse_datetime)
     try:
         with open(output_path, "w", encoding="utf-8") as f:

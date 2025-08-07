@@ -6,9 +6,10 @@ from datetime import datetime, timedelta
 class LandmarkSpider(scrapy.Spider):
     name = "landmark"
     allowed_domains = ["cms-assets.webediamovies.pro", "www.landmarktheatres.com"]
+    current_date = datetime.now().date().strftime('%Y-%m-%d')
     start_urls = [
-        "https://cms-assets.webediamovies.pro/prod/landmarktheatres/2025-07-03/public/page-data/sq/d/3360083659.json",
-        "https://cms-assets.webediamovies.pro/prod/landmarktheatres/2025-07-03/public/page-data/sq/d/3756244030.json",
+        f"https://cms-assets.webediamovies.pro/prod/landmarktheatres/{current_date}/public/page-data/sq/d/3360083659.json",
+        f"https://cms-assets.webediamovies.pro/prod/landmarktheatres/{current_date}/public/page-data/sq/d/3756244030.json",
         "https://www.landmarktheatres.com/api/gatsby-source-boxofficeapi/schedule",
     ]
 
