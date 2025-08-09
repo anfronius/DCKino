@@ -1,4 +1,4 @@
-import BLACKLIST_PHRASES from './utils/blacklist.js';
+import BLACKLIST_PHRASES from './utils/blacklistPosterPhrases.js';
 import React, { useEffect, useState, useCallback } from "react";
 import DatePicker from "react-datepicker";
 import "react-datepicker/dist/react-datepicker.css";
@@ -11,7 +11,16 @@ import POSTER_OVERRIDES from './utils/posterOverrides.json';
 function normalizeDate(dateStr) {
   const match = dateStr.match(/^(\w{3})\s0?(\d{1,2})$/);
   if (match) {
-    return `${match[1]} ${parseInt(match[2], 10)}`;
+    const year = new Date().getFullYear(); // Use current year (e.g., 2025)
+    return `${match[1]} ${parseInt(match[2], 10)}, ${year}`;
+  }
+  return dateStr;
+}
+
+function displayDate(dateStr) {
+  const match = dateStr.match(/^(\w{3})\s(\d{1,2}),\s\d{4}$/);
+  if (match) {
+    return `${match[1]} ${match[2]}`;
   }
   return dateStr;
 }
@@ -121,14 +130,14 @@ export default function App() {
   const offlineTheaters = theaters.filter(theater => theater.online === false);
   const availableDates = Object.keys(groupedByDateAndTitle).sort((a, b) => {
     const parse = (s) => {
-      const m = s.match(/^(\w{3})\s(\d{1,2})$/);
-      if (!m) return [0, 0];
+      const m = s.match(/^(\w{3})\s(\d{1,2}),\s(\d{4})$/);
+      if (!m) return [0, 0, 0];
       const months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
-      return [months.indexOf(m[1]), parseInt(m[2], 10)];
+      return [parseInt(m[3], 10), months.indexOf(m[1]), parseInt(m[2], 10)];
     };
-    const [ma, da] = parse(a);
-    const [mb, db] = parse(b);
-    return ma !== mb ? ma - mb : da - db;
+    const [ya, ma, da] = parse(a);
+    const [yb, mb, db] = parse(b);
+    return ya !== yb ? ya - yb : ma !== mb ? ma - mb : da - db;
   });
 
   const scrollToTop = () => {
@@ -154,42 +163,42 @@ export default function App() {
 
   return (
     <>
-      <header className="w-full bg-zinc-800 shadow-md sticky top-0 z-50">
+      <header className="main-header">
         <div className="sm:hidden px-4 py-4">
-          <h1 className="text-4xl font-bold text-center text-white font-bungee border-b border-zinc-600 pb-2">
+          <h1 className="title-header border-b border-zinc-600 pb-2">
             🎬 DC Kino Showtimes
           </h1>
           <div className="flex w-full px-4 mt-3 gap-4">
-            <button className="text-white material-icons text-base flex-1" onClick={scrollToTop}>cottage</button>
-            <button className="text-white material-icons text-base flex-1" onClick={() => setShowCalendar(true)}>calendar_month</button>
+            <button className="main-header-button material-icons" onClick={scrollToTop}>cottage</button>
+            <button className="main-header-button material-icons" onClick={() => setShowCalendar(true)}>calendar_month</button>
           </div>
         </div>
         <div className="hidden sm:flex justify-between items-center px-4 py-4">
-          <button className="text-white material-icons text-base" onClick={scrollToTop}>cottage</button>
-          <h1 className="text-4xl font-bold text-center text-white font-bungee">
+          <button className="main-header-button material-icons" onClick={scrollToTop}>cottage</button>
+          <h1 className="title-header">
             🎬 DC Kino Showtimes
           </h1>
-          <button className="text-white material-icons text-base" onClick={() => setShowCalendar(true)}>calendar_month</button>
+          <button className="main-header-button material-icons" onClick={() => setShowCalendar(true)}>calendar_month</button>
         </div>
       </header>
 
-      <header className="w-full bg-zinc-700 shadow-inner">
-        <div className="w-full px-4 py-3 text-white text-center text-sm sm:text-base font-audiowide">
+      <header className="secondary-header w-full shadow-inner">
+        <div className="w-full px-4 py-3 text-center text-sm sm:text-base">
           <div className="flex flex-col sm:flex-row justify-center items-center space-y-2 sm:space-y-0 sm:gap-6">
             <button 
-              className="bg-zinc-800 w-full sm:w-auto px-4 py-2 rounded flex items-center justify-center gap-2" 
+              className="secondary-header-button" 
               onClick={() => setShowMovieList(true)}
             >
               🎞️ {uniqueMovies.length} Movies Showing
             </button>
             <button 
-              className="bg-zinc-800 w-full sm:w-auto px-4 py-2 rounded flex items-center justify-center gap-2" 
+              className="secondary-header-button" 
               onClick={() => setShowTheaterList(true)}
             >
               🏛️ {Object.keys(theaterMap).length} Theaters Listed
             </button>
             <button 
-              className="bg-zinc-800 w-full sm:w-auto px-4 py-2 rounded flex items-center justify-center gap-2" 
+              className="secondary-header-button" 
               onClick={() => setShowOfflineList(true)}
             >
               🔌 {offlineTheaters.length > 0 ? `${offlineTheaters.length} Theater${offlineTheaters.length > 1 ? 's' : ''} Offline` : "All Theater Sites Online"}
@@ -198,14 +207,12 @@ export default function App() {
         </div>
       </header>
 
-      <main className="min-h-screen px-4 py-6 relative">
+      <main className="min-h-screen px-4 py-3 relative">
         <div className="w-full">
-          <div className="flex flex-col gap-10">
+          <div className="flex flex-col gap-20">
             {Object.entries(groupedByDateAndTitle).map(([date, moviesByTitle]) => (
-              <div key={date} id={`date-${new Date(date).toISOString().split("T")[0]}`} className="flex flex-col gap-4">
-                <h2 className="text-4xl font-bold text-white border-b border-zinc-600 pb-2 font-montserratalts">
-                  {date}
-                </h2>
+              <div key={date} id={`date-${new Date(date).toISOString().split("T")[0]}`} className="flex flex-col gap-6">
+                <h2 className="date-header">{displayDate(date)}</h2>
                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
                   {Object.entries(moviesByTitle).map(([title, showings], groupIdx) => {
                     const stackOffset = 32;
@@ -235,16 +242,16 @@ export default function App() {
                                 </div>
                                 <div className={`absolute inset-0 ${bgClass}`} style={{ zIndex: 1 }} />
                                 <div className="relative z-10 p-3 sm:p-6 flex flex-col justify-start w-1/2 sm:w-2/3 text-white">
-                                  <div className="text-xl sm:text-2xl font-semibold mt-0 sm:mt-1 mb-2 sm:mb-4 font-limelight line-clamp-3">{movie.title}</div>
+                                  <div className="movie-title text-xl sm:text-2xl font-semibold mt-0 sm:mt-1 mb-2 sm:mb-4 line-clamp-3">{movie.title}</div>
                                   <div className="mt-auto">
-                                    <div className="text-zinc-100 text-xs sm:text-sm leading-tight mb-1 sm:mb-3 font-montserratalts">
+                                    <div className="movie-times text-xs sm:text-sm leading-tight mb-1 sm:mb-3">
                                       {movie.times.map(({ time, status }, i) => (
                                         <span key={i} className={status !== 'available' ? 'line-through' : ''}>
                                           {i > 0 ? ' • ' : ''}{time}
                                         </span>
                                       ))}
                                     </div>
-                                    <div className="text-zinc-100 text-lg sm:text-xl font-alumnisc line-clamp-2">{theater?.name || 'Unknown Theater'}</div>
+                                    <div className="theater-name text-lg sm:text-xl line-clamp-2">{theater?.name || 'Unknown Theater'}</div>
                                   </div>
                                 </div>
                               </div>
@@ -287,16 +294,16 @@ export default function App() {
                         />
                       </div>
                       <div className="w-full md:w-1/2 flex flex-col justify-center z-10 relative pb-16 md:pb-0">
-                        <h2 className="text-3xl font-bold mb-2 font-limelight">{currentMovie.title}</h2>
-                        <p className="text-zinc-300 text-sm mb-2 font-montserratalts">{currentMovie.date}</p>
-                        <p className="text-zinc-300 mb-2 text-sm font-montserratalts">
+                        <h2 className="movie-title text-3xl font-bold mb-2">{currentMovie.title}</h2>
+                        <p className="movie-times text-sm mb-2">{displayDate(currentMovie.date)}</p>
+                        <p className="movie-times text-sm mb-2">
                           {currentMovie.times.map(({ time, status }, i) => (
                             <span key={i} className={status !== 'available' ? 'line-through' : ''}>
                               {i > 0 ? ' • ' : ''}{time}
                             </span>
                           ))}
                         </p>
-                        <p className="text-zinc-100 text-xl font-alumnisc mb-4">{theaterMap[currentMovie.theaterID]?.name || 'Unknown Theater'}</p>
+                        <p className="theater-name text-xl mb-4">{theaterMap[currentMovie.theaterID]?.name || 'Unknown Theater'}</p>
                         {stack.length > 1 && (
                           <div className="flex justify-center items-center gap-4 mt-4 absolute left-0 right-0 bottom-0 md:relative md:bottom-auto md:mt-4">
                             <button
@@ -307,7 +314,7 @@ export default function App() {
                               }}
                               disabled={stack.length < 2}
                             >
-                              ◀
+                              <span className="material-icons">chevron_left</span>
                             </button>
                             <span className="text-sm text-zinc-300">{idx + 1} / {stack.length}</span>
                             <button
@@ -318,7 +325,7 @@ export default function App() {
                               }}
                               disabled={stack.length < 2}
                             >
-                              ▶
+                              <span className="material-icons">chevron_right</span>
                             </button>
                           </div>
                         )}
@@ -374,7 +381,7 @@ export default function App() {
                 onChange={(date) => setCalendarDate(date)}
                 inline
                 includeDates={availableDates.map(d => new Date(d))}
-                openToDate={calendarDate || (availableDates.length > 0 ? new Date(availableDates[0]) : new Date())}
+                openToDate={calendarDate || (availableDates.length > 0 ? new Date(availableDates[0]) : new Date(2025, 0, 1))}
               />
             </div>
           </Modal>

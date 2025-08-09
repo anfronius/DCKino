@@ -182,13 +182,6 @@
     "theaterID": "afisilver"
   },
   {
-    "title": "TO A LAND UNKNOWN",
-    "date": "Jul 31",
-    "time": "11:50 AM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
     "title": "THIEVES LIKE US",
     "date": "Aug 09",
     "time": "3:30 PM",
@@ -329,48 +322,6 @@
     "theaterID": "afisilver"
   },
   {
-    "title": "SHANGHAI BLUES",
-    "date": "Jul 30",
-    "time": "9:15 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "SHANGHAI BLUES",
-    "date": "Jul 31",
-    "time": "11:40 AM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "SHALL WE DANCE? (1996)",
-    "date": "Jul 31",
-    "time": "4:00 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "SHALL WE DANCE? (1996)",
-    "date": "Aug 02",
-    "time": "8:50 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "SHALL WE DANCE? (1996)",
-    "date": "Aug 05",
-    "time": "8:50 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "SHALL WE DANCE? (1996)",
-    "date": "Aug 07",
-    "time": "8:50 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
     "title": "THE SEARCHERS in 70mm",
     "date": "Aug 30",
     "time": "3:45 PM",
@@ -444,62 +395,6 @@
     "title": "THE ROYAL TENENBAUMS",
     "date": "Sep 17",
     "time": "12:45 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "RICHARD III (1955)",
-    "date": "Jul 31",
-    "time": "3:45 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "RAN - 40th Anniversary",
-    "date": "Aug 01",
-    "time": "12:30 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "RAN - 40th Anniversary",
-    "date": "Aug 02",
-    "time": "5:45 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "RAN - 40th Anniversary",
-    "date": "Aug 03",
-    "time": "6:00 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "RAN - 40th Anniversary",
-    "date": "Aug 04",
-    "time": "12:05 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "RAN - 40th Anniversary",
-    "date": "Aug 05",
-    "time": "11:45 AM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "RAN - 40th Anniversary",
-    "date": "Aug 06",
-    "time": "11:45 AM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "RAN - 40th Anniversary",
-    "date": "Aug 07",
-    "time": "11:45 AM",
     "status": "available",
     "theaterID": "afisilver"
   },
@@ -735,20 +630,6 @@
     "theaterID": "afisilver"
   },
   {
-    "title": "OFFICE KILLER in 35mm",
-    "date": "Aug 01",
-    "time": "9:30 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "NORTH BY NORTHWEST",
-    "date": "Aug 08",
-    "time": "6:45 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
     "title": "NORTH BY NORTHWEST",
     "date": "Aug 10",
     "time": "3:45 PM",
@@ -759,13 +640,6 @@
     "title": "NORTH BY NORTHWEST",
     "date": "Aug 12",
     "time": "3:45 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "NO WAY OUT (1987)",
-    "date": "Aug 08",
-    "time": "9:30 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
@@ -842,7 +716,7 @@
   {
     "title": "MISSISSIPPI BURNING",
     "date": "Aug 16",
-    "time": "1:25 PM",
+    "time": "1:30 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
@@ -903,55 +777,6 @@
     "theaterID": "afisilver"
   },
   {
-    "title": "MCCABE & MRS. MILLER",
-    "date": "Aug 01",
-    "time": "4:00 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "MCCABE & MRS. MILLER",
-    "date": "Aug 03",
-    "time": "7:45 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "MCCABE & MRS. MILLER",
-    "date": "Aug 05",
-    "time": "4:30 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "MCCABE & MRS. MILLER",
-    "date": "Aug 06",
-    "time": "7:00 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "MCCABE & MRS. MILLER",
-    "date": "Aug 07",
-    "time": "12:00 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "MATERIALISTS",
-    "date": "Jul 31",
-    "time": "4:25 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "THE MAN WHO KNEW TOO MUCH (1956)",
-    "date": "Aug 08",
-    "time": "1:45 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
     "title": "THE MAN WHO KNEW TOO MUCH (1956)",
     "date": "Aug 09",
     "time": "1:20 PM",
@@ -981,13 +806,6 @@
   },
   {
     "title": "THE LONG GOODBYE",
-    "date": "Aug 08",
-    "time": "4:15 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "THE LONG GOODBYE",
     "date": "Aug 10",
     "time": "1:30 PM",
     "status": "available",
@@ -1004,13 +822,6 @@
     "title": "THE LONG GOODBYE",
     "date": "Aug 13",
     "time": "7:00 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "LA NOTTE",
-    "date": "Jul 31",
-    "time": "1:15 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
@@ -1092,142 +903,93 @@
     "theaterID": "afisilver"
   },
   {
-    "title": "INVASION OF ASTRO-MONSTER",
-    "date": "Jul 31",
-    "time": "9:30 PM",
+    "title": "IT'S NEVER OVER, JEFF BUCKLEY",
+    "date": "Aug 09",
+    "time": "5:45 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
   {
-    "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
-    "date": "Jul 30",
-    "time": "9:05 PM",
+    "title": "IT'S NEVER OVER, JEFF BUCKLEY",
+    "date": "Aug 10",
+    "time": "6:15 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
   {
-    "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
-    "date": "Jul 31",
-    "time": "1:45 PM",
+    "title": "IT'S NEVER OVER, JEFF BUCKLEY",
+    "date": "Aug 11",
+    "time": "12:45 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
   {
-    "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
-    "date": "Aug 01",
-    "time": "2:05 PM",
+    "title": "IT'S NEVER OVER, JEFF BUCKLEY",
+    "date": "Aug 12",
+    "time": "12:45 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
   {
-    "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
-    "date": "Aug 02",
-    "time": "2:05 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
-    "date": "Aug 03",
-    "time": "1:20 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
-    "date": "Aug 04",
-    "time": "2:05 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
-    "date": "Aug 05",
-    "time": "2:05 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
-    "date": "Aug 06",
-    "time": "2:05 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
-    "date": "Aug 07",
-    "time": "6:35 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "IMAGES",
-    "date": "Aug 02",
+    "title": "IT'S NEVER OVER, JEFF BUCKLEY",
+    "date": "Aug 13",
     "time": "3:30 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
   {
-    "title": "IMAGES",
-    "date": "Aug 04",
-    "time": "9:15 PM",
+    "title": "IT'S NEVER OVER, JEFF BUCKLEY",
+    "date": "Aug 14",
+    "time": "12:45 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
   {
-    "title": "IMAGES",
-    "date": "Aug 05",
-    "time": "12:00 PM",
+    "title": "HIGHEST 2 LOWEST",
+    "date": "Aug 15",
+    "time": "12:50 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
   {
-    "title": "HOOSIERS",
-    "date": "Aug 03",
-    "time": "5:15 PM",
+    "title": "HIGHEST 2 LOWEST",
+    "date": "Aug 16",
+    "time": "12:50 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
   {
-    "title": "HOOSIERS",
-    "date": "Aug 04",
-    "time": "4:30 PM",
+    "title": "HIGHEST 2 LOWEST",
+    "date": "Aug 17",
+    "time": "1:15 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
   {
-    "title": "HOOSIERS",
-    "date": "Aug 05",
-    "time": "9:15 PM",
+    "title": "HIGHEST 2 LOWEST",
+    "date": "Aug 18",
+    "time": "12:50 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
   {
-    "title": "HOOSIERS",
-    "date": "Aug 06",
-    "time": "4:30 PM",
+    "title": "HIGHEST 2 LOWEST",
+    "date": "Aug 19",
+    "time": "12:50 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
   {
-    "title": "HIGH SOCIETY",
-    "date": "Aug 02",
-    "time": "1:00 PM",
+    "title": "HIGHEST 2 LOWEST",
+    "date": "Aug 20",
+    "time": "12:50 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
   {
-    "title": "HIGH SOCIETY",
-    "date": "Aug 04",
-    "time": "2:00 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "HIGH SOCIETY",
-    "date": "Aug 06",
-    "time": "2:00 PM",
+    "title": "HIGHEST 2 LOWEST",
+    "date": "Aug 21",
+    "time": "12:50 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
@@ -1284,13 +1046,6 @@
     "title": "HEDWIG AND THE ANGRY INCH",
     "date": "Aug 19",
     "time": "4:45 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "HEARTS OF DARKNESS: A FILMMAKER'S APOCALYPSE",
-    "date": "Aug 08",
-    "time": "11:45 AM",
     "status": "available",
     "theaterID": "afisilver"
   },
@@ -1519,20 +1274,6 @@
     "theaterID": "afisilver"
   },
   {
-    "title": "THE GODFATHER PART II",
-    "date": "Aug 02",
-    "time": "7:15 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "THE GODFATHER PART II",
-    "date": "Aug 07",
-    "time": "7:00 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
     "title": "THE GODFATHER CODA: THE DEATH OF MICHAEL CORLEONE",
     "date": "Aug 31",
     "time": "7:30 PM",
@@ -1550,20 +1291,6 @@
     "title": "THE GODFATHER CODA: THE DEATH OF MICHAEL CORLEONE",
     "date": "Sep 04",
     "time": "6:00 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "THE GODFATHER",
-    "date": "Aug 03",
-    "time": "8:15 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "THE GODFATHER",
-    "date": "Aug 05",
-    "time": "8:15 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
@@ -1625,50 +1352,43 @@
   },
   {
     "title": "FOLKTALES",
-    "date": "Aug 01",
-    "time": "11:50 AM",
+    "date": "Aug 09",
+    "time": "1:45 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
   {
     "title": "FOLKTALES",
-    "date": "Aug 02",
-    "time": "11:50 AM",
+    "date": "Aug 10",
+    "time": "3:30 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
   {
     "title": "FOLKTALES",
-    "date": "Aug 03",
-    "time": "3:35 PM",
+    "date": "Aug 11",
+    "time": "1:50 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
   {
     "title": "FOLKTALES",
-    "date": "Aug 04",
-    "time": "11:50 AM",
+    "date": "Aug 12",
+    "time": "1:50 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
   {
     "title": "FOLKTALES",
-    "date": "Aug 05",
-    "time": "11:50 AM",
+    "date": "Aug 13",
+    "time": "1:50 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
   {
     "title": "FOLKTALES",
-    "date": "Aug 06",
-    "time": "11:50 AM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "FOLKTALES",
-    "date": "Aug 07",
-    "time": "11:50 AM",
+    "date": "Aug 14",
+    "time": "1:50 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
@@ -1701,58 +1421,23 @@
     "theaterID": "afisilver"
   },
   {
-    "title": "EEPHUS",
+    "title": "EEPHUS + Q&A",
     "date": "Aug 13",
     "time": "7:15 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
   {
-    "title": "EBIRAH, HORROR OF THE DEEP",
-    "date": "Aug 02",
-    "time": "11:00 AM",
+    "title": "David Gilmour Live at the Circus Maximus, Rome",
+    "date": "Sep 21",
+    "time": "3:45 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
   {
-    "title": "EBIRAH, HORROR OF THE DEEP",
-    "date": "Aug 03",
-    "time": "11:30 AM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "EBIRAH, HORROR OF THE DEEP",
-    "date": "Aug 06",
-    "time": "9:30 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "DIVORCE ITALIAN STYLE",
-    "date": "Aug 01",
-    "time": "11:30 AM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "DIVORCE ITALIAN STYLE",
-    "date": "Aug 02",
-    "time": "5:00 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "DIVORCE ITALIAN STYLE",
-    "date": "Aug 04",
-    "time": "11:45 AM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "DIVORCE ITALIAN STYLE",
-    "date": "Aug 05",
-    "time": "7:00 PM",
+    "title": "David Gilmour Live at the Circus Maximus, Rome",
+    "date": "Sep 24",
+    "time": "6:15 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
@@ -1771,37 +1456,44 @@
     "theaterID": "afisilver"
   },
   {
-    "title": "THE COURT JESTER",
-    "date": "Aug 01",
-    "time": "1:45 PM",
+    "title": "CLOUD (2024)",
+    "date": "Aug 09",
+    "time": "6:35 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
   {
-    "title": "THE COURT JESTER",
-    "date": "Aug 03",
-    "time": "1:15 PM",
+    "title": "CLOUD (2024)",
+    "date": "Aug 10",
+    "time": "5:45 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
   {
-    "title": "THE COURT JESTER",
-    "date": "Aug 05",
-    "time": "2:15 PM",
+    "title": "CLOUD (2024)",
+    "date": "Aug 11",
+    "time": "4:05 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
   {
-    "title": "THE COURT JESTER",
-    "date": "Aug 07",
-    "time": "2:30 PM",
+    "title": "CLOUD (2024)",
+    "date": "Aug 12",
+    "time": "4:05 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
   {
-    "title": "THE CONVERSATION (1974)",
-    "date": "Jul 31",
-    "time": "7:00 PM",
+    "title": "CLOUD (2024)",
+    "date": "Aug 13",
+    "time": "12:45 PM",
+    "status": "available",
+    "theaterID": "afisilver"
+  },
+  {
+    "title": "CLOUD (2024)",
+    "date": "Aug 14",
+    "time": "4:05 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
@@ -1828,50 +1520,43 @@
   },
   {
     "title": "CatVideoFest 2025",
-    "date": "Aug 01",
-    "time": "7:00 PM",
+    "date": "Aug 09",
+    "time": "12:00 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
   {
     "title": "CatVideoFest 2025",
-    "date": "Aug 02",
-    "time": "11:00 AM",
+    "date": "Aug 10",
+    "time": "1:45 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
   {
     "title": "CatVideoFest 2025",
-    "date": "Aug 03",
-    "time": "1:30 PM",
+    "date": "Aug 11",
+    "time": "12:00 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
   {
     "title": "CatVideoFest 2025",
-    "date": "Aug 04",
-    "time": "6:30 PM",
+    "date": "Aug 12",
+    "time": "12:00 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
   {
     "title": "CatVideoFest 2025",
-    "date": "Aug 05",
-    "time": "6:30 PM",
+    "date": "Aug 13",
+    "time": "12:00 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
   {
     "title": "CatVideoFest 2025",
-    "date": "Aug 06",
-    "time": "6:30 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "CatVideoFest 2025",
-    "date": "Aug 07",
-    "time": "9:30 PM",
+    "date": "Aug 14",
+    "time": "12:00 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
@@ -1953,20 +1638,6 @@
     "theaterID": "afisilver"
   },
   {
-    "title": "BREWSTER MCCLOUD",
-    "date": "Jul 30",
-    "time": "9:30 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "BOYS DON'T CRY in 35mm",
-    "date": "Aug 01",
-    "time": "6:45 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
     "title": "BLOOD SIMPLE",
     "date": "Aug 09",
     "time": "6:00 PM",
@@ -2033,27 +1704,6 @@
     "title": "BARTON FINK",
     "date": "Sep 17",
     "time": "6:45 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "THE ASSASSIN (1961)",
-    "date": "Aug 04",
-    "time": "7:00 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "THE ASSASSIN (1961)",
-    "date": "Aug 06",
-    "time": "11:45 AM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "THE ASSASSIN (1961)",
-    "date": "Aug 07",
-    "time": "4:45 PM",
     "status": "available",
     "theaterID": "afisilver"
   },

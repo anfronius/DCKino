@@ -1,141 +1,8 @@
 [
   {
-    "title": "THE WICKER MAN",
-    "date": "Aug 01",
+    "title": "PICNIC AT HANGING ROCK: 50TH ANNIVERSARY",
+    "date": "Aug 09",
     "time": "6:00 PM",
-    "status": "available",
-    "theaterID": "suns"
-  },
-  {
-    "title": "THE WICKER MAN",
-    "date": "Aug 01",
-    "time": "7:00 PM",
-    "status": "sold out",
-    "theaterID": "suns"
-  },
-  {
-    "title": "THE WICKER MAN",
-    "date": "Aug 05",
-    "time": "6:00 PM",
-    "status": "available",
-    "theaterID": "suns"
-  },
-  {
-    "title": "THE WICKER MAN",
-    "date": "Aug 05",
-    "time": "7:00 PM",
-    "status": "sold out",
-    "theaterID": "suns"
-  },
-  {
-    "title": "MIDSOMMAR",
-    "date": "Aug 01",
-    "time": "8:30 PM",
-    "status": "sold out",
-    "theaterID": "suns"
-  },
-  {
-    "title": "MIDSOMMAR",
-    "date": "Aug 01",
-    "time": "9:30 PM",
-    "status": "available",
-    "theaterID": "suns"
-  },
-  {
-    "title": "MIDSOMMAR",
-    "date": "Aug 05",
-    "time": "8:30 PM",
-    "status": "sold out",
-    "theaterID": "suns"
-  },
-  {
-    "title": "MIDSOMMAR",
-    "date": "Aug 05",
-    "time": "9:30 PM",
-    "status": "available",
-    "theaterID": "suns"
-  },
-  {
-    "title": "SINNERS",
-    "date": "Aug 02",
-    "time": "6:00 PM",
-    "status": "sold out",
-    "theaterID": "suns"
-  },
-  {
-    "title": "SINNERS",
-    "date": "Aug 02",
-    "time": "9:15 PM",
-    "status": "available",
-    "theaterID": "suns"
-  },
-  {
-    "title": "SINNERS",
-    "date": "Aug 02",
-    "time": "6:00 PM",
-    "status": "available",
-    "theaterID": "suns"
-  },
-  {
-    "title": "SINNERS",
-    "date": "Aug 02",
-    "time": "9:15 PM",
-    "status": "available",
-    "theaterID": "suns"
-  },
-  {
-    "title": "SINNERS",
-    "date": "Aug 08",
-    "time": "6:00 PM",
-    "status": "sold out",
-    "theaterID": "suns"
-  },
-  {
-    "title": "SINNERS",
-    "date": "Aug 08",
-    "time": "9:15 PM",
-    "status": "available",
-    "theaterID": "suns"
-  },
-  {
-    "title": "SINNERS",
-    "date": "Aug 08",
-    "time": "6:00 PM",
-    "status": "available",
-    "theaterID": "suns"
-  },
-  {
-    "title": "SINNERS",
-    "date": "Aug 08",
-    "time": "9:15 PM",
-    "status": "available",
-    "theaterID": "suns"
-  },
-  {
-    "title": "CLOSE-UP",
-    "date": "Aug 06",
-    "time": "7:00 PM",
-    "status": "sold out",
-    "theaterID": "suns"
-  },
-  {
-    "title": "TASTE OF CHERRY",
-    "date": "Aug 06",
-    "time": "9:30 PM",
-    "status": "available",
-    "theaterID": "suns"
-  },
-  {
-    "title": "UNDER THE SILVER LAKE",
-    "date": "Aug 07",
-    "time": "7:00 PM",
-    "status": "available",
-    "theaterID": "suns"
-  },
-  {
-    "title": "AFTER HOURS",
-    "date": "Aug 07",
-    "time": "10:00 PM",
     "status": "sold out",
     "theaterID": "suns"
   },
@@ -143,28 +10,21 @@
     "title": "PICNIC AT HANGING ROCK: 50TH ANNIVERSARY",
     "date": "Aug 09",
     "time": "6:00 PM",
-    "status": "available",
-    "theaterID": "suns"
-  },
-  {
-    "title": "PICNIC AT HANGING ROCK: 50TH ANNIVERSARY",
-    "date": "Aug 09",
-    "time": "6:00 PM",
-    "status": "available",
+    "status": "sold out",
     "theaterID": "suns"
   },
   {
     "title": "PICNIC AT HANGING ROCK: 50TH ANNIVERSARY",
     "date": "Aug 15",
     "time": "6:00 PM",
-    "status": "available",
+    "status": "sold out",
     "theaterID": "suns"
   },
   {
     "title": "PICNIC AT HANGING ROCK: 50TH ANNIVERSARY",
     "date": "Aug 15",
     "time": "6:00 PM",
-    "status": "available",
+    "status": "sold out",
     "theaterID": "suns"
   },
   {
@@ -178,7 +38,7 @@
     "title": "DESERT HEARTS",
     "date": "Aug 12",
     "time": "7:00 PM",
-    "status": "available",
+    "status": "sold out",
     "theaterID": "suns"
   },
   {
@@ -206,7 +66,7 @@
     "title": "SHALL WE DANCE?",
     "date": "Aug 14",
     "time": "7:00 PM",
-    "status": "available",
+    "status": "sold out",
     "theaterID": "suns"
   },
   {
@@ -220,7 +80,7 @@
     "title": "WOMAN IN THE DUNES",
     "date": "Aug 15",
     "time": "8:45 PM",
-    "status": "available",
+    "status": "sold out",
     "theaterID": "suns"
   },
   {
@@ -234,7 +94,7 @@
     "title": "WOMAN IN THE DUNES",
     "date": "Aug 19",
     "time": "8:45 PM",
-    "status": "available",
+    "status": "sold out",
     "theaterID": "suns"
   },
   {
@@ -248,7 +108,7 @@
     "title": "WATERWORLD",
     "date": "Aug 16",
     "time": "6:00 PM",
-    "status": "available",
+    "status": "sold out",
     "theaterID": "suns"
   },
   {
@@ -269,21 +129,21 @@
     "title": "CHESS OF THE WIND",
     "date": "Aug 20",
     "time": "7:00 PM",
-    "status": "available",
+    "status": "sold out",
     "theaterID": "suns"
   },
   {
     "title": "PARASITE",
     "date": "Aug 20",
     "time": "9:30 PM",
-    "status": "available",
+    "status": "sold out",
     "theaterID": "suns"
   },
   {
     "title": "THE GAME",
     "date": "Aug 21",
     "time": "7:00 PM",
-    "status": "available",
+    "status": "sold out",
     "theaterID": "suns"
   },
   {

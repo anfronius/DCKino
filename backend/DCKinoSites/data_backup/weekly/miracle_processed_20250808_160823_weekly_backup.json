@@ -21,15 +21,15 @@
     "theaterID": "miracle"
   },
   {
-    "title": "An American Tail",
-    "date": "Aug 14",
+    "title": "The Wild Robot",
+    "date": "Jul 31",
     "time": "10:30 AM",
     "status": "available",
     "theaterID": "miracle"
   },
   {
-    "title": "The Wild Robot",
-    "date": "Jul 31",
+    "title": "An American Tail",
+    "date": "Aug 14",
     "time": "10:30 AM",
     "status": "available",
     "theaterID": "miracle"
@@ -70,6 +70,62 @@
     "theaterID": "miracle"
   },
   {
+    "title": "CatVideoFest 2025",
+    "date": "Aug 16",
+    "time": "2:00 PM",
+    "status": "available",
+    "theaterID": "miracle"
+  },
+  {
+    "title": "How to Train Your Dragon",
+    "date": "Aug 17",
+    "time": "5:30 PM",
+    "status": "available",
+    "theaterID": "miracle"
+  },
+  {
+    "title": "F1: The Movie",
+    "date": "Aug 11",
+    "time": "7:00 PM",
+    "status": "available",
+    "theaterID": "miracle"
+  },
+  {
+    "title": "F1: The Movie",
+    "date": "Aug 10",
+    "time": "7:45 PM",
+    "status": "available",
+    "theaterID": "miracle"
+  },
+  {
+    "title": "CatVideoFest 2025",
+    "date": "Aug 12",
+    "time": "5:00 PM",
+    "status": "available",
+    "theaterID": "miracle"
+  },
+  {
+    "title": "F1: The Movie",
+    "date": "Aug 12",
+    "time": "7:00 PM",
+    "status": "available",
+    "theaterID": "miracle"
+  },
+  {
+    "title": "Materialists",
+    "date": "Aug 09",
+    "time": "4:00 PM",
+    "status": "available",
+    "theaterID": "miracle"
+  },
+  {
+    "title": "Willy Wonka and the Chocolate Factory",
+    "date": "Aug 11",
+    "time": "4:30 PM",
+    "status": "available",
+    "theaterID": "miracle"
+  },
+  {
     "title": "Materialists",
     "date": "Aug 03",
     "time": "4:00 PM",
@@ -77,16 +133,16 @@
     "theaterID": "miracle"
   },
   {
-    "title": "F1: The Movie",
-    "date": "Aug 04",
-    "time": "7:00 PM",
+    "title": "The Phoenician Scheme",
+    "date": "Aug 10",
+    "time": "5:30 PM",
     "status": "available",
     "theaterID": "miracle"
   },
   {
-    "title": "The Phoenician Scheme",
-    "date": "Aug 03",
-    "time": "6:30 PM",
+    "title": "F1: The Movie",
+    "date": "Aug 04",
+    "time": "7:00 PM",
     "status": "available",
     "theaterID": "miracle"
   },
@@ -105,9 +161,23 @@
     "theaterID": "miracle"
   },
   {
+    "title": "The Phoenician Scheme",
+    "date": "Aug 03",
+    "time": "6:30 PM",
+    "status": "available",
+    "theaterID": "miracle"
+  },
+  {
     "title": "The Sound of Music",
     "date": "Aug 10",
     "time": "2:00 PM",
+    "status": "available",
+    "theaterID": "miracle"
+  },
+  {
+    "title": "Triumph of the Heart \u2013 Early Access",
+    "date": "Aug 02",
+    "time": "4:00 PM",
     "status": "available",
     "theaterID": "miracle"
   },
@@ -126,14 +196,7 @@
     "theaterID": "miracle"
   },
   {
-    "title": "Triumph of the Heart \u2013 Early Access",
-    "date": "Aug 02",
-    "time": "4:00 PM",
-    "status": "available",
-    "theaterID": "miracle"
-  },
-  {
-    "title": "Match In A Haystack",
+    "title": "Match In A Haystack + Panel Discussion",
     "date": "Aug 14",
     "time": "7:00 PM",
     "status": "available",
@@ -147,7 +210,7 @@
     "theaterID": "miracle"
   },
   {
-    "title": "Match In A Haystack",
+    "title": "Match In A Haystack + Panel Discussino",
     "date": "Aug 24",
     "time": "7:00 PM",
     "status": "available",
@@ -175,13 +238,6 @@
     "theaterID": "miracle"
   },
   {
-    "title": "Sing 2 (sensory friendly)",
-    "date": "Aug 22",
-    "time": "2:00 PM",
-    "status": "available",
-    "theaterID": "miracle"
-  },
-  {
     "title": "CatVideoFest 2025",
     "date": "Aug 02",
     "time": "2:00 PM",
@@ -191,6 +247,13 @@
   {
     "title": "CatVideoFest 2025",
     "date": "Aug 03",
+    "time": "2:00 PM",
+    "status": "available",
+    "theaterID": "miracle"
+  },
+  {
+    "title": "Sing 2 (sensory friendly)",
+    "date": "Aug 22",
     "time": "2:00 PM",
     "status": "available",
     "theaterID": "miracle"

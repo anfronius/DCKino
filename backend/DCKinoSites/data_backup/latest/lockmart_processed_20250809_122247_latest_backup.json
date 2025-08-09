@@ -1,19 +1,5 @@
 [
   {
-    "title": "The Fantastic Four: First Steps",
-    "date": "Aug 07",
-    "time": "6:00 PM",
-    "status": "available",
-    "theaterID": "lockheedmartin"
-  },
-  {
-    "title": "F1\u00ae The Movie",
-    "date": "Aug 08",
-    "time": "6:00 PM",
-    "status": "available",
-    "theaterID": "lockheedmartin"
-  },
-  {
     "title": "F1\u00ae The Movie",
     "date": "Aug 09",
     "time": "6:00 PM",
@@ -44,6 +30,20 @@
   {
     "title": "F1\u00ae The Movie",
     "date": "Aug 17",
+    "time": "6:00 PM",
+    "status": "available",
+    "theaterID": "lockheedmartin"
+  },
+  {
+    "title": "Black Swan 15th Anniversary Exclusive",
+    "date": "Aug 21",
+    "time": "6:00 PM",
+    "status": "available",
+    "theaterID": "lockheedmartin"
+  },
+  {
+    "title": "Black Swan 15th Anniversary Exclusive",
+    "date": "Aug 24",
     "time": "6:00 PM",
     "status": "available",
     "theaterID": "lockheedmartin"

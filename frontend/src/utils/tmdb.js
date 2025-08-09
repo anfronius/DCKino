@@ -1,4 +1,4 @@
-import BLACKLIST_PHRASES from './blacklist.js';
+import BLACKLIST_PHRASES from './blacklistPosterPhrases.js';
 import POSTER_OVERRIDES from './posterOverrides.json';
 
 function normalizeTitle(title) {

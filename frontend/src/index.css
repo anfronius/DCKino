@@ -5,6 +5,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Limelight&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mozilla+Headline&display=swap');
 
 @tailwind base;
 @tailwind components;
@@ -13,19 +14,8 @@
 html,
 body,
 :root {
-  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
-  line-height: 1.5;
-  font-weight: 400;
-
-  height: 100%;
-  margin: 0;
-  padding: 0;
-  width: 100%;
-
+  @apply font-sans leading-normal font-normal h-full m-0 p-0 w-full text-white/90 bg-zinc-900;
   color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
-  background-color: #18181b; /* Tailwind bg-zinc-900 */
-
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -33,57 +23,112 @@ body,
 }
 
 a {
-  font-weight: 500;
-  color: #646cff;
-  text-decoration: inherit;
+  @apply font-medium text-indigo-500 no-underline;
 }
 a:hover {
-  color: #535bf2;
+  @apply text-indigo-600;
 }
 
 body {
-  margin: 0;
-  min-width: 320px;
-  min-height: 100vh;
-  background-color: #18181b;
-  color: #ffffff;
+  @apply m-0 min-w-[320px] min-h-screen bg-zinc-900 text-white;
 }
 
 h1 {
-  font-size: 3.2em;
-  line-height: 1.1;
+  @apply text-5xl leading-tight;
 }
 
 button {
-  border-radius: 8px;
-  border: 1px solid transparent;
-  padding: 0.6em 1.2em;
-  font-size: 1em;
-  font-weight: 500;
-  font-family: inherit;
-  background-color: #1a1a1a;
-  cursor: pointer;
-  transition: border-color 0.25s;
+  @apply rounded-lg border border-transparent px-4 py-2 text-lg font-medium bg-zinc-950 cursor-pointer transition-colors;
 }
 button:hover {
-  border-color: #646cff;
+  @apply border-indigo-500;
 }
 button:focus,
 button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
 
+.main-header {
+  @apply w-full bg-zinc-800 shadow-md sticky top-0 z-50;
+}
+
+.main-header-button {
+  @apply text-white text-base px-4 py-2 flex-1 sm:flex-none;
+}
+
+.title-header {
+  @apply text-white font-bungee text-4xl font-bold text-center;
+}
+
+.secondary-header {
+  @apply bg-zinc-700 text-white font-audiowide;
+}
+
+.secondary-header-button {
+  @apply bg-zinc-800 text-white text-base rounded px-4 py-2 flex items-center justify-center gap-2 w-full sm:w-auto;
+}
+
+.date-header {
+  @apply text-white text-4xl font-bold font-headline text-center relative pb-2;
+}
+.date-header::after {
+  content: '';
+  @apply absolute bottom-0 left-1/2 transform -translate-x-1/2 w-5/6 h-[2px] bg-gradient-to-r from-transparent via-zinc-600 to-transparent;
+}
+
+.movie-title {
+  @apply text-white font-limelight;
+}
+
+.movie-times {
+  @apply text-zinc-100 font-montserratalts;
+}
+
+.theater-name {
+  @apply text-zinc-100 font-alumnisc;
+}
+
 @media (prefers-color-scheme: light) {
   :root {
-    @apply text-zinc-900 bg-white;
+    @apply text-zinc-900 bg-zinc-200;
   }
   a:hover {
-    color: #747bff;
+    @apply text-indigo-400;
   }
   body {
-    @apply bg-white text-zinc-900;
+    @apply bg-inherit text-zinc-900;
   }
   button {
     @apply bg-gray-50;
+  }
+  .main-header {
+    @apply bg-gray-200;
+  }
+  .main-header-button {
+    @apply text-zinc-900 px-4 py-2;
+  }
+  .title-header {
+    @apply text-zinc-900 bg-inherit;
+  }
+  .secondary-header {
+    @apply bg-gray-100 text-zinc-900;
+  }
+  .secondary-header-button {
+    @apply bg-gray-300 text-zinc-900;
+  }
+  .date-header {
+    @apply text-zinc-900;
+  }
+  .date-header::after {
+    @apply bg-gradient-to-r from-transparent via-zinc-400 to-transparent;
+  }
+  .movie-title {
+    @apply text-black;
+  }
+  .movie-times {
+    @apply text-zinc-800;
+  }
+  .theater-name {
+    @apply text-zinc-900;
   }
 }

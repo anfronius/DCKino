@@ -2,7 +2,7 @@ const fs = require('fs').promises;
 const path = require('path');
 const fetch = require('node-fetch');
 const posterOverrides = require('../data/posterOverrides.json');
-const BLACKLIST_PHRASES = require('../data/blacklist.js');
+const BLACKLIST_PHRASES = require('../data/blacklistPosterPhrases.js');
 
 async function fetchPoster(title, year = null) {
   const url = new URL(`http://localhost:3001/poster/${encodeURIComponent(title)}`);

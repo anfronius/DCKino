@@ -1,33 +1,5 @@
 [
   {
-    "title": "SINNERS",
-    "date": "Aug 08",
-    "time": "6:00 PM",
-    "status": "sold out",
-    "theaterID": "suns"
-  },
-  {
-    "title": "SINNERS",
-    "date": "Aug 08",
-    "time": "9:15 PM",
-    "status": "sold out",
-    "theaterID": "suns"
-  },
-  {
-    "title": "PICNIC AT HANGING ROCK: 50TH ANNIVERSARY",
-    "date": "Aug 09",
-    "time": "6:00 PM",
-    "status": "sold out",
-    "theaterID": "suns"
-  },
-  {
-    "title": "PICNIC AT HANGING ROCK: 50TH ANNIVERSARY",
-    "date": "Aug 09",
-    "time": "6:00 PM",
-    "status": "available",
-    "theaterID": "suns"
-  },
-  {
     "title": "PICNIC AT HANGING ROCK: 50TH ANNIVERSARY",
     "date": "Aug 15",
     "time": "6:00 PM",
@@ -38,14 +10,7 @@
     "title": "PICNIC AT HANGING ROCK: 50TH ANNIVERSARY",
     "date": "Aug 15",
     "time": "6:00 PM",
-    "status": "available",
-    "theaterID": "suns"
-  },
-  {
-    "title": "CHINATOWN FUNK EXPRESS V",
-    "date": "Aug 09",
-    "time": "9:30 PM",
-    "status": "available",
+    "status": "sold out",
     "theaterID": "suns"
   },
   {
@@ -171,7 +136,7 @@
     "title": "PURPLE NOON",
     "date": "Aug 22",
     "time": "6:00 PM",
-    "status": "available",
+    "status": "sold out",
     "theaterID": "suns"
   },
   {
@@ -192,7 +157,7 @@
     "title": "THE SEALED SOIL",
     "date": "Aug 27",
     "time": "7:00 PM",
-    "status": "available",
+    "status": "sold out",
     "theaterID": "suns"
   },
   {

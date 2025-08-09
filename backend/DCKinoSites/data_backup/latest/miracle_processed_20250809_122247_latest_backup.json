@@ -7,6 +7,13 @@
     "theaterID": "miracle"
   },
   {
+    "title": "Harry Potter and The Sorcerer\u2019s Stone",
+    "date": "Aug 31",
+    "time": "2:00 PM",
+    "status": "available",
+    "theaterID": "miracle"
+  },
+  {
     "title": "Clueless",
     "date": "Aug 29",
     "time": "7:00 PM",
@@ -70,20 +77,6 @@
     "theaterID": "miracle"
   },
   {
-    "title": "CatVideoFest 2025",
-    "date": "Aug 16",
-    "time": "2:00 PM",
-    "status": "available",
-    "theaterID": "miracle"
-  },
-  {
-    "title": "How to Train Your Dragon",
-    "date": "Aug 17",
-    "time": "5:30 PM",
-    "status": "available",
-    "theaterID": "miracle"
-  },
-  {
     "title": "F1: The Movie",
     "date": "Aug 11",
     "time": "7:00 PM",
@@ -94,6 +87,90 @@
     "title": "F1: The Movie",
     "date": "Aug 10",
     "time": "7:45 PM",
+    "status": "available",
+    "theaterID": "miracle"
+  },
+  {
+    "title": "The Jury Experience: An Immersive Courtroom Case",
+    "date": "Dec 13",
+    "time": "7:30 PM",
+    "status": "available",
+    "theaterID": "miracle"
+  },
+  {
+    "title": "The Jury Experience: An Immersive Courtroom Case",
+    "date": "Dec 13",
+    "time": "5:00 PM",
+    "status": "available",
+    "theaterID": "miracle"
+  },
+  {
+    "title": "The American Analog Set perform \u201cMagic Hour\u201d",
+    "date": "Nov 22",
+    "time": "7:30 PM",
+    "status": "available",
+    "theaterID": "miracle"
+  },
+  {
+    "title": "Yasmin Elhady, Rola Z, Mahmoud Jaber",
+    "date": "Oct 17",
+    "time": "6:30 PM",
+    "status": "available",
+    "theaterID": "miracle"
+  },
+  {
+    "title": "Bret McKenzie \u2013 Freak Out City",
+    "date": "Oct 14",
+    "time": "6:30 PM",
+    "status": "available",
+    "theaterID": "miracle"
+  },
+  {
+    "title": "Copy of The Jury Experience: An Immersive Courtroom Case",
+    "date": "Sep 27",
+    "time": "7:30 PM",
+    "status": "available",
+    "theaterID": "miracle"
+  },
+  {
+    "title": "The Jury Experience: An Immersive Courtroom Case",
+    "date": "Sep 27",
+    "time": "5:00 PM",
+    "status": "available",
+    "theaterID": "miracle"
+  },
+  {
+    "title": "The Elite \u2013 Stand Up Comedy",
+    "date": "Sep 13",
+    "time": "7:30 PM",
+    "status": "available",
+    "theaterID": "miracle"
+  },
+  {
+    "title": "DC Moth StorySLAM: THEMELESS",
+    "date": "Sep 08",
+    "time": "6:30 PM",
+    "status": "available",
+    "theaterID": "miracle"
+  },
+  {
+    "title": "OLA Film Festival",
+    "date": "Aug 09",
+    "time": "7:00 PM",
+    "status": "available",
+    "theaterID": "miracle"
+  },
+  {
+    "title": "CatVideoFest 2025",
+    "date": "Aug 16",
+    "time": "2:00 PM",
+    "status": "available",
+    "theaterID": "miracle"
+  },
+  {
+    "title": "How to Train Your Dragon",
+    "date": "Aug 17",
+    "time": "5:30 PM",
     "status": "available",
     "theaterID": "miracle"
   },
@@ -196,7 +273,7 @@
     "theaterID": "miracle"
   },
   {
-    "title": "Match In A Haystack",
+    "title": "Match In A Haystack + Panel Discussion",
     "date": "Aug 14",
     "time": "7:00 PM",
     "status": "available",
@@ -210,7 +287,7 @@
     "theaterID": "miracle"
   },
   {
-    "title": "Match In A Haystack",
+    "title": "Match In A Haystack + Panel Discussino",
     "date": "Aug 24",
     "time": "7:00 PM",
     "status": "available",
@@ -269,13 +346,6 @@
     "title": "The Goonies",
     "date": "Sep 05",
     "time": "7:00 PM",
-    "status": "available",
-    "theaterID": "miracle"
-  },
-  {
-    "title": "Harry Potter and The Sorcerer\u2019s Stone",
-    "date": "Aug 31",
-    "time": "2:00 PM",
     "status": "available",
     "theaterID": "miracle"
   }

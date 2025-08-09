@@ -1,1592 +1,10 @@
 [
  {
-  "title": "THE NAKED GUN",
-  "date": "Aug 07",
-  "time": "3:25 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "THE FANTASTIC FOUR: FIRST STEPS",
-  "date": "Aug 07",
-  "time": "3:30 PM",
-  "status": "available",
-  "theaterID": "angelika popup"
- },
- {
-  "title": "Freakier Friday",
-  "date": "Aug 07",
-  "time": "3:30 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "F1 THE MOVIE",
-  "date": "Aug 07",
-  "time": "3:35 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "Weapons",
-  "date": "Aug 07",
-  "time": "3:40 PM",
-  "status": "available",
-  "theaterID": "landmark atlantic plumbing cinema"
- },
- {
-  "title": "OH, HI",
-  "date": "Aug 07",
-  "time": "3:50 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "The Fantastic Four: First Steps",
-  "date": "Aug 07",
-  "time": "4:00 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "Weapons",
-  "date": "Aug 07",
-  "time": "4:00 PM",
-  "status": "available",
-  "theaterID": "landmark atlantic plumbing cinema"
- },
- {
-  "title": "Superman",
-  "date": "Aug 07",
-  "time": "4:10 PM",
-  "status": "available",
-  "theaterID": "landmark atlantic plumbing cinema"
- },
- {
-  "title": "THE FANTASTIC FOUR: FIRST STEPS",
-  "date": "Aug 07",
-  "time": "4:15 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "SUPERMAN",
-  "date": "Aug 07",
-  "time": "4:15 PM",
-  "status": "available",
-  "theaterID": "angelika popup"
- },
- {
-  "title": "Superman",
-  "date": "Aug 07",
-  "time": "4:15 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "FREAKIER FRIDAY",
-  "date": "Aug 07",
-  "time": "4:30 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "THE FANTASTIC FOUR: FIRST STEPS",
-  "date": "Aug 07",
-  "time": "4:30 PM",
-  "status": "available",
-  "theaterID": "angelika popup"
- },
- {
-  "title": "Freakier Friday",
-  "date": "Aug 07",
-  "time": "4:30 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "The Bad Guys 2",
-  "date": "Aug 07",
-  "time": "4:30 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "The Fantastic Four: First Steps",
-  "date": "Aug 07",
-  "time": "4:30 PM",
-  "status": "available",
-  "theaterID": "landmark atlantic plumbing cinema"
- },
- {
-  "title": "Together",
-  "date": "Aug 07",
-  "time": "4:40 PM",
-  "status": "available",
-  "theaterID": "landmark atlantic plumbing cinema"
- },
- {
-  "title": "THE ASSASSIN (1961)",
-  "date": "Aug 07",
-  "time": "4:45 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "THE BAD GUYS 2",
-  "date": "Aug 07",
-  "time": "4:45 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "TOGETHER",
-  "date": "Aug 07",
-  "time": "4:45 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "Don’t Let’s Go to the Dogs Tonight",
-  "date": "Aug 07",
-  "time": "4:45 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "The Naked Gun",
-  "date": "Aug 07",
-  "time": "4:45 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "The Naked Gun",
-  "date": "Aug 07",
-  "time": "4:50 PM",
-  "status": "available",
-  "theaterID": "landmark atlantic plumbing cinema"
- },
- {
-  "title": "SUPERMAN",
-  "date": "Aug 07",
-  "time": "5:00 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "Weapons",
-  "date": "Aug 07",
-  "time": "5:00 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "Bad Shabbos",
-  "date": "Aug 07",
-  "time": "5:15 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "Together",
-  "date": "Aug 07",
-  "time": "5:15 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "THE NAKED GUN",
-  "date": "Aug 07",
-  "time": "5:30 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "Bad Shabbos",
-  "date": "Aug 07",
-  "time": "5:50 PM",
-  "status": "available",
-  "theaterID": "greenbeltcinema"
- },
- {
-  "title": "The Fantastic Four: First Steps",
-  "date": "Aug 07",
-  "time": "6:00 PM",
-  "status": "available",
-  "theaterID": "lockheedmartin"
- },
- {
-  "title": "THE BAD GUYS 2",
-  "date": "Aug 07",
-  "time": "6:05 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "Weapons",
-  "date": "Aug 07",
-  "time": "6:10 PM",
-  "status": "available",
-  "theaterID": "landmark atlantic plumbing cinema"
- },
- {
-  "title": "Weapons",
-  "date": "Aug 07",
-  "time": "6:30 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
-  "date": "Aug 07",
-  "time": "6:35 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "THE GODFATHER PART II",
-  "date": "Aug 07",
-  "time": "7:00 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "FREAKIER FRIDAY",
-  "date": "Aug 07",
-  "time": "7:00 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "IT’S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
-  "date": "Aug 07",
-  "time": "7:00 PM",
-  "status": "available",
-  "theaterID": "angelika popup"
- },
- {
-  "title": "SUPERMAN",
-  "date": "Aug 07",
-  "time": "7:00 PM",
-  "status": "available",
-  "theaterID": "angelika popup"
- },
- {
-  "title": "The Fantastic Four: First Steps",
-  "date": "Aug 07",
-  "time": "7:00 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "Freakier Friday",
-  "date": "Aug 07",
-  "time": "7:00 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "Superman",
-  "date": "Aug 07",
-  "time": "7:00 PM",
-  "status": "available",
-  "theaterID": "landmark atlantic plumbing cinema"
- },
- {
-  "title": "IT’S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
-  "date": "Aug 07",
-  "time": "7:05 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "THE FANTASTIC FOUR: FIRST STEPS",
-  "date": "Aug 07",
-  "time": "7:10 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "TOGETHER",
-  "date": "Aug 07",
-  "time": "7:10 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "Superman",
-  "date": "Aug 07",
-  "time": "7:10 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "Weapons",
-  "date": "Aug 07",
-  "time": "7:10 PM",
-  "status": "available",
-  "theaterID": "landmark atlantic plumbing cinema"
- },
- {
-  "title": "THE BAD GUYS 2",
-  "date": "Aug 07",
-  "time": "7:15 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "THE FANTASTIC FOUR: FIRST STEPS",
-  "date": "Aug 07",
-  "time": "7:15 PM",
-  "status": "available",
-  "theaterID": "angelika popup"
- },
- {
-  "title": "The Naked Gun",
-  "date": "Aug 07",
-  "time": "7:15 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "The Bad Guys 2",
-  "date": "Aug 07",
-  "time": "7:20 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "The Fantastic Four: First Steps",
-  "date": "Aug 07",
-  "time": "7:20 PM",
-  "status": "available",
-  "theaterID": "landmark atlantic plumbing cinema"
- },
- {
-  "title": "THE NAKED GUN",
-  "date": "Aug 07",
-  "time": "7:30 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "Bad Shabbos",
-  "date": "Aug 07",
-  "time": "7:30 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "Together",
-  "date": "Aug 07",
-  "time": "7:30 PM",
-  "status": "available",
-  "theaterID": "landmark atlantic plumbing cinema"
- },
- {
-  "title": "The Naked Gun",
-  "date": "Aug 07",
-  "time": "7:40 PM",
-  "status": "available",
-  "theaterID": "landmark atlantic plumbing cinema"
- },
- {
-  "title": "SUPERMAN",
-  "date": "Aug 07",
-  "time": "7:45 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "Sorry, Baby",
-  "date": "Aug 07",
-  "time": "7:45 PM",
-  "status": "available",
-  "theaterID": "greenbeltcinema"
- },
- {
-  "title": "Weapons",
-  "date": "Aug 07",
-  "time": "7:45 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "Together",
-  "date": "Aug 07",
-  "time": "7:45 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "To Catch a Thief (1955)",
-  "date": "Aug 07",
-  "time": "8:00 PM",
-  "status": "available",
-  "theaterID": "greenbeltcinema"
- },
- {
-  "title": "THE NAKED GUN",
-  "date": "Aug 07",
-  "time": "8:30 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "SHALL WE DANCE? (1996)",
-  "date": "Aug 07",
-  "time": "8:50 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "CatVideoFest 2025",
-  "date": "Aug 07",
-  "time": "9:30 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "IT’S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
-  "date": "Aug 07",
-  "time": "9:35 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "TOGETHER",
-  "date": "Aug 07",
-  "time": "9:35 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "FREAKIER FRIDAY",
-  "date": "Aug 07",
-  "time": "9:40 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "THE BAD GUYS 2",
-  "date": "Aug 07",
-  "time": "9:45 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "THE FANTASTIC FOUR: FIRST STEPS",
-  "date": "Aug 07",
-  "time": "9:50 PM",
-  "status": "available",
-  "theaterID": "angelika popup"
- },
- {
-  "title": "SUPERMAN",
-  "date": "Aug 07",
-  "time": "9:50 PM",
-  "status": "available",
-  "theaterID": "angelika popup"
- },
- {
-  "title": "THE FANTASTIC FOUR: FIRST STEPS",
-  "date": "Aug 07",
-  "time": "10:00 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "SUPERMAN",
-  "date": "Aug 07",
-  "time": "10:00 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "THE NAKED GUN",
-  "date": "Aug 07",
-  "time": "10:35 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "TOGETHER",
-  "date": "Aug 07",
-  "time": "10:35 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "SUPERMAN",
-  "date": "Aug 08",
-  "time": "10:45 AM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "FREAKIER FRIDAY",
-  "date": "Aug 08",
-  "time": "11:00 AM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "THE FANTASTIC FOUR: FIRST STEPS",
-  "date": "Aug 08",
-  "time": "11:05 AM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "THE BAD GUYS 2",
-  "date": "Aug 08",
-  "time": "11:15 AM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "WEAPONS",
-  "date": "Aug 08",
-  "time": "11:20 AM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "IT’S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
-  "date": "Aug 08",
-  "time": "11:30 AM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "Freakier Friday",
-  "date": "Aug 08",
-  "time": "11:30 AM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "Bad Shabbos",
-  "date": "Aug 08",
-  "time": "11:40 AM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "HEARTS OF DARKNESS: A FILMMAKER'S APOCALYPSE",
-  "date": "Aug 08",
-  "time": "11:45 AM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "The Bad Guys 2",
-  "date": "Aug 08",
-  "time": "11:45 AM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "THE NAKED GUN",
-  "date": "Aug 08",
-  "time": "11:50 AM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "CatVideoFest 2025",
-  "date": "Aug 08",
-  "time": "12:00 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "FREAKIER FRIDAY",
-  "date": "Aug 08",
-  "time": "12:00 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "The Naked Gun",
-  "date": "Aug 08",
-  "time": "12:00 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "THE FANTASTIC FOUR: FIRST STEPS",
-  "date": "Aug 08",
-  "time": "12:20 PM",
-  "status": "available",
-  "theaterID": "angelika popup"
- },
- {
-  "title": "Bad Shabbos",
-  "date": "Aug 08",
+  "title": "SOUTH PARK: BIGGER, LOUDER & UNCUT",
+  "date": "Aug 09",
   "time": "12:30 PM",
   "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "IT'S NEVER OVER, JEFF BUCKLEY",
-  "date": "Aug 08",
-  "time": "12:45 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "Bad Shabbos",
-  "date": "Aug 08",
-  "time": "12:45 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "The Fantastic Four: First Steps",
-  "date": "Aug 08",
-  "time": "1:00 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "Superman",
-  "date": "Aug 08",
-  "time": "1:00 PM",
-  "status": "available",
-  "theaterID": "landmark atlantic plumbing cinema"
- },
- {
-  "title": "It’s Never Over, Jeff Buckley",
-  "date": "Aug 08",
-  "time": "1:15 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "Superman",
-  "date": "Aug 08",
-  "time": "1:15 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "Weapons",
-  "date": "Aug 08",
-  "time": "1:15 PM",
-  "status": "available",
-  "theaterID": "landmark atlantic plumbing cinema"
- },
- {
-  "title": "FREAKIER FRIDAY",
-  "date": "Aug 08",
-  "time": "1:30 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "SUPERMAN",
-  "date": "Aug 08",
-  "time": "1:30 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "Together",
-  "date": "Aug 08",
-  "time": "1:30 PM",
-  "status": "available",
-  "theaterID": "landmark atlantic plumbing cinema"
- },
- {
-  "title": "THE MAN WHO KNEW TOO MUCH (1956)",
-  "date": "Aug 08",
-  "time": "1:45 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "THE FANTASTIC FOUR: FIRST STEPS",
-  "date": "Aug 08",
-  "time": "1:45 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "Weapons",
-  "date": "Aug 08",
-  "time": "1:45 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "The Fantastic Four: First Steps",
-  "date": "Aug 08",
-  "time": "1:45 PM",
-  "status": "available",
-  "theaterID": "landmark atlantic plumbing cinema"
- },
- {
-  "title": "FOLKTALES",
-  "date": "Aug 08",
-  "time": "1:50 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "THE BAD GUYS 2",
-  "date": "Aug 08",
-  "time": "1:50 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "IT’S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
-  "date": "Aug 08",
-  "time": "2:00 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "Freakier Friday",
-  "date": "Aug 08",
-  "time": "2:00 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "The Naked Gun",
-  "date": "Aug 08",
-  "time": "2:00 PM",
-  "status": "available",
-  "theaterID": "landmark atlantic plumbing cinema"
- },
- {
-  "title": "WEAPONS",
-  "date": "Aug 08",
-  "time": "2:15 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "The Bad Guys 2",
-  "date": "Aug 08",
-  "time": "2:15 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "Weapons",
-  "date": "Aug 08",
-  "time": "2:15 PM",
-  "status": "available",
-  "theaterID": "landmark atlantic plumbing cinema"
- },
- {
-  "title": "THE NAKED GUN",
-  "date": "Aug 08",
-  "time": "2:20 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "FREAKIER FRIDAY",
-  "date": "Aug 08",
-  "time": "2:30 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "IT’S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
-  "date": "Aug 08",
-  "time": "2:30 PM",
-  "status": "available",
   "theaterID": "angelika popup"
- },
- {
-  "title": "The Naked Gun",
-  "date": "Aug 08",
-  "time": "2:30 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "Bad Shabbos",
-  "date": "Aug 08",
-  "time": "2:45 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "Bad Shabbos",
-  "date": "Aug 08",
-  "time": "3:00 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "Together",
-  "date": "Aug 08",
-  "time": "3:00 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "Together",
-  "date": "Aug 08",
-  "time": "3:50 PM",
-  "status": "available",
-  "theaterID": "landmark atlantic plumbing cinema"
- },
- {
-  "title": "FREAKIER FRIDAY",
-  "date": "Aug 08",
-  "time": "4:00 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "The Fantastic Four: First Steps",
-  "date": "Aug 08",
-  "time": "4:00 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "Weapons",
-  "date": "Aug 08",
-  "time": "4:00 PM",
-  "status": "available",
-  "theaterID": "landmark atlantic plumbing cinema"
- },
- {
-  "title": "CLOUD (2024)",
-  "date": "Aug 08",
-  "time": "4:05 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "THE LONG GOODBYE",
-  "date": "Aug 08",
-  "time": "4:15 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "SUPERMAN",
-  "date": "Aug 08",
-  "time": "4:15 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "THE BAD GUYS 2",
-  "date": "Aug 08",
-  "time": "4:15 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "It’s Never Over, Jeff Buckley",
-  "date": "Aug 08",
-  "time": "4:15 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "Superman",
-  "date": "Aug 08",
-  "time": "4:15 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "Superman",
-  "date": "Aug 08",
-  "time": "4:15 PM",
-  "status": "available",
-  "theaterID": "landmark atlantic plumbing cinema"
- },
- {
-  "title": "THE FANTASTIC FOUR: FIRST STEPS",
-  "date": "Aug 08",
-  "time": "4:30 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "IT’S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
-  "date": "Aug 08",
-  "time": "4:30 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "Freakier Friday",
-  "date": "Aug 08",
-  "time": "4:30 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "The Fantastic Four: First Steps",
-  "date": "Aug 08",
-  "time": "4:30 PM",
-  "status": "available",
-  "theaterID": "landmark atlantic plumbing cinema"
- },
- {
-  "title": "The Bad Guys 2",
-  "date": "Aug 08",
-  "time": "4:40 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "Weapons",
-  "date": "Aug 08",
-  "time": "4:45 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "The Naked Gun",
-  "date": "Aug 08",
-  "time": "4:45 PM",
-  "status": "available",
-  "theaterID": "landmark atlantic plumbing cinema"
- },
- {
-  "title": "THE NAKED GUN",
-  "date": "Aug 08",
-  "time": "4:50 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "IT’S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
-  "date": "Aug 08",
-  "time": "4:55 PM",
-  "status": "available",
-  "theaterID": "angelika popup"
- },
- {
-  "title": "FREAKIER FRIDAY",
-  "date": "Aug 08",
-  "time": "5:00 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "WEAPONS",
-  "date": "Aug 08",
-  "time": "5:00 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "The Naked Gun",
-  "date": "Aug 08",
-  "time": "5:00 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "Weapons",
-  "date": "Aug 08",
-  "time": "5:00 PM",
-  "status": "available",
-  "theaterID": "landmark atlantic plumbing cinema"
- },
- {
-  "title": "Bad Shabbos",
-  "date": "Aug 08",
-  "time": "5:10 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "Bad Shabbos",
-  "date": "Aug 08",
-  "time": "5:15 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "THE FANTASTIC FOUR: FIRST STEPS",
-  "date": "Aug 08",
-  "time": "5:25 PM",
-  "status": "available",
-  "theaterID": "angelika popup"
- },
- {
-  "title": "Freakier Friday",
-  "date": "Aug 08",
-  "time": "5:30 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "Bad Shabbos",
-  "date": "Aug 08",
-  "time": "5:45 PM",
-  "status": "available",
-  "theaterID": "greenbeltcinema"
- },
- {
-  "title": "Bad Shabbos",
-  "date": "Aug 08",
-  "time": "5:45 PM",
-  "status": "available",
-  "theaterID": "greenbeltcinema"
- },
- {
-  "title": "Oh, Hi!",
-  "date": "Aug 08",
-  "time": "6:00 PM",
-  "status": "available",
-  "theaterID": "greenbeltcinema"
- },
- {
-  "title": "Oh, Hi!",
-  "date": "Aug 08",
-  "time": "6:00 PM",
-  "status": "available",
-  "theaterID": "greenbeltcinema"
- },
- {
-  "title": "F1® The Movie",
-  "date": "Aug 08",
-  "time": "6:00 PM",
-  "status": "available",
-  "theaterID": "lockheedmartin"
- },
- {
-  "title": "SINNERS",
-  "date": "Aug 08",
-  "time": "6:00 PM",
-  "status": "sold out",
-  "theaterID": "suns"
- },
- {
-  "title": "TOGETHER",
-  "date": "Aug 08",
-  "time": "6:30 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "NORTH BY NORTHWEST",
-  "date": "Aug 08",
-  "time": "6:45 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "THE BAD GUYS 2",
-  "date": "Aug 08",
-  "time": "6:45 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "Together",
-  "date": "Aug 08",
-  "time": "6:45 PM",
-  "status": "available",
-  "theaterID": "landmark atlantic plumbing cinema"
- },
- {
-  "title": "IT’S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
-  "date": "Aug 08",
-  "time": "7:00 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "Freakier Friday",
-  "date": "Aug 08",
-  "time": "7:00 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "Weapons",
-  "date": "Aug 08",
-  "time": "7:00 PM",
-  "status": "available",
-  "theaterID": "landmark atlantic plumbing cinema"
- },
- {
-  "title": "SUPERMAN",
-  "date": "Aug 08",
-  "time": "7:05 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "Superman",
-  "date": "Aug 08",
-  "time": "7:10 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "Superman",
-  "date": "Aug 08",
-  "time": "7:10 PM",
-  "status": "available",
-  "theaterID": "landmark atlantic plumbing cinema"
- },
- {
-  "title": "THE FANTASTIC FOUR: FIRST STEPS",
-  "date": "Aug 08",
-  "time": "7:15 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "It’s Never Over, Jeff Buckley",
-  "date": "Aug 08",
-  "time": "7:15 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "The Fantastic Four: First Steps",
-  "date": "Aug 08",
-  "time": "7:15 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "The Bad Guys 2",
-  "date": "Aug 08",
-  "time": "7:20 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "The Fantastic Four: First Steps",
-  "date": "Aug 08",
-  "time": "7:20 PM",
-  "status": "available",
-  "theaterID": "landmark atlantic plumbing cinema"
- },
- {
-  "title": "THE NAKED GUN",
-  "date": "Aug 08",
-  "time": "7:25 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "The Naked Gun",
-  "date": "Aug 08",
-  "time": "7:25 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "FREAKIER FRIDAY",
-  "date": "Aug 08",
-  "time": "7:30 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "IT’S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
-  "date": "Aug 08",
-  "time": "7:30 PM",
-  "status": "available",
-  "theaterID": "angelika popup"
- },
- {
-  "title": "Bad Shabbos",
-  "date": "Aug 08",
-  "time": "7:30 PM",
-  "status": "available",
-  "theaterID": "avalon"
- },
- {
-  "title": "Bad Shabbos",
-  "date": "Aug 08",
-  "time": "7:30 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "The Naked Gun",
-  "date": "Aug 08",
-  "time": "7:30 PM",
-  "status": "available",
-  "theaterID": "landmark atlantic plumbing cinema"
- },
- {
-  "title": "WEAPONS",
-  "date": "Aug 08",
-  "time": "7:45 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "Weapons",
-  "date": "Aug 08",
-  "time": "7:45 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "THE FANTASTIC FOUR: FIRST STEPS",
-  "date": "Aug 08",
-  "time": "8:00 PM",
-  "status": "available",
-  "theaterID": "angelika popup"
- },
- {
-  "title": "Oh, Hi!",
-  "date": "Aug 08",
-  "time": "8:00 PM",
-  "status": "available",
-  "theaterID": "greenbeltcinema"
- },
- {
-  "title": "Oh, Hi!",
-  "date": "Aug 08",
-  "time": "8:00 PM",
-  "status": "available",
-  "theaterID": "greenbeltcinema"
- },
- {
-  "title": "Freakier Friday",
-  "date": "Aug 08",
-  "time": "8:00 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "Weapons",
-  "date": "Aug 08",
-  "time": "8:00 PM",
-  "status": "available",
-  "theaterID": "landmark atlantic plumbing cinema"
- },
- {
-  "title": "IT’S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
-  "date": "Aug 08",
-  "time": "8:15 PM",
-  "status": "available",
-  "theaterID": "angelika popup"
- },
- {
-  "title": "The Last Class",
-  "date": "Aug 08",
-  "time": "8:15 PM",
-  "status": "available",
-  "theaterID": "greenbeltcinema"
- },
- {
-  "title": "The Last Class",
-  "date": "Aug 08",
-  "time": "8:15 PM",
-  "status": "available",
-  "theaterID": "greenbeltcinema"
- },
- {
-  "title": "THE NAKED GUN",
-  "date": "Aug 08",
-  "time": "8:45 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "Together",
-  "date": "Aug 08",
-  "time": "9:15 PM",
-  "status": "available",
-  "theaterID": "landmark atlantic plumbing cinema"
- },
- {
-  "title": "SINNERS",
-  "date": "Aug 08",
-  "time": "9:15 PM",
-  "status": "sold out",
-  "theaterID": "suns"
- },
- {
-  "title": "NO WAY OUT (1987)",
-  "date": "Aug 08",
-  "time": "9:30 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "IT’S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
-  "date": "Aug 08",
-  "time": "9:30 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "Together",
-  "date": "Aug 08",
-  "time": "9:30 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "The Naked Gun",
-  "date": "Aug 08",
-  "time": "9:30 PM",
-  "status": "available",
-  "theaterID": "landmark atlantic plumbing cinema"
- },
- {
-  "title": "The Bad Guys 2",
-  "date": "Aug 08",
-  "time": "9:40 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "Weapons",
-  "date": "Aug 08",
-  "time": "9:40 PM",
-  "status": "available",
-  "theaterID": "landmark atlantic plumbing cinema"
- },
- {
-  "title": "WEAPONS",
-  "date": "Aug 08",
-  "time": "9:45 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "Freakier Friday",
-  "date": "Aug 08",
-  "time": "9:45 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "The Fantastic Four: First Steps",
-  "date": "Aug 08",
-  "time": "9:50 PM",
-  "status": "available",
-  "theaterID": "landmark atlantic plumbing cinema"
- },
- {
-  "title": "SUPERMAN",
-  "date": "Aug 08",
-  "time": "9:55 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "THE FANTASTIC FOUR: FIRST STEPS",
-  "date": "Aug 08",
-  "time": "10:00 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "THE ROOM",
-  "date": "Aug 08",
-  "time": "10:00 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "The Naked Gun",
-  "date": "Aug 08",
-  "time": "10:00 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "Superman",
-  "date": "Aug 08",
-  "time": "10:00 PM",
-  "status": "available",
-  "theaterID": "landmark atlantic plumbing cinema"
- },
- {
-  "title": "FREAKIER FRIDAY",
-  "date": "Aug 08",
-  "time": "10:10 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "The Fantastic Four: First Steps",
-  "date": "Aug 08",
-  "time": "10:15 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "TOGETHER",
-  "date": "Aug 08",
-  "time": "10:30 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "The Rocky Horror Picture Show",
-  "date": "Aug 08",
-  "time": "10:30 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "Superman",
-  "date": "Aug 08",
-  "time": "10:30 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "Weapons",
-  "date": "Aug 08",
-  "time": "10:45 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "HARRY POTTER AND THE HALF-BLOOD PRINCE",
-  "date": "Aug 09",
-  "time": "10:00 AM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "THE FANTASTIC FOUR: FIRST STEPS",
-  "date": "Aug 09",
-  "time": "10:00 AM",
-  "status": "available",
-  "theaterID": "angelika popup"
- },
- {
-  "title": "HARRY POTTER AND THE HALF-BLOOD PRINCE",
-  "date": "Aug 09",
-  "time": "10:00 AM",
-  "status": "available",
-  "theaterID": "angelika popup"
- },
- {
-  "title": "SUPERMAN",
-  "date": "Aug 09",
-  "time": "10:45 AM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "THE TEN COMMANDMENTS (1956)",
-  "date": "Aug 09",
-  "time": "11:00 AM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "THE FANTASTIC FOUR: FIRST STEPS",
-  "date": "Aug 09",
-  "time": "11:00 AM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "Smallfoot",
-  "date": "Aug 09",
-  "time": "11:00 AM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "THE BAD GUYS 2",
-  "date": "Aug 09",
-  "time": "11:15 AM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "WEAPONS",
-  "date": "Aug 09",
-  "time": "11:20 AM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "GODZILLA VS. MEGALON",
-  "date": "Aug 09",
-  "time": "11:30 AM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "IT’S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
-  "date": "Aug 09",
-  "time": "11:30 AM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "IT’S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
-  "date": "Aug 09",
-  "time": "11:30 AM",
-  "status": "available",
-  "theaterID": "angelika popup"
- },
- {
-  "title": "Freakier Friday",
-  "date": "Aug 09",
-  "time": "11:30 AM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "Bad Shabbos",
-  "date": "Aug 09",
-  "time": "11:40 AM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "The Bad Guys 2",
-  "date": "Aug 09",
-  "time": "11:45 AM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
- },
- {
-  "title": "THE NAKED GUN",
-  "date": "Aug 09",
-  "time": "11:50 AM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "CatVideoFest 2025",
-  "date": "Aug 09",
-  "time": "12:00 PM",
-  "status": "available",
-  "theaterID": "afisilver"
- },
- {
-  "title": "FREAKIER FRIDAY",
-  "date": "Aug 09",
-  "time": "12:00 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
-  "title": "The Naked Gun",
-  "date": "Aug 09",
-  "time": "12:00 PM",
-  "status": "available",
-  "theaterID": "landmark bethesda row cinema"
  },
  {
   "title": "Bad Shabbos",
@@ -1657,6 +75,13 @@
   "time": "1:20 PM",
   "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "THE FANTASTIC FOUR: FIRST STEPS",
+  "date": "Aug 09",
+  "time": "1:25 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
  },
  {
   "title": "SUPERMAN",
@@ -1771,13 +196,6 @@
   "theaterID": "angelika mosaic"
  },
  {
-  "title": "FREAKIER FRIDAY",
-  "date": "Aug 09",
-  "time": "2:30 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
   "title": "IT’S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
   "date": "Aug 09",
   "time": "2:30 PM",
@@ -1785,11 +203,25 @@
   "theaterID": "angelika popup"
  },
  {
+  "title": "FREAKIER FRIDAY",
+  "date": "Aug 09",
+  "time": "2:30 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
   "title": "The Naked Gun",
   "date": "Aug 09",
   "time": "2:30 PM",
   "status": "available",
   "theaterID": "landmark bethesda row cinema"
+ },
+ {
+  "title": "SOUTH PARK: BIGGER, LOUDER & UNCUT",
+  "date": "Aug 09",
+  "time": "2:45 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
  },
  {
   "title": "Bad Shabbos",
@@ -1953,6 +385,13 @@
   "theaterID": "angelika mosaic"
  },
  {
+  "title": "IT’S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
+  "date": "Aug 09",
+  "time": "5:00 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
   "title": "FREAKIER FRIDAY",
   "date": "Aug 09",
   "time": "5:00 PM",
@@ -1965,13 +404,6 @@
   "time": "5:00 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
- },
- {
-  "title": "IT’S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
-  "date": "Aug 09",
-  "time": "5:00 PM",
-  "status": "available",
-  "theaterID": "angelika popup"
  },
  {
   "title": "The Naked Gun",
@@ -2016,18 +448,18 @@
   "theaterID": "greenbeltcinema"
  },
  {
-  "title": "#RUNSEOKJIN_EP.TOUR in AMSTERDAM: LIVE VIEWING",
-  "date": "Aug 09",
-  "time": "5:30 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
   "title": "THE FANTASTIC FOUR: FIRST STEPS",
   "date": "Aug 09",
   "time": "5:30 PM",
   "status": "available",
   "theaterID": "angelika popup"
+ },
+ {
+  "title": "#RUNSEOKJIN_EP.TOUR in AMSTERDAM: LIVE VIEWING",
+  "date": "Aug 09",
+  "time": "5:30 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
  },
  {
   "title": "The Last Class",
@@ -2063,20 +495,6 @@
   "time": "6:00 PM",
   "status": "available",
   "theaterID": "lockheedmartin"
- },
- {
-  "title": "PICNIC AT HANGING ROCK: 50TH ANNIVERSARY",
-  "date": "Aug 09",
-  "time": "6:00 PM",
-  "status": "sold out",
-  "theaterID": "suns"
- },
- {
-  "title": "PICNIC AT HANGING ROCK: 50TH ANNIVERSARY",
-  "date": "Aug 09",
-  "time": "6:00 PM",
-  "status": "available",
-  "theaterID": "suns"
  },
  {
   "title": "CLOUD (2024)",
@@ -2191,18 +609,18 @@
   "theaterID": "landmark bethesda row cinema"
  },
  {
-  "title": "FREAKIER FRIDAY",
-  "date": "Aug 09",
-  "time": "7:30 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
   "title": "IT’S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
   "date": "Aug 09",
   "time": "7:30 PM",
   "status": "available",
   "theaterID": "angelika popup"
+ },
+ {
+  "title": "FREAKIER FRIDAY",
+  "date": "Aug 09",
+  "time": "7:30 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
  },
  {
   "title": "Bad Shabbos",
@@ -2499,6 +917,13 @@
   "theaterID": "angelika mosaic"
  },
  {
+  "title": "SOUTH PARK: BIGGER, LOUDER & UNCUT",
+  "date": "Aug 10",
+  "time": "12:00 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
   "title": "FREAKIER FRIDAY",
   "date": "Aug 10",
   "time": "12:00 PM",
@@ -2569,18 +994,18 @@
   "theaterID": "afisilver"
  },
  {
-  "title": "SUPERMAN",
-  "date": "Aug 10",
-  "time": "1:30 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
   "title": "IT’S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
   "date": "Aug 10",
   "time": "1:30 PM",
   "status": "available",
   "theaterID": "angelika popup"
+ },
+ {
+  "title": "SUPERMAN",
+  "date": "Aug 10",
+  "time": "1:30 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
  },
  {
   "title": "Together",
@@ -2629,14 +1054,14 @@
   "date": "Aug 10",
   "time": "2:00 PM",
   "status": "available",
-  "theaterID": "angelika mosaic"
+  "theaterID": "angelika popup"
  },
  {
   "title": "DOCTOR ZHIVAGO",
   "date": "Aug 10",
   "time": "2:00 PM",
   "status": "available",
-  "theaterID": "angelika popup"
+  "theaterID": "angelika mosaic"
  },
  {
   "title": "The Naked Gun",
@@ -2828,18 +1253,18 @@
   "theaterID": "landmark atlantic plumbing cinema"
  },
  {
-  "title": "WEAPONS",
-  "date": "Aug 10",
-  "time": "4:25 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
   "title": "THE FANTASTIC FOUR: FIRST STEPS",
   "date": "Aug 10",
   "time": "4:25 PM",
   "status": "available",
   "theaterID": "angelika popup"
+ },
+ {
+  "title": "WEAPONS",
+  "date": "Aug 10",
+  "time": "4:25 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
  },
  {
   "title": "THE FANTASTIC FOUR: FIRST STEPS",
@@ -2980,6 +1405,13 @@
   "time": "6:15 PM",
   "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "SOUTH PARK: BIGGER, LOUDER & UNCUT",
+  "date": "Aug 10",
+  "time": "6:15 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
  },
  {
   "title": "TOGETHER",
@@ -3129,18 +1561,18 @@
   "theaterID": "landmark bethesda row cinema"
  },
  {
-  "title": "FREAKIER FRIDAY",
-  "date": "Aug 10",
-  "time": "7:30 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
   "title": "IT’S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
   "date": "Aug 10",
   "time": "7:30 PM",
   "status": "available",
   "theaterID": "angelika popup"
+ },
+ {
+  "title": "FREAKIER FRIDAY",
+  "date": "Aug 10",
+  "time": "7:30 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
  },
  {
   "title": "Bad Shabbos",
@@ -3241,14 +1673,14 @@
   "theaterID": "angelika mosaic"
  },
  {
-  "title": "THE NAKED GUN",
+  "title": "THE FANTASTIC FOUR: FIRST STEPS",
   "date": "Aug 10",
   "time": "10:00 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
  },
  {
-  "title": "THE FANTASTIC FOUR: FIRST STEPS",
+  "title": "THE NAKED GUN",
   "date": "Aug 10",
   "time": "10:00 PM",
   "status": "available",
@@ -3332,6 +1764,13 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "THE FANTASTIC FOUR: FIRST STEPS",
+  "date": "Aug 11",
+  "time": "12:00 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
   "title": "FREAKIER FRIDAY",
   "date": "Aug 11",
   "time": "12:00 PM",
@@ -3339,9 +1778,16 @@
   "theaterID": "angelika mosaic"
  },
  {
-  "title": "THE FANTASTIC FOUR: FIRST STEPS",
+  "title": "IT’S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
   "date": "Aug 11",
-  "time": "12:00 PM",
+  "time": "12:30 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
+  "title": "SOUTH PARK: BIGGER, LOUDER & UNCUT",
+  "date": "Aug 11",
+  "time": "12:30 PM",
   "status": "available",
   "theaterID": "angelika popup"
  },
@@ -3372,13 +1818,6 @@
   "time": "1:15 PM",
   "status": "available",
   "theaterID": "avalon"
- },
- {
-  "title": "IT’S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
-  "date": "Aug 11",
-  "time": "1:20 PM",
-  "status": "available",
-  "theaterID": "angelika popup"
  },
  {
   "title": "SUPERMAN",
@@ -3451,13 +1890,6 @@
   "theaterID": "angelika mosaic"
  },
  {
-  "title": "FREAKIER FRIDAY",
-  "date": "Aug 11",
-  "time": "2:30 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
   "title": "IT’S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
   "date": "Aug 11",
   "time": "2:30 PM",
@@ -3465,11 +1897,32 @@
   "theaterID": "angelika popup"
  },
  {
+  "title": "FREAKIER FRIDAY",
+  "date": "Aug 11",
+  "time": "2:30 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
   "title": "The Naked Gun",
   "date": "Aug 11",
   "time": "2:30 PM",
   "status": "available",
   "theaterID": "landmark bethesda row cinema"
+ },
+ {
+  "title": "THE FANTASTIC FOUR: FIRST STEPS",
+  "date": "Aug 11",
+  "time": "2:45 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
+  "title": "Oh, Hi!",
+  "date": "Aug 11",
+  "time": "2:45 PM",
+  "status": "available",
+  "theaterID": "greenbeltcinema"
  },
  {
   "title": "Oh, Hi!",
@@ -3491,6 +1944,13 @@
   "time": "3:00 PM",
   "status": "available",
   "theaterID": "avalon"
+ },
+ {
+  "title": "The Last Class",
+  "date": "Aug 11",
+  "time": "3:00 PM",
+  "status": "available",
+  "theaterID": "greenbeltcinema"
  },
  {
   "title": "The Last Class",
@@ -3584,6 +2044,13 @@
   "theaterID": "landmark atlantic plumbing cinema"
  },
  {
+  "title": "SOUTH PARK: BIGGER, LOUDER & UNCUT",
+  "date": "Aug 11",
+  "time": "4:30 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
   "title": "THE FANTASTIC FOUR: FIRST STEPS",
   "date": "Aug 11",
   "time": "4:30 PM",
@@ -3675,6 +2142,13 @@
   "theaterID": "greenbeltcinema"
  },
  {
+  "title": "Oh, Hi!",
+  "date": "Aug 11",
+  "time": "5:00 PM",
+  "status": "available",
+  "theaterID": "greenbeltcinema"
+ },
+ {
   "title": "The Naked Gun",
   "date": "Aug 11",
   "time": "5:00 PM",
@@ -3694,6 +2168,13 @@
   "time": "5:15 PM",
   "status": "available",
   "theaterID": "avalon"
+ },
+ {
+  "title": "Bad Shabbos",
+  "date": "Aug 11",
+  "time": "5:15 PM",
+  "status": "available",
+  "theaterID": "greenbeltcinema"
  },
  {
   "title": "Bad Shabbos",
@@ -3920,18 +2401,18 @@
   "theaterID": "angelika popup"
  },
  {
-  "title": "WEAPONS",
-  "date": "Aug 11",
-  "time": "8:30 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
   "title": "IT’S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
   "date": "Aug 11",
   "time": "8:30 PM",
   "status": "available",
   "theaterID": "angelika popup"
+ },
+ {
+  "title": "WEAPONS",
+  "date": "Aug 11",
+  "time": "8:30 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
  },
  {
   "title": "THIEVES LIKE US",
@@ -4106,6 +2587,13 @@
   "date": "Aug 12",
   "time": "1:45 PM",
   "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
+  "title": "THE FANTASTIC FOUR: FIRST STEPS",
+  "date": "Aug 12",
+  "time": "1:45 PM",
+  "status": "available",
   "theaterID": "angelika mosaic"
  },
  {
@@ -4114,13 +2602,6 @@
   "time": "1:45 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
- },
- {
-  "title": "THE FANTASTIC FOUR: FIRST STEPS",
-  "date": "Aug 12",
-  "time": "1:45 PM",
-  "status": "available",
-  "theaterID": "angelika popup"
  },
  {
   "title": "FOLKTALES",
@@ -4295,6 +2776,13 @@
   "date": "Aug 12",
   "time": "4:30 PM",
   "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
+  "title": "THE FANTASTIC FOUR: FIRST STEPS",
+  "date": "Aug 12",
+  "time": "4:30 PM",
+  "status": "available",
   "theaterID": "angelika mosaic"
  },
  {
@@ -4396,6 +2884,20 @@
   "theaterID": "avalon"
  },
  {
+  "title": "SOUTH PARK: BIGGER, LOUDER & UNCUT",
+  "date": "Aug 12",
+  "time": "5:30 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
+  "title": "Oh, Hi!",
+  "date": "Aug 12",
+  "time": "5:45 PM",
+  "status": "available",
+  "theaterID": "greenbeltcinema"
+ },
+ {
   "title": "Oh, Hi!",
   "date": "Aug 12",
   "time": "5:45 PM",
@@ -4442,14 +2944,21 @@
   "date": "Aug 12",
   "time": "7:00 PM",
   "status": "available",
-  "theaterID": "angelika mosaic"
+  "theaterID": "angelika popup"
  },
  {
   "title": "HARRY POTTER AND THE DEATHLY HALLOWS: PART 1",
   "date": "Aug 12",
   "time": "7:00 PM",
   "status": "available",
-  "theaterID": "angelika popup"
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "Make A Circle",
+  "date": "Aug 12",
+  "time": "7:00 PM",
+  "status": "available",
+  "theaterID": "greenbeltcinema"
  },
  {
   "title": "Make A Circle",
@@ -4519,14 +3028,14 @@
   "date": "Aug 12",
   "time": "7:15 PM",
   "status": "available",
-  "theaterID": "angelika mosaic"
+  "theaterID": "angelika popup"
  },
  {
   "title": "THE FANTASTIC FOUR: FIRST STEPS",
   "date": "Aug 12",
   "time": "7:15 PM",
   "status": "available",
-  "theaterID": "angelika popup"
+  "theaterID": "angelika mosaic"
  },
  {
   "title": "It’s Never Over, Jeff Buckley",
@@ -4571,18 +3080,18 @@
   "theaterID": "landmark bethesda row cinema"
  },
  {
-  "title": "FREAKIER FRIDAY",
-  "date": "Aug 12",
-  "time": "7:30 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
   "title": "IT’S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
   "date": "Aug 12",
   "time": "7:30 PM",
   "status": "available",
   "theaterID": "angelika popup"
+ },
+ {
+  "title": "FREAKIER FRIDAY",
+  "date": "Aug 12",
+  "time": "7:30 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
  },
  {
   "title": "Bad Shabbos",
@@ -4618,6 +3127,13 @@
   "time": "7:45 PM",
   "status": "available",
   "theaterID": "landmark bethesda row cinema"
+ },
+ {
+  "title": "Bad Shabbos",
+  "date": "Aug 12",
+  "time": "8:00 PM",
+  "status": "available",
+  "theaterID": "greenbeltcinema"
  },
  {
   "title": "Bad Shabbos",
@@ -4774,6 +3290,13 @@
   "theaterID": "angelika mosaic"
  },
  {
+  "title": "SOUTH PARK: BIGGER, LOUDER & UNCUT",
+  "date": "Aug 13",
+  "time": "12:10 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
   "title": "THE FANTASTIC FOUR: FIRST STEPS",
   "date": "Aug 13",
   "time": "12:20 PM",
@@ -4795,18 +3318,18 @@
   "theaterID": "avalon"
  },
  {
-  "title": "FREAKIER FRIDAY",
-  "date": "Aug 13",
-  "time": "1:00 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
   "title": "IT’S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
   "date": "Aug 13",
   "time": "1:00 PM",
   "status": "available",
   "theaterID": "angelika popup"
+ },
+ {
+  "title": "FREAKIER FRIDAY",
+  "date": "Aug 13",
+  "time": "1:00 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
  },
  {
   "title": "It’s Never Over, Jeff Buckley",
@@ -4865,18 +3388,18 @@
   "theaterID": "landmark bethesda row cinema"
  },
  {
-  "title": "WEAPONS",
-  "date": "Aug 13",
-  "time": "2:15 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
   "title": "THE FANTASTIC FOUR: FIRST STEPS",
   "date": "Aug 13",
   "time": "2:15 PM",
   "status": "available",
   "theaterID": "angelika popup"
+ },
+ {
+  "title": "WEAPONS",
+  "date": "Aug 13",
+  "time": "2:15 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
  },
  {
   "title": "The Bad Guys 2",
@@ -4914,6 +3437,13 @@
   "theaterID": "landmark bethesda row cinema"
  },
  {
+  "title": "SOUTH PARK: BIGGER, LOUDER & UNCUT",
+  "date": "Aug 13",
+  "time": "3:00 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
   "title": "Bad Shabbos",
   "date": "Aug 13",
   "time": "3:00 PM",
@@ -4946,14 +3476,14 @@
   "date": "Aug 13",
   "time": "4:00 PM",
   "status": "available",
-  "theaterID": "angelika mosaic"
+  "theaterID": "angelika popup"
  },
  {
   "title": "MANSFIELD PARK",
   "date": "Aug 13",
   "time": "4:00 PM",
   "status": "available",
-  "theaterID": "angelika popup"
+  "theaterID": "angelika mosaic"
  },
  {
   "title": "The Fantastic Four: First Steps",
@@ -5033,6 +3563,20 @@
   "theaterID": "landmark bethesda row cinema"
  },
  {
+  "title": "THE FANTASTIC FOUR: FIRST STEPS",
+  "date": "Aug 13",
+  "time": "5:00 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
+  "title": "IT’S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
+  "date": "Aug 13",
+  "time": "5:00 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
   "title": "FREAKIER FRIDAY",
   "date": "Aug 13",
   "time": "5:00 PM",
@@ -5045,20 +3589,6 @@
   "time": "5:00 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
- },
- {
-  "title": "IT’S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
-  "date": "Aug 13",
-  "time": "5:00 PM",
-  "status": "available",
-  "theaterID": "angelika popup"
- },
- {
-  "title": "THE FANTASTIC FOUR: FIRST STEPS",
-  "date": "Aug 13",
-  "time": "5:00 PM",
-  "status": "available",
-  "theaterID": "angelika popup"
  },
  {
   "title": "Bad Shabbos",
@@ -5121,14 +3651,14 @@
   "date": "Aug 13",
   "time": "7:00 PM",
   "status": "available",
-  "theaterID": "angelika mosaic"
+  "theaterID": "angelika popup"
  },
  {
   "title": "PRINCESS MONONOKE",
   "date": "Aug 13",
   "time": "7:00 PM",
   "status": "available",
-  "theaterID": "angelika popup"
+  "theaterID": "angelika mosaic"
  },
  {
   "title": "Freakier Friday",
@@ -5201,18 +3731,18 @@
   "theaterID": "landmark bethesda row cinema"
  },
  {
-  "title": "FREAKIER FRIDAY",
-  "date": "Aug 13",
-  "time": "7:30 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
   "title": "MANSFIELD PARK",
   "date": "Aug 13",
   "time": "7:30 PM",
   "status": "available",
   "theaterID": "angelika popup"
+ },
+ {
+  "title": "FREAKIER FRIDAY",
+  "date": "Aug 13",
+  "time": "7:30 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
  },
  {
   "title": "Bad Shabbos",
@@ -5236,18 +3766,18 @@
   "theaterID": "landmark bethesda row cinema"
  },
  {
-  "title": "TOGETHER",
-  "date": "Aug 13",
-  "time": "7:45 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
   "title": "IT’S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
   "date": "Aug 13",
   "time": "7:45 PM",
   "status": "available",
   "theaterID": "angelika popup"
+ },
+ {
+  "title": "TOGETHER",
+  "date": "Aug 13",
+  "time": "7:45 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
  },
  {
   "title": "Weapons",
@@ -5355,6 +3885,13 @@
   "theaterID": "miracle"
  },
  {
+  "title": "PRINCESS MONONOKE",
+  "date": "Aug 14",
+  "time": "11:00 AM",
+  "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
   "title": "THE FANTASTIC FOUR: FIRST STEPS",
   "date": "Aug 14",
   "time": "11:00 AM",
@@ -5367,13 +3904,6 @@
   "time": "11:00 AM",
   "status": "available",
   "theaterID": "angelika mosaic"
- },
- {
-  "title": "PRINCESS MONONOKE",
-  "date": "Aug 14",
-  "time": "11:00 AM",
-  "status": "available",
-  "theaterID": "angelika popup"
  },
  {
   "title": "IT’S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
@@ -5390,18 +3920,18 @@
   "theaterID": "afisilver"
  },
  {
-  "title": "THE NAKED GUN",
-  "date": "Aug 14",
-  "time": "11:50 AM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
   "title": "THE FANTASTIC FOUR: FIRST STEPS",
   "date": "Aug 14",
   "time": "11:50 AM",
   "status": "available",
   "theaterID": "angelika popup"
+ },
+ {
+  "title": "THE NAKED GUN",
+  "date": "Aug 14",
+  "time": "11:50 AM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
  },
  {
   "title": "CatVideoFest 2025",
@@ -5432,18 +3962,18 @@
   "theaterID": "greenbeltcinema"
  },
  {
-  "title": "SHIN GODZILLA (RE-RELEASE)",
-  "date": "Aug 14",
-  "time": "1:15 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
   "title": "IT’S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
   "date": "Aug 14",
   "time": "1:15 PM",
   "status": "available",
   "theaterID": "angelika popup"
+ },
+ {
+  "title": "SHIN GODZILLA (RE-RELEASE)",
+  "date": "Aug 14",
+  "time": "1:15 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
  },
  {
   "title": "It’s Never Over, Jeff Buckley",
@@ -5465,6 +3995,13 @@
   "time": "1:50 PM",
   "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "SOUTH PARK: BIGGER, LOUDER & UNCUT",
+  "date": "Aug 14",
+  "time": "2:00 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
  },
  {
   "title": "IT’S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
@@ -5565,6 +4102,13 @@
   "theaterID": "angelika popup"
  },
  {
+  "title": "IT’S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
+  "date": "Aug 14",
+  "time": "4:15 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
   "title": "It’s Never Over, Jeff Buckley",
   "date": "Aug 14",
   "time": "4:15 PM",
@@ -5598,13 +4142,6 @@
   "time": "4:30 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
- },
- {
-  "title": "IT’S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
-  "date": "Aug 14",
-  "time": "4:30 PM",
-  "status": "available",
-  "theaterID": "angelika popup"
  },
  {
   "title": "Freakier Friday",
@@ -5698,18 +4235,18 @@
   "theaterID": "angelika mosaic"
  },
  {
-  "title": "IT’S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
-  "date": "Aug 14",
-  "time": "7:00 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
   "title": "THE FANTASTIC FOUR: FIRST STEPS",
   "date": "Aug 14",
   "time": "7:00 PM",
   "status": "available",
   "theaterID": "angelika popup"
+ },
+ {
+  "title": "IT’S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
+  "date": "Aug 14",
+  "time": "7:00 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
  },
  {
   "title": "Freakier Friday",
@@ -5726,7 +4263,7 @@
   "theaterID": "landmark atlantic plumbing cinema"
  },
  {
-  "title": "Match In A Haystack",
+  "title": "Match In A Haystack + Panel Discussion",
   "date": "Aug 14",
   "time": "7:00 PM",
   "status": "available",
@@ -5759,6 +4296,13 @@
   "time": "7:15 PM",
   "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "IT’S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
+  "date": "Aug 14",
+  "time": "7:15 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
  },
  {
   "title": "THE FANTASTIC FOUR: FIRST STEPS",
@@ -5803,13 +4347,6 @@
   "theaterID": "landmark bethesda row cinema"
  },
  {
-  "title": "IT’S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
-  "date": "Aug 14",
-  "time": "7:30 PM",
-  "status": "available",
-  "theaterID": "angelika popup"
- },
- {
   "title": "Bad Shabbos",
   "date": "Aug 14",
   "time": "7:30 PM",
@@ -5852,13 +4389,6 @@
   "theaterID": "landmark bethesda row cinema"
  },
  {
-  "title": "SHIN GODZILLA (RE-RELEASE)",
-  "date": "Aug 14",
-  "time": "9:30 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
   "title": "IT’S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
   "date": "Aug 14",
   "time": "9:30 PM",
@@ -5866,7 +4396,14 @@
   "theaterID": "angelika popup"
  },
  {
-  "title": "THE NAKED GUN",
+  "title": "SHIN GODZILLA (RE-RELEASE)",
+  "date": "Aug 14",
+  "time": "9:30 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "COOLIE (TAMIL)",
   "date": "Aug 14",
   "time": "9:35 PM",
   "status": "available",
@@ -5880,11 +4417,25 @@
   "theaterID": "angelika popup"
  },
  {
+  "title": "THE NAKED GUN",
+  "date": "Aug 14",
+  "time": "9:45 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
   "title": "IT’S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
   "date": "Aug 14",
   "time": "9:55 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "SOUTH PARK: BIGGER, LOUDER & UNCUT",
+  "date": "Aug 14",
+  "time": "10:00 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
  },
  {
   "title": "THE FANTASTIC FOUR: FIRST STEPS",
@@ -5899,6 +4450,13 @@
   "time": "10:00 PM",
   "status": "available",
   "theaterID": "suns"
+ },
+ {
+  "title": "HIGHEST 2 LOWEST",
+  "date": "Aug 15",
+  "time": "10:20 AM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
  },
  {
   "title": "SHIN GODZILLA (RE-RELEASE)",
@@ -5943,6 +4501,13 @@
   "theaterID": "angelika mosaic"
  },
  {
+  "title": "HIGHEST 2 LOWEST",
+  "date": "Aug 15",
+  "time": "1:20 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
   "title": "CALIFORNIA SPLIT",
   "date": "Aug 15",
   "time": "2:30 PM",
@@ -5960,6 +4525,13 @@
   "title": "SHIN GODZILLA (RE-RELEASE)",
   "date": "Aug 15",
   "time": "4:00 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "HIGHEST 2 LOWEST",
+  "date": "Aug 15",
+  "time": "4:20 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
  },
@@ -5995,7 +4567,7 @@
   "title": "PICNIC AT HANGING ROCK: 50TH ANNIVERSARY",
   "date": "Aug 15",
   "time": "6:00 PM",
-  "status": "available",
+  "status": "sold out",
   "theaterID": "suns"
  },
  {
@@ -6013,9 +4585,16 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "HIGHEST 2 LOWEST",
+  "date": "Aug 15",
+  "time": "7:20 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
   "title": "EAST OF WALL",
   "date": "Aug 15",
-  "time": "7:35 PM",
+  "time": "7:30 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
  },
@@ -6048,9 +4627,16 @@
   "theaterID": "angelika mosaic"
  },
  {
-  "title": "HARRY POTTER AND THE DEATHLY HALLOWS: PART 1",
-  "date": "Aug 16",
-  "time": "10:00 AM",
+  "title": "COOLIE (TAMIL)",
+  "date": "Aug 15",
+  "time": "9:45 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "HIGHEST 2 LOWEST",
+  "date": "Aug 15",
+  "time": "10:20 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
  },
@@ -6060,6 +4646,20 @@
   "time": "10:00 AM",
   "status": "available",
   "theaterID": "angelika popup"
+ },
+ {
+  "title": "HARRY POTTER AND THE DEATHLY HALLOWS: PART 1",
+  "date": "Aug 16",
+  "time": "10:00 AM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "HIGHEST 2 LOWEST",
+  "date": "Aug 16",
+  "time": "10:20 AM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
  },
  {
   "title": "SHIN GODZILLA (RE-RELEASE)",
@@ -6118,6 +4718,13 @@
   "theaterID": "angelika mosaic"
  },
  {
+  "title": "HIGHEST 2 LOWEST",
+  "date": "Aug 16",
+  "time": "1:20 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
   "title": "MISSISSIPPI BURNING",
   "date": "Aug 16",
   "time": "1:30 PM",
@@ -6149,6 +4756,13 @@
   "title": "SHIN GODZILLA (RE-RELEASE)",
   "date": "Aug 16",
   "time": "4:00 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "HIGHEST 2 LOWEST",
+  "date": "Aug 16",
+  "time": "4:20 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
  },
@@ -6195,9 +4809,16 @@
   "theaterID": "angelika mosaic"
  },
  {
+  "title": "HIGHEST 2 LOWEST",
+  "date": "Aug 16",
+  "time": "7:20 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
   "title": "EAST OF WALL",
   "date": "Aug 16",
-  "time": "7:35 PM",
+  "time": "7:30 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
  },
@@ -6219,6 +4840,20 @@
   "title": "SHIN GODZILLA (RE-RELEASE)",
   "date": "Aug 16",
   "time": "9:30 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "HIGHEST 2 LOWEST",
+  "date": "Aug 16",
+  "time": "10:20 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "HIGHEST 2 LOWEST",
+  "date": "Aug 17",
+  "time": "10:20 AM",
   "status": "available",
   "theaterID": "angelika mosaic"
  },
@@ -6272,6 +4907,13 @@
   "theaterID": "angelika mosaic"
  },
  {
+  "title": "HIGHEST 2 LOWEST",
+  "date": "Aug 17",
+  "time": "1:20 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
   "title": "CALIFORNIA SPLIT",
   "date": "Aug 17",
   "time": "1:30 PM",
@@ -6314,6 +4956,13 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "HIGHEST 2 LOWEST",
+  "date": "Aug 17",
+  "time": "4:20 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
   "title": "EAST OF WALL",
   "date": "Aug 17",
   "time": "5:15 PM",
@@ -6349,9 +4998,16 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "HIGHEST 2 LOWEST",
+  "date": "Aug 17",
+  "time": "7:20 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
   "title": "EAST OF WALL",
   "date": "Aug 17",
-  "time": "7:35 PM",
+  "time": "7:30 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
  },
@@ -6370,9 +5026,23 @@
   "theaterID": "angelika mosaic"
  },
  {
-  "title": "EAST OF WALL",
+  "title": "COOLIE (TAMIL)",
   "date": "Aug 17",
-  "time": "9:50 PM",
+  "time": "9:45 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "HIGHEST 2 LOWEST",
+  "date": "Aug 17",
+  "time": "10:20 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "HIGHEST 2 LOWEST",
+  "date": "Aug 18",
+  "time": "10:20 AM",
   "status": "available",
   "theaterID": "angelika mosaic"
  },
@@ -6412,11 +5082,25 @@
   "theaterID": "angelika mosaic"
  },
  {
+  "title": "HIGHEST 2 LOWEST",
+  "date": "Aug 18",
+  "time": "1:20 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
   "title": "EAST OF WALL",
   "date": "Aug 18",
   "time": "3:00 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "ROMAN HOLIDAY",
+  "date": "Aug 18",
+  "time": "4:00 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
  },
  {
   "title": "SHIN GODZILLA (RE-RELEASE)",
@@ -6433,11 +5117,11 @@
   "theaterID": "angelika mosaic"
  },
  {
-  "title": "ROMAN HOLIDAY",
+  "title": "HIGHEST 2 LOWEST",
   "date": "Aug 18",
-  "time": "4:00 PM",
+  "time": "4:20 PM",
   "status": "available",
-  "theaterID": "angelika popup"
+  "theaterID": "angelika mosaic"
  },
  {
   "title": "ONE FROM THE HEART: REPRISE",
@@ -6472,14 +5156,14 @@
   "date": "Aug 18",
   "time": "7:00 PM",
   "status": "available",
-  "theaterID": "angelika mosaic"
+  "theaterID": "angelika popup"
  },
  {
   "title": "ROMAN HOLIDAY",
   "date": "Aug 18",
   "time": "7:00 PM",
   "status": "available",
-  "theaterID": "angelika popup"
+  "theaterID": "angelika mosaic"
  },
  {
   "title": "Mamoru Hosada’s The Boy and The Beast",
@@ -6489,9 +5173,16 @@
   "theaterID": "landmark bethesda row cinema"
  },
  {
+  "title": "HIGHEST 2 LOWEST",
+  "date": "Aug 18",
+  "time": "7:20 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
   "title": "EAST OF WALL",
   "date": "Aug 18",
-  "time": "7:35 PM",
+  "time": "7:30 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
  },
@@ -6510,9 +5201,16 @@
   "theaterID": "angelika mosaic"
  },
  {
-  "title": "EAST OF WALL",
+  "title": "COOLIE (TAMIL)",
   "date": "Aug 18",
-  "time": "9:50 PM",
+  "time": "9:45 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "HIGHEST 2 LOWEST",
+  "date": "Aug 19",
+  "time": "10:20 AM",
   "status": "available",
   "theaterID": "angelika mosaic"
  },
@@ -6559,6 +5257,13 @@
   "theaterID": "angelika mosaic"
  },
  {
+  "title": "HIGHEST 2 LOWEST",
+  "date": "Aug 19",
+  "time": "1:20 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
   "title": "CALIFORNIA SPLIT",
   "date": "Aug 19",
   "time": "2:30 PM",
@@ -6576,6 +5281,13 @@
   "title": "SHIN GODZILLA (RE-RELEASE)",
   "date": "Aug 19",
   "time": "4:00 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "HIGHEST 2 LOWEST",
+  "date": "Aug 19",
+  "time": "4:20 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
  },
@@ -6612,14 +5324,14 @@
   "date": "Aug 19",
   "time": "7:00 PM",
   "status": "available",
-  "theaterID": "angelika mosaic"
+  "theaterID": "angelika popup"
  },
  {
   "title": "HARRY POTTER AND THE DEATHLY HALLOWS: PART 2",
   "date": "Aug 19",
   "time": "7:00 PM",
   "status": "available",
-  "theaterID": "angelika popup"
+  "theaterID": "angelika mosaic"
  },
  {
   "title": "Eternal Sunshine of the Spotless Mind",
@@ -6636,9 +5348,16 @@
   "theaterID": "suns"
  },
  {
+  "title": "HIGHEST 2 LOWEST",
+  "date": "Aug 19",
+  "time": "7:20 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
   "title": "EAST OF WALL",
   "date": "Aug 19",
-  "time": "7:35 PM",
+  "time": "7:30 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
  },
@@ -6671,9 +5390,23 @@
   "theaterID": "angelika mosaic"
  },
  {
-  "title": "EAST OF WALL",
+  "title": "COOLIE (TAMIL)",
   "date": "Aug 19",
-  "time": "9:50 PM",
+  "time": "9:45 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "HIGHEST 2 LOWEST",
+  "date": "Aug 19",
+  "time": "10:20 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "HIGHEST 2 LOWEST",
+  "date": "Aug 20",
+  "time": "10:20 AM",
   "status": "available",
   "theaterID": "angelika mosaic"
  },
@@ -6720,6 +5453,13 @@
   "theaterID": "angelika mosaic"
  },
  {
+  "title": "HIGHEST 2 LOWEST",
+  "date": "Aug 20",
+  "time": "1:20 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
   "title": "RAISING ARIZONA",
   "date": "Aug 20",
   "time": "1:30 PM",
@@ -6741,6 +5481,13 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "EMMA",
+  "date": "Aug 20",
+  "time": "4:00 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
   "title": "SHIN GODZILLA (RE-RELEASE)",
   "date": "Aug 20",
   "time": "4:00 PM",
@@ -6755,11 +5502,11 @@
   "theaterID": "angelika mosaic"
  },
  {
-  "title": "EMMA",
+  "title": "HIGHEST 2 LOWEST",
   "date": "Aug 20",
-  "time": "4:00 PM",
+  "time": "4:20 PM",
   "status": "available",
-  "theaterID": "angelika popup"
+  "theaterID": "angelika mosaic"
  },
  {
   "title": "EAST OF WALL",
@@ -6790,18 +5537,18 @@
   "theaterID": "afisilver"
  },
  {
-  "title": "WHISPER OF THE HEART",
-  "date": "Aug 20",
-  "time": "7:00 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
   "title": "EMMA",
   "date": "Aug 20",
   "time": "7:00 PM",
   "status": "available",
   "theaterID": "angelika popup"
+ },
+ {
+  "title": "WHISPER OF THE HEART",
+  "date": "Aug 20",
+  "time": "7:00 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
  },
  {
   "title": "The Maltese Falcon",
@@ -6825,6 +5572,13 @@
   "theaterID": "angelika mosaic"
  },
  {
+  "title": "HIGHEST 2 LOWEST",
+  "date": "Aug 20",
+  "time": "7:20 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
   "title": "WHISPER OF THE HEART",
   "date": "Aug 20",
   "time": "7:30 PM",
@@ -6834,7 +5588,7 @@
  {
   "title": "EAST OF WALL",
   "date": "Aug 20",
-  "time": "7:35 PM",
+  "time": "7:30 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
  },
@@ -6874,9 +5628,9 @@
   "theaterID": "suns"
  },
  {
-  "title": "EAST OF WALL",
+  "title": "COOLIE (TAMIL)",
   "date": "Aug 20",
-  "time": "9:50 PM",
+  "time": "9:45 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
  },
@@ -6899,14 +5653,14 @@
   "date": "Aug 21",
   "time": "11:00 AM",
   "status": "available",
-  "theaterID": "angelika mosaic"
+  "theaterID": "angelika popup"
  },
  {
   "title": "WHISPER OF THE HEART",
   "date": "Aug 21",
   "time": "11:00 AM",
   "status": "available",
-  "theaterID": "angelika popup"
+  "theaterID": "angelika mosaic"
  },
  {
   "title": "HIGHEST 2 LOWEST",
@@ -6942,6 +5696,13 @@
   "time": "4:45 PM",
   "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "Black Swan 15th Anniversary Exclusive",
+  "date": "Aug 21",
+  "time": "6:00 PM",
+  "status": "available",
+  "theaterID": "lockheedmartin"
  },
  {
   "title": "MISSISSIPPI BURNING",
@@ -7038,7 +5799,7 @@
   "title": "PURPLE NOON",
   "date": "Aug 22",
   "time": "6:00 PM",
-  "status": "available",
+  "status": "sold out",
   "theaterID": "suns"
  },
  {
@@ -7210,7 +5971,14 @@
   "theaterID": "afisilver"
  },
  {
-  "title": "Match In A Haystack",
+  "title": "Black Swan 15th Anniversary Exclusive",
+  "date": "Aug 24",
+  "time": "6:00 PM",
+  "status": "available",
+  "theaterID": "lockheedmartin"
+ },
+ {
+  "title": "Match In A Haystack + Panel Discussino",
   "date": "Aug 24",
   "time": "7:00 PM",
   "status": "available",
@@ -7263,14 +6031,14 @@
   "date": "Aug 25",
   "time": "7:00 PM",
   "status": "available",
-  "theaterID": "angelika mosaic"
+  "theaterID": "angelika popup"
  },
  {
   "title": "FIDDLER ON THE ROOF",
   "date": "Aug 25",
   "time": "7:00 PM",
   "status": "available",
-  "theaterID": "angelika popup"
+  "theaterID": "angelika mosaic"
  },
  {
   "title": "SALVATION!",
@@ -7375,14 +6143,14 @@
   "date": "Aug 27",
   "time": "4:00 PM",
   "status": "available",
-  "theaterID": "angelika mosaic"
+  "theaterID": "angelika popup"
  },
  {
   "title": "PRIDE & PREJUDICE",
   "date": "Aug 27",
   "time": "4:00 PM",
   "status": "available",
-  "theaterID": "angelika popup"
+  "theaterID": "angelika mosaic"
  },
  {
   "title": "NARROW MARGIN (1990)",
@@ -7399,13 +6167,6 @@
   "theaterID": "afisilver"
  },
  {
-  "title": "CASTLE IN THE SKY",
-  "date": "Aug 27",
-  "time": "7:00 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
   "title": "PRIDE & PREJUDICE",
   "date": "Aug 27",
   "time": "7:00 PM",
@@ -7413,10 +6174,17 @@
   "theaterID": "angelika popup"
  },
  {
-  "title": "THE SEALED SOIL",
+  "title": "CASTLE IN THE SKY",
   "date": "Aug 27",
   "time": "7:00 PM",
   "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "THE SEALED SOIL",
+  "date": "Aug 27",
+  "time": "7:00 PM",
+  "status": "sold out",
   "theaterID": "suns"
  },
  {
@@ -7464,7 +6232,7 @@
  {
   "title": "CASTLE IN THE SKY",
   "date": "Aug 28",
-  "time": "11:00 AM",
+  "time": "10:55 AM",
   "status": "available",
   "theaterID": "angelika mosaic"
  },
@@ -7483,9 +6251,23 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "CAUGHT STEALING",
+  "date": "Aug 28",
+  "time": "4:00 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
   "title": "JAWS: 50th ANNIVERSARY",
   "date": "Aug 28",
   "time": "4:00 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "CAUGHT STEALING",
+  "date": "Aug 28",
+  "time": "4:15 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
  },
@@ -7504,6 +6286,13 @@
   "theaterID": "landmark bethesda row cinema"
  },
  {
+  "title": "CAUGHT STEALING",
+  "date": "Aug 28",
+  "time": "6:45 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
   "title": "JAWS: 50th ANNIVERSARY",
   "date": "Aug 28",
   "time": "6:45 PM",
@@ -7518,18 +6307,18 @@
   "theaterID": "afisilver"
  },
  {
-  "title": "THE TOXIC AVENGER (UNRATED)",
-  "date": "Aug 28",
-  "time": "7:00 PM",
-  "status": "available",
-  "theaterID": "angelika mosaic"
- },
- {
   "title": "JAWS: 50th ANNIVERSARY",
   "date": "Aug 28",
   "time": "7:00 PM",
   "status": "available",
   "theaterID": "angelika popup"
+ },
+ {
+  "title": "THE TOXIC AVENGER (UNRATED)",
+  "date": "Aug 28",
+  "time": "7:00 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
  },
  {
   "title": "Caught Stealing",
@@ -7544,6 +6333,13 @@
   "time": "7:00 PM",
   "status": "available",
   "theaterID": "suns"
+ },
+ {
+  "title": "CAUGHT STEALING",
+  "date": "Aug 28",
+  "time": "7:15 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
  },
  {
   "title": "GODZILLA VS. DESTOROYAH",
@@ -7564,6 +6360,13 @@
   "date": "Aug 28",
   "time": "9:30 PM",
   "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
+  "title": "JAWS: 50th ANNIVERSARY",
+  "date": "Aug 28",
+  "time": "9:30 PM",
+  "status": "available",
   "theaterID": "angelika mosaic"
  },
  {
@@ -7574,18 +6377,25 @@
   "theaterID": "angelika mosaic"
  },
  {
-  "title": "JAWS: 50th ANNIVERSARY",
-  "date": "Aug 28",
-  "time": "9:30 PM",
-  "status": "available",
-  "theaterID": "angelika popup"
- },
- {
   "title": "CRUEL JAWS",
   "date": "Aug 28",
   "time": "9:35 PM",
   "status": "available",
   "theaterID": "suns"
+ },
+ {
+  "title": "CAUGHT STEALING",
+  "date": "Aug 28",
+  "time": "9:45 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "CAUGHT STEALING",
+  "date": "Aug 28",
+  "time": "9:50 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
  },
  {
   "title": "JAWS: 50th ANNIVERSARY",
@@ -7600,6 +6410,13 @@
   "time": "11:30 AM",
   "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "CAUGHT STEALING",
+  "date": "Aug 29",
+  "time": "11:45 AM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
  },
  {
   "title": "Caught Stealing",
@@ -7618,7 +6435,14 @@
  {
   "title": "JAWS: 50th ANNIVERSARY",
   "date": "Aug 29",
-  "time": "12:30 PM",
+  "time": "1:00 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
+  "title": "CAUGHT STEALING",
+  "date": "Aug 29",
+  "time": "1:30 PM",
   "status": "available",
   "theaterID": "angelika popup"
  },
@@ -7637,6 +6461,13 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "CAUGHT STEALING",
+  "date": "Aug 29",
+  "time": "2:15 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
   "title": "Caught Stealing",
   "date": "Aug 29",
   "time": "2:30 PM",
@@ -7651,13 +6482,6 @@
   "theaterID": "angelika mosaic"
  },
  {
-  "title": "JAWS: 50th ANNIVERSARY",
-  "date": "Aug 29",
-  "time": "3:30 PM",
-  "status": "available",
-  "theaterID": "angelika popup"
- },
- {
   "title": "GODZILLA 2000: MILLENNIUM",
   "date": "Aug 29",
   "time": "4:00 PM",
@@ -7665,9 +6489,30 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "CAUGHT STEALING",
+  "date": "Aug 29",
+  "time": "4:00 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
   "title": "JAWS: 50th ANNIVERSARY",
   "date": "Aug 29",
   "time": "4:15 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
+  "title": "JAWS: 50th ANNIVERSARY",
+  "date": "Aug 29",
+  "time": "4:15 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "CAUGHT STEALING",
+  "date": "Aug 29",
+  "time": "4:45 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
  },
@@ -7714,6 +6559,13 @@
   "theaterID": "angelika popup"
  },
  {
+  "title": "CAUGHT STEALING",
+  "date": "Aug 29",
+  "time": "7:00 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
   "title": "JAWS: 50th ANNIVERSARY",
   "date": "Aug 29",
   "time": "7:00 PM",
@@ -7726,6 +6578,13 @@
   "time": "7:00 PM",
   "status": "available",
   "theaterID": "miracle"
+ },
+ {
+  "title": "CAUGHT STEALING",
+  "date": "Aug 29",
+  "time": "7:15 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
  },
  {
   "title": "Caught Stealing",
@@ -7763,9 +6622,23 @@
   "theaterID": "angelika popup"
  },
  {
+  "title": "CAUGHT STEALING",
+  "date": "Aug 29",
+  "time": "9:40 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
   "title": "JAWS: 50th ANNIVERSARY",
   "date": "Aug 29",
   "time": "9:45 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "CAUGHT STEALING",
+  "date": "Aug 29",
+  "time": "9:50 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
  },
@@ -7805,6 +6678,13 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "CAUGHT STEALING",
+  "date": "Aug 30",
+  "time": "11:45 AM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
   "title": "Caught Stealing",
   "date": "Aug 30",
   "time": "12:00 PM",
@@ -7819,9 +6699,16 @@
   "theaterID": "angelika mosaic"
  },
  {
+  "title": "CAUGHT STEALING",
+  "date": "Aug 30",
+  "time": "1:00 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
   "title": "JAWS: 50th ANNIVERSARY",
   "date": "Aug 30",
-  "time": "12:30 PM",
+  "time": "1:15 PM",
   "status": "available",
   "theaterID": "angelika popup"
  },
@@ -7843,6 +6730,13 @@
   "title": "JAWS: 50th ANNIVERSARY",
   "date": "Aug 30",
   "time": "1:30 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "CAUGHT STEALING",
+  "date": "Aug 30",
+  "time": "2:15 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
  },
@@ -7875,9 +6769,23 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "CAUGHT STEALING",
+  "date": "Aug 30",
+  "time": "4:00 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
   "title": "JAWS: 50th ANNIVERSARY",
   "date": "Aug 30",
   "time": "4:15 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "CAUGHT STEALING",
+  "date": "Aug 30",
+  "time": "4:45 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
  },
@@ -7910,6 +6818,13 @@
   "theaterID": "angelika popup"
  },
  {
+  "title": "CAUGHT STEALING",
+  "date": "Aug 30",
+  "time": "6:45 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
   "title": "JAWS: 50th Anniversary",
   "date": "Aug 30",
   "time": "7:00 PM",
@@ -7920,6 +6835,13 @@
   "title": "JAWS: 50th ANNIVERSARY",
   "date": "Aug 30",
   "time": "7:00 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "CAUGHT STEALING",
+  "date": "Aug 30",
+  "time": "7:15 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
  },
@@ -7936,6 +6858,13 @@
   "time": "8:00 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "CAUGHT STEALING",
+  "date": "Aug 30",
+  "time": "9:20 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
  },
  {
   "title": "UNFORGIVEN (1992)",
@@ -7955,6 +6884,13 @@
   "title": "JAWS: 50th ANNIVERSARY",
   "date": "Aug 30",
   "time": "9:45 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "CAUGHT STEALING",
+  "date": "Aug 30",
+  "time": "9:50 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
  },
@@ -7994,6 +6930,13 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "CAUGHT STEALING",
+  "date": "Aug 31",
+  "time": "11:45 AM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
   "title": "Caught Stealing",
   "date": "Aug 31",
   "time": "12:00 PM",
@@ -8010,7 +6953,7 @@
  {
   "title": "JAWS: 50th ANNIVERSARY",
   "date": "Aug 31",
-  "time": "12:30 PM",
+  "time": "1:00 PM",
   "status": "available",
   "theaterID": "angelika popup"
  },
@@ -8020,6 +6963,13 @@
   "time": "1:30 PM",
   "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "CAUGHT STEALING",
+  "date": "Aug 31",
+  "time": "1:30 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
  },
  {
   "title": "JAWS: 50th ANNIVERSARY",
@@ -8043,6 +6993,13 @@
   "theaterID": "miracle"
  },
  {
+  "title": "CAUGHT STEALING",
+  "date": "Aug 31",
+  "time": "2:15 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
   "title": "Caught Stealing",
   "date": "Aug 31",
   "time": "2:30 PM",
@@ -8057,9 +7014,16 @@
   "theaterID": "angelika mosaic"
  },
  {
+  "title": "CAUGHT STEALING",
+  "date": "Aug 31",
+  "time": "4:00 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
   "title": "JAWS: 50th ANNIVERSARY",
   "date": "Aug 31",
-  "time": "3:30 PM",
+  "time": "4:10 PM",
   "status": "available",
   "theaterID": "angelika popup"
  },
@@ -8078,6 +7042,13 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "CAUGHT STEALING",
+  "date": "Aug 31",
+  "time": "4:45 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
   "title": "Caught Stealing",
   "date": "Aug 31",
   "time": "5:00 PM",
@@ -8094,7 +7065,7 @@
  {
   "title": "JAWS: 50th ANNIVERSARY",
   "date": "Aug 31",
-  "time": "6:30 PM",
+  "time": "6:40 PM",
   "status": "available",
   "theaterID": "angelika popup"
  },
@@ -8106,9 +7077,23 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "CAUGHT STEALING",
+  "date": "Aug 31",
+  "time": "7:00 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
   "title": "JAWS: 50th ANNIVERSARY",
   "date": "Aug 31",
   "time": "7:00 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "CAUGHT STEALING",
+  "date": "Aug 31",
+  "time": "7:15 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
  },
@@ -8141,9 +7126,23 @@
   "theaterID": "angelika popup"
  },
  {
+  "title": "CAUGHT STEALING",
+  "date": "Aug 31",
+  "time": "9:35 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
   "title": "JAWS: 50th ANNIVERSARY",
   "date": "Aug 31",
   "time": "9:45 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "CAUGHT STEALING",
+  "date": "Aug 31",
+  "time": "9:50 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
  },
@@ -8169,6 +7168,13 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "CAUGHT STEALING",
+  "date": "Sep 01",
+  "time": "11:45 AM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
   "title": "THE SEARCHERS in 70mm",
   "date": "Sep 01",
   "time": "12:00 PM",
@@ -8185,7 +7191,14 @@
  {
   "title": "JAWS: 50th ANNIVERSARY",
   "date": "Sep 01",
-  "time": "12:30 PM",
+  "time": "1:15 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
+  "title": "CAUGHT STEALING",
+  "date": "Sep 01",
+  "time": "1:30 PM",
   "status": "available",
   "theaterID": "angelika popup"
  },
@@ -8204,6 +7217,13 @@
   "theaterID": "angelika mosaic"
  },
  {
+  "title": "CAUGHT STEALING",
+  "date": "Sep 01",
+  "time": "2:15 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
   "title": "VERTIGO in 70mm",
   "date": "Sep 01",
   "time": "2:45 PM",
@@ -8218,9 +7238,9 @@
   "theaterID": "angelika mosaic"
  },
  {
-  "title": "JAWS: 50th ANNIVERSARY",
+  "title": "THE SHINING",
   "date": "Sep 01",
-  "time": "3:30 PM",
+  "time": "4:00 PM",
   "status": "available",
   "theaterID": "angelika popup"
  },
@@ -8232,9 +7252,16 @@
   "theaterID": "angelika mosaic"
  },
  {
-  "title": "THE SHINING",
+  "title": "JAWS: 50th ANNIVERSARY",
   "date": "Sep 01",
-  "time": "4:00 PM",
+  "time": "4:10 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
+  "title": "CAUGHT STEALING",
+  "date": "Sep 01",
+  "time": "4:15 PM",
   "status": "available",
   "theaterID": "angelika popup"
  },
@@ -8242,6 +7269,13 @@
   "title": "JAWS: 50th ANNIVERSARY",
   "date": "Sep 01",
   "time": "4:30 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "CAUGHT STEALING",
+  "date": "Sep 01",
+  "time": "4:45 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
  },
@@ -8264,13 +7298,20 @@
   "date": "Sep 01",
   "time": "7:00 PM",
   "status": "available",
-  "theaterID": "angelika mosaic"
+  "theaterID": "angelika popup"
  },
  {
   "title": "THE SHINING",
   "date": "Sep 01",
   "time": "7:00 PM",
   "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "CAUGHT STEALING",
+  "date": "Sep 01",
+  "time": "7:15 PM",
+  "status": "available",
   "theaterID": "angelika popup"
  },
  {
@@ -8281,11 +7322,11 @@
   "theaterID": "angelika mosaic"
  },
  {
-  "title": "JAWS: 50th ANNIVERSARY",
+  "title": "CAUGHT STEALING",
   "date": "Sep 01",
   "time": "7:15 PM",
   "status": "available",
-  "theaterID": "angelika popup"
+  "theaterID": "angelika mosaic"
  },
  {
   "title": "THE TOXIC AVENGER (UNRATED)",
@@ -8297,14 +7338,21 @@
  {
   "title": "JAWS: 50th ANNIVERSARY",
   "date": "Sep 01",
-  "time": "10:00 PM",
+  "time": "9:30 PM",
   "status": "available",
-  "theaterID": "angelika mosaic"
+  "theaterID": "angelika popup"
  },
  {
-  "title": "THE TOXIC AVENGER (UNRATED)",
+  "title": "CAUGHT STEALING",
   "date": "Sep 01",
-  "time": "10:20 PM",
+  "time": "9:45 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
+  "title": "JAWS: 50th ANNIVERSARY",
+  "date": "Sep 01",
+  "time": "10:00 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
  },
@@ -8323,6 +7371,13 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "CAUGHT STEALING",
+  "date": "Sep 02",
+  "time": "11:45 AM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
   "title": "THE TOXIC AVENGER (UNRATED)",
   "date": "Sep 02",
   "time": "12:30 PM",
@@ -8332,7 +7387,14 @@
  {
   "title": "JAWS: 50th ANNIVERSARY",
   "date": "Sep 02",
-  "time": "12:30 PM",
+  "time": "1:15 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
+  "title": "CAUGHT STEALING",
+  "date": "Sep 02",
+  "time": "1:30 PM",
   "status": "available",
   "theaterID": "angelika popup"
  },
@@ -8351,6 +7413,13 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "CAUGHT STEALING",
+  "date": "Sep 02",
+  "time": "2:15 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
   "title": "THE TOXIC AVENGER (UNRATED)",
   "date": "Sep 02",
   "time": "3:00 PM",
@@ -8358,9 +7427,9 @@
   "theaterID": "angelika mosaic"
  },
  {
-  "title": "JAWS: 50th ANNIVERSARY",
+  "title": "CAUGHT STEALING",
   "date": "Sep 02",
-  "time": "3:30 PM",
+  "time": "4:00 PM",
   "status": "available",
   "theaterID": "angelika popup"
  },
@@ -8374,7 +7443,21 @@
  {
   "title": "JAWS: 50th ANNIVERSARY",
   "date": "Sep 02",
+  "time": "4:10 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
+  "title": "JAWS: 50th ANNIVERSARY",
+  "date": "Sep 02",
   "time": "4:30 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "CAUGHT STEALING",
+  "date": "Sep 02",
+  "time": "4:45 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
  },
@@ -8386,18 +7469,25 @@
   "theaterID": "angelika mosaic"
  },
  {
-  "title": "JAWS: 50th ANNIVERSARY",
-  "date": "Sep 02",
-  "time": "6:30 PM",
-  "status": "available",
-  "theaterID": "angelika popup"
- },
- {
   "title": "JAWS: 50th Anniversary",
   "date": "Sep 02",
   "time": "6:45 PM",
   "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "JAWS: 50th ANNIVERSARY",
+  "date": "Sep 02",
+  "time": "6:45 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
+  "title": "CAUGHT STEALING",
+  "date": "Sep 02",
+  "time": "7:00 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
  },
  {
   "title": "Nashville",
@@ -8408,6 +7498,13 @@
  },
  {
   "title": "JAWS: 50th ANNIVERSARY",
+  "date": "Sep 02",
+  "time": "7:15 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "CAUGHT STEALING",
   "date": "Sep 02",
   "time": "7:15 PM",
   "status": "available",
@@ -8435,6 +7532,13 @@
   "theaterID": "angelika popup"
  },
  {
+  "title": "CAUGHT STEALING",
+  "date": "Sep 02",
+  "time": "9:40 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
   "title": "JAWS: 50th ANNIVERSARY",
   "date": "Sep 03",
   "time": "11:15 AM",
@@ -8449,6 +7553,13 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "CAUGHT STEALING",
+  "date": "Sep 03",
+  "time": "12:15 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
   "title": "THE TOXIC AVENGER (UNRATED)",
   "date": "Sep 03",
   "time": "12:30 PM",
@@ -8456,9 +7567,16 @@
   "theaterID": "angelika mosaic"
  },
  {
+  "title": "CAUGHT STEALING",
+  "date": "Sep 03",
+  "time": "1:00 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
   "title": "JAWS: 50th ANNIVERSARY",
   "date": "Sep 03",
-  "time": "12:30 PM",
+  "time": "1:15 PM",
   "status": "available",
   "theaterID": "angelika popup"
  },
@@ -8477,6 +7595,13 @@
   "theaterID": "afisilver"
  },
  {
+  "title": "CAUGHT STEALING",
+  "date": "Sep 03",
+  "time": "2:45 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
   "title": "THE TOXIC AVENGER (UNRATED)",
   "date": "Sep 03",
   "time": "3:00 PM",
@@ -8484,9 +7609,16 @@
   "theaterID": "angelika mosaic"
  },
  {
+  "title": "CAUGHT STEALING",
+  "date": "Sep 03",
+  "time": "3:45 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
   "title": "JAWS: 50th ANNIVERSARY",
   "date": "Sep 03",
-  "time": "3:30 PM",
+  "time": "4:00 PM",
   "status": "available",
   "theaterID": "angelika popup"
  },
@@ -8505,11 +7637,25 @@
   "theaterID": "angelika mosaic"
  },
  {
+  "title": "CAUGHT STEALING",
+  "date": "Sep 03",
+  "time": "5:15 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
   "title": "THE TOXIC AVENGER (UNRATED)",
   "date": "Sep 03",
   "time": "5:30 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "CAUGHT STEALING",
+  "date": "Sep 03",
+  "time": "6:30 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
  },
  {
   "title": "VINCENT & THEO",
@@ -8530,19 +7676,19 @@
   "date": "Sep 03",
   "time": "7:00 PM",
   "status": "available",
-  "theaterID": "angelika mosaic"
+  "theaterID": "angelika popup"
  },
  {
   "title": "FROM UP ON POPPY HILL",
   "date": "Sep 03",
   "time": "7:00 PM",
   "status": "available",
-  "theaterID": "angelika popup"
+  "theaterID": "angelika mosaic"
  },
  {
   "title": "THE TERMINATOR",
   "date": "Sep 03",
-  "time": "7:00 PM",
+  "time": "7:15 PM",
   "status": "available",
   "theaterID": "angelika popup"
  },
@@ -8561,6 +7707,13 @@
   "theaterID": "angelika mosaic"
  },
  {
+  "title": "CAUGHT STEALING",
+  "date": "Sep 03",
+  "time": "7:45 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
   "title": "THE TOXIC AVENGER (UNRATED)",
   "date": "Sep 03",
   "time": "8:00 PM",
@@ -8568,18 +7721,18 @@
   "theaterID": "angelika mosaic"
  },
  {
+  "title": "JAWS: 50th ANNIVERSARY",
+  "date": "Sep 03",
+  "time": "9:00 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
   "title": "THE NAVIGATOR: A MEDIEVAL ODYSSEY",
   "date": "Sep 03",
   "time": "9:30 PM",
   "status": "available",
   "theaterID": "afisilver"
- },
- {
-  "title": "JAWS: 50th ANNIVERSARY",
-  "date": "Sep 03",
-  "time": "9:30 PM",
-  "status": "available",
-  "theaterID": "angelika popup"
  },
  {
   "title": "JAWS: 50th ANNIVERSARY",
@@ -8593,12 +7746,19 @@
   "date": "Sep 04",
   "time": "11:00 AM",
   "status": "available",
-  "theaterID": "angelika mosaic"
+  "theaterID": "angelika popup"
  },
  {
   "title": "FROM UP ON POPPY HILL",
   "date": "Sep 04",
   "time": "11:00 AM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "CAUGHT STEALING",
+  "date": "Sep 04",
+  "time": "11:15 AM",
   "status": "available",
   "theaterID": "angelika popup"
  },
@@ -8624,11 +7784,11 @@
   "theaterID": "angelika mosaic"
  },
  {
-  "title": "HAMILTON",
+  "title": "CAUGHT STEALING",
   "date": "Sep 04",
-  "time": "2:00 PM",
+  "time": "1:45 PM",
   "status": "available",
-  "theaterID": "angelika mosaic"
+  "theaterID": "angelika popup"
  },
  {
   "title": "HAMILTON",
@@ -8638,9 +7798,16 @@
   "theaterID": "angelika popup"
  },
  {
-  "title": "JAWS: 50th ANNIVERSARY",
+  "title": "HAMILTON",
   "date": "Sep 04",
-  "time": "3:00 PM",
+  "time": "2:00 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "CAUGHT STEALING",
+  "date": "Sep 04",
+  "time": "4:10 PM",
   "status": "available",
   "theaterID": "angelika popup"
  },
@@ -8659,13 +7826,6 @@
   "theaterID": "afisilver"
  },
  {
-  "title": "HAMILTON",
-  "date": "Sep 04",
-  "time": "5:00 PM",
-  "status": "available",
-  "theaterID": "angelika popup"
- },
- {
   "title": "THE GODFATHER CODA: THE DEATH OF MICHAEL CORLEONE",
   "date": "Sep 04",
   "time": "6:00 PM",
@@ -8680,13 +7840,6 @@
   "theaterID": "angelika mosaic"
  },
  {
-  "title": "JAWS: 50th ANNIVERSARY",
-  "date": "Sep 04",
-  "time": "6:00 PM",
-  "status": "available",
-  "theaterID": "angelika popup"
- },
- {
   "title": "JAWS: 50th Anniversary",
   "date": "Sep 04",
   "time": "6:45 PM",
@@ -8694,11 +7847,11 @@
   "theaterID": "afisilver"
  },
  {
-  "title": "JAWS: 50th ANNIVERSARY",
+  "title": "CAUGHT STEALING",
   "date": "Sep 04",
-  "time": "7:00 PM",
+  "time": "6:45 PM",
   "status": "available",
-  "theaterID": "angelika mosaic"
+  "theaterID": "angelika popup"
  },
  {
   "title": "HAMILTON",
@@ -8708,6 +7861,13 @@
   "theaterID": "angelika popup"
  },
  {
+  "title": "JAWS: 50th ANNIVERSARY",
+  "date": "Sep 04",
+  "time": "7:00 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
   "title": "TINĀ",
   "date": "Sep 04",
   "time": "7:15 PM",
@@ -8715,18 +7875,18 @@
   "theaterID": "angelika mosaic"
  },
  {
-  "title": "JAWS: 50th ANNIVERSARY",
-  "date": "Sep 04",
-  "time": "9:00 PM",
-  "status": "available",
-  "theaterID": "angelika popup"
- },
- {
   "title": "GODZILLA 2000: MILLENNIUM",
   "date": "Sep 04",
   "time": "9:15 PM",
   "status": "available",
   "theaterID": "afisilver"
+ },
+ {
+  "title": "CAUGHT STEALING",
+  "date": "Sep 04",
+  "time": "9:15 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
  },
  {
   "title": "JAWS: 50th ANNIVERSARY",
@@ -8944,5 +8104,208 @@
   "time": "2:45 PM",
   "status": "available",
   "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "HAMILTON",
+  "date": "Sep 06",
+  "time": "4:00 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
+  "title": "CITY OF WOMEN",
+  "date": "Sep 06",
+  "time": "4:15 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "TINĀ",
+  "date": "Sep 06",
+  "time": "4:25 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "IN THE MOOD FOR LOVE: 25th ANNIVERSARY + A RARELY SEEN SHORT FILM",
+  "date": "Sep 06",
+  "time": "5:00 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "HAMILTON",
+  "date": "Sep 06",
+  "time": "6:30 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "THE BIRDCAGE",
+  "date": "Sep 06",
+  "time": "7:00 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "TINĀ",
+  "date": "Sep 06",
+  "time": "7:15 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "IN THE MOOD FOR LOVE: 25th ANNIVERSARY + A RARELY SEEN SHORT FILM",
+  "date": "Sep 06",
+  "time": "7:20 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "HAMILTON",
+  "date": "Sep 06",
+  "time": "8:00 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
+  "title": "MILLER'S CROSSING",
+  "date": "Sep 06",
+  "time": "9:30 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "HAMILTON",
+  "date": "Sep 06",
+  "time": "9:35 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "TINĀ",
+  "date": "Sep 06",
+  "time": "10:00 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "HAMILTON",
+  "date": "Sep 07",
+  "time": "11:00 AM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "GODZILLA VS. MEGAGUIRUS",
+  "date": "Sep 07",
+  "time": "11:30 AM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "HAMILTON",
+  "date": "Sep 07",
+  "time": "12:00 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
+  "title": "GUNFIGHT AT THE O.K. CORRAL",
+  "date": "Sep 07",
+  "time": "1:15 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "HAMILTON",
+  "date": "Sep 07",
+  "time": "2:45 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "HAMILTON",
+  "date": "Sep 07",
+  "time": "4:00 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
+  "title": "A SPECIAL DAY",
+  "date": "Sep 07",
+  "time": "4:15 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "IN THE MOOD FOR LOVE: 25th ANNIVERSARY + A RARELY SEEN SHORT FILM",
+  "date": "Sep 07",
+  "time": "5:00 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "THE PLAYER",
+  "date": "Sep 07",
+  "time": "6:30 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "HAMILTON",
+  "date": "Sep 07",
+  "time": "6:30 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "IN THE MOOD FOR LOVE: 25th ANNIVERSARY + A RARELY SEEN SHORT FILM",
+  "date": "Sep 07",
+  "time": "7:20 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "HAMILTON",
+  "date": "Sep 07",
+  "time": "8:00 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
+ },
+ {
+  "title": "ZOLA",
+  "date": "Sep 07",
+  "time": "9:00 PM",
+  "status": "available",
+  "theaterID": "afisilver"
+ },
+ {
+  "title": "HAMILTON",
+  "date": "Sep 07",
+  "time": "9:30 PM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "HAMILTON",
+  "date": "Sep 08",
+  "time": "11:15 AM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "TINĀ",
+  "date": "Sep 08",
+  "time": "11:30 AM",
+  "status": "available",
+  "theaterID": "angelika mosaic"
+ },
+ {
+  "title": "HAMILTON",
+  "date": "Sep 08",
+  "time": "12:00 PM",
+  "status": "available",
+  "theaterID": "angelika popup"
  }
 ]

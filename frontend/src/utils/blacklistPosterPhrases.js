@@ -16,6 +16,10 @@ const BLACKLIST_PHRASES = [
   'Mamoru Hosada’s',
   '25TH ANNIVERSARY',
   'A RARELY SEEN SHORT FILM',
+  'LOUDER & UNCUT',
+  'Panel Discussion',
+  '15th Anniversary Exclusive',
+  'Panel Discussino',
   // Add any more phrases you want to ignore here
 ];
 

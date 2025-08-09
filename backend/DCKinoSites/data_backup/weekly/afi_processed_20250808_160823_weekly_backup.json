@@ -168,20 +168,6 @@
     "theaterID": "afisilver"
   },
   {
-    "title": "THE TOXIC AVENGER (1984)",
-    "date": "Aug 23",
-    "time": "9:45 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "THE TOXIC AVENGER (1984)",
-    "date": "Aug 27",
-    "time": "9:30 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
     "title": "THIEVES LIKE US",
     "date": "Aug 09",
     "time": "3:30 PM",
@@ -199,6 +185,20 @@
     "title": "THIEVES LIKE US",
     "date": "Aug 14",
     "time": "2:30 PM",
+    "status": "available",
+    "theaterID": "afisilver"
+  },
+  {
+    "title": "THE TOXIC AVENGER (1984)",
+    "date": "Aug 23",
+    "time": "9:45 PM",
+    "status": "available",
+    "theaterID": "afisilver"
+  },
+  {
+    "title": "THE TOXIC AVENGER (1984)",
+    "date": "Aug 27",
+    "time": "9:30 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
@@ -322,13 +322,6 @@
     "theaterID": "afisilver"
   },
   {
-    "title": "SHALL WE DANCE? (1996)",
-    "date": "Aug 07",
-    "time": "8:50 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
     "title": "THE SEARCHERS in 70mm",
     "date": "Aug 30",
     "time": "3:45 PM",
@@ -402,13 +395,6 @@
     "title": "THE ROYAL TENENBAUMS",
     "date": "Sep 17",
     "time": "12:45 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "RAN - 40th Anniversary",
-    "date": "Aug 07",
-    "time": "11:45 AM",
     "status": "available",
     "theaterID": "afisilver"
   },
@@ -805,13 +791,6 @@
     "theaterID": "afisilver"
   },
   {
-    "title": "MCCABE & MRS. MILLER",
-    "date": "Aug 07",
-    "time": "12:00 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
     "title": "THE MAN WHO KNEW TOO MUCH (1956)",
     "date": "Aug 08",
     "time": "1:45 PM",
@@ -954,7 +933,7 @@
   {
     "title": "IT'S NEVER OVER, JEFF BUCKLEY",
     "date": "Aug 08",
-    "time": "12:45 PM",
+    "time": "3:30 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
@@ -997,13 +976,6 @@
     "title": "IT'S NEVER OVER, JEFF BUCKLEY",
     "date": "Aug 14",
     "time": "12:45 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "IN THE MOOD FOR LOVE w/ A Rarely Seen Short Film",
-    "date": "Aug 07",
-    "time": "6:35 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
@@ -1109,13 +1081,6 @@
     "title": "HEDWIG AND THE ANGRY INCH",
     "date": "Aug 19",
     "time": "4:45 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "HEARTS OF DARKNESS: A FILMMAKER'S APOCALYPSE",
-    "date": "Aug 08",
-    "time": "11:45 AM",
     "status": "available",
     "theaterID": "afisilver"
   },
@@ -1344,13 +1309,6 @@
     "theaterID": "afisilver"
   },
   {
-    "title": "THE GODFATHER PART II",
-    "date": "Aug 07",
-    "time": "7:00 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
     "title": "THE GODFATHER CODA: THE DEATH OF MICHAEL CORLEONE",
     "date": "Aug 31",
     "time": "7:30 PM",
@@ -1424,13 +1382,6 @@
     "title": "FUNNY FACE (1957)",
     "date": "Aug 27",
     "time": "11:45 AM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "FOLKTALES",
-    "date": "Aug 07",
-    "time": "11:50 AM",
     "status": "available",
     "theaterID": "afisilver"
   },
@@ -1547,13 +1498,6 @@
     "theaterID": "afisilver"
   },
   {
-    "title": "THE COURT JESTER",
-    "date": "Aug 07",
-    "time": "2:30 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
     "title": "CLOUD (2024)",
     "date": "Aug 08",
     "time": "4:05 PM",
@@ -1620,20 +1564,6 @@
     "title": "CITY OF WOMEN",
     "date": "Sep 11",
     "time": "1:00 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "CatVideoFest 2025",
-    "date": "Aug 07",
-    "time": "9:30 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "CatVideoFest 2025",
-    "date": "Aug 08",
-    "time": "12:00 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
@@ -1823,13 +1753,6 @@
     "title": "BARTON FINK",
     "date": "Sep 17",
     "time": "6:45 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "THE ASSASSIN (1961)",
-    "date": "Aug 07",
-    "time": "4:45 PM",
     "status": "available",
     "theaterID": "afisilver"
   },

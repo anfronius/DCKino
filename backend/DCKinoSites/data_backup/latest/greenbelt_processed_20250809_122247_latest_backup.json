@@ -1,61 +1,5 @@
 [
   {
-    "title": "To Catch a Thief (1955)",
-    "date": "Aug 07",
-    "time": "8:00 PM",
-    "status": "available",
-    "theaterID": "greenbeltcinema"
-  },
-  {
-    "title": "Bad Shabbos",
-    "date": "Aug 07",
-    "time": "5:50 PM",
-    "status": "available",
-    "theaterID": "greenbeltcinema"
-  },
-  {
-    "title": "Sorry, Baby",
-    "date": "Aug 07",
-    "time": "7:45 PM",
-    "status": "available",
-    "theaterID": "greenbeltcinema"
-  },
-  {
-    "title": "Oh, Hi!",
-    "date": "Aug 08",
-    "time": "6:00 PM",
-    "status": "available",
-    "theaterID": "greenbeltcinema"
-  },
-  {
-    "title": "Oh, Hi!",
-    "date": "Aug 08",
-    "time": "8:00 PM",
-    "status": "available",
-    "theaterID": "greenbeltcinema"
-  },
-  {
-    "title": "Bad Shabbos",
-    "date": "Aug 08",
-    "time": "5:45 PM",
-    "status": "available",
-    "theaterID": "greenbeltcinema"
-  },
-  {
-    "title": "The Last Class",
-    "date": "Aug 08",
-    "time": "8:15 PM",
-    "status": "available",
-    "theaterID": "greenbeltcinema"
-  },
-  {
-    "title": "The Parent Trap",
-    "date": "Aug 09",
-    "time": "1:00 PM",
-    "status": "available",
-    "theaterID": "greenbeltcinema"
-  },
-  {
     "title": "Oh, Hi!",
     "date": "Aug 09",
     "time": "5:15 PM",
@@ -66,6 +10,13 @@
     "title": "Oh, Hi!",
     "date": "Aug 09",
     "time": "7:30 PM",
+    "status": "available",
+    "theaterID": "greenbeltcinema"
+  },
+  {
+    "title": "The Parent Trap",
+    "date": "Aug 09",
+    "time": "1:00 PM",
     "status": "available",
     "theaterID": "greenbeltcinema"
   },
@@ -120,36 +71,50 @@
   },
   {
     "title": "Oh, Hi!",
-    "date": "Aug 08",
-    "time": "6:00 PM",
+    "date": "Aug 11",
+    "time": "2:45 PM",
     "status": "available",
     "theaterID": "greenbeltcinema"
   },
   {
     "title": "Oh, Hi!",
-    "date": "Aug 08",
-    "time": "8:00 PM",
+    "date": "Aug 11",
+    "time": "5:00 PM",
     "status": "available",
     "theaterID": "greenbeltcinema"
   },
   {
     "title": "Bad Shabbos",
-    "date": "Aug 08",
-    "time": "5:45 PM",
+    "date": "Aug 11",
+    "time": "5:15 PM",
     "status": "available",
     "theaterID": "greenbeltcinema"
   },
   {
     "title": "The Last Class",
-    "date": "Aug 08",
-    "time": "8:15 PM",
+    "date": "Aug 11",
+    "time": "3:00 PM",
     "status": "available",
     "theaterID": "greenbeltcinema"
   },
   {
-    "title": "The Parent Trap",
-    "date": "Aug 09",
-    "time": "1:00 PM",
+    "title": "Oh, Hi!",
+    "date": "Aug 12",
+    "time": "5:45 PM",
+    "status": "available",
+    "theaterID": "greenbeltcinema"
+  },
+  {
+    "title": "Make A Circle",
+    "date": "Aug 12",
+    "time": "7:00 PM",
+    "status": "available",
+    "theaterID": "greenbeltcinema"
+  },
+  {
+    "title": "Bad Shabbos",
+    "date": "Aug 12",
+    "time": "8:00 PM",
     "status": "available",
     "theaterID": "greenbeltcinema"
   },
@@ -164,6 +129,13 @@
     "title": "Oh, Hi!",
     "date": "Aug 09",
     "time": "7:30 PM",
+    "status": "available",
+    "theaterID": "greenbeltcinema"
+  },
+  {
+    "title": "The Parent Trap",
+    "date": "Aug 09",
+    "time": "1:00 PM",
     "status": "available",
     "theaterID": "greenbeltcinema"
   },
@@ -273,16 +245,16 @@
     "theaterID": "greenbeltcinema"
   },
   {
-    "title": "Bad Shabbos",
+    "title": "blur: To The End",
     "date": "Aug 13",
-    "time": "6:00 PM",
+    "time": "7:30 PM",
     "status": "available",
     "theaterID": "greenbeltcinema"
   },
   {
-    "title": "blur: To The End",
+    "title": "Bad Shabbos",
     "date": "Aug 13",
-    "time": "7:30 PM",
+    "time": "6:00 PM",
     "status": "available",
     "theaterID": "greenbeltcinema"
   },
@@ -301,16 +273,16 @@
     "theaterID": "greenbeltcinema"
   },
   {
-    "title": "Bad Shabbos",
+    "title": "Mr. Peabody and Sherman",
     "date": "Aug 14",
-    "time": "7:45 PM",
+    "time": "1:00 PM",
     "status": "available",
     "theaterID": "greenbeltcinema"
   },
   {
-    "title": "Mr. Peabody and Sherman",
+    "title": "Bad Shabbos",
     "date": "Aug 14",
-    "time": "1:00 PM",
+    "time": "7:45 PM",
     "status": "available",
     "theaterID": "greenbeltcinema"
   },
