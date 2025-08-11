@@ -20,6 +20,7 @@ const BLACKLIST_PHRASES = [
   'Panel Discussion',
   '15th Anniversary Exclusive',
   'Panel Discussino',
+  '(TAMIL)',
   // Add any more phrases you want to ignore here
 ];
 

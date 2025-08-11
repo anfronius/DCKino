@@ -1,841 +1,281 @@
 [
   {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 03",
-    "time": "7:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 03",
-    "time": "8:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 03",
-    "time": "9:45 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 03",
-    "time": "10:35 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 04",
-    "time": "10:45 AM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 04",
-    "time": "1:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 04",
-    "time": "1:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 04",
-    "time": "4:15 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 04",
-    "time": "7:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 04",
-    "time": "9:45 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 05",
-    "time": "10:45 AM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 05",
-    "time": "11:45 AM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 05",
-    "time": "1:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 05",
-    "time": "2:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 05",
-    "time": "4:15 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 05",
-    "time": "5:15 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 05",
-    "time": "7:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 05",
-    "time": "9:45 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 06",
-    "time": "10:00 AM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 06",
-    "time": "11:00 AM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 06",
-    "time": "12:45 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 06",
-    "time": "1:45 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 06",
-    "time": "4:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 06",
-    "time": "7:15 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 06",
-    "time": "9:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 07",
-    "time": "10:45 AM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 07",
-    "time": "1:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 07",
-    "time": "4:15 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 07",
-    "time": "7:10 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 07",
-    "time": "10:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 08",
-    "time": "11:00 AM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 08",
-    "time": "1:45 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 08",
-    "time": "4:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 08",
-    "time": "7:15 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 08",
-    "time": "10:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 09",
-    "time": "11:00 AM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 09",
-    "time": "1:45 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 09",
-    "time": "4:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 09",
-    "time": "7:15 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 09",
-    "time": "10:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 10",
-    "time": "11:00 AM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 10",
-    "time": "1:45 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 10",
-    "time": "4:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 10",
-    "time": "7:15 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 10",
-    "time": "10:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 11",
-    "time": "11:00 AM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 11",
-    "time": "1:45 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 11",
-    "time": "4:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 11",
-    "time": "7:15 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 12",
-    "time": "11:00 AM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 12",
-    "time": "1:45 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 12",
-    "time": "4:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 12",
-    "time": "7:15 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 13",
-    "time": "11:00 AM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 13",
-    "time": "1:45 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 13",
-    "time": "4:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 13",
-    "time": "7:15 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 14",
-    "time": "11:00 AM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 14",
-    "time": "1:45 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 14",
-    "time": "4:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 14",
-    "time": "7:15 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 14",
-    "time": "10:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 03",
-    "time": "7:15 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 03",
-    "time": "9:45 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 04",
-    "time": "10:10 AM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 04",
-    "time": "11:45 AM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 04",
-    "time": "1:40 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 04",
-    "time": "3:35 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 04",
-    "time": "4:45 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 04",
-    "time": "6:05 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 04",
-    "time": "9:45 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 04",
-    "time": "2:15 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 05",
-    "time": "10:30 AM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 05",
-    "time": "11:45 AM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 05",
-    "time": "2:15 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 05",
-    "time": "3:45 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 05",
-    "time": "4:45 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 05",
-    "time": "6:05 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 05",
-    "time": "7:15 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 05",
-    "time": "9:45 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 06",
-    "time": "10:35 AM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 06",
-    "time": "11:30 AM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 06",
+    "title": "HONEY DON'T",
+    "date": "Aug 21",
     "time": "2:00 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 06",
-    "time": "4:00 PM",
+    "title": "HONEY DON'T",
+    "date": "Aug 21",
+    "time": "4:15 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 06",
-    "time": "4:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 06",
+    "title": "HONEY DON'T",
+    "date": "Aug 21",
     "time": "6:30 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 06",
-    "time": "9:00 PM",
+    "title": "HONEY DON'T",
+    "date": "Aug 21",
+    "time": "8:45 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 08",
-    "time": "11:15 AM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 08",
-    "time": "1:50 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 08",
-    "time": "4:15 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 08",
-    "time": "6:45 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 08",
-    "time": "9:15 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 09",
-    "time": "11:15 AM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 09",
-    "time": "1:50 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 09",
-    "time": "4:15 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 09",
-    "time": "6:45 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 09",
-    "time": "9:15 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 10",
-    "time": "11:15 AM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 10",
-    "time": "1:50 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 10",
-    "time": "4:15 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 10",
-    "time": "6:45 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 10",
-    "time": "9:15 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 11",
-    "time": "11:15 AM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 11",
-    "time": "1:50 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 11",
-    "time": "4:15 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 11",
-    "time": "6:45 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 11",
-    "time": "9:15 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 12",
-    "time": "11:15 AM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 12",
-    "time": "1:50 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 12",
-    "time": "4:15 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 12",
-    "time": "6:45 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 12",
-    "time": "9:15 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 13",
+    "title": "HONEY DON'T",
+    "date": "Aug 22",
     "time": "10:30 AM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 13",
-    "time": "3:30 PM",
+    "title": "HONEY DON'T",
+    "date": "Aug 22",
+    "time": "12:45 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 13",
-    "time": "1:00 PM",
+    "title": "HONEY DON'T",
+    "date": "Aug 22",
+    "time": "3:00 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 14",
-    "time": "11:15 AM",
+    "title": "HONEY DON'T",
+    "date": "Aug 22",
+    "time": "5:15 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 14",
-    "time": "1:50 PM",
+    "title": "HONEY DON'T",
+    "date": "Aug 22",
+    "time": "7:30 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 14",
-    "time": "4:15 PM",
+    "title": "HONEY DON'T",
+    "date": "Aug 22",
+    "time": "9:45 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 14",
-    "time": "6:45 PM",
+    "title": "HONEY DON'T",
+    "date": "Aug 23",
+    "time": "10:30 AM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "THE BAD GUYS 2",
-    "date": "Aug 14",
-    "time": "9:15 PM",
+    "title": "HONEY DON'T",
+    "date": "Aug 23",
+    "time": "12:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HONEY DON'T",
+    "date": "Aug 23",
+    "time": "3:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HONEY DON'T",
+    "date": "Aug 23",
+    "time": "5:15 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HONEY DON'T",
+    "date": "Aug 23",
+    "time": "7:30 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HONEY DON'T",
+    "date": "Aug 23",
+    "time": "9:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HONEY DON'T",
+    "date": "Aug 24",
+    "time": "10:30 AM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HONEY DON'T",
+    "date": "Aug 24",
+    "time": "12:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HONEY DON'T",
+    "date": "Aug 24",
+    "time": "3:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HONEY DON'T",
+    "date": "Aug 24",
+    "time": "5:15 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HONEY DON'T",
+    "date": "Aug 24",
+    "time": "7:30 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HONEY DON'T",
+    "date": "Aug 24",
+    "time": "9:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HONEY DON'T",
+    "date": "Aug 25",
+    "time": "10:30 AM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HONEY DON'T",
+    "date": "Aug 25",
+    "time": "12:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HONEY DON'T",
+    "date": "Aug 25",
+    "time": "3:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HONEY DON'T",
+    "date": "Aug 25",
+    "time": "5:15 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HONEY DON'T",
+    "date": "Aug 25",
+    "time": "7:30 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HONEY DON'T",
+    "date": "Aug 25",
+    "time": "9:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HONEY DON'T",
+    "date": "Aug 26",
+    "time": "10:30 AM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HONEY DON'T",
+    "date": "Aug 26",
+    "time": "12:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HONEY DON'T",
+    "date": "Aug 26",
+    "time": "3:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HONEY DON'T",
+    "date": "Aug 26",
+    "time": "5:15 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HONEY DON'T",
+    "date": "Aug 26",
+    "time": "7:30 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HONEY DON'T",
+    "date": "Aug 26",
+    "time": "9:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HONEY DON'T",
+    "date": "Aug 27",
+    "time": "10:30 AM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HONEY DON'T",
+    "date": "Aug 27",
+    "time": "12:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HONEY DON'T",
+    "date": "Aug 27",
+    "time": "3:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HONEY DON'T",
+    "date": "Aug 27",
+    "time": "5:15 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HONEY DON'T",
+    "date": "Aug 27",
+    "time": "7:30 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HONEY DON'T",
+    "date": "Aug 27",
+    "time": "9:45 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
@@ -1003,28 +443,28 @@
   {
     "title": "JAWS: 50th ANNIVERSARY",
     "date": "Sep 02",
-    "time": "10:45 AM",
+    "time": "11:00 AM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
     "title": "JAWS: 50th ANNIVERSARY",
     "date": "Sep 02",
-    "time": "1:30 PM",
+    "time": "1:45 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
     "title": "JAWS: 50th ANNIVERSARY",
     "date": "Sep 02",
-    "time": "4:15 PM",
+    "time": "4:30 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
     "title": "JAWS: 50th ANNIVERSARY",
     "date": "Sep 02",
-    "time": "7:00 PM",
+    "time": "7:15 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
@@ -1092,6 +532,251 @@
     "theaterID": "angelika mosaic"
   },
   {
+    "title": "SHIN GODZILLA (RE-RELEASE)",
+    "date": "Aug 14",
+    "time": "10:30 AM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "SHIN GODZILLA (RE-RELEASE)",
+    "date": "Aug 14",
+    "time": "1:15 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "SHIN GODZILLA (RE-RELEASE)",
+    "date": "Aug 14",
+    "time": "4:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "SHIN GODZILLA (RE-RELEASE)",
+    "date": "Aug 14",
+    "time": "6:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "SHIN GODZILLA (RE-RELEASE)",
+    "date": "Aug 14",
+    "time": "9:30 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "SHIN GODZILLA (RE-RELEASE)",
+    "date": "Aug 15",
+    "time": "10:30 AM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "SHIN GODZILLA (RE-RELEASE)",
+    "date": "Aug 15",
+    "time": "1:15 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "SHIN GODZILLA (RE-RELEASE)",
+    "date": "Aug 15",
+    "time": "4:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "SHIN GODZILLA (RE-RELEASE)",
+    "date": "Aug 15",
+    "time": "6:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "SHIN GODZILLA (RE-RELEASE)",
+    "date": "Aug 15",
+    "time": "9:30 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "SHIN GODZILLA (RE-RELEASE)",
+    "date": "Aug 16",
+    "time": "10:30 AM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "SHIN GODZILLA (RE-RELEASE)",
+    "date": "Aug 16",
+    "time": "1:15 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "SHIN GODZILLA (RE-RELEASE)",
+    "date": "Aug 16",
+    "time": "4:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "SHIN GODZILLA (RE-RELEASE)",
+    "date": "Aug 16",
+    "time": "6:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "SHIN GODZILLA (RE-RELEASE)",
+    "date": "Aug 16",
+    "time": "9:30 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "SHIN GODZILLA (RE-RELEASE)",
+    "date": "Aug 17",
+    "time": "10:30 AM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "SHIN GODZILLA (RE-RELEASE)",
+    "date": "Aug 17",
+    "time": "1:15 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "SHIN GODZILLA (RE-RELEASE)",
+    "date": "Aug 17",
+    "time": "4:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "SHIN GODZILLA (RE-RELEASE)",
+    "date": "Aug 17",
+    "time": "6:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "SHIN GODZILLA (RE-RELEASE)",
+    "date": "Aug 17",
+    "time": "9:30 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "SHIN GODZILLA (RE-RELEASE)",
+    "date": "Aug 18",
+    "time": "10:30 AM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "SHIN GODZILLA (RE-RELEASE)",
+    "date": "Aug 18",
+    "time": "1:15 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "SHIN GODZILLA (RE-RELEASE)",
+    "date": "Aug 18",
+    "time": "4:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "SHIN GODZILLA (RE-RELEASE)",
+    "date": "Aug 18",
+    "time": "6:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "SHIN GODZILLA (RE-RELEASE)",
+    "date": "Aug 18",
+    "time": "9:30 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "SHIN GODZILLA (RE-RELEASE)",
+    "date": "Aug 19",
+    "time": "10:30 AM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "SHIN GODZILLA (RE-RELEASE)",
+    "date": "Aug 19",
+    "time": "1:15 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "SHIN GODZILLA (RE-RELEASE)",
+    "date": "Aug 19",
+    "time": "4:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "SHIN GODZILLA (RE-RELEASE)",
+    "date": "Aug 19",
+    "time": "6:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "SHIN GODZILLA (RE-RELEASE)",
+    "date": "Aug 19",
+    "time": "9:30 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "SHIN GODZILLA (RE-RELEASE)",
+    "date": "Aug 20",
+    "time": "10:30 AM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "SHIN GODZILLA (RE-RELEASE)",
+    "date": "Aug 20",
+    "time": "1:15 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "SHIN GODZILLA (RE-RELEASE)",
+    "date": "Aug 20",
+    "time": "4:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "SHIN GODZILLA (RE-RELEASE)",
+    "date": "Aug 20",
+    "time": "6:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "SHIN GODZILLA (RE-RELEASE)",
+    "date": "Aug 20",
+    "time": "9:30 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
     "title": "EAST OF WALL",
     "date": "Aug 15",
     "time": "10:30 AM",
@@ -1122,7 +807,7 @@
   {
     "title": "EAST OF WALL",
     "date": "Aug 15",
-    "time": "7:35 PM",
+    "time": "7:30 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
@@ -1157,7 +842,7 @@
   {
     "title": "EAST OF WALL",
     "date": "Aug 16",
-    "time": "7:35 PM",
+    "time": "7:30 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
@@ -1192,588 +877,322 @@
   {
     "title": "EAST OF WALL",
     "date": "Aug 17",
-    "time": "7:35 PM",
+    "time": "7:30 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
     "title": "EAST OF WALL",
-    "date": "Aug 17",
+    "date": "Aug 18",
+    "time": "10:30 AM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "EAST OF WALL",
+    "date": "Aug 18",
+    "time": "12:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "EAST OF WALL",
+    "date": "Aug 18",
+    "time": "3:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "EAST OF WALL",
+    "date": "Aug 18",
+    "time": "5:15 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "EAST OF WALL",
+    "date": "Aug 18",
+    "time": "7:30 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "EAST OF WALL",
+    "date": "Aug 19",
+    "time": "10:30 AM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "EAST OF WALL",
+    "date": "Aug 19",
+    "time": "12:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "EAST OF WALL",
+    "date": "Aug 19",
+    "time": "3:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "EAST OF WALL",
+    "date": "Aug 19",
+    "time": "5:15 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "EAST OF WALL",
+    "date": "Aug 19",
+    "time": "7:30 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "EAST OF WALL",
+    "date": "Aug 20",
+    "time": "10:30 AM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "EAST OF WALL",
+    "date": "Aug 20",
+    "time": "12:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "EAST OF WALL",
+    "date": "Aug 20",
+    "time": "3:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "EAST OF WALL",
+    "date": "Aug 20",
+    "time": "5:15 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "EAST OF WALL",
+    "date": "Aug 20",
+    "time": "7:30 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "CAUGHT STEALING",
+    "date": "Aug 28",
+    "time": "4:15 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "CAUGHT STEALING",
+    "date": "Aug 28",
+    "time": "7:15 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "CAUGHT STEALING",
+    "date": "Aug 28",
+    "time": "9:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "CAUGHT STEALING",
+    "date": "Aug 29",
+    "time": "11:45 AM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "CAUGHT STEALING",
+    "date": "Aug 29",
+    "time": "2:15 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "CAUGHT STEALING",
+    "date": "Aug 29",
+    "time": "4:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "CAUGHT STEALING",
+    "date": "Aug 29",
+    "time": "7:15 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "CAUGHT STEALING",
+    "date": "Aug 29",
     "time": "9:50 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "EAST OF WALL",
-    "date": "Aug 18",
-    "time": "10:30 AM",
+    "title": "CAUGHT STEALING",
+    "date": "Aug 30",
+    "time": "11:45 AM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "EAST OF WALL",
-    "date": "Aug 18",
-    "time": "12:45 PM",
+    "title": "CAUGHT STEALING",
+    "date": "Aug 30",
+    "time": "2:15 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "EAST OF WALL",
-    "date": "Aug 18",
-    "time": "3:00 PM",
+    "title": "CAUGHT STEALING",
+    "date": "Aug 30",
+    "time": "4:45 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "EAST OF WALL",
-    "date": "Aug 18",
-    "time": "5:15 PM",
+    "title": "CAUGHT STEALING",
+    "date": "Aug 30",
+    "time": "7:15 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "EAST OF WALL",
-    "date": "Aug 18",
-    "time": "7:35 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "EAST OF WALL",
-    "date": "Aug 18",
+    "title": "CAUGHT STEALING",
+    "date": "Aug 30",
     "time": "9:50 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "EAST OF WALL",
-    "date": "Aug 19",
-    "time": "10:30 AM",
+    "title": "CAUGHT STEALING",
+    "date": "Aug 31",
+    "time": "11:45 AM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "EAST OF WALL",
-    "date": "Aug 19",
-    "time": "12:45 PM",
+    "title": "CAUGHT STEALING",
+    "date": "Aug 31",
+    "time": "2:15 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "EAST OF WALL",
-    "date": "Aug 19",
-    "time": "3:00 PM",
+    "title": "CAUGHT STEALING",
+    "date": "Aug 31",
+    "time": "4:45 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "EAST OF WALL",
-    "date": "Aug 19",
-    "time": "5:15 PM",
+    "title": "CAUGHT STEALING",
+    "date": "Aug 31",
+    "time": "7:15 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "EAST OF WALL",
-    "date": "Aug 19",
-    "time": "7:35 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "EAST OF WALL",
-    "date": "Aug 19",
+    "title": "CAUGHT STEALING",
+    "date": "Aug 31",
     "time": "9:50 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "EAST OF WALL",
-    "date": "Aug 20",
-    "time": "10:30 AM",
+    "title": "CAUGHT STEALING",
+    "date": "Sep 01",
+    "time": "11:45 AM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "EAST OF WALL",
-    "date": "Aug 20",
-    "time": "12:45 PM",
+    "title": "CAUGHT STEALING",
+    "date": "Sep 01",
+    "time": "2:15 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "EAST OF WALL",
-    "date": "Aug 20",
-    "time": "3:00 PM",
+    "title": "CAUGHT STEALING",
+    "date": "Sep 01",
+    "time": "4:45 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "EAST OF WALL",
-    "date": "Aug 20",
+    "title": "CAUGHT STEALING",
+    "date": "Sep 01",
+    "time": "7:15 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "CAUGHT STEALING",
+    "date": "Sep 02",
+    "time": "11:45 AM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "CAUGHT STEALING",
+    "date": "Sep 02",
+    "time": "2:15 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "CAUGHT STEALING",
+    "date": "Sep 02",
+    "time": "4:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "CAUGHT STEALING",
+    "date": "Sep 02",
+    "time": "7:15 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "CAUGHT STEALING",
+    "date": "Sep 03",
+    "time": "12:15 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "CAUGHT STEALING",
+    "date": "Sep 03",
+    "time": "2:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "CAUGHT STEALING",
+    "date": "Sep 03",
     "time": "5:15 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "EAST OF WALL",
-    "date": "Aug 20",
-    "time": "7:35 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "EAST OF WALL",
-    "date": "Aug 20",
-    "time": "9:50 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "FREAKIER FRIDAY",
-    "date": "Aug 07",
-    "time": "2:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "FREAKIER FRIDAY",
-    "date": "Aug 07",
-    "time": "4:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "FREAKIER FRIDAY",
-    "date": "Aug 07",
-    "time": "7:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "FREAKIER FRIDAY",
-    "date": "Aug 07",
-    "time": "9:40 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "FREAKIER FRIDAY",
-    "date": "Aug 08",
-    "time": "12:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "FREAKIER FRIDAY",
-    "date": "Aug 08",
-    "time": "2:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "FREAKIER FRIDAY",
-    "date": "Aug 08",
-    "time": "5:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "FREAKIER FRIDAY",
-    "date": "Aug 08",
-    "time": "7:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "FREAKIER FRIDAY",
-    "date": "Aug 08",
-    "time": "10:10 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "FREAKIER FRIDAY",
-    "date": "Aug 09",
-    "time": "12:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "FREAKIER FRIDAY",
-    "date": "Aug 09",
-    "time": "2:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "FREAKIER FRIDAY",
-    "date": "Aug 09",
-    "time": "5:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "FREAKIER FRIDAY",
-    "date": "Aug 09",
-    "time": "7:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "FREAKIER FRIDAY",
-    "date": "Aug 09",
-    "time": "10:10 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "FREAKIER FRIDAY",
-    "date": "Aug 10",
-    "time": "12:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "FREAKIER FRIDAY",
-    "date": "Aug 10",
-    "time": "2:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "FREAKIER FRIDAY",
-    "date": "Aug 10",
-    "time": "5:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "FREAKIER FRIDAY",
-    "date": "Aug 10",
-    "time": "7:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "FREAKIER FRIDAY",
-    "date": "Aug 10",
-    "time": "10:10 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "FREAKIER FRIDAY",
-    "date": "Aug 11",
-    "time": "12:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "FREAKIER FRIDAY",
-    "date": "Aug 11",
-    "time": "2:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "FREAKIER FRIDAY",
-    "date": "Aug 11",
-    "time": "5:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "FREAKIER FRIDAY",
-    "date": "Aug 11",
-    "time": "7:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "FREAKIER FRIDAY",
-    "date": "Aug 12",
-    "time": "12:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "FREAKIER FRIDAY",
-    "date": "Aug 12",
-    "time": "2:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "FREAKIER FRIDAY",
-    "date": "Aug 12",
-    "time": "5:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "FREAKIER FRIDAY",
-    "date": "Aug 12",
-    "time": "7:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "FREAKIER FRIDAY",
-    "date": "Aug 13",
-    "time": "12:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "FREAKIER FRIDAY",
-    "date": "Aug 13",
-    "time": "2:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "FREAKIER FRIDAY",
-    "date": "Aug 13",
-    "time": "5:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "FREAKIER FRIDAY",
-    "date": "Aug 13",
-    "time": "7:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "FREAKIER FRIDAY",
-    "date": "Aug 13",
-    "time": "10:10 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 07",
-    "time": "7:05 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 07",
-    "time": "9:35 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 08",
-    "time": "11:30 AM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 08",
-    "time": "2:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 08",
-    "time": "4:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 08",
-    "time": "7:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 08",
-    "time": "9:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 09",
-    "time": "11:30 AM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 09",
-    "time": "2:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 09",
-    "time": "4:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 09",
-    "time": "7:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 09",
-    "time": "9:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 10",
-    "time": "11:30 AM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 10",
-    "time": "2:05 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 10",
-    "time": "4:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 10",
-    "time": "7:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 10",
-    "time": "9:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 11",
-    "time": "11:30 AM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 11",
-    "time": "2:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 11",
-    "time": "4:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 11",
-    "time": "7:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 11",
-    "time": "9:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 12",
-    "time": "11:30 AM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 12",
-    "time": "2:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 12",
-    "time": "4:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 12",
-    "time": "7:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 12",
-    "time": "9:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 14",
-    "time": "11:30 AM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 14",
-    "time": "2:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 14",
-    "time": "4:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 14",
-    "time": "7:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 14",
-    "time": "9:30 PM",
+    "title": "CAUGHT STEALING",
+    "date": "Sep 03",
+    "time": "7:45 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
@@ -1892,7 +1311,7 @@
   {
     "title": "THE TOXIC AVENGER (UNRATED)",
     "date": "Aug 31",
-    "time": "10:30 PM",
+    "time": "10:20 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
@@ -1921,13 +1340,6 @@
     "title": "THE TOXIC AVENGER (UNRATED)",
     "date": "Sep 01",
     "time": "8:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE TOXIC AVENGER (UNRATED)",
-    "date": "Sep 01",
-    "time": "10:30 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
@@ -1988,1052 +1400,1703 @@
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "SHIN GODZILLA (RE-RELEASE)",
-    "date": "Aug 15",
-    "time": "10:30 AM",
+    "title": "FREAKIER FRIDAY",
+    "date": "Aug 11",
+    "time": "12:00 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "SHIN GODZILLA (RE-RELEASE)",
-    "date": "Aug 15",
-    "time": "1:15 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "SHIN GODZILLA (RE-RELEASE)",
-    "date": "Aug 15",
-    "time": "4:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "SHIN GODZILLA (RE-RELEASE)",
-    "date": "Aug 15",
-    "time": "6:45 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "SHIN GODZILLA (RE-RELEASE)",
-    "date": "Aug 15",
-    "time": "9:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "SHIN GODZILLA (RE-RELEASE)",
-    "date": "Aug 16",
-    "time": "10:30 AM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "SHIN GODZILLA (RE-RELEASE)",
-    "date": "Aug 16",
-    "time": "1:15 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "SHIN GODZILLA (RE-RELEASE)",
-    "date": "Aug 16",
-    "time": "4:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "SHIN GODZILLA (RE-RELEASE)",
-    "date": "Aug 16",
-    "time": "6:45 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "SHIN GODZILLA (RE-RELEASE)",
-    "date": "Aug 16",
-    "time": "9:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "SHIN GODZILLA (RE-RELEASE)",
-    "date": "Aug 17",
-    "time": "10:30 AM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "SHIN GODZILLA (RE-RELEASE)",
-    "date": "Aug 17",
-    "time": "1:15 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "SHIN GODZILLA (RE-RELEASE)",
-    "date": "Aug 17",
-    "time": "4:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "SHIN GODZILLA (RE-RELEASE)",
-    "date": "Aug 17",
-    "time": "6:45 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "SHIN GODZILLA (RE-RELEASE)",
-    "date": "Aug 17",
-    "time": "9:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "SHIN GODZILLA (RE-RELEASE)",
-    "date": "Aug 18",
-    "time": "10:30 AM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "SHIN GODZILLA (RE-RELEASE)",
-    "date": "Aug 18",
-    "time": "1:15 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "SHIN GODZILLA (RE-RELEASE)",
-    "date": "Aug 18",
-    "time": "4:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "SHIN GODZILLA (RE-RELEASE)",
-    "date": "Aug 18",
-    "time": "6:45 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "SHIN GODZILLA (RE-RELEASE)",
-    "date": "Aug 18",
-    "time": "9:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "SHIN GODZILLA (RE-RELEASE)",
-    "date": "Aug 19",
-    "time": "10:30 AM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "SHIN GODZILLA (RE-RELEASE)",
-    "date": "Aug 19",
-    "time": "1:15 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "SHIN GODZILLA (RE-RELEASE)",
-    "date": "Aug 19",
-    "time": "4:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "SHIN GODZILLA (RE-RELEASE)",
-    "date": "Aug 19",
-    "time": "6:45 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "SHIN GODZILLA (RE-RELEASE)",
-    "date": "Aug 19",
-    "time": "9:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "SHIN GODZILLA (RE-RELEASE)",
-    "date": "Aug 20",
-    "time": "10:30 AM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "SHIN GODZILLA (RE-RELEASE)",
-    "date": "Aug 20",
-    "time": "1:15 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "SHIN GODZILLA (RE-RELEASE)",
-    "date": "Aug 20",
-    "time": "4:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "SHIN GODZILLA (RE-RELEASE)",
-    "date": "Aug 20",
-    "time": "6:45 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "SHIN GODZILLA (RE-RELEASE)",
-    "date": "Aug 20",
-    "time": "9:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "TIN\u0100",
-    "date": "Sep 04",
-    "time": "7:15 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "TIN\u0100",
-    "date": "Sep 04",
-    "time": "10:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "TIN\u0100",
-    "date": "Sep 05",
-    "time": "11:00 AM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "TIN\u0100",
-    "date": "Sep 05",
-    "time": "1:45 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "TIN\u0100",
-    "date": "Sep 05",
-    "time": "4:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "TIN\u0100",
-    "date": "Sep 05",
-    "time": "7:15 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "TIN\u0100",
-    "date": "Sep 05",
-    "time": "10:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "TIN\u0100",
-    "date": "Sep 06",
-    "time": "11:00 AM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "TIN\u0100",
-    "date": "Sep 06",
-    "time": "1:45 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "TIN\u0100",
-    "date": "Sep 06",
-    "time": "4:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "TIN\u0100",
-    "date": "Sep 06",
-    "time": "7:15 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "TIN\u0100",
-    "date": "Sep 06",
-    "time": "10:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "TIN\u0100",
-    "date": "Sep 07",
-    "time": "11:00 AM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "TIN\u0100",
-    "date": "Sep 07",
-    "time": "1:45 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "TIN\u0100",
-    "date": "Sep 07",
-    "time": "4:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "TIN\u0100",
-    "date": "Sep 07",
-    "time": "7:15 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "TIN\u0100",
-    "date": "Sep 08",
-    "time": "11:00 AM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "TIN\u0100",
-    "date": "Sep 08",
-    "time": "1:45 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "TIN\u0100",
-    "date": "Sep 08",
-    "time": "4:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "TIN\u0100",
-    "date": "Sep 08",
-    "time": "7:15 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "TIN\u0100",
-    "date": "Sep 09",
-    "time": "11:00 AM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "TIN\u0100",
-    "date": "Sep 09",
-    "time": "1:45 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "TIN\u0100",
-    "date": "Sep 09",
-    "time": "4:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "TIN\u0100",
-    "date": "Sep 09",
-    "time": "7:15 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "TIN\u0100",
-    "date": "Sep 10",
-    "time": "11:00 AM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "TIN\u0100",
-    "date": "Sep 10",
-    "time": "1:45 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "TIN\u0100",
-    "date": "Sep 10",
-    "time": "4:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "TIN\u0100",
-    "date": "Sep 10",
-    "time": "7:15 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE NAKED GUN",
-    "date": "Aug 03",
-    "time": "7:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE NAKED GUN",
-    "date": "Aug 03",
-    "time": "8:40 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE NAKED GUN",
-    "date": "Aug 03",
-    "time": "10:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE NAKED GUN",
-    "date": "Aug 04",
-    "time": "11:15 AM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE NAKED GUN",
-    "date": "Aug 04",
-    "time": "1:20 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE NAKED GUN",
-    "date": "Aug 04",
-    "time": "3:25 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE NAKED GUN",
-    "date": "Aug 04",
-    "time": "5:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE NAKED GUN",
-    "date": "Aug 04",
-    "time": "7:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE NAKED GUN",
-    "date": "Aug 04",
-    "time": "8:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE NAKED GUN",
-    "date": "Aug 04",
-    "time": "10:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE NAKED GUN",
-    "date": "Aug 05",
-    "time": "11:15 AM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE NAKED GUN",
-    "date": "Aug 05",
-    "time": "1:20 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE NAKED GUN",
-    "date": "Aug 05",
-    "time": "5:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE NAKED GUN",
-    "date": "Aug 05",
-    "time": "7:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE NAKED GUN",
-    "date": "Aug 05",
-    "time": "8:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE NAKED GUN",
-    "date": "Aug 05",
-    "time": "10:15 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE NAKED GUN",
-    "date": "Aug 05",
-    "time": "3:25 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE NAKED GUN",
-    "date": "Aug 06",
-    "time": "11:00 AM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE NAKED GUN",
-    "date": "Aug 06",
-    "time": "3:10 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE NAKED GUN",
-    "date": "Aug 06",
-    "time": "5:15 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE NAKED GUN",
-    "date": "Aug 06",
-    "time": "6:55 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE NAKED GUN",
-    "date": "Aug 06",
-    "time": "10:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE NAKED GUN",
-    "date": "Aug 06",
+    "title": "FREAKIER FRIDAY",
+    "date": "Aug 11",
     "time": "1:00 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "SUPERMAN",
-    "date": "Aug 03",
-    "time": "7:45 PM",
+    "title": "FREAKIER FRIDAY",
+    "date": "Aug 11",
+    "time": "2:30 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "SUPERMAN",
-    "date": "Aug 03",
-    "time": "10:00 PM",
+    "title": "FREAKIER FRIDAY",
+    "date": "Aug 11",
+    "time": "3:30 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "SUPERMAN",
-    "date": "Aug 04",
-    "time": "11:00 AM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "SUPERMAN",
-    "date": "Aug 04",
-    "time": "12:35 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "SUPERMAN",
-    "date": "Aug 04",
-    "time": "2:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "SUPERMAN",
-    "date": "Aug 04",
+    "title": "FREAKIER FRIDAY",
+    "date": "Aug 11",
     "time": "5:00 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "SUPERMAN",
-    "date": "Aug 04",
-    "time": "7:45 PM",
+    "title": "FREAKIER FRIDAY",
+    "date": "Aug 11",
+    "time": "7:30 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "SUPERMAN",
-    "date": "Aug 04",
-    "time": "9:35 PM",
+    "title": "FREAKIER FRIDAY",
+    "date": "Aug 11",
+    "time": "10:00 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "SUPERMAN",
-    "date": "Aug 05",
-    "time": "10:50 AM",
+    "title": "FREAKIER FRIDAY",
+    "date": "Aug 12",
+    "time": "10:30 AM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "SUPERMAN",
-    "date": "Aug 05",
-    "time": "12:55 PM",
+    "title": "FREAKIER FRIDAY",
+    "date": "Aug 12",
+    "time": "12:00 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "SUPERMAN",
-    "date": "Aug 05",
-    "time": "1:50 PM",
+    "title": "FREAKIER FRIDAY",
+    "date": "Aug 12",
+    "time": "2:30 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "SUPERMAN",
-    "date": "Aug 05",
-    "time": "4:50 PM",
+    "title": "FREAKIER FRIDAY",
+    "date": "Aug 12",
+    "time": "4:00 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "SUPERMAN",
-    "date": "Aug 05",
-    "time": "7:50 PM",
+    "title": "FREAKIER FRIDAY",
+    "date": "Aug 12",
+    "time": "5:00 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "SUPERMAN",
-    "date": "Aug 05",
-    "time": "9:30 PM",
+    "title": "FREAKIER FRIDAY",
+    "date": "Aug 12",
+    "time": "7:30 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "SUPERMAN",
-    "date": "Aug 06",
+    "title": "FREAKIER FRIDAY",
+    "date": "Aug 12",
+    "time": "10:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "FREAKIER FRIDAY",
+    "date": "Aug 12",
+    "time": "1:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "FREAKIER FRIDAY",
+    "date": "Aug 13",
+    "time": "11:00 AM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "FREAKIER FRIDAY",
+    "date": "Aug 13",
+    "time": "12:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "FREAKIER FRIDAY",
+    "date": "Aug 13",
+    "time": "2:30 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "FREAKIER FRIDAY",
+    "date": "Aug 13",
+    "time": "5:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "FREAKIER FRIDAY",
+    "date": "Aug 13",
+    "time": "7:30 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "FREAKIER FRIDAY",
+    "date": "Aug 13",
+    "time": "10:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "FREAKIER FRIDAY",
+    "date": "Aug 13",
+    "time": "1:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "FREAKIER FRIDAY",
+    "date": "Aug 14",
+    "time": "12:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "FREAKIER FRIDAY",
+    "date": "Aug 14",
+    "time": "2:30 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "FREAKIER FRIDAY",
+    "date": "Aug 14",
+    "time": "5:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "FREAKIER FRIDAY",
+    "date": "Aug 14",
+    "time": "7:30 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "FREAKIER FRIDAY",
+    "date": "Aug 14",
+    "time": "10:10 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HIGHEST 2 LOWEST",
+    "date": "Aug 15",
+    "time": "1:20 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HIGHEST 2 LOWEST",
+    "date": "Aug 15",
+    "time": "4:20 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HIGHEST 2 LOWEST",
+    "date": "Aug 15",
+    "time": "7:20 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HIGHEST 2 LOWEST",
+    "date": "Aug 15",
+    "time": "10:20 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HIGHEST 2 LOWEST",
+    "date": "Aug 16",
+    "time": "10:20 AM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HIGHEST 2 LOWEST",
+    "date": "Aug 16",
+    "time": "1:20 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HIGHEST 2 LOWEST",
+    "date": "Aug 16",
+    "time": "4:20 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HIGHEST 2 LOWEST",
+    "date": "Aug 16",
+    "time": "7:20 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HIGHEST 2 LOWEST",
+    "date": "Aug 16",
+    "time": "10:20 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HIGHEST 2 LOWEST",
+    "date": "Aug 17",
+    "time": "10:20 AM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HIGHEST 2 LOWEST",
+    "date": "Aug 17",
+    "time": "1:20 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HIGHEST 2 LOWEST",
+    "date": "Aug 17",
+    "time": "7:20 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HIGHEST 2 LOWEST",
+    "date": "Aug 17",
+    "time": "10:20 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HIGHEST 2 LOWEST",
+    "date": "Aug 17",
+    "time": "4:20 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HIGHEST 2 LOWEST",
+    "date": "Aug 18",
+    "time": "10:20 AM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HIGHEST 2 LOWEST",
+    "date": "Aug 18",
+    "time": "1:20 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HIGHEST 2 LOWEST",
+    "date": "Aug 18",
+    "time": "4:20 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HIGHEST 2 LOWEST",
+    "date": "Aug 18",
+    "time": "7:20 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HIGHEST 2 LOWEST",
+    "date": "Aug 19",
+    "time": "10:20 AM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HIGHEST 2 LOWEST",
+    "date": "Aug 19",
+    "time": "1:20 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HIGHEST 2 LOWEST",
+    "date": "Aug 19",
+    "time": "4:20 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HIGHEST 2 LOWEST",
+    "date": "Aug 19",
+    "time": "7:20 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HIGHEST 2 LOWEST",
+    "date": "Aug 19",
+    "time": "10:20 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HIGHEST 2 LOWEST",
+    "date": "Aug 20",
+    "time": "10:20 AM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HIGHEST 2 LOWEST",
+    "date": "Aug 20",
+    "time": "1:20 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HIGHEST 2 LOWEST",
+    "date": "Aug 20",
+    "time": "4:20 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HIGHEST 2 LOWEST",
+    "date": "Aug 20",
+    "time": "7:20 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "TIN\u0100",
+    "date": "Sep 04",
+    "time": "7:15 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "TIN\u0100",
+    "date": "Sep 04",
+    "time": "10:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "TIN\u0100",
+    "date": "Sep 05",
     "time": "10:45 AM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "SUPERMAN",
-    "date": "Aug 06",
-    "time": "1:10 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "SUPERMAN",
-    "date": "Aug 06",
+    "title": "TIN\u0100",
+    "date": "Sep 05",
     "time": "1:35 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "SUPERMAN",
-    "date": "Aug 06",
-    "time": "4:35 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "SUPERMAN",
-    "date": "Aug 06",
-    "time": "7:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "SUPERMAN",
-    "date": "Aug 06",
-    "time": "10:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "TOGETHER",
-    "date": "Aug 03",
-    "time": "7:10 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "TOGETHER",
-    "date": "Aug 03",
-    "time": "9:35 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "TOGETHER",
-    "date": "Aug 04",
-    "time": "12:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "TOGETHER",
-    "date": "Aug 04",
-    "time": "2:25 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "TOGETHER",
-    "date": "Aug 04",
-    "time": "4:45 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "TOGETHER",
-    "date": "Aug 04",
-    "time": "7:10 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "TOGETHER",
-    "date": "Aug 04",
-    "time": "9:35 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "TOGETHER",
-    "date": "Aug 05",
-    "time": "12:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "TOGETHER",
-    "date": "Aug 05",
-    "time": "2:25 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "TOGETHER",
-    "date": "Aug 05",
-    "time": "4:45 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "TOGETHER",
-    "date": "Aug 05",
-    "time": "7:10 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "TOGETHER",
-    "date": "Aug 05",
-    "time": "9:35 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "TOGETHER",
-    "date": "Aug 06",
-    "time": "11:35 AM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "TOGETHER",
-    "date": "Aug 06",
-    "time": "2:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "TOGETHER",
-    "date": "Aug 06",
+    "title": "TIN\u0100",
+    "date": "Sep 05",
     "time": "4:25 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "TOGETHER",
-    "date": "Aug 06",
-    "time": "7:20 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "TOGETHER",
-    "date": "Aug 06",
-    "time": "9:45 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "F1 THE MOVIE",
-    "date": "Aug 03",
-    "time": "6:45 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "F1 THE MOVIE",
-    "date": "Aug 03",
-    "time": "9:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "F1 THE MOVIE",
-    "date": "Aug 04",
-    "time": "10:30 AM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "F1 THE MOVIE",
-    "date": "Aug 04",
-    "time": "3:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "F1 THE MOVIE",
-    "date": "Aug 04",
-    "time": "6:45 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "F1 THE MOVIE",
-    "date": "Aug 04",
-    "time": "9:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "F1 THE MOVIE",
-    "date": "Aug 05",
-    "time": "10:00 AM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "F1 THE MOVIE",
-    "date": "Aug 05",
-    "time": "3:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "F1 THE MOVIE",
-    "date": "Aug 05",
-    "time": "7:40 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "F1 THE MOVIE",
-    "date": "Aug 06",
-    "time": "10:15 AM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "F1 THE MOVIE",
-    "date": "Aug 06",
-    "time": "3:45 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "F1 THE MOVIE",
-    "date": "Aug 06",
-    "time": "6:15 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "F1 THE MOVIE",
-    "date": "Aug 06",
-    "time": "9:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "IN THE MOOD FOR LOVE: 25th ANNIVERSARY + A RARELY SEEN SHORT FILM",
+    "title": "TIN\u0100",
     "date": "Sep 05",
-    "time": "5:00 PM",
+    "time": "7:15 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "IN THE MOOD FOR LOVE: 25th ANNIVERSARY + A RARELY SEEN SHORT FILM",
+    "title": "TIN\u0100",
     "date": "Sep 05",
-    "time": "7:20 PM",
+    "time": "10:00 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "IN THE MOOD FOR LOVE: 25th ANNIVERSARY + A RARELY SEEN SHORT FILM",
+    "title": "TIN\u0100",
     "date": "Sep 06",
-    "time": "5:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "IN THE MOOD FOR LOVE: 25th ANNIVERSARY + A RARELY SEEN SHORT FILM",
-    "date": "Sep 06",
-    "time": "7:20 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "IN THE MOOD FOR LOVE: 25th ANNIVERSARY + A RARELY SEEN SHORT FILM",
-    "date": "Sep 07",
-    "time": "5:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "IN THE MOOD FOR LOVE: 25th ANNIVERSARY + A RARELY SEEN SHORT FILM",
-    "date": "Sep 07",
-    "time": "7:20 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "IN THE MOOD FOR LOVE: 25th ANNIVERSARY + A RARELY SEEN SHORT FILM",
-    "date": "Sep 08",
-    "time": "5:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "IN THE MOOD FOR LOVE: 25th ANNIVERSARY + A RARELY SEEN SHORT FILM",
-    "date": "Sep 08",
-    "time": "7:20 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "IN THE MOOD FOR LOVE: 25th ANNIVERSARY + A RARELY SEEN SHORT FILM",
-    "date": "Sep 09",
-    "time": "5:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "IN THE MOOD FOR LOVE: 25th ANNIVERSARY + A RARELY SEEN SHORT FILM",
-    "date": "Sep 09",
-    "time": "7:20 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "IN THE MOOD FOR LOVE: 25th ANNIVERSARY + A RARELY SEEN SHORT FILM",
-    "date": "Sep 10",
-    "time": "5:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "IN THE MOOD FOR LOVE: 25th ANNIVERSARY + A RARELY SEEN SHORT FILM",
-    "date": "Sep 10",
-    "time": "7:20 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "OH, HI",
-    "date": "Aug 03",
-    "time": "6:25 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "OH, HI",
-    "date": "Aug 04",
     "time": "10:45 AM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "OH, HI",
-    "date": "Aug 05",
-    "time": "1:15 PM",
+    "title": "TIN\u0100",
+    "date": "Sep 06",
+    "time": "1:35 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "OH, HI",
-    "date": "Aug 06",
-    "time": "1:30 PM",
+    "title": "TIN\u0100",
+    "date": "Sep 06",
+    "time": "4:25 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "KIKI'S DELIVERY SERVICE",
-    "date": "Aug 06",
+    "title": "TIN\u0100",
+    "date": "Sep 06",
+    "time": "7:15 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "TIN\u0100",
+    "date": "Sep 06",
+    "time": "10:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "TIN\u0100",
+    "date": "Sep 08",
+    "time": "11:30 AM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "TIN\u0100",
+    "date": "Sep 08",
+    "time": "2:15 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "TIN\u0100",
+    "date": "Sep 08",
+    "time": "5:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "TIN\u0100",
+    "date": "Sep 08",
+    "time": "7:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "TIN\u0100",
+    "date": "Sep 09",
+    "time": "11:30 AM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "TIN\u0100",
+    "date": "Sep 09",
+    "time": "2:15 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "TIN\u0100",
+    "date": "Sep 09",
+    "time": "5:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "TIN\u0100",
+    "date": "Sep 09",
+    "time": "7:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "TIN\u0100",
+    "date": "Sep 10",
+    "time": "11:00 AM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "TIN\u0100",
+    "date": "Sep 10",
+    "time": "1:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "TIN\u0100",
+    "date": "Sep 10",
+    "time": "4:30 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "TIN\u0100",
+    "date": "Sep 10",
+    "time": "7:15 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HAMILTON",
+    "date": "Sep 04",
+    "time": "2:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HAMILTON",
+    "date": "Sep 04",
+    "time": "6:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HAMILTON",
+    "date": "Sep 04",
+    "time": "9:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HAMILTON",
+    "date": "Sep 05",
+    "time": "11:00 AM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HAMILTON",
+    "date": "Sep 05",
+    "time": "2:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HAMILTON",
+    "date": "Sep 05",
+    "time": "6:30 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HAMILTON",
+    "date": "Sep 05",
+    "time": "9:35 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HAMILTON",
+    "date": "Sep 06",
+    "time": "11:00 AM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HAMILTON",
+    "date": "Sep 06",
+    "time": "2:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HAMILTON",
+    "date": "Sep 06",
+    "time": "6:30 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HAMILTON",
+    "date": "Sep 06",
+    "time": "9:35 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HAMILTON",
+    "date": "Sep 07",
+    "time": "11:00 AM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HAMILTON",
+    "date": "Sep 07",
+    "time": "2:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HAMILTON",
+    "date": "Sep 07",
+    "time": "6:30 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HAMILTON",
+    "date": "Sep 07",
+    "time": "9:30 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HAMILTON",
+    "date": "Sep 08",
+    "time": "11:15 AM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HAMILTON",
+    "date": "Sep 08",
+    "time": "3:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HAMILTON",
+    "date": "Sep 08",
+    "time": "6:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HAMILTON",
+    "date": "Sep 09",
+    "time": "11:15 AM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HAMILTON",
+    "date": "Sep 09",
+    "time": "3:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HAMILTON",
+    "date": "Sep 09",
+    "time": "6:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HAMILTON",
+    "date": "Sep 10",
+    "time": "11:15 AM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HAMILTON",
+    "date": "Sep 10",
+    "time": "3:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "HAMILTON",
+    "date": "Sep 10",
+    "time": "6:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "THE NAKED GUN",
+    "date": "Aug 11",
+    "time": "11:50 AM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "THE NAKED GUN",
+    "date": "Aug 11",
+    "time": "2:20 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "THE NAKED GUN",
+    "date": "Aug 11",
+    "time": "4:55 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "THE NAKED GUN",
+    "date": "Aug 11",
+    "time": "7:25 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "THE NAKED GUN",
+    "date": "Aug 11",
+    "time": "10:05 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "THE NAKED GUN",
+    "date": "Aug 12",
+    "time": "11:40 AM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "THE NAKED GUN",
+    "date": "Aug 12",
+    "time": "2:20 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "THE NAKED GUN",
+    "date": "Aug 12",
+    "time": "4:35 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "THE NAKED GUN",
+    "date": "Aug 12",
+    "time": "6:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "THE NAKED GUN",
+    "date": "Aug 12",
+    "time": "10:10 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "THE NAKED GUN",
+    "date": "Aug 13",
+    "time": "11:00 AM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "THE NAKED GUN",
+    "date": "Aug 13",
+    "time": "2:20 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "THE NAKED GUN",
+    "date": "Aug 13",
+    "time": "4:40 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "THE NAKED GUN",
+    "date": "Aug 13",
+    "time": "6:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "THE NAKED GUN",
+    "date": "Aug 13",
+    "time": "10:10 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "THE NAKED GUN",
+    "date": "Aug 14",
+    "time": "11:50 AM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "THE NAKED GUN",
+    "date": "Aug 14",
+    "time": "2:20 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "THE NAKED GUN",
+    "date": "Aug 14",
+    "time": "4:55 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "THE NAKED GUN",
+    "date": "Aug 14",
+    "time": "7:25 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "THE NAKED GUN",
+    "date": "Aug 14",
+    "time": "9:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "THE FANTASTIC FOUR: FIRST STEPS",
+    "date": "Aug 11",
+    "time": "1:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "THE FANTASTIC FOUR: FIRST STEPS",
+    "date": "Aug 11",
+    "time": "4:30 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "THE FANTASTIC FOUR: FIRST STEPS",
+    "date": "Aug 11",
+    "time": "7:15 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "THE FANTASTIC FOUR: FIRST STEPS",
+    "date": "Aug 11",
+    "time": "10:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "THE FANTASTIC FOUR: FIRST STEPS",
+    "date": "Aug 12",
+    "time": "11:00 AM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "THE FANTASTIC FOUR: FIRST STEPS",
+    "date": "Aug 12",
+    "time": "1:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "THE FANTASTIC FOUR: FIRST STEPS",
+    "date": "Aug 12",
+    "time": "4:30 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "THE FANTASTIC FOUR: FIRST STEPS",
+    "date": "Aug 12",
+    "time": "7:15 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "THE FANTASTIC FOUR: FIRST STEPS",
+    "date": "Aug 12",
+    "time": "10:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "THE FANTASTIC FOUR: FIRST STEPS",
+    "date": "Aug 13",
+    "time": "11:05 AM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "THE FANTASTIC FOUR: FIRST STEPS",
+    "date": "Aug 13",
+    "time": "1:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "THE FANTASTIC FOUR: FIRST STEPS",
+    "date": "Aug 13",
+    "time": "4:30 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "THE FANTASTIC FOUR: FIRST STEPS",
+    "date": "Aug 13",
+    "time": "7:15 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "THE FANTASTIC FOUR: FIRST STEPS",
+    "date": "Aug 13",
+    "time": "10:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "THE FANTASTIC FOUR: FIRST STEPS",
+    "date": "Aug 14",
+    "time": "11:00 AM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "THE FANTASTIC FOUR: FIRST STEPS",
+    "date": "Aug 14",
+    "time": "1:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "THE FANTASTIC FOUR: FIRST STEPS",
+    "date": "Aug 14",
+    "time": "4:30 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "THE FANTASTIC FOUR: FIRST STEPS",
+    "date": "Aug 14",
+    "time": "7:15 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "THE FANTASTIC FOUR: FIRST STEPS",
+    "date": "Aug 14",
+    "time": "10:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
+    "date": "Aug 11",
+    "time": "11:30 AM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
+    "date": "Aug 11",
+    "time": "2:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
+    "date": "Aug 11",
+    "time": "4:30 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
+    "date": "Aug 11",
     "time": "7:00 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "KIKI'S DELIVERY SERVICE",
-    "date": "Aug 06",
+    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
+    "date": "Aug 11",
+    "time": "9:30 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
+    "date": "Aug 12",
+    "time": "11:30 AM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
+    "date": "Aug 12",
+    "time": "1:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
+    "date": "Aug 12",
+    "time": "4:30 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
+    "date": "Aug 12",
+    "time": "8:50 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
+    "date": "Aug 13",
+    "time": "11:30 AM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
+    "date": "Aug 13",
+    "time": "1:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
+    "date": "Aug 13",
+    "time": "4:35 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
+    "date": "Aug 13",
+    "time": "8:50 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
+    "date": "Aug 14",
+    "time": "11:30 AM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
+    "date": "Aug 14",
+    "time": "2:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
+    "date": "Aug 14",
+    "time": "4:30 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
+    "date": "Aug 14",
+    "time": "7:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
+    "date": "Aug 14",
+    "time": "9:55 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "SUPERMAN",
+    "date": "Aug 11",
+    "time": "1:30 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "SUPERMAN",
+    "date": "Aug 11",
+    "time": "4:15 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "SUPERMAN",
+    "date": "Aug 11",
+    "time": "7:05 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "SUPERMAN",
+    "date": "Aug 11",
+    "time": "10:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "SUPERMAN",
+    "date": "Aug 12",
+    "time": "10:45 AM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "SUPERMAN",
+    "date": "Aug 12",
+    "time": "1:30 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "SUPERMAN",
+    "date": "Aug 12",
+    "time": "4:15 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "SUPERMAN",
+    "date": "Aug 12",
+    "time": "7:05 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "SUPERMAN",
+    "date": "Aug 12",
+    "time": "10:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "SUPERMAN",
+    "date": "Aug 13",
+    "time": "11:00 AM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "SUPERMAN",
+    "date": "Aug 13",
+    "time": "4:15 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "SUPERMAN",
+    "date": "Aug 13",
+    "time": "7:25 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "SUPERMAN",
+    "date": "Aug 13",
+    "time": "10:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "SUPERMAN",
+    "date": "Aug 13",
+    "time": "1:30 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "WEAPONS",
+    "date": "Aug 11",
+    "time": "2:15 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "WEAPONS",
+    "date": "Aug 11",
+    "time": "5:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "WEAPONS",
+    "date": "Aug 11",
+    "time": "8:30 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "WEAPONS",
+    "date": "Aug 11",
+    "time": "10:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "WEAPONS",
+    "date": "Aug 12",
+    "time": "11:20 AM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "WEAPONS",
+    "date": "Aug 12",
+    "time": "2:15 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "WEAPONS",
+    "date": "Aug 12",
+    "time": "5:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "WEAPONS",
+    "date": "Aug 12",
+    "time": "7:25 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "WEAPONS",
+    "date": "Aug 12",
+    "time": "10:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "WEAPONS",
+    "date": "Aug 13",
+    "time": "11:20 AM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "WEAPONS",
+    "date": "Aug 13",
+    "time": "2:15 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "WEAPONS",
+    "date": "Aug 13",
+    "time": "5:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "WEAPONS",
+    "date": "Aug 13",
+    "time": "8:30 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "WEAPONS",
+    "date": "Aug 13",
+    "time": "9:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "NE ZHA II",
+    "date": "Aug 21",
+    "time": "5:15 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "NE ZHA II",
+    "date": "Aug 22",
+    "time": "3:35 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "NE ZHA II",
+    "date": "Aug 22",
+    "time": "6:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "NE ZHA II",
+    "date": "Aug 23",
+    "time": "3:35 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "NE ZHA II",
+    "date": "Aug 23",
+    "time": "6:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "NE ZHA II",
+    "date": "Aug 24",
+    "time": "3:35 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "NE ZHA II",
+    "date": "Aug 24",
+    "time": "6:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "NE ZHA II",
+    "date": "Aug 25",
+    "time": "3:35 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "NE ZHA II",
+    "date": "Aug 25",
+    "time": "6:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "NE ZHA II",
+    "date": "Aug 26",
+    "time": "3:35 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "NE ZHA II",
+    "date": "Aug 26",
+    "time": "6:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "NE ZHA II",
+    "date": "Aug 27",
+    "time": "3:35 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "NE ZHA II",
+    "date": "Aug 27",
+    "time": "6:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "THE BAD GUYS 2",
+    "date": "Aug 11",
+    "time": "4:15 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "THE BAD GUYS 2",
+    "date": "Aug 11",
+    "time": "6:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "THE BAD GUYS 2",
+    "date": "Aug 11",
+    "time": "9:15 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "THE BAD GUYS 2",
+    "date": "Aug 11",
+    "time": "1:50 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "THE BAD GUYS 2",
+    "date": "Aug 12",
+    "time": "11:15 AM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "THE BAD GUYS 2",
+    "date": "Aug 12",
+    "time": "1:50 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "THE BAD GUYS 2",
+    "date": "Aug 12",
+    "time": "4:15 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "THE BAD GUYS 2",
+    "date": "Aug 12",
+    "time": "6:40 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "THE BAD GUYS 2",
+    "date": "Aug 12",
     "time": "9:00 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "KIKI'S DELIVERY SERVICE",
-    "date": "Aug 07",
-    "time": "11:00 AM",
+    "title": "THE BAD GUYS 2",
+    "date": "Aug 13",
+    "time": "11:10 AM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "THE BAD GUYS 2",
+    "date": "Aug 13",
+    "time": "1:35 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "THE BAD GUYS 2",
+    "date": "Aug 13",
+    "time": "3:30 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "THE BAD GUYS 2",
+    "date": "Aug 13",
+    "time": "6:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "IN THE MOOD FOR LOVE: 25th ANNIVERSARY + A RARELY SEEN SHORT FILM",
+    "date": "Sep 05",
+    "time": "5:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "IN THE MOOD FOR LOVE: 25th ANNIVERSARY + A RARELY SEEN SHORT FILM",
+    "date": "Sep 05",
+    "time": "7:20 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "IN THE MOOD FOR LOVE: 25th ANNIVERSARY + A RARELY SEEN SHORT FILM",
+    "date": "Sep 06",
+    "time": "5:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "IN THE MOOD FOR LOVE: 25th ANNIVERSARY + A RARELY SEEN SHORT FILM",
+    "date": "Sep 06",
+    "time": "7:20 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "IN THE MOOD FOR LOVE: 25th ANNIVERSARY + A RARELY SEEN SHORT FILM",
+    "date": "Sep 07",
+    "time": "5:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "IN THE MOOD FOR LOVE: 25th ANNIVERSARY + A RARELY SEEN SHORT FILM",
+    "date": "Sep 07",
+    "time": "7:20 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "IN THE MOOD FOR LOVE: 25th ANNIVERSARY + A RARELY SEEN SHORT FILM",
+    "date": "Sep 08",
+    "time": "5:15 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "IN THE MOOD FOR LOVE: 25th ANNIVERSARY + A RARELY SEEN SHORT FILM",
+    "date": "Sep 08",
+    "time": "7:30 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "IN THE MOOD FOR LOVE: 25th ANNIVERSARY + A RARELY SEEN SHORT FILM",
+    "date": "Sep 09",
+    "time": "5:15 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "IN THE MOOD FOR LOVE: 25th ANNIVERSARY + A RARELY SEEN SHORT FILM",
+    "date": "Sep 09",
+    "time": "7:30 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "IN THE MOOD FOR LOVE: 25th ANNIVERSARY + A RARELY SEEN SHORT FILM",
+    "date": "Sep 10",
+    "time": "5:15 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "IN THE MOOD FOR LOVE: 25th ANNIVERSARY + A RARELY SEEN SHORT FILM",
+    "date": "Sep 10",
+    "time": "7:30 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "COOLIE (TAMIL)",
+    "date": "Aug 14",
+    "time": "9:35 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "COOLIE (TAMIL)",
+    "date": "Aug 15",
+    "time": "2:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "COOLIE (TAMIL)",
+    "date": "Aug 15",
+    "time": "9:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "COOLIE (TAMIL)",
+    "date": "Aug 16",
+    "time": "9:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "COOLIE (TAMIL)",
+    "date": "Aug 17",
+    "time": "2:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "COOLIE (TAMIL)",
+    "date": "Aug 17",
+    "time": "9:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "COOLIE (TAMIL)",
+    "date": "Aug 18",
+    "time": "2:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "COOLIE (TAMIL)",
+    "date": "Aug 18",
+    "time": "9:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "COOLIE (TAMIL)",
+    "date": "Aug 19",
+    "time": "2:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "COOLIE (TAMIL)",
+    "date": "Aug 19",
+    "time": "9:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "COOLIE (TAMIL)",
+    "date": "Aug 20",
+    "time": "2:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "COOLIE (TAMIL)",
+    "date": "Aug 20",
+    "time": "9:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "TOGETHER",
+    "date": "Aug 11",
+    "time": "6:00 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "TOGETHER",
+    "date": "Aug 11",
+    "time": "7:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "TOGETHER",
+    "date": "Aug 12",
+    "time": "7:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "TOGETHER",
+    "date": "Aug 12",
+    "time": "10:05 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "TOGETHER",
+    "date": "Aug 13",
+    "time": "7:45 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
+    "title": "TOGETHER",
+    "date": "Aug 13",
+    "time": "10:05 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
@@ -3136,20 +3199,6 @@
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "HARRY POTTER AND THE HALF-BLOOD PRINCE",
-    "date": "Aug 05",
-    "time": "7:05 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "HARRY POTTER AND THE HALF-BLOOD PRINCE",
-    "date": "Aug 09",
-    "time": "10:00 AM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
     "title": "METROPOLIS",
     "date": "Oct 20",
     "time": "4:00 PM",
@@ -3173,20 +3222,6 @@
   {
     "title": "THE SHINING",
     "date": "Sep 01",
-    "time": "7:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "DAZED AND CONFUSED",
-    "date": "Aug 04",
-    "time": "4:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "DAZED AND CONFUSED",
-    "date": "Aug 04",
     "time": "7:00 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
@@ -3243,7 +3278,7 @@
   {
     "title": "CASTLE IN THE SKY",
     "date": "Aug 28",
-    "time": "11:00 AM",
+    "time": "10:55 AM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
@@ -3444,23 +3479,16 @@
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "#RUNSEOKJIN_EP.TOUR in AMSTERDAM: LIVE VIEWING",
-    "date": "Aug 09",
-    "time": "1:45 PM",
+    "title": "DAVID GILMOUR LIVE AT THE CIRCUS MAXIMUS, ROME",
+    "date": "Sep 17",
+    "time": "8:30 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "#RUNSEOKJIN_EP.TOUR in AMSTERDAM: LIVE VIEWING",
-    "date": "Aug 09",
-    "time": "5:30 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "THE ROOM",
-    "date": "Aug 08",
-    "time": "10:00 PM",
+    "title": "DAVID GILMOUR LIVE AT THE CIRCUS MAXIMUS, ROME",
+    "date": "Sep 21",
+    "time": "3:30 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
@@ -3479,6 +3507,13 @@
     "theaterID": "angelika mosaic"
   },
   {
+    "title": "THE MATRIX",
+    "date": "Sep 17",
+    "time": "7:15 PM",
+    "status": "available",
+    "theaterID": "angelika mosaic"
+  },
+  {
     "title": "MEET ME IN ST. LOUIS",
     "date": "Nov 24",
     "time": "7:00 PM",
@@ -3489,20 +3524,6 @@
     "title": "LITTLE SHOP OF HORRORS",
     "date": "Oct 27",
     "time": "7:00 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "TOP SECRET CINEMA: AUGUST 4",
-    "date": "Aug 04",
-    "time": "7:15 PM",
-    "status": "available",
-    "theaterID": "angelika mosaic"
-  },
-  {
-    "title": "DOCTOR ZHIVAGO",
-    "date": "Aug 10",
-    "time": "2:00 PM",
     "status": "available",
     "theaterID": "angelika mosaic"
   },
@@ -3598,392 +3619,364 @@
     "theaterID": "angelika mosaic"
   },
   {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 07",
+    "title": "CAUGHT STEALING",
+    "date": "Aug 28",
+    "time": "4:00 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "CAUGHT STEALING",
+    "date": "Aug 28",
+    "time": "6:45 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "CAUGHT STEALING",
+    "date": "Aug 28",
+    "time": "9:50 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "CAUGHT STEALING",
+    "date": "Aug 29",
+    "time": "1:30 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "CAUGHT STEALING",
+    "date": "Aug 29",
+    "time": "4:00 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "CAUGHT STEALING",
+    "date": "Aug 29",
     "time": "7:00 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },
   {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 08",
-    "time": "12:00 PM",
+    "title": "CAUGHT STEALING",
+    "date": "Aug 29",
+    "time": "9:40 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },
   {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 08",
-    "time": "2:30 PM",
+    "title": "CAUGHT STEALING",
+    "date": "Aug 30",
+    "time": "1:00 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },
   {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 08",
-    "time": "4:55 PM",
+    "title": "CAUGHT STEALING",
+    "date": "Aug 30",
+    "time": "4:00 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },
   {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 08",
-    "time": "7:30 PM",
+    "title": "CAUGHT STEALING",
+    "date": "Aug 30",
+    "time": "6:45 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },
   {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 09",
-    "time": "12:00 PM",
+    "title": "CAUGHT STEALING",
+    "date": "Aug 30",
+    "time": "9:20 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },
   {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 09",
-    "time": "2:30 PM",
+    "title": "CAUGHT STEALING",
+    "date": "Aug 31",
+    "time": "1:30 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },
   {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 09",
-    "time": "5:00 PM",
+    "title": "CAUGHT STEALING",
+    "date": "Aug 31",
+    "time": "4:00 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },
   {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 09",
-    "time": "7:30 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 09",
-    "time": "10:00 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 10",
-    "time": "12:00 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 10",
-    "time": "2:30 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 10",
-    "time": "5:00 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 10",
-    "time": "7:30 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 10",
-    "time": "10:00 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 11",
-    "time": "12:00 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 11",
-    "time": "2:30 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 11",
-    "time": "5:00 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 11",
-    "time": "7:30 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 11",
-    "time": "10:00 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 12",
-    "time": "12:00 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 12",
-    "time": "2:30 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 12",
-    "time": "5:00 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 12",
-    "time": "7:30 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 12",
-    "time": "10:00 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 13",
-    "time": "12:00 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 13",
-    "time": "2:30 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 13",
-    "time": "5:00 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 13",
-    "time": "7:30 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 13",
-    "time": "10:00 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 14",
-    "time": "12:00 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 14",
-    "time": "2:30 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 14",
-    "time": "5:00 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 14",
-    "time": "7:30 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 14",
-    "time": "10:00 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "JAWS: 50th ANNIVERSARY",
-    "date": "Aug 28",
+    "title": "CAUGHT STEALING",
+    "date": "Aug 31",
     "time": "7:00 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },
   {
-    "title": "JAWS: 50th ANNIVERSARY",
-    "date": "Aug 28",
-    "time": "9:30 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "JAWS: 50th ANNIVERSARY",
-    "date": "Aug 29",
-    "time": "12:30 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "JAWS: 50th ANNIVERSARY",
-    "date": "Aug 29",
-    "time": "3:30 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "JAWS: 50th ANNIVERSARY",
-    "date": "Aug 29",
-    "time": "6:30 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "JAWS: 50th ANNIVERSARY",
-    "date": "Aug 29",
-    "time": "9:30 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "JAWS: 50th ANNIVERSARY",
-    "date": "Aug 30",
-    "time": "12:30 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "JAWS: 50th ANNIVERSARY",
-    "date": "Aug 30",
-    "time": "3:30 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "JAWS: 50th ANNIVERSARY",
-    "date": "Aug 30",
-    "time": "6:30 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "JAWS: 50th ANNIVERSARY",
-    "date": "Aug 30",
-    "time": "9:30 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "JAWS: 50th ANNIVERSARY",
+    "title": "CAUGHT STEALING",
     "date": "Aug 31",
-    "time": "12:30 PM",
+    "time": "9:35 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },
   {
-    "title": "JAWS: 50th ANNIVERSARY",
-    "date": "Aug 31",
-    "time": "3:30 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "JAWS: 50th ANNIVERSARY",
-    "date": "Aug 31",
-    "time": "6:30 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "JAWS: 50th ANNIVERSARY",
-    "date": "Aug 31",
-    "time": "9:30 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "JAWS: 50th ANNIVERSARY",
+    "title": "CAUGHT STEALING",
     "date": "Sep 01",
-    "time": "12:30 PM",
+    "time": "1:30 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },
   {
-    "title": "JAWS: 50th ANNIVERSARY",
+    "title": "CAUGHT STEALING",
     "date": "Sep 01",
-    "time": "3:30 PM",
+    "time": "4:15 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },
   {
-    "title": "JAWS: 50th ANNIVERSARY",
+    "title": "CAUGHT STEALING",
     "date": "Sep 01",
     "time": "7:15 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },
   {
-    "title": "JAWS: 50th ANNIVERSARY",
+    "title": "CAUGHT STEALING",
+    "date": "Sep 01",
+    "time": "9:45 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "CAUGHT STEALING",
     "date": "Sep 02",
-    "time": "12:30 PM",
+    "time": "1:30 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "CAUGHT STEALING",
+    "date": "Sep 02",
+    "time": "4:00 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "CAUGHT STEALING",
+    "date": "Sep 02",
+    "time": "7:00 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "CAUGHT STEALING",
+    "date": "Sep 02",
+    "time": "9:40 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "CAUGHT STEALING",
+    "date": "Sep 03",
+    "time": "1:00 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "CAUGHT STEALING",
+    "date": "Sep 03",
+    "time": "3:45 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "CAUGHT STEALING",
+    "date": "Sep 03",
+    "time": "6:30 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "CAUGHT STEALING",
+    "date": "Sep 04",
+    "time": "11:15 AM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "CAUGHT STEALING",
+    "date": "Sep 04",
+    "time": "1:45 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "CAUGHT STEALING",
+    "date": "Sep 04",
+    "time": "4:10 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "CAUGHT STEALING",
+    "date": "Sep 04",
+    "time": "6:45 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "CAUGHT STEALING",
+    "date": "Sep 04",
+    "time": "9:15 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },
   {
     "title": "JAWS: 50th ANNIVERSARY",
-    "date": "Sep 02",
-    "time": "3:30 PM",
+    "date": "Aug 28",
+    "time": "7:00 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },
   {
     "title": "JAWS: 50th ANNIVERSARY",
-    "date": "Sep 02",
+    "date": "Aug 28",
+    "time": "9:30 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "JAWS: 50th ANNIVERSARY",
+    "date": "Aug 29",
+    "time": "1:00 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "JAWS: 50th ANNIVERSARY",
+    "date": "Aug 29",
+    "time": "4:15 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "JAWS: 50th ANNIVERSARY",
+    "date": "Aug 29",
     "time": "6:30 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },
   {
     "title": "JAWS: 50th ANNIVERSARY",
+    "date": "Aug 29",
+    "time": "9:30 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "JAWS: 50th ANNIVERSARY",
+    "date": "Aug 30",
+    "time": "1:15 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "JAWS: 50th ANNIVERSARY",
+    "date": "Aug 30",
+    "time": "3:30 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "JAWS: 50th ANNIVERSARY",
+    "date": "Aug 30",
+    "time": "6:30 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "JAWS: 50th ANNIVERSARY",
+    "date": "Aug 30",
+    "time": "9:30 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "JAWS: 50th ANNIVERSARY",
+    "date": "Aug 31",
+    "time": "1:00 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "JAWS: 50th ANNIVERSARY",
+    "date": "Aug 31",
+    "time": "4:10 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "JAWS: 50th ANNIVERSARY",
+    "date": "Aug 31",
+    "time": "6:40 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "JAWS: 50th ANNIVERSARY",
+    "date": "Aug 31",
+    "time": "9:30 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "JAWS: 50th ANNIVERSARY",
+    "date": "Sep 01",
+    "time": "1:15 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "JAWS: 50th ANNIVERSARY",
+    "date": "Sep 01",
+    "time": "4:10 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "JAWS: 50th ANNIVERSARY",
+    "date": "Sep 01",
+    "time": "9:30 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "JAWS: 50th ANNIVERSARY",
+    "date": "Sep 02",
+    "time": "1:15 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "JAWS: 50th ANNIVERSARY",
+    "date": "Sep 02",
+    "time": "4:10 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "JAWS: 50th ANNIVERSARY",
+    "date": "Sep 02",
+    "time": "6:45 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "JAWS: 50th ANNIVERSARY",
     "date": "Sep 02",
     "time": "9:30 PM",
     "status": "available",
@@ -3992,21 +3985,21 @@
   {
     "title": "JAWS: 50th ANNIVERSARY",
     "date": "Sep 03",
-    "time": "12:30 PM",
+    "time": "1:15 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },
   {
     "title": "JAWS: 50th ANNIVERSARY",
     "date": "Sep 03",
-    "time": "3:30 PM",
+    "time": "4:00 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },
   {
     "title": "JAWS: 50th ANNIVERSARY",
     "date": "Sep 03",
-    "time": "9:30 PM",
+    "time": "9:00 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },
@@ -4018,324 +4011,429 @@
     "theaterID": "angelika popup"
   },
   {
-    "title": "JAWS: 50th ANNIVERSARY",
+    "title": "HAMILTON",
     "date": "Sep 04",
-    "time": "3:00 PM",
+    "time": "2:00 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },
   {
-    "title": "JAWS: 50th ANNIVERSARY",
+    "title": "HAMILTON",
     "date": "Sep 04",
-    "time": "6:00 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "JAWS: 50th ANNIVERSARY",
-    "date": "Sep 04",
-    "time": "9:00 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 03",
-    "time": "6:15 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 03",
     "time": "7:00 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },
   {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 03",
-    "time": "9:00 PM",
+    "title": "HAMILTON",
+    "date": "Sep 05",
+    "time": "12:00 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },
   {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 03",
-    "time": "9:45 PM",
+    "title": "HAMILTON",
+    "date": "Sep 05",
+    "time": "4:00 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },
   {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 04",
+    "title": "HAMILTON",
+    "date": "Sep 05",
+    "time": "8:00 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "HAMILTON",
+    "date": "Sep 06",
+    "time": "12:00 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "HAMILTON",
+    "date": "Sep 06",
+    "time": "4:00 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "HAMILTON",
+    "date": "Sep 06",
+    "time": "8:00 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "HAMILTON",
+    "date": "Sep 07",
+    "time": "12:00 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "HAMILTON",
+    "date": "Sep 07",
+    "time": "4:00 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "HAMILTON",
+    "date": "Sep 07",
+    "time": "8:00 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "HAMILTON",
+    "date": "Sep 08",
+    "time": "12:00 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "HAMILTON",
+    "date": "Sep 08",
+    "time": "4:00 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "HAMILTON",
+    "date": "Sep 08",
+    "time": "7:45 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "HAMILTON",
+    "date": "Sep 09",
     "time": "12:30 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },
   {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 04",
+    "title": "HAMILTON",
+    "date": "Sep 09",
+    "time": "4:20 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "HAMILTON",
+    "date": "Sep 09",
+    "time": "8:00 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "HAMILTON",
+    "date": "Sep 10",
+    "time": "12:00 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "HAMILTON",
+    "date": "Sep 10",
+    "time": "4:20 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "HAMILTON",
+    "date": "Sep 10",
+    "time": "8:00 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "HAMILTON",
+    "date": "Sep 11",
+    "time": "12:30 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "HAMILTON",
+    "date": "Sep 11",
+    "time": "4:20 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "HAMILTON",
+    "date": "Sep 11",
+    "time": "8:00 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
+    "date": "Aug 11",
+    "time": "12:30 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
+    "date": "Aug 11",
+    "time": "2:30 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
+    "date": "Aug 11",
+    "time": "5:25 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
+    "date": "Aug 11",
+    "time": "6:30 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
+    "date": "Aug 11",
+    "time": "8:30 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
+    "date": "Aug 12",
     "time": "1:15 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },
   {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 04",
-    "time": "6:45 PM",
+    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
+    "date": "Aug 12",
+    "time": "2:35 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },
   {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 04",
+    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
+    "date": "Aug 12",
+    "time": "4:10 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
+    "date": "Aug 12",
+    "time": "7:30 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
+    "date": "Aug 13",
+    "time": "1:00 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
+    "date": "Aug 13",
+    "time": "5:00 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
+    "date": "Aug 13",
+    "time": "7:45 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
+    "date": "Aug 14",
+    "time": "1:15 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
+    "date": "Aug 14",
+    "time": "4:15 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
+    "date": "Aug 14",
+    "time": "7:15 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "IT\u2019S NEVER OVER, JEFF BUCKLEY + BONUS CONTENT",
+    "date": "Aug 14",
     "time": "9:30 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },
   {
     "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 05",
-    "time": "12:45 PM",
+    "date": "Aug 11",
+    "time": "12:00 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },
   {
     "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 05",
-    "time": "1:30 PM",
+    "date": "Aug 11",
+    "time": "5:35 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },
   {
     "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 05",
-    "time": "4:15 PM",
+    "date": "Aug 11",
+    "time": "8:15 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },
   {
     "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 05",
-    "time": "7:25 PM",
+    "date": "Aug 11",
+    "time": "2:45 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },
   {
     "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 05",
-    "time": "10:00 PM",
+    "date": "Aug 12",
+    "time": "1:45 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },
   {
     "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 06",
-    "time": "12:30 PM",
+    "date": "Aug 12",
+    "time": "7:15 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },
   {
     "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 06",
-    "time": "1:35 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 06",
-    "time": "4:15 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 06",
-    "time": "6:15 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 06",
-    "time": "9:35 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 07",
-    "time": "11:10 AM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 07",
-    "time": "1:35 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 07",
-    "time": "3:30 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 07",
+    "date": "Aug 12",
     "time": "4:30 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },
   {
     "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 07",
-    "time": "7:15 PM",
+    "date": "Aug 13",
+    "time": "12:20 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },
   {
     "title": "THE FANTASTIC FOUR: FIRST STEPS",
-    "date": "Aug 07",
-    "time": "9:50 PM",
+    "date": "Aug 13",
+    "time": "2:15 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },
   {
-    "title": "SUPERMAN",
-    "date": "Aug 03",
-    "time": "6:30 PM",
+    "title": "THE FANTASTIC FOUR: FIRST STEPS",
+    "date": "Aug 13",
+    "time": "5:00 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },
   {
-    "title": "SUPERMAN",
-    "date": "Aug 03",
-    "time": "9:20 PM",
+    "title": "THE FANTASTIC FOUR: FIRST STEPS",
+    "date": "Aug 14",
+    "time": "11:50 AM",
     "status": "available",
     "theaterID": "angelika popup"
   },
   {
-    "title": "SUPERMAN",
-    "date": "Aug 04",
-    "time": "1:00 PM",
+    "title": "THE FANTASTIC FOUR: FIRST STEPS",
+    "date": "Aug 14",
+    "time": "2:30 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },
   {
-    "title": "SUPERMAN",
-    "date": "Aug 04",
+    "title": "THE FANTASTIC FOUR: FIRST STEPS",
+    "date": "Aug 14",
     "time": "4:15 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },
   {
-    "title": "SUPERMAN",
-    "date": "Aug 04",
-    "time": "7:30 PM",
+    "title": "THE FANTASTIC FOUR: FIRST STEPS",
+    "date": "Aug 14",
+    "time": "7:00 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },
   {
-    "title": "SUPERMAN",
-    "date": "Aug 04",
-    "time": "9:35 PM",
+    "title": "THE FANTASTIC FOUR: FIRST STEPS",
+    "date": "Aug 14",
+    "time": "9:40 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },
   {
-    "title": "SUPERMAN",
-    "date": "Aug 05",
-    "time": "1:00 PM",
+    "title": "SOUTH PARK: BIGGER, LOUDER & UNCUT",
+    "date": "Aug 11",
+    "time": "12:30 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },
   {
-    "title": "SUPERMAN",
-    "date": "Aug 05",
-    "time": "3:50 PM",
+    "title": "SOUTH PARK: BIGGER, LOUDER & UNCUT",
+    "date": "Aug 11",
+    "time": "4:30 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },
   {
-    "title": "SUPERMAN",
-    "date": "Aug 05",
-    "time": "6:45 PM",
+    "title": "SOUTH PARK: BIGGER, LOUDER & UNCUT",
+    "date": "Aug 12",
+    "time": "5:30 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },
   {
-    "title": "SUPERMAN",
-    "date": "Aug 05",
-    "time": "9:45 PM",
+    "title": "SOUTH PARK: BIGGER, LOUDER & UNCUT",
+    "date": "Aug 13",
+    "time": "12:10 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },
   {
-    "title": "SUPERMAN",
-    "date": "Aug 06",
-    "time": "12:40 PM",
+    "title": "SOUTH PARK: BIGGER, LOUDER & UNCUT",
+    "date": "Aug 13",
+    "time": "3:00 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },
   {
-    "title": "SUPERMAN",
-    "date": "Aug 06",
-    "time": "3:30 PM",
+    "title": "SOUTH PARK: BIGGER, LOUDER & UNCUT",
+    "date": "Aug 14",
+    "time": "2:00 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },
   {
-    "title": "SUPERMAN",
-    "date": "Aug 06",
-    "time": "8:40 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "SUPERMAN",
-    "date": "Aug 06",
-    "time": "9:50 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "SUPERMAN",
-    "date": "Aug 07",
-    "time": "12:00 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "SUPERMAN",
-    "date": "Aug 07",
-    "time": "1:45 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "SUPERMAN",
-    "date": "Aug 07",
-    "time": "7:30 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "SUPERMAN",
-    "date": "Aug 07",
-    "time": "9:35 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "SUPERMAN",
-    "date": "Aug 07",
-    "time": "4:20 PM",
+    "title": "SOUTH PARK: BIGGER, LOUDER & UNCUT",
+    "date": "Aug 14",
+    "time": "10:00 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },
@@ -4369,7 +4467,7 @@
   },
   {
     "title": "HARRY POTTER AND THE DEATHLY HALLOWS: PART 1",
-    "date": "Aug 15",
+    "date": "Aug 16",
     "time": "10:00 AM",
     "status": "available",
     "theaterID": "angelika popup"
@@ -4385,20 +4483,6 @@
     "title": "HARRY POTTER AND THE DEATHLY HALLOWS: PART 2",
     "date": "Aug 23",
     "time": "10:00 AM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "KIKI'S DELIVERY SERVICE",
-    "date": "Aug 06",
-    "time": "7:00 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "KIKI'S DELIVERY SERVICE",
-    "date": "Aug 07",
-    "time": "11:00 AM",
     "status": "available",
     "theaterID": "angelika popup"
   },
@@ -4431,20 +4515,6 @@
     "theaterID": "angelika popup"
   },
   {
-    "title": "HARRY POTTER AND THE HALF-BLOOD PRINCE",
-    "date": "Aug 05",
-    "time": "7:00 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "HARRY POTTER AND THE HALF-BLOOD PRINCE",
-    "date": "Aug 09",
-    "time": "10:00 AM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
     "title": "METROPOLIS",
     "date": "Oct 20",
     "time": "4:00 PM",
@@ -4468,20 +4538,6 @@
   {
     "title": "THE SHINING",
     "date": "Sep 01",
-    "time": "7:00 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "DAZED AND CONFUSED",
-    "date": "Aug 04",
-    "time": "4:00 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
-    "title": "DAZED AND CONFUSED",
-    "date": "Aug 04",
     "time": "7:00 PM",
     "status": "available",
     "theaterID": "angelika popup"
@@ -4571,6 +4627,34 @@
     "theaterID": "angelika popup"
   },
   {
+    "title": "ON THE WATERFRONT",
+    "date": "Sep 15",
+    "time": "4:00 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "ON THE WATERFRONT",
+    "date": "Sep 15",
+    "time": "7:00 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "DR. STRANGELOVE OR: HOW I LEARNED TO STOP WORRYING AND LOVE THE BOMB",
+    "date": "Nov 17",
+    "time": "4:00 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "DR. STRANGELOVE OR: HOW I LEARNED TO STOP WORRYING AND LOVE THE BOMB",
+    "date": "Nov 17",
+    "time": "7:00 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
     "title": "PURPLE RAIN",
     "date": "Dec 01",
     "time": "4:00 PM",
@@ -4594,6 +4678,20 @@
   {
     "title": "ROMAN HOLIDAY",
     "date": "Aug 18",
+    "time": "7:00 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "SOME LIKE IT HOT",
+    "date": "Dec 15",
+    "time": "4:00 PM",
+    "status": "available",
+    "theaterID": "angelika popup"
+  },
+  {
+    "title": "SOME LIKE IT HOT",
+    "date": "Dec 15",
     "time": "7:00 PM",
     "status": "available",
     "theaterID": "angelika popup"
@@ -4690,13 +4788,6 @@
     "theaterID": "angelika popup"
   },
   {
-    "title": "DOCTOR ZHIVAGO",
-    "date": "Aug 10",
-    "time": "2:00 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
     "title": "SEVEN SAMURAI",
     "date": "Sep 14",
     "time": "2:00 PM",
@@ -4732,13 +4823,6 @@
     "theaterID": "angelika popup"
   },
   {
-    "title": "TIN\u0100",
-    "date": "Aug 06",
-    "time": "7:00 PM",
-    "status": "available",
-    "theaterID": "angelika popup"
-  },
-  {
     "title": "PAN'S LABYRINTH",
     "date": "Oct 14",
     "time": "7:00 PM",
@@ -4762,7 +4846,7 @@
   {
     "title": "THE TERMINATOR",
     "date": "Sep 03",
-    "time": "7:00 PM",
+    "time": "7:15 PM",
     "status": "available",
     "theaterID": "angelika popup"
   },

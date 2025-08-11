@@ -183,13 +183,6 @@
   },
   {
     "title": "THIEVES LIKE US",
-    "date": "Aug 09",
-    "time": "3:30 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "THIEVES LIKE US",
     "date": "Aug 11",
     "time": "9:10 PM",
     "status": "available",
@@ -227,13 +220,6 @@
     "title": "TERROR OF MECHAGODZILLA",
     "date": "Aug 21",
     "time": "9:30 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "THE TEN COMMANDMENTS (1956)",
-    "date": "Aug 09",
-    "time": "11:00 AM",
     "status": "available",
     "theaterID": "afisilver"
   },
@@ -533,13 +519,6 @@
   },
   {
     "title": "THE ORGANIZER (1963)",
-    "date": "Aug 09",
-    "time": "3:50 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "THE ORGANIZER (1963)",
     "date": "Aug 11",
     "time": "6:30 PM",
     "status": "available",
@@ -631,22 +610,8 @@
   },
   {
     "title": "NORTH BY NORTHWEST",
-    "date": "Aug 10",
-    "time": "3:45 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "NORTH BY NORTHWEST",
     "date": "Aug 12",
     "time": "3:45 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "NO WAY OUT (1987)",
-    "date": "Aug 10",
-    "time": "6:30 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
@@ -778,20 +743,6 @@
   },
   {
     "title": "THE MAN WHO KNEW TOO MUCH (1956)",
-    "date": "Aug 09",
-    "time": "1:20 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "THE MAN WHO KNEW TOO MUCH (1956)",
-    "date": "Aug 10",
-    "time": "1:15 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "THE MAN WHO KNEW TOO MUCH (1956)",
     "date": "Aug 12",
     "time": "1:15 PM",
     "status": "available",
@@ -801,13 +752,6 @@
     "title": "THE MAN WHO KNEW TOO MUCH (1956)",
     "date": "Aug 13",
     "time": "1:45 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "THE LONG GOODBYE",
-    "date": "Aug 10",
-    "time": "1:30 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
@@ -899,20 +843,6 @@
     "title": "JAWS: 50th Anniversary",
     "date": "Sep 04",
     "time": "6:45 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "IT'S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 09",
-    "time": "5:45 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "IT'S NEVER OVER, JEFF BUCKLEY",
-    "date": "Aug 10",
-    "time": "6:15 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
@@ -1051,13 +981,6 @@
   },
   {
     "title": "HEARTS OF DARKNESS: A FILMMAKER'S APOCALYPSE",
-    "date": "Aug 10",
-    "time": "4:00 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "HEARTS OF DARKNESS: A FILMMAKER'S APOCALYPSE",
     "date": "Aug 11",
     "time": "11:45 AM",
     "status": "available",
@@ -1067,13 +990,6 @@
     "title": "HEARTS OF DARKNESS: A FILMMAKER'S APOCALYPSE",
     "date": "Aug 13",
     "time": "11:45 AM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "HAPPINESS",
-    "date": "Aug 10",
-    "time": "9:00 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
@@ -1158,20 +1074,6 @@
     "title": "GOSFORD PARK",
     "date": "Sep 16",
     "time": "3:45 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "GODZILLA VS. MEGALON",
-    "date": "Aug 09",
-    "time": "11:30 AM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "GODZILLA VS. MEGALON",
-    "date": "Aug 10",
-    "time": "11:30 AM",
     "status": "available",
     "theaterID": "afisilver"
   },
@@ -1352,20 +1254,6 @@
   },
   {
     "title": "FOLKTALES",
-    "date": "Aug 09",
-    "time": "1:45 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "FOLKTALES",
-    "date": "Aug 10",
-    "time": "3:30 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "FOLKTALES",
     "date": "Aug 11",
     "time": "1:50 PM",
     "status": "available",
@@ -1457,20 +1345,6 @@
   },
   {
     "title": "CLOUD (2024)",
-    "date": "Aug 09",
-    "time": "6:35 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "CLOUD (2024)",
-    "date": "Aug 10",
-    "time": "5:45 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "CLOUD (2024)",
     "date": "Aug 11",
     "time": "4:05 PM",
     "status": "available",
@@ -1515,20 +1389,6 @@
     "title": "CITY OF WOMEN",
     "date": "Sep 11",
     "time": "1:00 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "CatVideoFest 2025",
-    "date": "Aug 09",
-    "time": "12:00 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "CatVideoFest 2025",
-    "date": "Aug 10",
-    "time": "1:45 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
@@ -1639,13 +1499,6 @@
   },
   {
     "title": "BLOOD SIMPLE",
-    "date": "Aug 09",
-    "time": "6:00 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "BLOOD SIMPLE",
     "date": "Aug 12",
     "time": "9:15 PM",
     "status": "available",
@@ -1704,13 +1557,6 @@
     "title": "BARTON FINK",
     "date": "Sep 17",
     "time": "6:45 PM",
-    "status": "available",
-    "theaterID": "afisilver"
-  },
-  {
-    "title": "APOCALYPSE NOW: THE FINAL CUT",
-    "date": "Aug 09",
-    "time": "8:15 PM",
     "status": "available",
     "theaterID": "afisilver"
   },
