@@ -132,6 +132,10 @@ async function fetchAllPosters() {
     }
     
     console.log(`🎉 Poster fetch complete! Processed ${processed} movies`);
+    console.log('✅ Exiting poster fetch process...');
+    
+    // Force exit to ensure build continues
+    process.exit(0);
     
   } catch (error) {
     console.error('❌ Fatal error in fetchAllPosters:', error.message);
