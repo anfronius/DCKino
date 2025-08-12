@@ -1,10 +1,8 @@
 [
-{"title": "DESERT HEARTS", "date": "Tue,  Aug 12", "time": "7:00 pm", "status": "sold out", "theaterID": "suns"},
-{"title": "BROKEBACK MOUNTAIN", "date": "Tue,  Aug 12", "time": "9:20 pm", "status": "sold out", "theaterID": "suns"},
 {"title": "A SEPARATION", "date": "Wed,  Aug 13", "time": "7:00 pm", "status": "sold out", "theaterID": "suns"},
 {"title": "A SEPARATION", "date": "Wed,  Aug 13", "time": "9:45 pm", "status": "available", "theaterID": "suns"},
 {"title": "SHALL WE DANCE?", "date": "Thu,  Aug 14", "time": "7:00 pm", "status": "sold out", "theaterID": "suns"},
-{"title": "SHALL WE DANCE?", "date": "Thu,  Aug 14", "time": "10:00 pm", "status": "available", "theaterID": "suns"},
+{"title": "SHALL WE DANCE?", "date": "Thu,  Aug 14", "time": "10:00 pm", "status": "sold out", "theaterID": "suns"},
 {"title": "PICNIC AT HANGING ROCK: 50TH ANNIVERSARY", "date": "Fri,  Aug 15", "time": "6:00 pm", "status": "sold out", "theaterID": "suns"},
 {"title": "WOMAN IN THE DUNES", "date": "Fri,  Aug 15", "time": "8:45 pm", "status": "sold out", "theaterID": "suns"},
 {"title": "WOMAN IN THE DUNES", "date": "Fri,  Aug 15", "time": "9:10 pm", "status": "available", "theaterID": "suns"},
@@ -24,6 +22,6 @@
 {"title": "THE SEALED SOIL", "date": "Wed,  Aug 27", "time": "9:15 pm", "status": "available", "theaterID": "suns"},
 {"title": "DEEP BLUE SEA", "date": "Thu,  Aug 28", "time": "7:00 pm", "status": "available", "theaterID": "suns"},
 {"title": "CRUEL JAWS", "date": "Thu,  Aug 28", "time": "9:35 pm", "status": "available", "theaterID": "suns"},
-{"title": "MERMAIDS", "date": "Fri,  Aug 29", "time": "6:00 pm", "status": "available", "theaterID": "suns"},
+{"title": "MERMAIDS", "date": "Fri,  Aug 29", "time": "6:00 pm", "status": "sold out", "theaterID": "suns"},
 {"title": "THE LURE", "date": "Fri,  Aug 29", "time": "8:45 pm", "status": "available", "theaterID": "suns"}
 ]

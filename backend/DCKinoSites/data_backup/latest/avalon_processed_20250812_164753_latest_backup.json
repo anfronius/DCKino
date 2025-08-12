@@ -21,6 +21,13 @@
     "theaterID": "avalon"
   },
   {
+    "title": "The Last Class",
+    "date": "Aug 27",
+    "time": "8:00 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
     "title": "Before Sunrise",
     "date": "Aug 24",
     "time": "10:30 AM",
@@ -605,6 +612,202 @@
     "title": "My Summer of Love",
     "date": "Aug 17",
     "time": "10:30 AM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Souleymane\u2019s Story",
+    "date": "Aug 15",
+    "time": "12:45 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Souleymane\u2019s Story",
+    "date": "Aug 15",
+    "time": "3:00 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Souleymane\u2019s Story",
+    "date": "Aug 15",
+    "time": "5:15 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Souleymane\u2019s Story",
+    "date": "Aug 15",
+    "time": "7:30 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Souleymane\u2019s Story",
+    "date": "Aug 16",
+    "time": "12:45 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Souleymane\u2019s Story",
+    "date": "Aug 16",
+    "time": "3:00 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Souleymane\u2019s Story",
+    "date": "Aug 16",
+    "time": "5:15 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Souleymane\u2019s Story",
+    "date": "Aug 16",
+    "time": "7:30 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Souleymane\u2019s Story",
+    "date": "Aug 17",
+    "time": "12:45 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Souleymane\u2019s Story",
+    "date": "Aug 17",
+    "time": "3:00 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Souleymane\u2019s Story",
+    "date": "Aug 17",
+    "time": "5:15 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Souleymane\u2019s Story",
+    "date": "Aug 17",
+    "time": "7:30 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Souleymane\u2019s Story",
+    "date": "Aug 18",
+    "time": "12:45 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Souleymane\u2019s Story",
+    "date": "Aug 18",
+    "time": "3:00 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Souleymane\u2019s Story",
+    "date": "Aug 18",
+    "time": "5:15 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Souleymane\u2019s Story",
+    "date": "Aug 18",
+    "time": "7:30 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Souleymane\u2019s Story",
+    "date": "Aug 19",
+    "time": "12:45 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Souleymane\u2019s Story",
+    "date": "Aug 19",
+    "time": "3:00 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Souleymane\u2019s Story",
+    "date": "Aug 19",
+    "time": "5:15 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Souleymane\u2019s Story",
+    "date": "Aug 19",
+    "time": "7:30 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Souleymane\u2019s Story",
+    "date": "Aug 20",
+    "time": "12:45 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Souleymane\u2019s Story",
+    "date": "Aug 20",
+    "time": "3:00 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Souleymane\u2019s Story",
+    "date": "Aug 20",
+    "time": "5:15 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Souleymane\u2019s Story",
+    "date": "Aug 20",
+    "time": "7:30 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Souleymane\u2019s Story",
+    "date": "Aug 21",
+    "time": "12:45 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Souleymane\u2019s Story",
+    "date": "Aug 21",
+    "time": "3:00 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Souleymane\u2019s Story",
+    "date": "Aug 21",
+    "time": "5:15 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Souleymane\u2019s Story",
+    "date": "Aug 21",
+    "time": "7:30 PM",
     "status": "available",
     "theaterID": "avalon"
   },
@@ -1198,8 +1401,197 @@
   },
   {
     "title": "Bad Shabbos",
+    "date": "Aug 15",
+    "time": "12:15 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Bad Shabbos",
+    "date": "Aug 15",
+    "time": "2:30 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Bad Shabbos",
+    "date": "Aug 15",
+    "time": "4:45 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Bad Shabbos",
+    "date": "Aug 15",
+    "time": "7:00 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Bad Shabbos",
+    "date": "Aug 16",
+    "time": "12:15 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Bad Shabbos",
+    "date": "Aug 16",
+    "time": "2:30 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Bad Shabbos",
+    "date": "Aug 16",
+    "time": "4:45 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Bad Shabbos",
+    "date": "Aug 16",
+    "time": "7:00 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Bad Shabbos",
+    "date": "Aug 17",
+    "time": "12:15 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Bad Shabbos",
+    "date": "Aug 17",
+    "time": "2:30 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Bad Shabbos",
+    "date": "Aug 17",
+    "time": "4:45 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Bad Shabbos",
+    "date": "Aug 17",
+    "time": "7:00 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Bad Shabbos",
+    "date": "Aug 18",
+    "time": "12:15 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Bad Shabbos",
+    "date": "Aug 18",
+    "time": "2:30 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Bad Shabbos",
+    "date": "Aug 18",
+    "time": "4:45 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Bad Shabbos",
+    "date": "Aug 18",
+    "time": "7:00 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Bad Shabbos",
+    "date": "Aug 19",
+    "time": "12:15 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Bad Shabbos",
+    "date": "Aug 19",
+    "time": "2:30 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Bad Shabbos",
+    "date": "Aug 19",
+    "time": "4:45 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Bad Shabbos",
+    "date": "Aug 19",
+    "time": "7:00 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Bad Shabbos",
+    "date": "Aug 20",
+    "time": "12:15 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Bad Shabbos",
+    "date": "Aug 20",
+    "time": "2:30 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Bad Shabbos",
+    "date": "Aug 20",
+    "time": "4:45 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Bad Shabbos",
     "date": "Aug 21",
     "time": "10:30 AM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Bad Shabbos",
+    "date": "Aug 21",
+    "time": "12:15 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Bad Shabbos",
+    "date": "Aug 21",
+    "time": "2:30 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Bad Shabbos",
+    "date": "Aug 21",
+    "time": "4:45 PM",
+    "status": "available",
+    "theaterID": "avalon"
+  },
+  {
+    "title": "Bad Shabbos",
+    "date": "Aug 21",
+    "time": "7:00 PM",
     "status": "available",
     "theaterID": "avalon"
   },

@@ -1,19 +1,5 @@
 [
   {
-    "title": "DESERT HEARTS",
-    "date": "Aug 12",
-    "time": "7:00 PM",
-    "status": "sold out",
-    "theaterID": "suns"
-  },
-  {
-    "title": "BROKEBACK MOUNTAIN",
-    "date": "Aug 12",
-    "time": "9:20 PM",
-    "status": "sold out",
-    "theaterID": "suns"
-  },
-  {
     "title": "A SEPARATION",
     "date": "Aug 13",
     "time": "7:00 PM",
@@ -38,7 +24,7 @@
     "title": "SHALL WE DANCE?",
     "date": "Aug 14",
     "time": "10:00 PM",
-    "status": "available",
+    "status": "sold out",
     "theaterID": "suns"
   },
   {
@@ -178,7 +164,7 @@
     "title": "MERMAIDS",
     "date": "Aug 29",
     "time": "6:00 PM",
-    "status": "available",
+    "status": "sold out",
     "theaterID": "suns"
   },
   {

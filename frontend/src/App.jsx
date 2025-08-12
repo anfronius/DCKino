@@ -1,4 +1,3 @@
-import BLACKLIST_PHRASES from './utils/blacklistPosterPhrases.js';
 import React, { useEffect, useState, useCallback } from "react";
 import DatePicker from "react-datepicker";
 import "react-datepicker/dist/react-datepicker.css";
@@ -6,6 +5,7 @@ import "./index.css";
 import movies from './data/movies.json';
 import theaters from './data/theaters.json';
 import { getPosterUrl } from './utils/tmdb';
+import { normalizeTitle, createPosterFilename } from './utils/titleNormalizer.js';
 import POSTER_OVERRIDES from './utils/posterOverrides.json';
 
 function normalizeDate(dateStr) {
@@ -25,17 +25,11 @@ function displayDate(dateStr) {
   return dateStr;
 }
 
-function normalizeTitle(title) {
-  let cleanedTitle = title;
-  for (const phrase of BLACKLIST_PHRASES) {
-    const regex = new RegExp(phrase, 'gi');
-    cleanedTitle = cleanedTitle.replace(regex, '').trim();
-  }
-  return cleanedTitle.toLowerCase().replace(/[^\w\s]/g, '').replace(/\s+/g, ' ').trim();
-}
 
 const groupedByDateAndTitle = movies.reduce((acc, movie) => {
-  const normTitle = normalizeTitle(movie.title);
+  const match = movie.title.match(/^(.*?)(?:\s*\((\d{4})\))?$/);
+  const titleWithoutYear = match?.[1]?.trim() ?? movie.title;
+  const normTitle = normalizeTitle(titleWithoutYear);
   const normDate = normalizeDate(movie.date);
   if (!acc[normDate]) acc[normDate] = {};
   if (!acc[normDate][normTitle]) acc[normDate][normTitle] = [];
@@ -92,7 +86,9 @@ export default function App() {
       const results = {};
       const seen = new Set();
       for (const movie of movies) {
-        const normTitle = normalizeTitle(movie.title);
+        const match = movie.title.match(/^(.*?)(?:\s*\((\d{4})\))?$/);
+        const titleWithoutYear = match?.[1]?.trim() ?? movie.title;
+        const normTitle = normalizeTitle(titleWithoutYear);
         const key = `${normTitle}|${movie.theaterID}`;
         if (!seen.has(key)) {
           seen.add(key);
@@ -105,15 +101,17 @@ export default function App() {
     if (process.env.NODE_ENV !== 'production') {
       loadPosters();
     } else {
+      // Use static paths in production
       const staticPosters = {};
       for (const movie of movies) {
-        const normTitle = normalizeTitle(movie.title);
+        const match = movie.title.match(/^(.*?)(?:\s*\((\d{4})\))?$/);
+        const titleWithoutYear = match?.[1]?.trim() ?? movie.title;
+        const normTitle = normalizeTitle(titleWithoutYear);
         const override = POSTER_OVERRIDES.find(o => normalizeTitle(o.title) === normTitle);
-        if (override?.file) {
-          staticPosters[normTitle] = `/fixed_posters/${override.file}`;
-        } else {
-          staticPosters[normTitle] = `/posters/${normTitle.replace(/\s+/g, '_')}.webp`;
-        }
+        const baseUrl = override?.file
+          ? `/fixed_posters/${override.file}`
+          : `/posters/${createPosterFilename(normTitle)}`;
+        staticPosters[normTitle] = baseUrl;
       }
       setPosters(staticPosters);
     }
@@ -122,7 +120,9 @@ export default function App() {
   const uniqueMovieKeys = new Set(movies.map(m => `${normalizeTitle(m.title)}|${m.theaterID}`));
   const uniqueMovies = Array.from(
     movies.reduce((acc, m) => {
-      const norm = normalizeTitle(m.title);
+      const match = m.title.match(/^(.*?)(?:\s*\((\d{4})\))?$/);
+      const titleWithoutYear = match?.[1]?.trim() ?? m.title;
+      const norm = normalizeTitle(titleWithoutYear);
       if (!acc.has(norm)) acc.set(norm, m.title);
       return acc;
     }, new Map()).values()
@@ -225,8 +225,10 @@ export default function App() {
                           .map((movie, idx, arr) => {
                             const theater = theaterMap[movie.theaterID];
                             const bgClass = theater?.colorClass || 'bg-zinc-800';
-                            const normTitle = normalizeTitle(movie.title);
-                            const posterUrl = posters[normTitle] || `/posters/${normTitle.replace(/\s+/g, '_')}.webp`;
+                            const match = movie.title.match(/^(.*?)(?:\s*\((\d{4})\))?$/);
+                            const titleWithoutYear = match?.[1]?.trim() ?? movie.title;
+                            const normTitle = normalizeTitle(titleWithoutYear);
+                            const posterUrl = posters[normTitle] || `/posters/${createPosterFilename(normTitle)}`;
                             return (
                               <div
                                 key={movie.theaterID}
@@ -278,8 +280,10 @@ export default function App() {
                 if (stack) {
                   const currentMovie = stack[idx];
                   const bgClass = theaterMap[currentMovie.theaterID]?.colorClass || 'bg-zinc-800';
-                  const normTitle = normalizeTitle(currentMovie.title);
-                  const posterUrl = posters[normTitle] || `/posters/${normTitle.replace(/\s+/g, '_')}.webp`;
+                  const match = currentMovie.title.match(/^(.*?)(?:\s*\((\d{4})\))?$/);
+                  const titleWithoutYear = match?.[1]?.trim() ?? currentMovie.title;
+                  const normTitle = normalizeTitle(titleWithoutYear);
+                  const posterUrl = posters[normTitle] || `/posters/${createPosterFilename(normTitle)}`;
                   return (
                     <>
                       <div className="absolute inset-0 bg-zinc-900 rounded-2xl" style={{ zIndex: 0 }} />

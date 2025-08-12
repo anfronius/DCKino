@@ -46,7 +46,7 @@ async def get_poster(title: str, year: str = None):
     # Normalize title for search: remove #, :, standardize case and spacing
     normalized_title = title.lower().replace('#', '').replace(':', '').replace('.', ' ').strip()
     # Normalize filename: remove ? and other special chars for compatibility
-    safe_title = normalized_title.replace('?', '').replace(' ', '_')
+    safe_title = normalized_title.replace('?', '').replace("'", '').replace("'", '').replace(',', '').replace('!', '').replace('&', 'and').replace(' ', '_')
     webp_path = os.path.join(POSTER_DIR, f"{safe_title}.webp")
     webp_url = f"/posters/{safe_title}.webp"
 
