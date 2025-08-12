@@ -14,10 +14,15 @@ logger = logging.getLogger(__name__)
 
 app = FastAPI()
 
-# Enable CORS for local development
+# Enable CORS for local development and production
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173"],
+    allow_origins=[
+        "http://localhost:5173",  # Local dev
+        "http://localhost:4173",  # Local preview
+        "https://*.onrender.com",  # All Render sites
+        "*"  # Remove this later and add your specific domain
+    ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
