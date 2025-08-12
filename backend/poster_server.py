@@ -41,6 +41,14 @@ except Exception as e:
 # Mount static files
 app.mount("/posters", StaticFiles(directory=POSTER_DIR, check_dir=False), name="posters")
 
+@app.get("/")
+async def root():
+    return {"message": "Poster Server is running", "status": "healthy"}
+
+@app.get("/health")
+async def health_check():
+    return {"status": "healthy", "poster_dir": POSTER_DIR}
+
 @app.get("/poster/{title}")
 async def get_poster(title: str, year: str = None):
     # Normalize title for search: remove #, :, standardize case and spacing
