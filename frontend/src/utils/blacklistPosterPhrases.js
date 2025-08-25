@@ -32,6 +32,8 @@ const BLACKLIST_PHRASES = [
   '(TAMIL)',
   '\\(TAMIL\\)',
   'Early Access',
+  'IMAX Presents',
+  ': 30th Anniversary',
   // Add any more phrases you want to ignore here
 ];
 

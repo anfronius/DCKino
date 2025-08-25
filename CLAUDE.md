@@ -6,14 +6,12 @@
 - **MAINTAIN PORTABILITY**: Ensure OS and system compatibility 
 - **EXPLAIN ALL CHANGES**: Thoroughly document any code modifications with reasoning
 - **GET APPROVAL FIRST**: Ask permission before major architectural changes
-- **FOLLOW EXISTING PATTERNS**: Maintain current coding styles and conventions
-- **BE EXPERIMENTAL BUT SAFE**: Use complex solutions but always ask first
+- **FOLLOW EFFICIENT PATTERNS**: Maintain best practice coding styles and conventions
+- **BE EXPERIMENTAL BUT SAFE**: Use complex solutions but always ask first (and understand risks with certain implementation styles)
 
-## Main Pipeline (./run_dckino)
+## Main Current Pipeline (./run_dckino)
 
 Clean Leftover JSON Data → Activate Virtual Env for Python → Scrapy Spiders → Raw JSON Data → Python-based Processing → Sorted/Formatted JSON Data → Python-Based Backup Creation and Managment → Python-based Combination of Data → Deactivate Virtual Env → NPM Options
-
-Due to the windowed nature of the Ubuntu CLI in WSL, the Uvicorn/Python-based poster server must be run in a separate terminal window than the NPM dev/build server and (to my knowledge) can't be automated along with NPM without additianal GUI apps
 
 ## Architecture Overview
 
@@ -24,7 +22,7 @@ Due to the windowed nature of the Ubuntu CLI in WSL, the Uvicorn/Python-based po
 
 ## Standard Data Format
 
-All scraped data MUST follow this exact format:
+All scraped data is currently following this exact format:
 {"title": "", "date": "", "time": "", "status": "", "theaterID": ""}
 
 The data processing unifies the formats of date, time, and theaterID into:
@@ -73,7 +71,6 @@ The data processing unifies the formats of date, time, and theaterID into:
 ## Development Standards
 
 **Python**:
-- Follow existing spider patterns in `spiders/` directory unless more efficient method is found
 - Use type hints where appropriate
 - Maintain error handling for network requests
 - Keep data processing modular in `utils/`
@@ -106,10 +103,11 @@ The data processing unifies the formats of date, time, and theaterID into:
 - **Poster optimization**: WebP conversion, fallback handling, TMDb integration, ephemeral / persistence
 - **Performance**: Efficient data structures, minimize API calls
 - **Deployment prep**: Environment configuration, dependency management
+- **Containerization**: Moving functions to Docker containers
+- **Database management**: Moving plain JSONs to a unified SQLite (or other) database
 
 ## File Naming Conventions
-- Raw data: `{theater}_raw_{date}_{time}.json`
-- Processed data: `{theater}_processed_{date}_{time}.json`
+- Data: `{theater}_{raw/processed}_{date}_{time}.json`
 - Backups: `{theater}_{type}_{date}_{time}_{backup type}_backup.json`
 
 ## Important Notes
@@ -119,9 +117,8 @@ The data processing unifies the formats of date, time, and theaterID into:
 - Mobile-first responsive design approach
 
 ## Future Goals
-- Converting backend JSONs into better data management system, like sqlite with JSON compatibility
+- Converting backend JSONs into better data management system, like SQLite with JSON compatibility
 - Adding more specific filter and sorting options to the timeline on frontend site
-- Convert entire project into a docker container
-- Move backend entirely to render or some other cloud based host
-- Try to run everything locally and connect to greater internet from local network (cannot do until later when friend get back)
+- Convert entire project into a Docker container
+- Move backend entirely to Render or some other cloud based host right now, but eventually try to run everything locally and connect services to Internet
 - Create scrapers for remaining theaters

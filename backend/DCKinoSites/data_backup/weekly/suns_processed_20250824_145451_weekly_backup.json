@@ -1,0 +1,58 @@
+[
+  {
+    "title": "STRANGER BY THE LAKE",
+    "date": "Aug 26",
+    "time": "7:00 PM",
+    "status": "sold out",
+    "theaterID": "suns"
+  },
+  {
+    "title": "BEACH RATS",
+    "date": "Aug 26",
+    "time": "9:30 PM",
+    "status": "sold out",
+    "theaterID": "suns"
+  },
+  {
+    "title": "THE SEALED SOIL",
+    "date": "Aug 27",
+    "time": "7:00 PM",
+    "status": "sold out",
+    "theaterID": "suns"
+  },
+  {
+    "title": "THE SEALED SOIL",
+    "date": "Aug 27",
+    "time": "9:15 PM",
+    "status": "sold out",
+    "theaterID": "suns"
+  },
+  {
+    "title": "DEEP BLUE SEA",
+    "date": "Aug 28",
+    "time": "7:00 PM",
+    "status": "sold out",
+    "theaterID": "suns"
+  },
+  {
+    "title": "CRUEL JAWS",
+    "date": "Aug 28",
+    "time": "9:35 PM",
+    "status": "available",
+    "theaterID": "suns"
+  },
+  {
+    "title": "MERMAIDS",
+    "date": "Aug 29",
+    "time": "6:00 PM",
+    "status": "sold out",
+    "theaterID": "suns"
+  },
+  {
+    "title": "THE LURE",
+    "date": "Aug 29",
+    "time": "8:45 PM",
+    "status": "sold out",
+    "theaterID": "suns"
+  }
+]
