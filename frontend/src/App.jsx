@@ -1,12 +1,14 @@
-import React, { useEffect, useState, useCallback } from "react";
+import { useCallback, useEffect, useState } from "react";
 import DatePicker from "react-datepicker";
 import "react-datepicker/dist/react-datepicker.css";
-import "./index.css";
 import movies from './data/movies.json';
 import theaters from './data/theaters.json';
+import "./index.css";
+import CONFIG from '@shared/title_processing.json';
+import { createPosterFilename, normalizeTitle } from './utils/titleNormalizer.js';
 import { getPosterUrl } from './utils/tmdb';
-import { normalizeTitle, createPosterFilename } from './utils/titleNormalizer.js';
-import POSTER_OVERRIDES from './utils/posterOverrides.json';
+
+const POSTER_OVERRIDES = CONFIG.posterOverrides;
 
 function normalizeDate(dateStr) {
   const match = dateStr.match(/^(\w{3})\s0?(\d{1,2})$/);
@@ -106,11 +108,13 @@ export default function App() {
       for (const movie of movies) {
         const match = movie.title.match(/^(.*?)(?:\s*\((\d{4})\))?$/);
         const titleWithoutYear = match?.[1]?.trim() ?? movie.title;
+        const year = match?.[2];
         const normTitle = normalizeTitle(titleWithoutYear);
         const override = POSTER_OVERRIDES.find(o => normalizeTitle(o.title) === normTitle);
+        const effectiveYear = override?.year || year;
         const baseUrl = override?.file
           ? `/fixed_posters/${override.file}`
-          : `/posters/${createPosterFilename(normTitle)}`;
+          : `/posters/${createPosterFilename(normTitle, effectiveYear)}`;
         staticPosters[normTitle] = baseUrl;
       }
       setPosters(staticPosters);
@@ -176,7 +180,7 @@ export default function App() {
         <div className="hidden sm:flex justify-between items-center px-4 py-4">
           <button className="main-header-button material-icons" onClick={scrollToTop}>cottage</button>
           <h1 className="title-header">
-            🎬 DC Kino Showtimes
+            🎬 DC Kino Showtimes Dev
           </h1>
           <button className="main-header-button material-icons" onClick={() => setShowCalendar(true)}>calendar_month</button>
         </div>
@@ -227,8 +231,14 @@ export default function App() {
                             const bgClass = theater?.colorClass || 'bg-zinc-800';
                             const match = movie.title.match(/^(.*?)(?:\s*\((\d{4})\))?$/);
                             const titleWithoutYear = match?.[1]?.trim() ?? movie.title;
+                            const year = match?.[2];
                             const normTitle = normalizeTitle(titleWithoutYear);
-                            const posterUrl = posters[normTitle] || `/posters/${createPosterFilename(normTitle)}`;
+                            // Check for override first to avoid 404 errors in console
+                            const override = POSTER_OVERRIDES.find(o => normalizeTitle(o.title) === normTitle);
+                            const effectiveYear = override?.year || year;
+                            const posterUrl = override?.file
+                              ? `/fixed_posters/${override.file}`
+                              : (posters[normTitle] || `/posters/${createPosterFilename(normTitle, effectiveYear)}`);
                             return (
                               <div
                                 key={movie.theaterID}
@@ -282,8 +292,14 @@ export default function App() {
                   const bgClass = theaterMap[currentMovie.theaterID]?.colorClass || 'bg-zinc-800';
                   const match = currentMovie.title.match(/^(.*?)(?:\s*\((\d{4})\))?$/);
                   const titleWithoutYear = match?.[1]?.trim() ?? currentMovie.title;
+                  const year = match?.[2];
                   const normTitle = normalizeTitle(titleWithoutYear);
-                  const posterUrl = posters[normTitle] || `/posters/${createPosterFilename(normTitle)}`;
+                  // Check for override first to avoid 404 errors in console
+                  const override = POSTER_OVERRIDES.find(o => normalizeTitle(o.title) === normTitle);
+                  const effectiveYear = override?.year || year;
+                  const posterUrl = override?.file
+                    ? `/fixed_posters/${override.file}`
+                    : (posters[normTitle] || `/posters/${createPosterFilename(normTitle, effectiveYear)}`);
                   return (
                     <>
                       <div className="absolute inset-0 bg-zinc-900 rounded-2xl" style={{ zIndex: 0 }} />

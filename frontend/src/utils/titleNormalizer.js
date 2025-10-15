@@ -1,4 +1,6 @@
-import BLACKLIST_PHRASES from './blacklistPosterPhrases.js';
+import CONFIG from '@shared/title_processing.json';
+
+const BLACKLIST_PHRASES = CONFIG.blacklistPhrases;
 
 /**
  * Normalizes title for TMDb search - matches Python server exactly
@@ -59,9 +61,14 @@ export function normalizeTitle(title) {
 
 /**
  * Creates a poster filename exactly like the Python server
+ * Optionally includes year to handle movies with same title from different years.
  * @param {string} normalizedTitle - Already normalized title
+ * @param {string} year - Optional year to append (e.g., "1953")
  * @returns {string} - Filename with .webp extension
  */
-export function createPosterFilename(normalizedTitle) {
+export function createPosterFilename(normalizedTitle, year = null) {
+  if (year) {
+    return `${normalizedTitle}_(${year}).webp`;
+  }
   return `${normalizedTitle}.webp`;
 }

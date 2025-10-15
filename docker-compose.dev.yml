@@ -1,0 +1,78 @@
+# Development overrides for docker-compose.yml
+services:
+  # Backend Data Processing & API Server - Development Mode
+  backend-dev:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile.dev
+    ports:
+      - "3002:3001"  # Dev backend on different port to avoid conflicts
+      - "5678:5678"  # Debug port for Python debugger
+    user: "1000:1000"  # SECURITY FIX: Run as non-root user
+    environment:
+      - TMDB_API_KEY=${TMDB_API_KEY}
+      - PYTHONPATH=/app
+      - PYTHONUNBUFFERED=1
+      - DEBUG=true
+      - RELOAD=true
+      - LOG_DIR=/app/logs
+    volumes:
+      # Mount source code for live reloading
+      - ./backend:/app:cached
+      # Mount frontend data directory for direct file writes
+      - ./frontend/src/data:/app/frontend_data
+      # Mount frontend public/posters for direct poster writes (static build)
+      - ./frontend/public/posters:/app/posters
+      # Mount logs to local directory for easy access
+      - ./backend/logs:/app/logs
+    command: ["python", "-m", "uvicorn", "backend_server:app", "--host", "0.0.0.0", "--port", "3001", "--reload", "--log-level", "debug"]
+    restart: unless-stopped
+
+  # Frontend - Development Mode
+  frontend-dev:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile.dev
+    ports:
+      - "5173:5173"  # Vite dev server port
+    user: node  # SECURITY FIX: Run as node user (UID 1000)
+    environment:
+      - NODE_ENV=development
+      - VITE_API_URL=http://localhost:3002
+      - CHOKIDAR_USEPOLLING=true
+    volumes:
+      # Mount source code for hot reloading
+      - ./frontend:/app:cached
+      - /app/node_modules
+      - /app/dist
+    command: ["npm", "run", "dev", "--", "--host", "0.0.0.0"]
+    restart: unless-stopped
+    depends_on:
+      - backend-dev  # Remove health check dependency for dev
+
+  # Scraper Service - Development Mode (scraping only)
+  scraper-dev:
+    build:
+      context: ./scraper
+      dockerfile: Dockerfile.dev
+    init: true  # Prevent zombie processes (Playwright recommendation)
+    ipc: host   # Improved Chromium memory management (Playwright recommendation)
+    user: pwuser  # SECURITY FIX: Run as pwuser (UID 1000) for Playwright security
+    security_opt:
+      - seccomp:unconfined  # Required for Chromium sandbox to work properly
+    environment:
+      - PYTHONPATH=/app
+      - PYTHONUNBUFFERED=1
+      - DEBUG=true
+    volumes:
+      # Mount source code for development (data writes to local ./scraper/DCKinoSites/data/)
+      - ./scraper:/app:cached
+    restart: "no"
+    profiles:
+      - scraping
+
+# Networks
+networks:
+  default:
+    name: dckino-dev-network
+    driver: bridge

@@ -1,0 +1,79 @@
+services:
+  # Backend Data Processing & API Server
+  backend:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    ports:
+      - "3001:3001"
+    environment:
+      - TMDB_API_KEY=${TMDB_API_KEY}
+      - PYTHONPATH=/app
+      - PYTHONUNBUFFERED=1
+      - BACKEND_URL=http://backend:3001
+      - POSTER_DIR=/app/posters
+      - LOG_DIR=/app/logs
+    volumes:
+      # Shared data volumes between scraper and backend
+      - dckino-data:/app/data
+      - dckino-backups:/app/data_backup
+      - dckino-logs:/app/logs
+      # Mount frontend data directory for direct file writes
+      - ./frontend/src/data:/app/frontend_data
+      # Mount frontend public/posters for direct poster writes (static build)
+      - ./frontend/public/posters:/app/posters
+    networks:
+      - dckino-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "python", "-c", "import requests; requests.get('http://localhost:3001/health', timeout=5)"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+  # Scraper Service (scraping only)
+  scraper:
+    build:
+      context: ./scraper
+      dockerfile: Dockerfile
+    init: true  # Prevent zombie processes (Playwright recommendation)
+    ipc: host   # Improved Chromium memory management (Playwright recommendation)
+    environment:
+      - PYTHONPATH=/app
+      - PYTHONUNBUFFERED=1
+    volumes:
+      # Shared data volume for writing raw scraped data
+      - dckino-data:/app/data
+    networks:
+      - dckino-network
+    restart: "no"
+
+  # Frontend Web Server (Fully Static - No Backend Dependency)
+  frontend:
+    build:
+      context: .
+      dockerfile: frontend/Dockerfile
+    ports:
+      - "80:80"
+    environment:
+      - NODE_ENV=production
+    # No volumes needed - posters are baked into the image at build time
+    networks:
+      - dckino-network
+    restart: unless-stopped
+    # No backend dependency - frontend is fully static
+
+# Named volumes for data persistence
+volumes:
+  dckino-data:
+    driver: local
+  dckino-backups:
+    driver: local
+  dckino-logs:
+    driver: local
+
+# Internal network for service communication
+networks:
+  dckino-network:
+    driver: bridge

@@ -1,0 +1,184 @@
+{
+  "blacklistPhrases": [
+    " w/ A Rarely Seen Short Film",
+    "Count Gore presents ",
+    " - Director's Cut",
+    "DC Moth StorySLAM:",
+    "SPX Presents: ",
+    "Art House Theater Day: ",
+    " in 35mm",
+    "(sensory friendly)",
+    "35mm Double Feat:",
+    "w/ YOUNG DESIRE",
+    "\\(sensory friendly\\)",
+    "- 40th Anniversary",
+    ": 50TH ANNIVERSARY",
+    "50th ANNIVERSARY",
+    "50th Anniversary",
+    "25TH ANNIVERSARY",
+    "25th ANNIVERSARY",
+    "15th Anniversary Exclusive",
+    " in 70mm",
+    "BONUS CONTENT",
+    "\\+ BONUS CONTENT",
+    "Q&A",
+    "\\+ Q&A",
+    "(RE-RELEASE)",
+    "\\(RE-RELEASE\\)",
+    "Mamoru Hosada's",
+    "Mamoru Hosada's",
+    "A RARELY SEEN SHORT FILM",
+    "LOUDER & UNCUT",
+    "Panel Discussion",
+    "\\+ Panel Discussion",
+    "Panel Discussino",
+    "\\+ Panel Discussino",
+    "(TAMIL)",
+    "\\(TAMIL\\)",
+    "Early Access",
+    "IMAX Presents",
+    ": 30th Anniversary",
+    "(Digital)",
+    "\\(Digital\\)",
+    "(TELUGU)",
+    "\\(TELUGU\\)",
+    "Craig Barron presents",
+    "40th ANNIVERSARY",
+    "(in REMASTERED 3D)",
+    "\\(in REMASTERED 3D\\)",
+    "Count Gore De Vol presents",
+    "in 3D",
+    "3D"
+  ],
+  "blacklistShowings": [
+    "CHINATOWN FUNK EXPRESS V",
+    "Storytime On Screen",
+    "OLA Film Festival",
+    "DC Moth StorySLAM: THEMELESS",
+    "The Elite – Stand Up Comedy",
+    "Elizabeth Booker Houstin, Rola Z, Mahmoud Jaber",
+    "Serbian Film Festival",
+    "East Forest",
+    "Candlelight Jazz: The Best of Frank Sinatra & Nat King Cole",
+    "DC Moth StorySLAM: CHEAT",
+    "Alex Borstein is Thirsty"
+  ],
+  "posterOverrides": [
+    {
+      "title": "Prime Cut",
+      "year": "1972"
+    },
+    {
+      "title": "The Sacrifice",
+      "year": "1986"
+    },
+    {
+      "title": "DIRT",
+      "year": "1900"
+    },
+    {
+      "title": "8½",
+      "year": "1963"
+    },
+    {
+      "title": "Willy Wonka & the Chocolate Factory",
+      "year": "1971"
+    },
+    {
+      "title": "Willy Wonka and the Chocolate Factory",
+      "year": "1971"
+    },
+    {
+      "title": "THE ROOM",
+      "year": "2003"
+    },
+    {
+      "title": "AFTER HOURS",
+      "year": "1985"
+    },
+    {
+      "title": "The Wiz",
+      "year": "1978"
+    },
+    {
+      "title": "Tatami",
+      "year": "2025"
+    },
+    {
+      "title": "Wall-E",
+      "file": "p_walle_19753_69f7ff00.webp"
+    },
+    {
+      "title": "ANGELIKA MEMBERS EXCLUSIVE MYSTERY SCREENING",
+      "file": "angelikamembers.webp"
+    },
+    {
+      "title": "PARASITE",
+      "year": "2019"
+    },
+    {
+      "title": "FAR FROM HEAVEN",
+      "year": "2002"
+    },
+    {
+      "title": "Moonrise Kingdom",
+      "year": "2012"
+    },
+    {
+      "title": "TINĀ",
+      "year": "2025"
+    },
+    {
+      "title": "DARK EYES",
+      "year": "1987"
+    },
+    {
+      "title": "NT LIVE: NEXT TO NORMAL",
+      "file": "12526-oj.webp"
+    },
+    {
+      "title": "NT LIVE MRS WARRENS PROFESSION",
+      "file": "onesheet-full.webp"
+    },
+    {
+      "title": "Spooky Looney Tunes Shorts Program 1",
+      "file": "f-0100005263.webp"
+    },
+    {
+      "title": "Spooky Looney Tunes Shorts Program 2",
+      "file": "f-0100005264.webp"
+    },
+    {
+      "title": "THE PHANTOM OF THE OPERA (1925/1929)",
+      "file": "f-0100003649.webp"
+    },
+    {
+      "title": "The Waiting Game",
+      "file": "the-waiting-game.webp"
+    },
+    {
+      "title": "Pre-Code Cartoons (For Kids, Too!) with Jerry Beck",
+      "file": "f-0100005284.webp"
+    },
+    {
+      "title": "OUTSIDE THE LAW",
+      "year": "1930"
+    },
+    {
+      "title": "Lost and Found Cartoons with Jerry Beck",
+      "file": "f-0100005284.webp"
+    },
+    {
+      "title": "TOP SECRET: CINEMA NOVEMBER 10",
+      "file": "top-secret-cinema.webp"
+    },
+    {
+      "title": "Breaking Plates and Smashing the Patriarchy",
+      "file": "breaking-plates.webp"
+    },
+    {
+      "title": "TOP SECRET: CINEMA OCTOBER 20",
+      "file": "top-secret-cinema.webp"
+    }
+  ]
+}

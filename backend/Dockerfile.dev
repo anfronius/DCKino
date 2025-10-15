@@ -1,0 +1,68 @@
+FROM python:3.12-slim
+
+# Install system dependencies (as root)
+RUN apt-get update && apt-get install -y \
+    gcc \
+    git \
+    curl \
+    && rm -rf /var/lib/apt/lists/*
+
+# Create non-root user for development with home directory
+RUN groupadd -r backend && \
+    useradd -r -g backend -u 1000 -m -d /home/backend backend
+
+# Set working directory
+WORKDIR /app
+
+# Copy requirements first for better caching
+COPY requirements_minimal.txt ./requirements.txt
+
+# Install Python dependencies (as root)
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Install development dependencies
+RUN pip install --no-cache-dir \
+    debugpy==1.8.0 \
+    pytest==7.4.3 \
+    pytest-asyncio==0.21.1 \
+    black==23.12.1 \
+    flake8==6.1.0 \
+    ipython==8.18.1
+
+# Copy application code
+COPY backend_server.py .
+COPY utils/ ./utils/
+COPY .env* ./
+
+# Create directories for data and posters
+RUN mkdir -p /app/data /app/data_backup /app/posters /app/frontend_data
+
+# SECURITY FIX: Change ownership to backend user
+RUN chown -R backend:backend /app
+
+# Create VS Code Server directories with correct ownership
+RUN mkdir -p /home/backend/.vscode-server/extensions \
+    /home/backend/.vscode-server/data/Machine \
+    /home/backend/.vscode-server/bin && \
+    chown -R backend:backend /home/backend/.vscode-server
+
+# Create command history directory for bash history persistence
+# This will be mounted as a volume and linked to .bash_history
+RUN mkdir -p /commandhistory && \
+    touch /commandhistory/.bash_history && \
+    chown -R backend:backend /commandhistory && \
+    ln -s /commandhistory/.bash_history /home/backend/.bash_history
+
+# Set environment variables
+ENV PYTHONPATH=/app
+ENV PYTHONUNBUFFERED=1
+
+# Expose the port and debug port
+EXPOSE 3001
+EXPOSE 5678
+
+# SECURITY FIX: Switch to non-root user
+USER backend
+
+# Run the server with reload enabled for development
+CMD ["python", "-m", "uvicorn", "backend_server:app", "--host", "0.0.0.0", "--port", "3001", "--reload", "--log-level", "debug"]

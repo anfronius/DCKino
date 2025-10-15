@@ -1,0 +1,37 @@
+# Additional overrides for VS Code dev container
+services:
+  backend-dev:
+    # SECURITY FIX: Run as non-root user
+    user: "1000:1000"
+
+    # VS Code specific volumes
+    volumes:
+      # Mount entire project root for VS Code access
+      - .:/app:cached
+      # Mount frontend data directory for direct file writes
+      - ./frontend/src/data:/app/frontend_data
+      # Mount logs directory for poster failure reports
+      - ./backend/logs:/app/logs
+      # VS Code extensions persistence (updated path for backend user)
+      - vscode-server-extensions:/home/backend/.vscode-server/extensions
+      # Bash history persistence - mount to parent directory, not the file
+      - devcontainer-bash-history:/commandhistory
+
+    # Install debugger for VS Code
+    command: >
+      sh -c "
+        pip install --no-cache-dir debugpy &&
+        cd /app/backend &&
+        python -m uvicorn backend_server:app --host 0.0.0.0 --port 3001 --reload --log-level debug
+      "
+
+    # Keep container running for development
+    tty: true
+    stdin_open: true
+
+# VS Code specific volumes
+volumes:
+  vscode-server-extensions:
+    driver: local
+  devcontainer-bash-history:
+    driver: local

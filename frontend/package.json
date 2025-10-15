@@ -5,12 +5,11 @@
   "type": "module",
   "scripts": {
     "fetch-posters": "node src/utils/posterFetch.js",
-    "prebuild": "npm run fetch-posters",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "build-local": "POSTER_SERVER_URL=http://localhost:3001 npm run build"
+    "build-local": "POSTER_SERVER_URL=http://localhost:3002 npm run build"
   },
   "dependencies": {
     "@tailwindcss/line-clamp": "^0.4.4",

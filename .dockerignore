@@ -1,0 +1,77 @@
+# Root .dockerignore for docker-compose builds with root context
+# This excludes large/unnecessary files from being sent to Docker daemon
+
+# ============================================================================
+# Large data directories (can be 100s of MBs)
+# ============================================================================
+backend/data/
+backend/data_backup/
+backend/logs/
+scraper/DCKinoSites/data/
+scraper/DCKinoSites/data_backup/
+
+# ============================================================================
+# Build artifacts and dependencies
+# ============================================================================
+**/node_modules/
+**/dist/
+**/build/
+**/__pycache__/
+**/*.pyc
+**/.pytest_cache/
+
+# ============================================================================
+# Git and version control
+# ============================================================================
+.git/
+.gitignore
+
+# ============================================================================
+# IDE and editor files
+# ============================================================================
+.vscode/
+.devcontainer/
+**/.DS_Store
+
+# ============================================================================
+# Environment and secrets
+# ============================================================================
+.env
+.env.local
+.env.*.local
+**/.env
+**/.env.local
+
+# Don't exclude .env.example (needed for documentation)
+!.env.example
+
+# ============================================================================
+# Documentation and reports (not needed in containers)
+# ============================================================================
+README.md
+CLAUDE.md
+claude_reports/
+
+# ============================================================================
+# Screenshots and temporary files
+# ============================================================================
+screenshots/
+**/tmp/
+**/temp/
+**/*.log
+
+# ============================================================================
+# Docker files themselves (not needed inside containers)
+# ============================================================================
+docker-compose*.yml
+**/.dockerignore
+
+# Don't exclude Dockerfiles (needed for multi-stage builds)
+!**/Dockerfile
+!**/Dockerfile.*
+
+# ============================================================================
+# Generated posters
+# ============================================================================
+# NOTE: frontend/public/posters/ and frontend/public/fixed_posters/ are NOT ignored
+# These pre-fetched/fixed posters are baked into the frontend static image for production builds

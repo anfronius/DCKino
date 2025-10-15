@@ -1,0 +1,102 @@
+{
+  "name": "DCKino Development",
+  "dockerComposeFile": [
+    "../docker-compose.dev.yml",
+    "docker-compose.devcontainer.yml"
+  ],
+  "service": "backend-dev",
+  "workspaceFolder": "/app",
+  "shutdownAction": "stopCompose",
+
+  // Configure tool-specific properties
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "python.defaultInterpreterPath": "/usr/local/bin/python",
+        "python.linting.enabled": false,
+        "python.linting.pylintEnabled": false,
+        "python.linting.flake8Enabled": false,
+        "python.formatting.provider": "black",
+        "python.sortImports.provider": "isort",
+        "files.watcherExclude": {
+          "**/.git/objects/**": true,
+          "**/.git/subtree-cache/**": true,
+          "**/node_modules/**": true,
+          "**/__pycache__/**": true,
+          "**/.pytest_cache/**": true
+        },
+        "files.exclude": {
+          "data/": true,
+          "data_backup/": true,
+          "posters/": true,
+          "backend/data/": true,
+          "backend/data_backup/": true,
+          "backend/posters/": true
+        },
+        "python.terminal.activateEnvironment": false,
+        "terminal.integrated.defaultProfile.linux": "bash"
+      },
+
+      // Extensions to install in the container
+      "extensions": [
+        "ms-python.python",
+        "ms-python.flake8",
+        "ms-python.black-formatter",
+        "ms-python.isort",
+        "ms-python.debugpy",
+        "ms-vscode.vscode-json",
+        "redhat.vscode-yaml",
+        "ms-vscode.docker",
+        "bradlc.vscode-tailwindcss",
+        "esbenp.prettier-vscode",
+        "ms-vscode.vscode-typescript-next",
+        "formulahendry.auto-rename-tag",
+        "christian-kohler.path-intellisense",
+        "ms-vscode.vscode-eslint"
+      ]
+    }
+  },
+
+  // Port forwarding
+  "forwardPorts": [3002, 5173, 5678],
+  "portsAttributes": {
+    "3002": {
+      "label": "Dev Backend API",
+      "onAutoForward": "notify"
+    },
+    "5173": {
+      "label": "Frontend Dev Server", 
+      "onAutoForward": "notify"
+    },
+    "5678": {
+      "label": "Python Debug Port",
+      "onAutoForward": "silent"
+    }
+  },
+
+  // Lifecycle scripts
+  "postCreateCommand": "echo 'DCKino dev container ready!'",
+  "postStartCommand": "echo 'Starting DCKino services...'",
+
+  // SECURITY FIX: Container user - run as non-root backend user
+  "remoteUser": "backend",
+  
+  // Enable init process
+  "init": true,
+  
+  // Mount docker socket for docker commands
+  "mounts": [
+    "source=/var/run/docker.sock,target=/var/run/docker.sock,type=bind"
+  ],
+
+  // Environment variables
+  "containerEnv": {
+    "PYTHONPATH": "/app",
+    "PYTHONUNBUFFERED": "1"
+  },
+
+  // Git credential forwarding
+  "features": {
+    "ghcr.io/devcontainers/features/git:1": {}
+  }
+}
